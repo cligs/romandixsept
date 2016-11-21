@@ -1,0 +1,3234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Quatrième partie – Livre IX</title>
+                <title type="partie">04</title>
+                <title type="livre">09</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="publicdomain">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+		<head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
+		<head type="chapitre">LE NEUFVIESME LIVRE</head>
+		<milestone type="space"/>
+		<p>Le jour se passa de cette sorte avec divers discours entre ces
+		nymphes, ces chevaliers, ces bergers et belles bergeres, mais avec tant de
+		plaisir qu’ils ne se prirent garde que la nuict les surprit,
+		les contraignit de se separer jusqu’au lendemain. Amasis voulut arrester
+		Dorinde dans le chasteau, mais elle et ses compagnes sceurent de telle
+		façon la supplier, qu’elle trouva bon que, sans separer, elles
+		retournassent loger chez Clindor qui en receut
+		tres-grand contentement, et elles aussi, pour estre beaucoup plus libres
+		que parmy ces contraintes et ces respects où elles vivoient aupres
+		d’elle et de Galathée. Merindor et Periandre aidoient Dorinde
+		à descendre; Alcandre et Clorian, Circéne; Lucindor et
+		Cerinte, Florice; et en fin Almicar, et Sileine, Palinice. Thamire
+		d’autre costé aidoit la triste Celidée, qui ne se pouvoit consoler du
+		prochain depart de son berger. Et Adraste n’abandonnoit
+		point Doris que Palemon conduisoit. Il n’y avoit personne en la troupe
+		sans party, sinon Hylas et Belisard qui toutesfois ne laissoient de passer
+		leur temps avec toutes ces belles dames, sans s'arrester à pas une;
+		aussi n’y en avoit-il point en la compagnie
+		n’eust assez d’affaires pour soy-mesme, sans s’amuser à Hylas,
+		d'autant qu’Alcandre et Clorian servoient Circéne, Lucindor et Cerinte
+		aimoient Florice, et Amilcar et Sileine estoient serviteurs de Palinice.
+		Et le bon, c’estoit que chacun sçavoit l’affection de son
+		rival. D’autre costé Periandre et Merindor adoroient Dorinde ,
+		ayant esté deceue d’eux, ainsi qu’elle avoit opinion, ne faisoit
+		que leur reprocher leur infidelité à toutes les fois
+		qu’ils vouloient luy parler de leur affection. Ce qu’elle faisoit avec un
+		esprit plus content que devant qu’elle eust sceu que le prince Sigismond
+		l’avoit point trompée, comme elle en avoit eu la creance.[487/488]</p>
+		<p>Estans arrivez au logis, ces chevaliers resolurent de veiller dans la
+		chambre de ces dames pour recouvrer en quelque sorte le temps qu’ils
+		avoient perdu loing d’elles. Mais Dorinde, ne desirant pas que cela
+		fust pour quelque consideration qu’elle dit à ses compagnes,
+		elles s’excuserent toutes sur le desir qu’elles avoient d’estre le
+		lendemain de bon matin au chasteau, au lever de Galathée. Ils
+		furent donc contraints de se retirer, et de fortune Hylas fut
+		logé dans la mesme chambre où Alcandre, Amilcar et
+		Belisard couchoient, et les quatre autres chevaliers dans une autre. Et
+		d’autant que de longue-main ces deux freres estoient grands amis
+		d’Hylas, d’abord qu’ils furent couchez, parce que les licts estoient
+		assez pres l’un de l’autre, ils entrerent en discours de ce qu’ils
+		avoient fait depuis qu’ils ne s’estoient veus. – Quant à moy,
+		respondit Hylas, je le vous auray bien-tost dit, car depuis que
+		Criseide, la belle estrangere, eut trompé les gardes de
+		Gondebaut, pour s’en venir du costé de Gergovie, je la suivis,
+		mais en vain, car il me fut impossible de la rencontrer. Il est vray
+		que je trouvay Madonte et Laonice, avec lesquelles je vins en cette
+		contrée sur les rivages de Lignon, où je trouvay tant
+		d’aimables bergeres qu’il m’a esté impossible de les quitter. Et
+		pour dire la verité, j’ay esprouvé beaucoup de sortes de
+		vie, mais il n’y en a point qui esgale la douceur de celle des bergers
+		de cette contrée; car ne pensez pas, encore qu’ils soient
+		vestus comme vous les voyez grossierement, que toutesfois leur
+		conversation retienne chose quelconque du village, parce que ce sont
+		les plus discrets, et les plus civils que j’aye jamais pratiquez. Et
+		entre les autres, il y a un Silvandre duquel on ne sçauroit trop admirer le bel esprit.</p>
+		<p>Quant aux bergères, elles sont si belles et si agreables que si
+		l’amour estoit mort par tout ailleurs, je ne croy pas qu’il ne vinst
+		à revivre parmy ces filles tant accomplies. Figurez-vous que
+		tous ces artifices que vous voyez, dans les villes, sont tellement
+		surpassez par les naivetez de ces bergères, qu’il est impossible
+		de les voir sans les aymer. Vous avez peut-estre bien autrefois veu
+		Florice, Circéne et Palinice, et avez bien ouy dire combien
+		leurs beautez estoient estimées dans Lyon. Imaginez-vous que sur
+		les rives de Lignon, et parmy ces gentilles bergeres, elles ne
+		paroissent non plus qu’un flambeau au plus clair soleil. – Ah!
+		respondit Alcandre, jusques-là je vous le pardonne, mais de dire
+		qu’il y a quelque bergère plus belle que Circéne, je ne
+		le sçaurois souffrir. Si vous aviez seulement parlé
+		de Florice encore et de Palinice, si je ne le croyois, [488/489] j’en
+		ferois au moins semblant; mais de Circéne c’est trop, puis qu’il
+		n’y eut jamais beauté esgale à la sienne. – Mon frere,
+		interrompit Amilcar, Palinice deffend assez sa preéminence sur
+		toutes les belles. Toutesfois je ne laisseray de dire à Hylas
+		que pour Florice et Circéne, je consentiray à tout ce
+		qu’il voudra, pourveu qu’il oste du pair cette Palinice, puis qu’il
+		n’est pas raisonnable que celle à qui le Ciel n’a point voulu
+		faire d’esgale soit rabbaissée soubs quelqu’autre avec si peu de
+		justice. – Et quoy! mes enfans, dit Hylas en sousriant, il semble que
+		vous ayez quelque interest en ces filles, prenant comme vous faites
+		leur party. – Si nous y avons de l’interest? respondit Alcandre,
+		hé! Hylas, de quel pays venez-vous, puis que vous n’en
+		sçavez rien? – Et depuis quand cet interest? reprit Hylas, veu
+		que quand j’estois avec vous, je n’en ay rien recognu. – Je vous
+		asseure, adjousta Amilcar, que vous avez bien raison de le dire, car
+		avez-vous esté à Lyon depuis la mort de Teombre? –
+		Nullement, dit-il. – Or, continua Amilcar, l’affection que nous portons
+		à ces belles dames n’est que depuis ce temps-là. Aussi,
+		si vous vous en souvenez, il n’y avoit pas fort long-temps que nostre
+		pere nous avoit fait revenir en sa maison. – II est vray, respondit
+		Hylas, mais comme nous avions bien eu le loisir de contracter
+		l’amitié qui est entre nous, je pensois qu’il ne falloit pas
+		plus de temps à devenir amoureux que bons amis. – Je le croy
+		bien aussi, dit Alcandre, tant s’en faut, je pense qu’il y va de plus
+		temps à se choisir un amy qu’une maistresse, mais quelquefois
+		l’occasion ne s’en présente pas. – Or, reprit Hylas, puis que
+		cela est, et qu’estant entré en ce discours, il n’y a pas grande
+		apparence que vous puissiez si tost dormir ny l’un ny l’autre, je
+		vous supplie que je sçache toute cette affection, afin que je ne
+		me mesprenne plus quand je parleray de la beauté de vos
+		maistresses. – Vrayement, respondit Alcandre, je le veux, à
+		condition que vous ne mespriserez plus si fort Circéne pour
+		l’amour de moy, ny Palinice en consideration de mon frere.
+		– Ny vous, Stelle, adjousta l’inconstant, pour l’amour d’Hylas.
+		– Nous vous le promettons, dit Alcandre, mais il faut encore l’une des
+		deux choses que je vous diray. – Et laquelle? respondit Hylas. – II
+		faut, adjousta Alcandre, ou que vous veniez dans nostre lict ou que
+		nous allions dans le vostre, car ce me seroit trop de peine de parler
+		si haut et si longuement. – II est raisonnable, dit alors Hylas, que
+		l’escolier aille chercher le maistre. Et sautant à bas de son
+		lict, il se mit dans le leur, où Alcandre, quelque [489/490]
+		temps après, reprit ainsi la parole cependant que Belisard s’endormit.</p>
+
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<head type="chapitre">HISTOIRE D’ALCANDRE, D’AMILCAR, CIRCÉNE, PALINICE, ET FLORICE</head>
+		<milestone type="space"/>
+
+		<p>Quelques-uns soustiennent que l’amour ne vient pas de sympathie,
+		ny de destin, mais de dessein, et de volonté, et que la naissance de cette affection
+		ne se doit qu’à la violence avec
+		laquelle la beauté tyrannise les puissances de nostre ame; mais
+		ceux-là n’ont pas fait la preuve qu’Amilcar et moy, et ceux
+		desquels j’ay à vous parler, avons faite à nos despens,
+		car ils seroient contraints de changer d’opinion, et de dire avec nous
+		que chacun en naissant est donné à celle qu’il doit aimer
+		et servir. – Voicy une proposition, interrompit Hylas, que je ne croy
+		point du tout, car si cela estoit vray, à laquelle des
+		vingt-cinq ou trente que j’ay servies me donneriez-vous par sympathie
+		et par destinée? – De cela, respondit Amilcar, nous en
+		parlerons une autre fois, car un ne rompt pas une regle generale, et
+		mesme qu’on peut dire qu’Hylas est un monstre en amour, c’est à
+		dire hors de la nature des autres amants. – II ne faudroit autre
+		chose, dit Hylas en sousriant, sinon que Sylvandre eust ouy ce mot,
+		pour ne me laisser de long-temps en repos; mais continuez, Alcandre. –
+		Sçachez donc, reprit-il, que, peu de temps devant le mariage de
+		Florice, sœur d’Amilcar et de moy, avec Teombre, nostre pere nous fit
+		revenir en sa maison, n’ayant voulu jusques alors que nous y fussions
+		demeurez, luy semblant n’estre pas à propos que l’on nous veist
+		près de luy, devant que nous eussions quelque
+		qualité qui nous rendist dignes de nos ancestres. En nostre
+		aage plus tendre, il nous avoit fait ouyr ceux qui dans les Academies
+		enseignent les sciences plus soigneusement. Et lors que nous fusmes
+		assez forts pour les exercices du corps, il nous y fit employer le
+		temps curieusement, et apres, nous envoya deux ans durant par les pays
+		estrangers, pour en apprendre le langage, et pour n’ignorer entierement
+		les mœurs de nos voisins. Tant y a que, parvenus à l'aage de
+		vingt-deux ou vingt-trois ans, il nous r’appella auprès de luy,
+		mais peu cognus dans nostre patrie, et y cognoissans aussi si peu de
+		per-[490/491]sonnes que, si l’on ne nous eust dit que Florice estoit
+		nostre sœur, nous ne l’eussions point recognue pour telle.</p>
+		<p>Nostre retour fut, comme vous sçavez, un peu devant les nopces
+		de Florice; et lors que nous commencions de nous aymer, Teombre
+		l’emmena hors de la ville, de sorte que nous la perdismes presque
+		aussi-tost que nous l’eusmes trouvée. Il est vray qu’il sembla
+		que le Ciel eut pitié de nous, car il nous la rendit bien tost
+		apres, par la mort de Teombre qui ne vesquit gueres plus de trois mois
+		apres l’avoir espousée. Elle le pleura comme elle devoit, et
+		nous l’aydasmes en ce pitoyable office, mais nos larmes furent
+		bientost seichées, car l’humeur de cet homme n’estoit pas fort
+		aimable, et elle ne l’avoit espousé que par raison d’estat, et
+		presque sans penser le faire. Tant y a que la playe, pour grande
+		qu’elle pust estre en l’ame de nostre sœur, fut bien-tost guerie par
+		l’affection que nous luy faisions paroistre; et elle en eschange
+		s’essayoit de son costé de nous rendre le sejour que nostre pere
+		vouloit que nous fissions prés de luy, le moins ennuyeux qu’il
+		luy estoit possible. Et c’est sans doute que cette vie, differente de
+		celle que nous avions accoustumée, nous eust esté bien
+		fascheuse, sans sa douce conversation.</p>
+		<p>Car figurez-vous que pour le commencement nous vivions avec une si
+		grande retenue, fust avec nos parents, ou avec les autres, et il nous
+		falloit de sorte prendre garde aux respects qui leur estoient deubs,
+		que veritablement nous en estions bien ennuyez, veu la liberté
+		en laquelle jusques en ce temps là nous avions esté
+		nourris. Quelques jours donc aprés que Florice fut revenue, et
+		que son plus grand dueil fut passé, elle prit garde à la
+		triste vie que nous menions, et aux maigres passe-temps qu’on nous
+		donnoit: Mes freres, nous dit-elle, il faut que je vous mesnage d’une
+		autre sorte, que jusqu’icy l’on n’a pas fait, et vous verrez que le
+		sejour de ce lieu n’est pas si fascheux que vous l’avez trouvé
+		à l’abord. Nostre pere vous a surchargez de ces visites
+		de nos parens, qui ne parlent jamais que de choses serieuses; je veux
+		à mon tour vous faire voir mes cognoissances, et je gage que
+		vous ne les jugerez pas si fascheuses que les siennes. Nous qui tout
+		à coup avions esté mis dans ces contraintes, et qui ne
+		les pouvions plus supporter, la suppliasmes de tenir sa parole. Elle ne
+		remit point l’effet de sa promesse plus loing qu’au lendemain qu’elle
+		nous conduisit en la maison de Circéne, où nous
+		trouvasmes Palinice, Dorinde, Cloris, Parthenopé, et quelques
+		autres, toutes belles à la verité et [491/492]
+		tres-honnestes filles. Mais Hylas, voyez un tesmoignage du destin
+		que je disois! Je ne jettay pas plustost les yeux sur Circéne
+		que j’y trouvay tant de sujet d’amour que je ne pus luy refuser et
+		le cœur et l’ame, et mon frere en mesme temps, Palinice tant aimable qu’il
+		ne pust s’empescher de se donner à elle entièrement.</p>
+		<p>Or que ceux qui croyent que c’est la beauté qui tyrannise nos
+		ames, me dient un peu comme Circéne n’exerça aussi bien
+		sa tyrannie sur Amilcar que sur moy, ou pourquoy Palinice n’eust la
+		mesme force sur mon cœur que sur celuy de mon frere? Et après
+		en avoir en vain recherché les raisons, ils avoueront, je m’en
+		asseure, que ç’a esté en fin le destin qui a disposé de
+		nous, comme il luy a pleu; le destin, dis-je, qui en mesme temps
+		voulut que nous fissions deux grandes pertes: car celle de nostre
+		liberté fut bien-tost suivie de celle de nostre pere qui, ayant
+		desja vescu un assez grand aage, fut saisi d’une fievre si violente,
+		qu’en peu de jours elle l’emporta dans le cercueil. Peut-estre, si la
+		nouvelle affection que nous avions conceue pour ces deux belles dames
+		n’eust esté escritte dans l’infaillible ordonnance du destin,
+		l’ennuy de cette derniere perte l’eust pu estouffer dans le berceau;
+		car il est certain qu’elle nous toucha au cœur plus aigrement qu’elle
+		n’a pas accoustumé de faire aux autres. Mais, Hylas, qui peut
+		resister à la fatalité? Il sembla au rebours que par
+		cette contrariété elle s’accreut comme le brasier par le
+		souffle des vents contraires. Il n’y a rien qui empesche plus une amour
+		naissante de jetter de profondes racines que, quand, en ce
+		commencement, on cesse de voir la personne aymée, parce qu’il
+		est vray que les yeux sont ceux qui donnent naissance à
+		l’amour, et que la veue la nourrit et luy fait prendre force, si bien
+		que, quand cette veue luy est desniée, ordinairement ou elle
+		meurt, ou elle va languissant. Mais nous esprouvasmes que cette loy
+		pouvoit estre bonne pour les autres, qui aiment par eslection, mais non
+		pas pour nous, en qui sans plus le Ciel l’avoit fait naistre; car ayans
+		esté contraincts de faire le dueil, nous demeurasmes
+		quelque temps privez de la veue de ces belles dames, sans que cette
+		contrainte nous apportast aucun autre advantage, sinon de rendre nostre
+		mal plus douloureux et plus difficile à supporter.</p>
+		<p>En fin les jours du plus grand dueil estans passez, c’est la coustume
+		en semblables accidens que les amis et les voisins vont vister
+		ceux qui ont fait ces pertes, tant pour se condouloir avec eux,
+		que pour leur offrir toute sorte d’assistance, et renouveler avec
+		[492/493] ceux qui restent l’amitié que l’on avoit eue avec
+		celuy qui est mort. Tous nos amis et nos voisins ne manquerent point
+		à nous venir rendre ces devoirs d’humanité, si bien
+		qu’il sembloit que la porte de nostre logis fust celle de quelque
+		celebre temple, tant elle estoit frequentée par ceux qui nous
+		venoient visiter. Palinice et Circéne, entre les autres, qui
+		estoient les meilleures amies de ma mere et de ma sœur, ne manquerent
+		pas à ces visites; et nous qui estions presque tousjours avec
+		Florice, Dieu sçait si nous les receusmes de bon cœur! Il est
+		certain que la mort de nostre pere nous avoit grandement affligez, et
+		qu’il n’y avoit eu en nostre maison aucune apparence de resjouissance
+		que quand ces deux belles dames prirent la peine d’y venir; mais alors
+		il faut advouer que le dueil d’Amilcar et de moy se dissipa comme la
+		nuée devant le soleil.</p>
+		<p>Quand Circéne eut long temps parlé à ma mere, elle
+		vint rendre les mesmes compliments à Florice, et parce que je ne
+		me pouvois souler de la voir, je m’approchay de ma sœur, et apres
+		l’avoir remerciée de la peine qu’elle prenoit de venir en ceste
+		maison si pleine de dueil, et qu’en eschange nous luy eusmes offert
+		toute sorte de service, Florice fut contrainte d’en aller dire autant
+		à Palinice, si bien que Circéne et moy demeurasmes
+		separez de la compagnie. Cela me convia, en suivant le discours que
+		j’avois commencé, de luy dire: Si est-ce, belle Circéne,
+		que j’ay fort peu d’occasion de vous faire ces remerciemens, puis que
+		je prevoy plus de mal de ceste visite, que je n’en puis esperer
+		d’advantage. Elle qui ne s’estoit point encore apperceue de mon
+		affection, car toutes les demonstrations de bonne volonté
+		qu’à nostre premiere veue je luy avois fait paroistre, avoient
+		esté receues comme des civilitez et des courtoisies: Je ne
+		sçay, me dit-elle, Alcandre, quel mal ma visite vous peut
+		rapporter, mais je vous assure bien que ce n’est pas mon intention de
+		vous en faire. – Si ce n’est vostre dessein, luy respondis-je, c’est
+		donc mon destin, puisque assurément Circéne sera cause de
+		la mort d’Alcandre. – Moy, dit-elle, je seray cause de vostre mort?
+		– Vous la serez, sans doute, repliquay-je, mais je la vous pardonne,
+		ne pouvant moy-mesme l’avoir desagreable.</p>
+		<p>A ce mot nous fusmes separez par une grande quantité de dames
+		qui arriverent, et depuis je ne pus renouer bien à propos ce
+		discours de tout le jour. Cependant Amilcar qui ne vouloit, non plus
+		que moy, perdre ceste occasion, s’approchant de Palinice: Je [493/494]
+		n’eusse jamais pensé, luy dit-il, qu’en ce pays les belles
+		fussent si cruelles que je les voy. – Et de quelle cruauté,
+		dit-elle, vous plaignez-vous? – De la vostre, repliqua-t’il, qui ne
+		vous contentez pas de voir ceste maison pleine de tant de dueil, mais
+		qui voulez encore y en adjouter d’autres par ma perte. – Vostre perte,
+		reprit-elle en sousriant, seroit sans doute regrettable, mais je ne voy
+		pas de quel costé j’en pourrois estre la cause, pour le moins je
+		vous puis assurer que ce seroit bien innocemment. – Ceste innocence,
+		dit-il, de quelque sorte que vous la puissiez figurer, ne sera pas
+		assez puissante pour reparer le mal que vous m’avez, fait, si vous n’y
+		prévoyez d’autre sorte.</p>
+		<p>Sans doute leurs discours eussent duré davantage, s’ils
+		n’eussent esté interrompus par le mesme accident qui nous avoit
+		separez, Circéne et moy. Et voyez si le destin ne nous portoit
+		pas tous deux à ceste affection! puisque les propres discours
+		desquels nous fismes l’ouverture de nos affections à ces belles
+		dames furent presque semblables, encore que nous n’en eussions point
+		parlé ensemble. Or si ce peu de paroles ne fit point d’autre
+		effect, il servit pour le moins à ouvrir les yeux à
+		Circéne et à Palinice, et à leur faire cognoistre
+		que nous avions de l’amour pour elles. Et il advint de là
+		qu’à la premiere occasion que nous eusmes de parler à
+		elles, la peine ne fut pas grande à le leur faire entendre, et
+		ce fut bien tost apres, parce que c’est l’ordinaire d’aller rendre,
+		quand les premiers jours du dueil sont passez, les visites que l’on a
+		receues. Et vous pouvez croire que mon frere ny moy ne fusmes point
+		paresseux de nous acquitter de ces devoirs envers ces belles dames,
+		ausquelles nous eusmes tel loisir de parler que nous voulusmes.</p>
+		<p>Florice qui nous y avoit accompagnez, et qui avoit pris garde que
+		j’avois parlé longuement à Circéne, lors que nous
+		fusmes de retour, me tira à part et me dit: Mon frere, je ne
+		vous ay pas adverty, lors que je vous ay fait voir Circéne, que
+		vous prissiez bien garde de vous laisser surprendre aux beautez de
+		ceste fille, car elle est desja de telle sorte engagée ailleurs,
+		que je crains fort que vous n’y ayez beaucoup de peine avec fort peu de
+		contentement. – Ah! ma chère sœur, luy respondis-je, que
+		vostre ad’vertissement vient tard! puisque veritablement j’y suis
+		desja tellement engagé, qu’il n’y a plus d’esperance de m’en
+		pouvoir demesler que par la mort. – Mon Dieu! mon frere,
+		s’escria-t’elle, que je vous plains et que j’ay maintenant de regret
+		d’avoir esté cause de la vous faire voir, puis qu’il n’y a fille
+		en toute ceste contrée [494/495] de laquelle il n’eust
+		esté plus à propos de vous rendre amoureux que de
+		celle-là. Il faut que vous sçachiez que Clorian, frere de
+		Palinice, la possede de telle sorte que je ne croy pas que personne
+		l’en puisse jamais retirer. – Ma sœur, luy dis-je, vous m’estonnez
+		grandement de me dire qu’une si honneste fille que Circéne se
+		laisse posseder à un homme si absolument. – Je ne l’entends pas,
+		me respondit-elle, comme peut-estre vous le prenez. Si je dis que
+		Clorian la possede, c’est d’autant qu’il est frere de Palinice, et il
+		faut que vous sçachiez que Palinice de tout temps a esté
+		fort bonne amie de Circéne, et de plus qu’elle a tousjours eu
+		sur elle une certaine authorité que l’aage luy a donnée
+		qui n’est pas petite. Outre cela, le mary que Palinice a eu, car elle a
+		esté mariée, comme vous avez pu sçavoir, estoit
+		oncle de Circéne, et tant qu’il a vescu il l’a tousjours tenue
+		aupres de sa femme; et ceste pratique a esté cause que
+		tousjours depuis Circéne l’a honorée, comme elle souloit faire
+		du vivant de son oncle. Et Palinice qui ayme grandement
+		Clorian son frere, luy a donné un tel accés avec ceste
+		fille, qu’il semble qu’elle n’ose presque tourner l’ œil sans son
+		congé. Ce n’est pas qu’en cela je vueille dire qu’elle l’ayme,
+		ny qu’il se passe entr’eux chose quelconque qui soit mal à
+		propos; au contraire elle est tenue pour tres-honneste et tres-sage
+		fille, mais il est certain que s’estant trouvée sans pere et
+		sans mere, elle a laissé prendre à la sœur, de Clorian
+		une si grande authorité sur elle, qu’il est bien mal-aysé
+		de croire qu’il y ait quelque chose d’assez fort pour l’en pouvoir
+		retirer. – Et s’il est ainsi, luy dis-je, que Clorian l’ayme si fort,
+		et que Palinice ait tout pouvoir sur elle, pourquoy est-ce que le
+		mariage ne s’en fait? – Plusieurs, me dit-elle, qui n’en
+		sçavent pas la cause, et qui voyent, ainsi que je vous dis,
+		ceste amour, font bien comme vous ceste demande, mais il faut que vous
+		sçachiez que Circéne a deux frères, l’un desquels
+		est grandement amoureux de Palinice. Et parce qu’elle ne l’ayme gueres,
+		ou pour le moins fait paroistre de ne se vouloir plus marier, il a
+		resolu que jamais Clorian n’espousera sa sœur, que Palinice ne se
+		resolve aussi de le prendre pour son mary. Et elle qui s’opiniastre
+		à ne le vouloir pas, est cause de retarder le contentement de
+		Clorian. – Je vous asseure, repris-je incontinent, voilà, ma sœur, en
+		l’estat, où je suis, la meilleure nouvelle que vous
+		me puissiez donner, car il est certain que si je ne dois rien esperer
+		en Circéne, il ne faut point aussi que personne espere rien en
+		ma vie. Mais, ma chere sœur, si vous m’aimez, il faut que [495/496]
+		vous trouviez invention de me faire avoir cognoissance de ce frere de
+		Circéne, afin que je le puisse gagner en quelque sorte. – Mon
+		frere, respondit-elle en sousriant, je vous dirois bien encore un
+		autre secret si j’osois, et duquel, peut-estre, vous feriez bien mieux
+		vostre profit, mais je ne sçay presque comme vous le dire. – Ma
+		sœur, repris-je incontinent, je te conjure, si tu me veux voir en vie,
+		de ne me rien celer qui me puisse ayder en ceste affaire, et tu ne dois
+		faire difficulté, de m’en parler librement, puis qu’il ne faut
+		point qu’il y ait entre nous quelque chose de caché.</p>
+		<p>Florice alors en sousriant: Puisque vous le voulez, adjousta-t’elle,
+		je le vous diray; mais, mon frere, avec condition que vous recevrez ce
+		tesmoignage de l’amitié que je vous porte, pour l’un des plus
+		grands que je vous puisse rendre. Sçachez donc que
+		Circéne a deux freres: l’aisné, nommé Sileine, et
+		le jeune, Lucindor. L’aisné, comme je vous ay dit, ayme
+		eperduement Palinice, et Lucindor…. A ce mot, Florice s’arresta en
+		sousriant, et j’adjoustay: Est aymé de Palinice. – Nullement,
+		reprit-elle, ce n’est pas cela. Et lors elle se mit la main sur les
+		yeux, pour cacher une honneste rougeur, qui me convia de luy dire: Et
+		Lucindor est amoureux de vous. – II le dit ainsi,
+		respondit-elle, toute honteuse, encore que je ne le croye pas
+		beaucoup. Mais je voulois dire que par ce moyen nous ferions faire tel
+		personnage qu’il nous plairoit à celuy-cy, car je me promets
+		bien cela de luy, qu’il ne me desdira de chose quelconque que je luy
+		demande. – O ma sœur! m’escriay-je alors, en luy prenant les mains,
+		il est tout certain qu’en vos mains vous tenez et ma vie et ma mort, et
+		que, si vous ne me secourez en la peine où vous estes cause que
+		je suis, vous estes la moins pitoyable sœur qui fut jamais. – Mais,
+		mon Dieu! Alcandre, me dit-elle, quel personnage me faites-vous faire,
+		et qu’est-ce que Lucindor dira de moy? Et ne considerez-vous point
+		combien je m’engage envers luy?</p>
+		<p>– Ma sœur, luy respondis-je alors serieusement, ostez-vous d’erreur,
+		je vous supplie, et soyez assurée que, si l’affection que je
+		porte à Circéne n’estoit accompagnée de toutes les
+		vrayes conditions qu’une bonne amour doit avoir, j’aymerois mieux la
+		mort que de vous y employer. Je l’ayme, non pas pour l’abuser, mais
+		pour l’espouser, si mon bon-heur m’en peut rendre digne. Et quant
+		à ce qui est de Lucindor, s’il est digne frere de
+		Circéne, je veux croire qu’il a du merite. Et pourquoy, si
+		cela est, ne l’espouseriez-vous pas? Vostre jeunesse ne vous permet
+		pas de demeurer [496/497] long-temps avec cet habit de veufve, et pour
+		moy je n’en serois nullement d’avis. – O mon frere! reprit
+		incontinent Florice, ne parlons point de cela, je vous en supplie, j’ay
+		encore le souvenir trop present de Teombre. – O folle!
+		repliquay-je, et ne sçay-je pas bien que vous ne l’avez jamais
+		espousé que par obeyssance, et depuis, quelle si grande
+		affection pouvez-vous avoir conceue en trois mois que vous avez
+		demeuré ensemble? – Hé! vrayement, Alcandre, me
+		dit-elle en sousriant, vous estes bien gracieux de parler de ceste
+		sorte. Et vous, n’estes-vous pas devenu esperduement amoureux de
+		Circéne en un moment? Ah! mon frere, si vous sçaviez
+		combien ce lien de mariage oblige une honneste femme, vous changeriez
+		bien de discours, car les nœuds en sont si serrez et si chers, que
+		jamais la separation ne s’en fait, sans un si grand ressentiment de
+		douleur, que je ne croy pas celle de l’ame et du corps estre plus
+		mal-aisée. Mais bien que ceste consideration qui est tres-grande
+		en moy, n’auroit point de force, encore y en a-t’il une qui
+		m’empescheroit d’y penser, qui est, pour vous dire la
+		vérité, mon cher frere, une si grande jalousie que j’ay
+		recognue en luy, que je m’estimerois miserable de vivre en ce continuel
+		supplice; car vous me parliez de Teombre: croyez, je vous supplie,
+		que j’eusse esté la plus heureuse de ma race, s’il n’eust point
+		eu ceste folie en sa teste. Et voudriez-vous qu’apres en avoir ressenty
+		les extrêmes incommoditez, je fusse si maladvisée de me
+		plonger en semblable misere? – Et comment, luy dis-je, Lucindor est
+		jaloux? et quel sujet en a-t’il? – En fin, Alcandre, me
+		respondit-elle en sousriant, vous voulez tout sçavoir et je le
+		veux bien, puis que je me resous de ne vous cacher jamais aucune action
+		de ma vie. Il faut que vous sçachiez, mon frere, que dans ces
+		grandes villes la fréquentation y est si ordinaire, qu’il est
+		impossible que nous nous puissions empescher d’estre veues et
+		pratiquées de plusieurs personnes. Il arrive bien souvent que
+		diverses personnes nous voyant viennent à nous aymer, ou pour le
+		moins en font le semblant, car je croy que c’est ainsi que la pluspart
+		des hommes en usent. Mais cela n’empesche que ceuxqui ont les yeux
+		sur nous, ne voyent et ne recognoissent les recherches vrayes ou
+		feintes qui nous sont faites, et de cette cognoissance se produit cette
+		ennemie, ou pour le moins mortelle maladie d’amour, qui se nomme
+		jalousie. Lucindor ayant donc remarqué qu’un des freres de
+		Palinice faisoit semblant de m’aimer, ou peut-estre m’aimoit à
+		bon escient, en est devenu tellement jaloux, qu’il ne [497/498] s’en
+		donne, ny ne m’en laisse point de repos. – Hé! ma sœur,
+		adjoutay-je en sousriant, expliquez-moy un peu mieux cette affaire: le
+		frere de Palinice vous aime aussi? Et ne m’avez-vous pas dit que ce
+		frere ayme Circéne? Est-il donc amoureux de vous et d’elle? –
+		Nullement, me respondit-elle, mais c’est que Palinice a deux freres:
+		l’un qui se nomme Clorian, et qui est amoureux de Circéne, et l’autre
+		qui s’appelle Cerinte, et qui montre
+		d’avoir de la bonne volontépour moy.</p>
+		<p>Alors faisant un grand esclat de rire: Je vous assure, ma sœur, luy
+		dis-je, que voicy la plus gracieuse rencontre qui peut-estre advint
+		jamais. Palinice a deux freres: l’un desquels, et qui s’appelle
+		Cerinte, vous ayme, et l’autre, qui se nomme Clorian, est amoureux de
+		Circéne. Et Circéne a deux freres aussi: Sileine et
+		Lucindor: Sileine ayme Palinice, et Lucindor vous recherche. Et vous,
+		Florice, vous pouvez dire que ces deux belles dames ne vous prestent
+		rien, que vous ne leur rendiez en mesme monnoye, car si j’ayme la belle
+		Circéne, Amilcar est furieusement amoureux de Palinice. – Et
+		comment, s’escria Florice, en frappant des mains l’une contre l’autre,
+		Amilcar en veut à Palinice? – Mais, adjoutay-je, en meurt-il
+		d’amour. – Vrayement, reprit-elle alors, voicy un vray sujet de
+		comedie. – Dieu vueille, repliquay-je, que pour moy il soit tel! La
+		comedie, à ce que j’ay ouy dire, finit tousjours en mariage;
+		mais puis que nous sommes six, et que vous n’estes que trois, si
+		faut-il de necessité qu’il y en ait quelqu’un de nous mal
+		content, car je sçay bien que je ne veux pas que celle que
+		j’ayme soit partagée. – Et pensez-vous, me dit-elle, que
+		quelqu’une de nous la vueille estre? – De cela, luy respondis-je, je
+		m’en remets. Tant y a, ma chere sœur, que tout ce que je veux de vous,
+		c’est de faire si bien envers Lucindor que sa sœur m’ayme, et avec
+		Cerinte, qu’il dispose en façon Palinice, qu’elle retire Clorian
+		de la recherche qu’il fait à Circéne.</p>
+		<p>Ce fut par ces discours, Hylas, que je vins en cognoissance de toutes
+		ces secrettes affections. Et parce que nous n’eusmes alors la
+		commodité, pour le survenue de plusieurs personnes d’en dire
+		davantage, l’a conclusion fut qu’elle me promit, non seulement de m’y
+		ayder de tout son pouvoir, mais aussi de faire avec Cerinte qu’Amilcar
+		ne seroit point mal reçeu de Palinice. – Car, disoit-elle, je
+		suis obligée de vous y ayder tous deux, puis que je suis cause
+		de la peine que vous en avez.</p>
+		<p>Nous nous separasmes donc de cette sorte, et parce que j’avois
+		[498/499] esté adverty de l’amitié que Clorian portait
+		à Circéne, et du credit que Palinice y avoit, je pensay
+		que, devant que le frere ny la sœur s’y prissent garde, il falloit
+		avoir gaigné quelque chose sur la bonne volonté de
+		Circéne, afin que, quand Clorian prieroit sa sœur de me faire
+		de mauvais offices, Circéne eust quelque chose qui tinst mon
+		party et qui priast pour moy. Et entre toutes les choses que je pensay
+		la pouvoir obliger, j’esleus principalement la discretion, ayant
+		tousjours ouy dire qu’il n’y a rien qui engage tant une honneste fille
+		à aymer que cette discrétion; aussi c’est bien peu de
+		prudence de se confier en une personne en qui l’on ne doit point avoir de confiance.</p>
+		<p>Je vous ay desja dit les premieres déclarations que je luy avois
+		faites, je ne luy en dis rien davantage de quelques jours; mais estant
+		presque continuellement aupres d’elle, toute la demonstration que je
+		luy en donnois, c’estoit d’user avec un extreme respect en tout ce qui
+		estoit d’elle. Et afin qu’elle recognust que c’estoit un respect qui
+		procedoit d’amour et non pas seulement de civilité, je traittois
+		avec Palinice d’une façon bien differente, non pas que je ne luy
+		rendisse de l’honneur, comme tout chevalier est obligé envers
+		les dames de cette qualité, mais à l’une, c’estoit
+		seulement avec ce devoir commun, et à l’autre, avec un respect
+		particulier et tout estincelant d’amour.</p>
+		<p>Un jour que Circéne estoit au logis de Palinice, elle voulut se
+		laver les mains pour faire collation; je me trouvay comme de coustume
+		assez prés d’elle pour recevoir ses gands, elle ne fit point de
+		difficulté de me les tendre, parce que c’estoit de ces petits
+		services que chacune recevoit librement de nous. Et feignant d’avoir
+		quelque affaire en mon logis, je m’y en allay le plus viste que je pus,
+		et en mesme diligence j’escrivis au dedans de ses gands ces trois vers:</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<p>Je jure tout ce que je puis</p>
+		<p>Que si, tout à vous, je ne suis,</p>
+		<p>Je ne suis mien, ny de nul autre.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Circéne reprit ses gands sans y prendre garde pour lors,
+		mais le soir qu’elle fut pour se mettre au lict, sa fille de chambre
+		qui s’en apperceut: Ma maistresse, luy dit-elle, qui vous a
+		donné ces gands? – Comment? respondit Circéne, qui me
+		les a donnez? ne sont-ce pas ceux que j’avois ce matin? – Je ne
+		sçay, repli-[499/500]qua-t’elle n’ay jamais veu ces beaux
+		vers. Et lors, les luy apportant, car elle estoit desja dans le lict:
+		Voyez, continua-t’elle si je mens. Circéne alors, les lisant, et
+		se souvenant, que je les avois eus quelque temps entre les mains, se
+		douta bien que je les avois escrits, mais parce qu’elle ne vouloit
+		point s’en fier à cette fille, qui despendoit entierement de
+		Palinice et de Clorian, elle feignit de ne pouvoir deviner qui
+		c’estoit, et pour monstrer combien elle s’en soucioit peu, elle donna
+		les gands à Andronire: (c’estoit ainsi que cette fille se
+		nommoit). – Je prie Dieu, ma maistresse, luy dit-elle, en la
+		remerciant, que celuy qui a escrit à ce coup dans vos gands,
+		prenne souvent plaisir d’en faire de mesme, et je vous assure que, si
+		je le cognoissois, je l’en remercierois de bon cœur. – Tu ferois
+		bien, respondit-elle en sousriant, car le present le merite. – Vous
+		pensez, dit-elle, vous en mocquer, ce present tel qu’il est seroit
+		bien cher, je m’en assure, à celuy qui est cause que vous me
+		l’avez donné; et si je les luy presentois de vostre part, je
+		suis bien certaine qu’il m’en remercieroit de bon cœur. – Garde-toy,
+		reprit Circéne incontinent, de faire cette sottise, car tu me
+		ferois un extreme desplaisir. – Je n’ay garde, repliqua Andronire, de
+		le faire, mais c’est d’autant que je ne sçay qui c’est. – Et si
+		tu le sçavois, adjousta Circéne, par ta foy, le ferois-tu
+		? – N’en doutez pas, respondit-elle, car, outre, que j’ay pitié
+		de ceux qui ayment bien, encore suis-je certaine que Clorian m’en
+		sçauroit gré, et m’en remercieroit en temps et lieu. –
+		Mais à propos de Clorian, reprit Circéne, garde-toy bien
+		de les luy monstrer, si tu veux que nous vivions en paix avec luy et
+		avec Palinice. – Et dequoy vous souciez-vous, respondit-elle, si vous
+		ne sçavez qui c’est? – II m’importe, repliqua Circéne,
+		je ne veux point qu’il les voye.</p>
+		<p>Et alors, feignant de n’avoir pas bien leu ce qui y estoit escrit:
+		Montre-les moy, Andronire, dit-elle, que je relise ce qu’il y a. Et
+		elle sans y penser, les luy ayant rendus: Or va te coucher, dit
+		Circéne, je te recognois pour si folle que je ne veux pas que tu
+		les ayes. – Ah! ma maistresse, s’escria-t’elle incontinent, rendez-moy
+		donc les remerciements que je vous ay faits. – S’il ne tient
+		qu’à cela, luy dit Circéne, que tu ne sois bien contente,
+		je te les rends de bon cœur, et ceux encore que tu me feras de gands
+		tous, neufs, que j’ayme mieux te donner. Et lors, se faisant apporter
+		une petite layette où elle en avoit quantité, elle
+		luy en donna une paire pour la contenter: Ma maistresse, luy dit
+		Andronire en la [500/501] remerciant, vous m’avez appris un moyen pour
+		n’avoir jamais plus faute de gands. – Et lequel? respondit
+		Circéne. – Lors que je verray, dit-elle, que ceux-cy seront usez,
+		j’iray prier quelqu’un d’y escrire, comme dans les vostres, et vous
+		m’en donnerez de tous neufs pour les avoir. – Tu as raison,
+		adjousta-t’elle, mais cependant laisse-moy dormir.</p>
+		<p>Or Circéne cognut bien que j’estois le secretaire de ces vers,
+		et quoy qu’elle n’eust aucune pensée qui fust à mon
+		avantage, si ne vouloit-elle que Clorian les veist, et pour en oster le
+		moyen à cette fille, elle ayma mieux les garder; et toutesfois
+		il lui fut impossible d’éviter ce que le Ciel en avoit
+		ordonné, ainsi que vous pourrez entendre. Cependant ce petit
+		artifice ne me fut pas du tout inutile, parce que Circéne se
+		souvenant des paroles que je luy avois dites, et se representant le
+		respect avec lequel je la servois, par la lecture de ces vers s’asseura
+		mieux encore qu’il estoit vray que je l’aymois, et quoy qu’elle fust
+		grandement engagée avec Clorian, si est-ce qu’elle ne pouvoit
+		rejetter cette affection, qui luy estoit un grand tesmoignage de son
+		merite. Apres avoir donc quelque temps consulté en elle-mesme si
+		elle me devoit conserver en cette humeur, ou bien me donner sujet de la
+		quitter, en fin elle creut que c’estoit son advantage de laisser libre
+		le cours de cette nouvelle affection, ne luy semblant pas qu’elle
+		devinst jamais telle qu’elle ne la pust bien arrester quand il luy plairoit.</p>
+		<p>Quelques jours apres elle vint voir ma sœur, et de fortune je n’y
+		estois point, ayant pour lors accompagné Amilcar en la maison de
+		Palinice. Et se retirant à part elle luy monstra les gands
+		où j’avois escrit ce peu de paroles. Florice en recognut
+		incontinent l’escriture, mais faisant semblant de penser que ce fust de
+		Clorian: Et quoy, luy dit-elle, cette amour dure-t’elle encore? –
+		Comment? respondit Circéne, si cette amour dure, mais de
+		quelle amour voulez-vous parler? Il faut plustost dire si elle est
+		commencée. – Voire tout le monde ne sçait pas que Clorian
+		vous ayme? – Je le croy, reprit Circéne, et avec regret, je
+		le croy que chacun voit la folie de Clorian. Mais cecy n’a rien de
+		commun avec Clorian, et prenez bien garde si vous ne cognoissez point
+		cette lettre. Alors reprenant les gands tout à coup, elle
+		s’escria: Ah! Circéne, si fay, je la cognoy, elle est d’une
+		personne qui m’est proche et à qui j’ay bien
+		représenté desja plus d’une fois que ce qu’il
+		entreprenoit estoit un dessein duquel il n’auroit jamais de
+		contentement, et qu’il feroit mieux de s’en retirer. –
+		Vraye-[501/502]ment! luy dit froidement Circéne, hé
+		! ma belle dame, quelle offence vous ay-je faite que vous me
+		vueillez procurer tant de mal? – Asseurez-vous, Circéne,
+		respondit Florice, que ce n’a jamais esté mon intention de vous
+		desplaire, mais bien de ne voir Alcandre en une entreprise, de laquelle
+		il n’aura jamais de satisfaction. – Et comment pouvez-vous
+		sçavoir, repliqua Circéne, les choses futures? – Je ne
+		les sçay pas avec asseurance, reprit Florice, mais je les puis
+		bien prévoir par conjecture; et vous-mesme qui y avez interest,
+		si l'’on vous en prenoit à serment, ne diriez-vous pas
+		comme moy? – Je vous diray sainement, reprit alors Circéne, il
+		est vray que Clorian a une folie en sa teste qui vous peut faire parler
+		de cette sorte, mais il est encore plus vray que si l’humeur où
+		je suis me demeure, il ne parviendra pas à ce qu’il pense. Ce
+		n’est pas qu’avec ces paroles je vueille engager davantage Alcandre au
+		dessein qu’il fait paroistre d’avoir; car outre que je n’en vaux pas
+		la peine, encore suis-je fort peu en volonté d’estre
+		aymée, mais je le dis pour la verité, et que je suis bien
+		marrie que l’indiscretion de Clorian me soit si desadvantageuse, sans
+		que j’aye autre part en sa faute que d’en souffrir par contrainte
+		l’importunité. – Puis que vous m’en parlez, respondit ma sœur,
+		avec tant de confiance, je vous diray, ma belle fille, que
+		veritablement la recherche que Clorian fait de vous ne vous est point
+		desadvantageuse, sinon en tant qu’il fait paroistre en public d’avoir
+		une si grande, authorité sur vous, qu’il semble qu’il en doit
+		bien avoir une plus grande en particulier. Si cela vous peut nuire, je
+		le laisse à vostre jugement. Tant y a que je pense que vous
+		feriez beaucoup pour vous, si peu à peu vous ostiez de ses mains
+		cette absolue authorité, d’autant que par ce moyen vous feriez
+		voir à chacun qu’il n’y a point de vostre faute, et que la
+		pensée de ceux qui ne font mestier que de juger des actions
+		d’autruy, s’est grandement deceue en l’indiscrétion de cet
+		homme. – O Florice! s’escria Circéne, que ce conseil est
+		aisé à donner et difficile à executer! Si
+		vous sçaviez quelle humeur est celle de Palinice! une autre
+		fois que nous aurons plus de loisir, je vous en veux entretenir bien au
+		long. Cependant, continua-t’elle en sousriant, ne croyez pas que je
+		vueille qu’Alcandre prenne la peine de m’aimer; car c’est la
+		verité que vous m’avez obligée quand vous l’en avez
+		diverty, et que vous augmenterez encore cette obligation quand vous
+		continuerez, quoy que je sçache bien que vous n’y aurez
+		pas grand’peine, puis que je suis assez assurée qu’il ne fait
+		que se mocquer. [502/503] Et à ces dernieres paroles, ma sœur prit garde qu’elle
+		rougissoit un peu, qui luy fit juger que ce qu’elle en disoit n’estoit
+		pas peut-estre selon son desir; toutesfois, feignant de son
+		costé de le croire, ainsi qu’elle l’avoit dit, elle luy
+		respondit: Soyez seure, Circéne, que tant pour vostre interest
+		que pour celuy de mon frere, je voudrois vous pouvoir descharger de
+		cette importunité, mais je ne l’espere pas.</p>
+		<p>A ce mot, elles se separerent, parce qu’à mesme temps Amilcar et
+		moy qui conduisions Palinice, entrasmes où elles estoient, et
+		peu apres Cerinte et Sileine. Quant à moy, apres avoir
+		salué la compagnie, je m’approchay de Circéne. Cerinte
+		entreprit Florice, et Sileine et Amilcar s’assirent aupres de Palinice.
+		J’advoue que pour ce coup je ne fus pas fort attentif aux discours du
+		reste de la compagnie, estant si aise d’avoir rencontré seule
+		celle que je cherchois qu’il me sembloit que le Ciel m’avoit grandement
+		favorisé. Et je dis seule, encore que toute cette bonne
+		compagnie y fut, parce que je l’estimois telle, puis que Clorian n’y
+		estoit pas, d’autant que veritablement, quand il y estoit,
+		mal-aisément la pouvoit-on entretenir. Luy voyant donc les
+		mesmes gands où j’avois escrit, je luy dis: Je jure, belle
+		Circéne, que tout ce qui est dans vos gands est plein de
+		verité. – Je n’en doute point, me dit-elle, car il est vray que
+		mes mains qui y sont, sont de vrayes mains, – Vos mains, repliquay-je,
+		ne doivent pas seulement avoir le nom de vrayes, mais aussi des plus
+		belles du monde. Mais il y a bien encore quelque
+		chose dans vos gands que vous ne dites pas.</p>
+		<p>Elle qui feignoit de n’entendre ce que je voulois dire: Ily a,
+		adjousta-t’elle, quelques bagues que je porte aux doigts, qui sont
+		aussi de vrayes. – II y a encore, repris-je, quelqu’autre chose. – Et
+		que pourroit-il y avoir, dit-elle, faisant l’estonnée; quant
+		à moy, je n’y vois ny sens autre chose. – Ah! Circéne,
+		luy respondis-je alors en souspirant, c’est là un grand
+		tesmoignage de mon peu de bon-heur, que mon cœur estant entre vos
+		mains, vous ne le sentiez point, et que vous ne vueillez pas mesme voir
+		l’escriture qui vous touche. Et alors en sousriatnt: Comment
+		voulez-vous, repliqua-t’elle, que je puisse sentir vostre cœur, s’il
+		n’y est pas? Et lors sortant la main du gand: Voyez s’il y a point
+		icy de cœur. – Mais voyez, repris-je incontinent, s’il est possible
+		qu’une si belle main y soit sans qu’il y en ait une infinité. Et
+		luy prenant le gand, et luy monstrant l’escriture: Et voyez si je ne
+		dis pas vray, puis que je voy là ce que le mien y a escrit.[503/504]</p>
+		<p>Elle alors, feignant de ne l’avoir encore point veu: Vrayment!
+		Alcandre, me dit-elle vous estes bien hardy d’avoir escrit dans mes
+		gands: pensez-vous que j’y prenne plaisir? Et lors, prenant des
+		ciseaux, elle fit semblant de les vouloir effacer, mais mettant la main
+		au devant, je luy dis: Pardonnez à la grandeur de mon
+		affection, la hardiesse dont vous m’accusez, et croyez, belle
+		Circéne, que c’est en vain que vous voulez effacer ces paroles
+		que j’ay escrittes, puis qu’elles sont tellement engravées dans
+		le cœur que je vous ay donné, ou plustost que vous m’avez ravy,
+		que le temps ny la mort mesme ne les effaceront jamais. – Alcandre, me
+		dit-elle, je n’en veux ny le cœur ny les paroles, sçachant que
+		l’un et l’autre sont peu veritables; mais quand ils seroient
+		autrement, je ne veux point me charger de semblable marchandise. –
+		J’advoue, luy respondis-je assez froidement, que cette marchandise ne
+		valant gueres, et vous, l’estimant fort peu, vous avez raison de ne
+		vous en vouloir pas charger, car il est vray qu’elle n’a point de
+		cours, et que si une fois vous en estiez chargée, vous ne vous
+		en deferiez jamais. – Ce n’est pas, repliqua-t’elle en sousriant, ce
+		que je veux dire, car au contraire je sçay assez que vous valez
+		beaucoup, et que l’estime que je fais de vous, est telle que je doibs.
+		Et de plus que cette marchandise dont vous parlez, quand je l’aurois,
+		ne demeureroit gueres entre mes mains, estant comme ces quintessences
+		qui s’en vont toutes en fumée. Mais c’est en effet, Alcandre,
+		que je ne m’entens point, pour parler franchement, ny à aymer,
+		ny à estre aymée. – Je m’estonne, repris-je incontinent,
+		que vous ne sçachiez point une chose que vous enseignez si bien.
+		– Alcandre, adjousta-t’elle, avec un œil riant et me frappant
+		doucement sur une main, vous estes un mocqueur, et asseurez-vous que je
+		reçois bien de mesme tout ce que vous me dites. – Belle
+		Circéne, luy respondis-je, si je ne suis véritablement
+		vostre serviteur, je ne suis point Alcandre, et je veux que le Ciel me
+		fasse cesser de vivre, lors que je cesseray de vous aimer.</p>
+		<p>Elle vouloit me respondre, et desja elle avoit la bouche,
+		entr’ouverte, lors qu’elle retint tout à coup la parole, et
+		changeant de visage et de façon envers moy, elle sembla estre
+		devenue une autre personne. Ce changement m’estonna, mais tournant les
+		yeux du costé de la porte, je vis entrer Clorian avec Lucindor.</p>
+		<p>Avez-vous point veu, gentil berger, de jeunes enfans qui sont encore
+		soubs le fouet, lors qu’ils sont surpris en quelque faute, par
+		celuy qui les gouverne? Figurez-vous que Circéne et Florice
+		[504/505] en firent de mesme quand Lucindor et Clorian les
+		surprindrent, l’une aupres de moy, et l’autre auprés de Cerinte,
+		et quoy que j’eusse de l’interest en toutes les deux, si ne me pus-je
+		empescher d’en rire. Et pour monstrer ma discretion à
+		Circéne, la voyant en quelque peine que Clorian me vist seul
+		aupres d’elle, je fis semblant de l’aller recevoir, et Lucindor aussi,
+		et leur faire l’honneur du logis. Florice en fit de mesme, et cela fut
+		cause que chacun par compagnie se leva. Mais cela n’empescha pas que
+		Clorian ne prist garde que Circéne parloit à moy, et que
+		Lucindor ne vist aussi Florice avec Cerinte, si bien qu’à
+		l’abord ils entrerent avec un visage severe et mécontent, de
+		quoy estant tous deux en peine, mais Circéne beaucoup plus,
+		elles firent ce qu’elles purent pour les remettre en bonne humeur.</p>
+		<p>Clorian ne sçavoit pas encore bien asseurément que
+		j’aymasse Circéne, mais la doute où il en estoit, et
+		l’humeur qu’il avoit de ne vouloir souffrir que personne parlast
+		à ceste fille, luy faisoit faire ceste mine. J’advoue que ceste
+		façon de Circéne me deplut, et qu’alors mesme je fis cent
+		fois resolution de ne la plus aymer, mais aussi-tost que je tournois
+		les yeux sur son visage, il falloit ceder à la force de sa
+		beauté, et pliant les espaules, me plaindre en cela de ma
+		mauvaise fortune, et de l’injustice du Ciel, qui ordonnoit que celle
+		de qui j’estois esclave fust en telle servitude.</p>
+		<p>Enfin, le soir estant venu chacun se retira, mais Circéne me
+		donna le bon soir avec une si grande froideur qu’il sembloit que je luy
+		eusse fait quelque bien grande offence. Toutesfois, jugeant que
+		c’estoit à cause de Clorian, je ne voulus pas mesme, selon ma
+		coustume, l’accompagner en son logis. Et entrant dans mon jardin,
+		apres m’estre quelque temps entretenu sur ceste pensée, je souspiray tels vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">DIALOGUE</head>
+		<milestone type="space"/>
+		<h4>I</h4>
+		<milestone type="space"/>
+		<p>Puis qu’il estoit ordonné</p>
+		<p>Que mon c œur seroit donné</p>
+		<p>Par destin-à ceste belle,</p>
+		<p>Pourquoy falloit-il, helas!</p>
+		<p>D’une, ordonnance cruelle,</p>
+		<p>Que mienne elle ne fust pas?[505/506]</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>II</h4>
+		<milestone type="space"/>
+		<p>Parce que nul sous les cieux</p>
+		<p>N’est digne de ses beaux yeux,</p>
+		<p>Rien n’egalle son merite,</p>
+		<p>Contente-toy d’adorer</p>
+		<p>Ceste immortelle Carite,</p>
+		<p>Sans en rien plus esperer.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>III</h4>
+		<milestone type="space"/>
+		<p>Mais le Ciel voulant en fin</p>
+		<p>Que j’eusse pour mon destin</p>
+		<p>Une affection si vaine:</p>
+		<p>Dieux! pourquoy, de mon berceau,</p>
+		<p>Pour abreger tant de peine,</p>
+		<p>Ne fistes-vous mon tombeau?</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>IV</h4>
+		<milestone type="space"/>
+		<p>Car les dieux ne vouloient pas</p>
+		<p>Monstrer aux hommes ça-bas</p>
+		<p>Sa beauté sans estre aymée:</p>
+		<p>Et nul, que toy, ne pouvoit</p>
+		<p>D’une ame toute enflammée</p>
+		<p>L’aymer autant qu’on devoit.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>V</h4>
+		<milestone type="space"/>
+		<p>Donc à jamais j’aymeray,</p>
+		<p>– A jamais j’adoreray</p>
+		<p>Ses beaux yeux sans esperance,</p>
+		<p>Trop heureux d’en consumer:</p>
+		<p>N’est-ce assez de recompense</p>
+		<p>De mourir pour les aymer?</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Quand je retournay au logis, Florice me raconta tous les discours
+		qu’elle avoit eus avec Circéne et apres adjousta: Voulez-vous,
+		mon frere, que je vous die ce que j’en pense, asseurez-vous qu’elle
+		sera plus aysément distraite de l’amitié de Clorian, que,
+		je [506/507] n’eusse pas creu. Et, pour dire la verité, il use
+		d’un si grand empire sur elle, que je ne sçay comme elle l’a
+		peu si longuement souffrir. – Ma sœur, luy respondis-je en sousriant,
+		ce que vous trouvez estrange en autruy, comment le souffrez-vous en
+		vous-mesme? Croyez-moy que vous estes faites toutes d’une certaine
+		façon, que, sans vous offencer, l’on vous peut mettre en quelque
+		ordre de creatures qui ne fust ny des animaux raisonnables, ny des
+		irraisonnables, mais en une tierce espece au milieu de ces deux. – Je
+		vous asseure, Alcandre, me dit-elle, que vous nous obligez beaucoup de
+		parler ainsi de nous, et quelles voudriez-vous que nous fussions, si
+		nous n’estions celles que nous sommes? – Voyez-vous, Florice,
+		continuay-je, je vous jure que je dis vray, par dites-moy, je vous
+		supplie, si Lucindor vous veut traiter comme Circéne l’est de
+		Clorian, pourquoy, si vous le desapprouvez pour elle, l’approuvez-vous
+		pour vous? Et si Circéne s’ennuye de cette tyrannie, pourquoy
+		elle-mesme va-t’elle renouant ses chaisnes avec des nœuds plus forts
+		et plus serrez? Hé! ma sœur, croyez-moy, et vous et
+		Circéne, et toutes les femmes du monde, vous estes toutes faites
+		sur un mesme patron: vous voulez et ne voulez, vous ne voulez et vous
+		voulez. – Que voulez-vous dire, mon frere, me dit-elle en sousriant,
+		par ces paroles embrouillées? – Je veux dire, respondis-je, que
+		vous voulez estre maistresses, et vous vous plaisez à vous
+		rendre esclaves; et puis vous vous ennuyez de cette servitude, et
+		toutesfois vous prenez plaisir d’y demeurer. Vous-mesme ne m’avez-vous
+		pas dit que Lucindor ne peut souffrir que Cerinte parle à vous?
+		et qu’une semblable jalousie a esté la plus grande peine que
+		vous ayez eue avec Teombre? Si cela est, pourquoy vous y
+		sousmettez-vous, et que ne prenez-vous sur luy l’authorité qu’il
+		usurpe sur vous? Vous trouvez estrange que Circéne soit de
+		cette sorte tirannisée de Clorian? et je le trouve plus
+		estrange de vous, car il y a quelque raison pour elle: la nourriture
+		qu’elle a eue en sa maison, l’authorité que Palinice a tousjours
+		prise sur elle, son peu d’experience, et plusieurs autres
+		considerations qui pour vous n’ont point de lieu…. – Mais qui vous a
+		dit, interrompit Florice, que je crains Lucindor? – Mes yeux,
+		repliquay-je, et vos actions. Si vous eussiez eu un miroir lors qu’il
+		est entré avec Clorian, je ne vous, croy pas tant aveugle que
+		Vous ne l’eussiez aussi bien veu que chacun s’en pouvoit prendre garde,
+		et puis vous m’allez dire que Circéne s’ennuye de
+		l’authorité que Clorian prend sur elle, et qu’il [507/508]
+		seroit aisé de l’en distraire! Hé! ma sœur, que ces
+		espérances sont mal fondées, puis qu’elles le sont sur la
+		resolution qu’une femme doit, faire. Souvenez-vous que, si c’estoit
+		d’une chose qui fust à vostre desadvantage, ou bien pour faire,
+		contre raison, desesperer une personne qui fust toute à vous,
+		ô qu’aysément vous en prendriez toutes la resolution, mais
+		en ce qui est raisonnable ou à vostre advantage, ô que
+		tard, ou jamais vous y resoudriez-vous! Je continuay de ceste sorte
+		ces reproches à Florice, qui m’ayant quelque temps donné
+		audience, en fin s’approchant de moy, et me prenant par le bras: Mais,
+		dites-moy, Alcandre, interrompit-elle, d’où venez-vous, que vous
+		estes en si mauvaise humeur? Et luy ayant respondu que je venois de
+		me promener dans le jardin. – Pour certain, repliqua-t’elle, il faut
+		que vous y ayez mangé de quelque herbe bien amere. – J’y ay
+		cueilly, luy dis-je, des pensées et des soucis si amers, qu’il
+		n’y a atsinthe qui les vaille. – Je m’en doutois bien, adjousta-t’elle,
+		puisque vos paroles sont encore toutes pleines d’amertume. Mais puisque
+		vous nous estimez tant inconsiderées, dites-moy, je vous
+		supplie, vous qui estes si sage, voulez-vous que je rompe avec Lucindor
+		? Advisez bien quel conseil, vous me donnerez, car je vous promets de
+		le suivre; il est vray que je diray que c’est vous qui me l’avez
+		conseillé, m’assurant que vous ne voulez pas me dire chose de
+		laquelle vous ne vouliez estre nommé l’autheur. – Je vous
+		assure, luy respondis-je, ma sœur, que vous estes bien gracieuse:
+		parce que Lucindor est frere de Circéne, vous voulez à
+		mes despens ravoir vostre liberté? – Ne voyez-vous, reprit
+		incontinent Florice, que, si les femmes ont peu de resolution, les
+		hommes sont d’autant plus attachez à leur interest? Hé!
+		Alcandre, qu’il est aysé de voir le festu dans l’œil de son
+		voisin et qu’il est difficile d’apercevoir la poutre qui nous creve les
+		nostres! Si je souffre quelque chose de Lucindor, vous en devez estre
+		bien ayse, car estant frere de Circéne, nous la tiendrons tous
+		jours en quelque sorte de devoir envers vous. – Voulez-vous, ma sœur,
+		luy dis-je, que je vous parle franchement? Je ne suis pas marry de
+		Lucindor, car encore il ne sort pas entierement hors des termes de la
+		raison, mais il m’est impossible de supporter les impertinences de
+		Clorian. – Mon frere, mon amy, me respondit-elle incontinent, je voy
+		bien à ce coup que vostre bouche parle selon vostre cœur, mais
+		mettez-vous en repos, et vous asseurez que si vous voulez me croire,
+		[508/509] nous ferons quelque chose qui vous contentera. – Et que
+		voudriez-vous, repris-je incontinent, que je fisse? – O Dieu!
+		respondit-elle en sousriant, que nous avons bien changé de
+		personnage, puis que c’est à moy à vous donner conseil!
+		Or bien, mon frere, pour ce coup recevez-le, et si vous vous en trouvez
+		mal, ne me croyez jamais plus. Quelque mine que Circéne vous
+		fasse, continuez de la servir, mais souvenez-vous de cacher vostre
+		affection à tout le monde, sinon à elle, et laissez
+		faire le reste à vostre mérite, à l’impertinence
+		de Clorian, à l’humeur de Circéne et à mon
+		assistance. Car si vous vous descouvrez, Clorian et Palinice
+		tourmenteront de sorte cette fille, qu’elle voudroit que vous fussiez
+		hors du monde; et au contraire, si vous vous cachez bien à eux,
+		vous verrez que cette discrétion luy plaira de façon que
+		l’insuffisance de Clorian luy sera au double insupportable. Et
+		asseurez-vous que, pour peu qu’elle s’esbranle, je ne laisseray pas
+		perdre une seule occasion qui vous puisse rapporter de
+		l’utilité. – J’advoue, luy respondis-je, que je recognois bien
+		par vos discours qu’il faut croire chacun en son mestier. Aymer et
+		dissimuler, c’est le mestier duquel presque toutes les femmes se
+		meslent: voilà pourquoy je veux suivre vostre avis sans y
+		faillir d’un poinct. – Vrayment, Alcandre, me dit-elle en me frappant
+		sur l’espaule, j’employe bien mon temps à vous conseiller avec
+		tant d’affection, puis que pour remerciement vous me dites des injures.</p>
+		<p>Tels furent nos discours desquels je ne conceus pas de petites
+		esperances, et me semblant que l’avis de Florice n’estoit pas à
+		rejetter, je me resolus à le suivre le mieux qu’il me seroit
+		possible. Et sur le sujet de la contrainte dont il me falloit user, je
+		me souviens que je fis ces vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">STANCES</head>
+		<h3>Qu’il n’ose dire son mal.</h3>
+		<milestone type="space"/>
+		<h4>I</h4>
+		<milestone type="space"/>
+		<p>Dure et severe loy qui couvres du silence</p>
+		<p>La peine que je sens,</p>
+		<p>Permets qu’au moins ma voix rompe ton ordonnance</p>
+		<p>En mes derniers accents. [509/510]</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>II</h4>
+		<milestone type="space"/>
+		<p>Je voy que le laurier, lors que le feu le touche,</p>
+		<p>Se plaint dans la chaleur,</p>
+		<p>Et que n’est-il permis aussi bien à ma bouche</p>
+		<p>De dire ma douleur?</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>III</h4>
+		<milestone type="space"/>
+		<p>Dans le taureau d’airain la mesme tyrannie</p>
+		<p>Se pleust bien autrefois</p>
+		<p>D’ouyr plaindre et gemir, mais à moy l’on desnie</p>
+		<p>L’usage de la voix.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>IV</h4>
+		<milestone type="space"/>
+		<p>Souvent je me resous d’une longue harangue</p>
+		<p>D’attendrir mon vainqueur:</p>
+		<p>Mais quoy? ces mesmes yeux me retiennent la langue</p>
+		<p>Qui me prirent le cœur.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>V</h4>
+		<milestone type="space"/>
+		<p>Soudain que je la vois, le respect ordinaire</p>
+		<p>S’oppose devant moy,</p>
+		<p>Et me dit que l’amant doit brusler et se taire,</p>
+		<p>Pour preuve de sa foy.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>VI</h4>
+		<milestone type="space"/>
+		<p>Taisons-nous donc, mon cœur, et rendons tesmoignage,</p>
+		<p>Quand nous devrions mourir.</p>
+		<p>Que nous avons assez d’amour et de courage</p>
+		<p>Pour aymer et souffrir.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Vous sçavez, Hylas, que la passion a cela de propre
+		d’entrainer avec violence les puissances de l’ame qu’elle possede.
+		Figurez-ous qu’il m’en advint autant, car, quelque dessein que j’eusse
+		fait, mon affection, sans que j’y prisse garde, m’emporta quelques jours
+		apres à faire des actions qui ne donnerent que trop de cognois-[510/511]sance de
+		ce que je voulois tenir caché, si bien que
+		Palinice s’en apperceut, faisant en cela bien paroistre qu’il est vray
+		que malaisément l’artifice peut cacher quelque chose à
+		ceux qui sont de mesme mestier. Et parce qu’elle sçavoit assez
+		combien Clorian supportoit cette nouvelle amour avec impatience, et
+		qu’elle aimoit grandement ce frere, elle tira un jour à part
+		Circéne, et au commencement luy representa combien une fille
+		estoit peu advisée de laisser une ferme et assurée
+		affection pour une nouvelle, combien la pluspart de ceux qui les
+		recherchent le font plustost par humeur que par amour, et quelques fois
+		seulement pour essayer si elles peuvent estre gaignées
+		aisément, afin d’en faire apres des contes et s’en mocquer, ne
+		se soucians gueres de ruiner de reputation celles qu’ils font semblant
+		d’aymer, pourveu que cela serve à leur vanité; combien
+		il est difficile d’en trouver d’autre humeur, et quel danger courent
+		celles qui s’y fient devant que les avoir bien esprouvez.</p>
+		<p>Et puis elle continua: Or, ma chere fille, je vous represente tout ce
+		que je viens de dire, pour vous advertir d’une chose, à
+		laquelle peut-estre vous ne prenez pas garde. J’ai recognu qu’Alcandre
+		depuis son retour fait cas de vous, et, qu’il vous veut faire accroire
+		qu’il vous ayme: c’est un jeune homme qui n’a encore point vendu de
+		sa marchandise, il vient de loing, il ne fait que l’estaler en vente.
+		Souvenez-vous, Circéne, qu’il ne faut pas croire tout ce qu’il
+		dira, et que, pour peu que vous luy offriez de ce qu’il vous
+		presentera, il vous prendra sans doute au mot. Nous ne sçavons
+		point encore de quelle humeur il est, je serois marrie que nous
+		l’apprissions à vos despens, et croyez que ce que je vous en
+		dis, n’est que pour vostre seul interest, car pour ce qui touche
+		l’affection que mon frere vous porte, je m’asseure qu’il est assez
+		honneste homme pour vous obliger à luy vouloir du bien, quoy que
+		je ne doute pas que s’il s’en prenoit garde, il ne le supportast avec
+		beaucoup de peine. Et peut estre ne sçay-je à quoy un tel
+		desplaisir, le feroit resoudre! Et Dieu sçait quel ennuy seroit
+		le mien, de voir ce divorce entre nous! je dis entre-nous, parce qu’il
+		me seroit impossible de ne point participer à l’ennuy que vous
+		en recevriez tous deux. Je voy bien que de vostre costé vous ne
+		contribuez rien en çecy, sinon une certaine complaisance qui
+		est ordinaire à toutes celles de vostre aage, parce qu’il leur
+		semble que d’estre servies de plusieurs, c’est quelque chose de
+		fort estimable. Mais, ma fille, perdez cette opinion, je vous supplie,
+		et [511/512] croyez qu’il n’y a rien qui rende plus mesprisable, ny qui
+		descrie plus une jeune personne que de la voir suivie et poursuivie de
+		toutes sortes de gens, parce que les choses communes sont peu
+		estimées, et que les personnes de merite ne veulent point
+		marcher en foule, et qu’en fin, outre tant d’autres raisons,
+		malaisément se peut-on imaginer que tant de jeunes esprits se
+		puissent arrester aupres d’un mesme sujet, s’ils n’y estoient retenus
+		par des faveurs ou par des esperances. Recevez, Circéne, de
+		bonne part l’avis que je vous en donne, et en faites vostre profit,
+		comme sage et prudente que vous estes.</p>
+		<p>Circéne demeura fort attentive au discours de Palinice, et quoy
+		qu’elle jugeast bien que tout que ce qu’elle en disoit estoit seulement
+		à l’occasion de son frere, si le receut-elle comme elle devoit
+		avec un visage, sans se troubler ny sans seulement froncer le sourcil,
+		si bien qu’apres l’en avoir remerciée, elle la supplia de luy
+		vouloir tousjours continuer l’amitié qu’en cela elle luy faisoit
+		paroistre: que quant à elle, elle ne pouvoit més de ce
+		que j’avois fait, et qu’elle tascheroit avec discretion de m’en
+		destourner le dessein que Palinice luy disoit, et l’estimoit et
+		l’honneroit tant à son occasion, qu’elle ne voudroit, pour quoy
+		que ce fust, luy donner sujet de mauvaise satisfaction.</p>
+		<p>Tels furent les premiers discours qu’elles eurent ensemble pour mon
+		sujet. Et voyez, je vous supplie, combien il se faut conduire
+		prudemment en semblables accidens. Il est vray que l’avis que Palinice
+		donna à Circéne fut bien cause qu’elle usa depuis plus
+		froidement envers moy, mais il est bien certain aussi que deslors elle
+		traita avec moy comme avec son serviteur. Je veux dire qu’elle se
+		persuada de sorte que je l’aimois, qu’elle n’en pust pas douté,
+		pour quoy que tout le monde luy en eust pu dire au contraire. Et par
+		ainsi les discours avec lesquels Palinice me pensoit faire plus de mal,
+		profiterent davantage à mon dessein que je n’eusse fait de
+		long-temps par toutes mes recherches. Ma sœur qui vid ce changement, et
+		que Circéne ne m’osoit pesque plus nommer sans rougir, que quand
+		j’entrois où elle estoit, elle baissoit les yeux, ou les
+		tournoit d’un autre costé, que, lors que je m’approchois d’elle,
+		si elle estoit esloignée de la troupe, incontinent elle
+		changeoit de place, et s’en alloit parmy les autres, si je luy
+		presentois des fleurs ou des fruicts comme je soulois, elle les
+		refusoit, et [512/513] ne faisoit pas semblant de les regarder; bref,
+		considerant combien elle sembloit estre mal satisfaite de moy, un jour
+		que nous estions seuls dans nostre logis, elle ne se pust empescher de
+		m’en parler, me representant ce mespris tant insupportables à un
+		homme de courage. Que si des paroles eussent esté capables de me
+		faire changer d’opinion, sans doute celles de Florice estoient
+		suffisantes à me divertir de l’affection que je portois à
+		Circéne; mais le mal estoit trop enraciné ou, pour mieux
+		dire, la flesche que j’avois dans le cœur y avoit esté
+		poussée par une main trop forte, pour en pouvoir estre
+		arrachée sans la mort.</p>
+		<p>Et elle le recognut bien à la responce que je luy fis, car lors
+		qu’elle se travailloit le plus à me representer le tort que
+		cette belle fille me faisoit de me traiter de cette sorte, que chacun
+		demeuroit estonné de me voir si opiniastre, ou pour mieux dire
+		insensible; qu’en toute autre occasion j’avois fait paroistre et du
+		courage, et du jugement, et qu’en celle-cy il sembloit que j’avois
+		oublié ce que j’estois, et bref, apres m’avoir remis devant les
+		yeux, et qui j’estois, et qui elle estoit, et que nostre alliance luy
+		estoit pour le moins aussi honnorable et advantageuse que celle de
+		Clorian, ny de quelqu’autre qui la pust rechercher. – Ma sœur, m’amie,
+		luy dis-je en sourisant, vous me faites souvenir de ces mires qui
+		voyans une playe, pensent avoir fait assez de declarer quels nerfs, ou
+		quelles ateres en demeurent offencées, de faire voir combien
+		elle est dangereuse et mortelle, et les grandes incommoditez que le
+		patient en ressent, sans se soucier de mettre la main aux remedes qui
+		luy peuvent estre salutaires. Helas! ma sœur, je ne sçay que
+		trop tout ce que vous me dites! Je voy bien que Circéne ne
+		m’aime point, je cognois assez que mon service ne luy est point
+		agreable, et son ame. Mais à quoy me sert, ny que je le
+		recognoisse, ny que vous me le representiez, puis qu’en effet ce n’est
+		que me faire recognoistre et me remettre devant les yeux la grandeur de
+		ma blessure. Il faut, si vous avez pitié de mon mal, que vous ne
+		perdiez plus le temps à me dire ce que je ne sçay que
+		trop, mais, au contraire, que vous l’employiez aux remedes qui me sont
+		necessaires; autrement je vous en asseure, ma sœur, que vostre
+		pitié, au lieu de m’estre utile, sera cause de la fin de ma vie.
+		Car, de penser que ces considerations puissent me divertir de
+		l’affection que je porte à cette fille, c’est se tromper
+		infiniment, puis que je suis de telle sorte à elle, que non
+		seulement elle peut libre-[513/514]ment user des cruautez contre moy
+		(que vous nommez indignitez) mais encore de toutes celles qu’elle
+		voudra, sans que jamais mon cœur en murmure, tant s’en faut qu’il s’en
+		plaigne, ou qu’elles luy puissent faire changer de dessein.</p>
+		<p>Je vis que Florice, m’oyant tenir ce langage, changea de couleur, et
+		demeura ravie d’estonnement, et apres m’avoir quelque temps
+		consideré sans me dire mot, enfin elle reprit ainsi la parole:
+		J’avoue, mon frere, que jamais personne n’a sceu aymer que vous, si
+		c’est toutesfois aimer, que se donner entierement à quelqu’un,
+		mais il faut que je die que vostre affection meritoit aussi de
+		rencontrer quelque correspondance, si pour le moins le Ciel ne vouloit
+		pas vous rendre le plus mal-heureux de ceux qui sçavent aymer. –
+		Et moy, ma sœur, luy respondis-je, je signeray de mon sang tout ce que
+		vous me dites. Mais à quoy me sert tout cela, et en quoy est-ce
+		que cette cognoissance allege la moindre partie de mon mal? –
+		Voulez-vous, me dit-elle, que j’esprouve les derniers remedes que je
+		gardois pour la guerison de vostre blessure, lors que j’eusse veu tous
+		les autres inutiles? – Ma sinon, luy respondis-je, à quoy
+		peuvent servir les retardemens, sinon à me faire perdre la vie?
+		– Or, mon frere, adjousta-t’elle, resjouissez-vous donc, et vous
+		asseurez que je m’en vay faire tous mes efforts avec Lucindor, et que
+		s’il n’obtient rien de sa sœur pour vostre contentement, il peut bien
+		n’attendre jamais de moy une bonne parole. Vous, cependant, de vostre
+		costé, ne laissez d’y faire tout ce que vous pourrez; car les
+		diverses batteries sont tousjours cause de faire plus tost rendre la forteresse.</p>
+		<p>Ce fut avec ceste resolution que nous nous separasmes: elle, cherchant
+		l’occasion de parler à Lucindor, et moy, pensant et repensant
+		à ce que je pouvois faire pour gagner ceste cruelle fille, Je
+		vous ay desja dit qu’il y avoit un jardin en mon logis où bien
+		souvent j’allois entretenir mes fantaisies; à ce coup, comme de
+		coustume, je m’y en allay, si avant en ceste pensée que je ne
+		pris pas garde que Belisard se promenoit tout seul sous une
+		allée fort couverte. Ce Belisard, c’est ce jeune homme qui dort
+		dans ce lict proche de nous, et qui nous fut donné pour avoir
+		soin de nous, lors que nostre pere nous faisoit suivre les escolles des
+		Romains. Le long temps qu’il avoit vescu avec nous, et nostre ordinaire
+		conversation luy avoient fait naistre une si grande affection envers
+		moy, que veritablement il m’aymoit tout ce qu’il pouvoit aymer: et la
+		cognoissance que j’en avois, outre plusieurs bonnes qualitez [514/515]
+		qui le pouvoient rendre aimable, avoit esté cause que je l’avois
+		tousjours tenu fort cher, et que je me fiois de telle sorte en luy que
+		je n’avois rien qui luy fust caché. Ceste fois seulement je ne
+		luy avois point parlé de l’affection que j’avois pour
+		Circéne, sans pouvoir en trouver la raison, sinon que l’occasion
+		ne s’en estoit point presentée.</p>
+		<p>Or ce jeune homme estoit, comme je vous ay dit, devant que moy dans ce
+		jardin, sans que je m’en prisse garde, et de fortune, je m’allay mettre
+		dans une allée qui n’estoit separée de la sienne que
+		d’une palissade de lauriers, qui estoit assez espaisse. Luy qui
+		m’apperceut venir, le chapeau enfoncé et les yeux contre terre,
+		marchat à grands pas, cognut bien d’abord que j’avois quelque
+		profonde pensée qui m’embarrassoit l’esprit. Et parce que ce
+		n’estoit pas ma coustume de luy cacher quelque chose de semblable, il
+		ne sçavoit que penser. Cela fut cause que se joignant le plus
+		qu’il luy fut possible contre la palissade, il essayoit d’ouyr quelques
+		paroles qu’il luy sembloit que je proferois assez bas, mais il ne
+		demeura pas fort long temps en ceste peine, car ne pensant pas estre
+		escouté de personne, je relevay bien tost la voix et lors il put
+		aisément apprendre qu’amour estoit la cause de mon mal. Et parce
+		qu’il m’ouyt plusieurs fois repliquer ces paroles assez haut: Mais
+		puisque, quoy que j’y aye sceu faire, rien ne m’a pu pronter à
+		vaincre le courage de ceste cruelle, qui sera celuy qui pourra m’y
+		ayder, et de qui dois-je esperer quelque secours? J’ouys qu’il me
+		respondit fort haut: De Belisard.</p>
+		<p>Si ceste voix me surprit,vous le pouvez juger, Hylas, puisque je
+		pensois estre seul en ce lieu. J’arrestay mes pas, je regarday autour de
+		moy pour voir s’il y avoit quelqu’un, et n’y apercevant personne,
+		j’advoue que je commençois de me persuader que c’estoit quelque
+		demon qui m’avoit fait ceste responce, lors que ce jeune homme, faisant
+		le tour de la palissade, s’en vint vers moy, repliquant plusieurs fois
+		: De Belisard, de Belisard. C’est, adjousta-t’il, du fidele Belisard
+		que vous devez attendre toute sorte de service. Et comment, seigneur,
+		continua-t’il, quand il fut un peu plus prés, vous estes en
+		peine, et vous vous cachez à moy? Avez-vous perdu le souvenir
+		de mon affection et de ma fidelité? – Amy Belisard, luy
+		respondis-je, tu ne te dois offencer que je t’aye teu une chose que, si
+		j’eusse cachée à moy-mesme, me semblant que, comme le feu
+		esventé jette de plus grandes flames, et que bien souvent, s’il
+		ne prend air, il s’estouffe [516] de soy-mesme, aussi celuy-cy en
+		feroit autant, et que par ce moyen je demeureois libre comme je soulois
+		estre. – Ah! seigneur, me respondit-il, que je voy bien que voicy la
+		premiere fois que vous avez esté atteint de ce mal puisque vous
+		jugez qu’il se puisse esteindre de soy-mesme! Sçachez,
+		seigneur, que depuis qu’un cœur en est touché, il n’en peut
+		jamais guerir que par un mespris si extréme qu’il oste toute
+		esperance, ou par la possession de la chose qui nous fait le mal. Et en
+		voicy la raison: il n’ya rien qui naturellement puisse vivre sans avoir
+		quelque nourriture; or les faveurs sont les nourritures d’Amour. Lors
+		qu’un amant est privé de ces faveurs, ou pour le moins de
+		l’espoir de ces faveurs, il faut que comme le flambeau s’amortit quand
+		il n’y a plus de cire de mesme s’esteigne aussi celuy d’amour dans le
+		cœur qui n’a rien de quoy le nourrir. Mais aussi, comme la surabondance
+		de la cire esteint la flamme qu’avec sa mediocrité elle nourrit,
+		je dis que la possession de la chose aymée estouffe l’amour par
+		la surabondance des faveurs qu’en semblables occasion on reçoit.
+		– Si tu ne sais pas mieux donner remede à mon mal; luy dis-je,
+		que tu en sçais discourir, ô Belisard! j’ay grand peur
+		que j’en seray longuement malade, car j’espreuve que l’une de ces
+		choses que tu dis le faire mourir, ne sert qu’à le rendre plus
+		grand et douloureux. Et je ne puis m’imaginer que la possession d’un
+		bien puisse faire hayr le bien, de sorte que la raison d’un
+		costé et l’experience de l’autre me font cognoistre que tu n’es
+		pas grand docteur, ny grand mire.</p>
+		<p>– Il n’y a rien, me dit-il, seigneur, qui nuise tant à la
+		guerison d’un malade, que d’avoir mauvaise opinion de celuy qui
+		entreprend sa cure; car nous avons veu bien souvent l’imagination
+		faire des effect incroyables. C’est pourquoy vous ne devez si tost
+		faire mauvaise jugement de ma capacité, que vous n’ayez bien
+		consideré mes raisons. J’ay dit que les estrémes mespris,
+		ou la surabondance des faveurs, peuvent sans plus faire esteindre
+		l’amour. Et n’est-il pas vray que l’amour est un desir, et que l’on ne
+		desire jamais ce que l’on possede? Si, possedant, il n’y a plus de
+		desir, il s’ensuit qu’il n’y a point d’amour. – En amour, respondis-je,
+		il y a un abysme de douceurs , de delices, et il est impossible de les
+		avoir jamais toutes, ny seulement en avoir jamais tant qu’il ne nous en
+		defaille encore beaucoup plus grand nombre que nous n’en possedons;
+		outre que l’appetit, pour estre satisfait, ne s’esteint pas, au
+		contraire, le souvenir du bien possedé en [516/517] rend le desir
+		plus violent. Et ainsi par la mesme raison, amour estant un desir, et le
+		desir s’esveillant plus ardent que la cognoissance du bien
+		possedé, il s’ensuit que ce que tu dis qui le tue, rend au
+		contraire, cet amour, plus fort et plus violent. – Il faut,
+		repliqua-t’il, que cet amour, s’il est ainsi que vous le dites, soit
+		gourmand à outrance, si rien ne le peut souler. Mais, seigneur,
+		que direz-vous du mepris? n’est-il vray qu’en un courage genereux,
+		c’est un poison contre lequel amour ne peut resister? car si le froid
+		esteint le chaud, et si chasque contraire est la ruine de son
+		contraire, vous ne nierez pas pour le moins que la hayne ne soit
+		contraire à l’amour, et qu’elle ne le fasse mourir. – Toutes les
+		choses qui sont en l’univers, repris-je, sont conservées par
+		leurs contraires, et s’il n’y avoit point de contrarieté, tout
+		ne seroit qu’une chose, et ainsi le monde finiroit, ou pour le moins ne
+		seroit plus monde. – Il est vray, repliqua-t’il, mais c’est lors que
+		ces contraires sont tellement esgaux en puissance, que l’un ne peut
+		surmonter l’autre. Mais quand est-ce qu’une amour ne sera point
+		estouffée par un extréme mespris? – Selon ta raison, luy
+		dis-je froidement, ce sera lors que l’amour sera aussi extréme
+		que le mespris. Mais, Belisard, à quoy perdons-nous le temps en
+		ceste dispute hors de saison? Que m’importe que ce que tu dis soit ou
+		ne soit pas vray, puis qu’en effet j’epreuve que les défaveurs,
+		ny les mespris n’ont point fait en moy l’effect que tu dis?</p>
+		<p>– Seigneur, me respondit-il, vous verrez que peut-estre vostre
+		experience n’est pas telle que vous la dites. Dites-moy, je vous
+		supplie, quel tesmoignage avez-vous d’estre mesprisé? – O
+		Belisard! m’escria-je, j’en ay tant et de si grands qu’il faudroit
+		bien estre incredule pour ne les advouer pas. Et afin que tu en puisses
+		mieux juger, car aussi bien ne te veux-je rien celer, sçache
+		que j’ayme esperduement Circéne. – Celle là,
+		adjousta-t-il, que Clorian a si long temps recherchée? – C’est
+		elle-mesme, repliquay-je, et je t’asseure que, depuis que cette
+		affection est née et que je la luy ay descouverte, elle est
+		tousjours allé augmentant en ses cruautez. – Seigneur, me dit-il
+		alors froidement, ne recevez point à importunité si je
+		suis un peu curieux. Dites-moy, je vous supplie, devant que vous luy
+		eussiez fait cognoistre que vous l’aymiez, traitoit-elle avec vous de
+		cette sorte? – Nullement, respondis-je, au contraire ce n’estoit que
+		douces paroles, et qu’honnestes faveurs que celles que je recevois
+		d’elle. – Et lors, adjous-[517/518]ta-t’il, que vous luy dites que vous
+		l’aymiez, usa-t’elle de mespris ou de colere? – Ny de l’un ny de
+		l’autre,luy dis-je, mais ç’a esté quelque temps apres
+		qu’elle a commencé de vivre ainsi. – Et en quoy, continua-t’il,
+		vous fait-elle cognoistre sa mauvaise volonté? – Que te
+		sçaurois-je dire là dessus? respondis-je, figure-toy
+		qu’elle me fuit comme si j’avois quelque maladie contagieuse. Lors que
+		j’entre en quelque lieu où elle est, elle rougit, et si elle ne
+		peut s’en aller, elle se tourne d’un autre costé, et le jour est
+		à naistre, où depuis qu’elle a pris cette humeur elle a
+		seulement jetté l’œil sur moy. Que si sans y penser elle a eu le
+		regard où j’estois, aussi tost qu’elle s’en est pris garde, elle
+		l’a retiré si promptement qu’il est aisé à juger
+		que cette veue luy est ennuyeuse. Mais, mon cher Belisard, à
+		quoy te vay-je racontant toutes ces petites particularitez? fay ton
+		conte qu’en toutes ses actions, elle me rend
+		tesmoignage que mon service luy est desagreable.</p>
+		<p>Belisard alors en sousriant et puis se baisant la main, et me la
+		tendant: Mon maistre, me dit-il, consolez-vous sur ma parole, et
+		croyez que cette fille vous ayme. – Circéne m’ayme? luy
+		respondis-je, il me semble qu’elle m’en donne de mauvaises
+		cognoissances. – Seigneur, continua-t’il, asseurément
+		Circéne vous ayme, mais il faut qu’elle soit contrainte de
+		traiter avec vous de cette sorte, car toutes les actions desquelles
+		vous vous plaignez en sont des preuves tres asseurées. Ces
+		fuites, ces rougisssemens, ces changemens de place pour ne vous point
+		voir, et bref tout ce que vous m’avez raconté ne sont que des
+		paroles d’amour, avec lesquelles sans parler elle vous crie: Je vous
+		ayme, Alcandre. Et pour vous monstrer que je vous die vray, quel
+		tesmoignage vous plaist-il, seigneur, que je vous en apporte? – O mon
+		cher Belisard! luy dis-je, luy jettant les bras au col, ô mon
+		cher amy! je voy bien que l’amitié que tu me portes te fait
+		parler ainsi pour me donner quelque consolation. – Non, seigneur, me
+		respondit-il froidement, je ne vous flatte point en cecy, je veux que
+		vous n’ayez jamais assurance en ma fidelité, si je n’espere de
+		vous apporter des preuves de sa bonne volonté la premiere fois
+		que je parleray à elle, et laissez m’en le soucy tout entier et
+		vous resjouyssez, et continuez seulement de vivre avec discretion
+		auprés d’elle, sans vous offencer trop aigrement de ses actions,
+		car croyez-moy qu’elles sont toutes contraintes
+		et entierement à vostre advantage.</p>
+		<p>[519] Je vous ennuyerois, Hylas, si je vous redisois tous les discours
+		que nous eusmes sur ce sujet, car je ne pouvois les finir, tant les
+		flatteuses esperances qu’il me donnoit m’estoient agreables. En fin,
+		devant que nous separer, il resolut de trouver les moyens de parler
+		à elle, ce que je luy dis qu’il feroit fort aisément,
+		feignant de l’aller visiter de la part de Florice, ainsi que dans les
+		villes on a de coustume de faire entre les personnes qui s’ayment; et
+		que mesme, s’il estoit necessaire, Florice luy en donneroit la charge.
+		– De feindre, me respondit-il, d’y aller de sa part, je le trouve fort
+		à propos, mais qu’en effect Florice m’y envoye, il s’en faut
+		bien garder, ny mesme faire semblant qu’elle sçache chose
+		quelconque de vostre dessein. Car, seigneur, tenez ce secret de moy:
+		il n’y a rien qu’une femme craigne tant que de se fier de semblable
+		chose à une autre femme, et mesme quand elle est belle et jeune,
+		d’autant qu’il n’y a rien si aisé que de faire naistre
+		entr’elles du divorce, et lors Dieu sçait en quel danger sont
+		celles qui se sont fiées de quelque chose qui leur importe!
+		Non, non, parmy celles qui sont bien advisées, l’amitié
+		ny la familiarité n’ont jamais le pouvoir de les mettre en un si
+		grand peril et si vous vous faire un bon office, luy en ait
+		parlé, il ne faut que vous trouviez ses froideurs et ses
+		glaçons estranges, car vous n’en devez attendre moins. – Il est
+		vray, luy dis-je, que je ne luy ay rien caché et qu’elle luy en
+		a parlé plusieurs fois. – Et bien! seigneur, reprit-il,
+		j’essayeray d’y remedier, mais croyez-moy, je vous supplie, priez
+		Florice de ne luy en faire de semblant, et vous verrez que mon advis
+		sera bon, et que vous en ressentirez de l’utilité bien tost.</p>
+		<p>La nuict commençoit à nous desrober le jour, et l’heure
+		du soupper s’approchoit, lors que je sortis du jardin, beaucoup plus
+		satisfait par les esperances que Belisard nous donnoit, que je n’estois
+		pas quand j’y estois entré, de quoy Florice s’appercevant:</p>
+		<p>Qu’y a-t’il, me dit-elle, mon frere? vous avez l’esprit plus content que
+		quand vous estes sorty d’icy. – Ma sœur, luy respondis-je, parlant fort
+		bas, mon visage est un causeur, c’est luy qui vous a dit ces nouvelles,
+		et je vous advoue qu’elles sont vrayes, mais je vous supplie de n’en
+		point faire de semblant, et de ne parler point à Circéne,
+		quoy qu’elle vous die, ny de tout ce que nous avons dit, jusque
+		à ce que je vous en advertisse. [519/520] Elle me fit signe de
+		la teste qu’elle n’y failliroit point, et changeant de discours, nous
+		nous mismes à table, où Amilcar arriva que nous avions
+		à moitié souppé, qui nous dit qu’il se faisoit une
+		grande assemblée ce soir en la maison de Dorinde, parce que le
+		lendemain elle devoit estre mariée avec Bellimarte, chef des
+		solduriers que le Roy Gondebaut tenoit pour sa sureté dans la
+		ville de Lyon et que Palinice et ses freres y alloient aussitost qu’ils
+		auroient souppé, et que le pere de Dorinde qu’il avoit
+		trouvé dans la rue venant en nostre logis l’avoit
+		prié d’y convier et Florice et moy; que Circéne n’y
+		estoit point, quoy que ses deux freres y fussent allez, parce qu’elle
+		s’estoit trouvée mal disposée. Ces nouvelles furent cause
+		que nous nous hastasmes de soupper pour nous y trouver puis que nous y
+		estions priez. Et lors que j’estois prest à sortir, Belisard
+		s’approchant de moy: Seigneur, me dit-il, si vous me voulez croire,
+		vous n’irez point en cette assemblée, puis que Circéne
+		n’y est pas; car je m’en vay la trouver, et si l’on peut parler
+		à elle, je veux que ce poinct soit l’ouverture de nostre
+		discours. Et assurez-vous sur moy que je seray le plus trompé
+		homme du monde, si je ne vous apporte devant que vous vous mettiez au
+		lict des nouvelles qui vous contenteront, Je luy respondis que je le
+		ferois, mais que de peur qu’on s’en prist garde, j’y accompagnerois
+		Florice, et que je ne ferois qu’entrer et sortir. Belisard s’en alla
+		donc de cette sorte au logis de Circéne, où de fortune il
+		ne trouva auprés d’elle qu’Andronire, tout le reste s’en estant
+		allé en cette assemblée. Elle estoit assise sur le pied
+		de son lict, à moitié des-habillée et tenant un
+		luth en sa main, duquel elle s’entretenoit, car entre les autres vertus
+		de Circéne, elle joue du luth et chante en perfection. Elle
+		estoit tellement attentive à ce qu’elle chantoit, qu’elle
+		n’aperceut point Belisard de long temps apres qu’il fust entré
+		dans sa chambre, et n’eust esté qu’Andronire le vid et en
+		advertit sa maistresse, il eust longuement jouy de cette douce
+		harmonie. Mais se levant en sursaut elle se fust mise dans un petit
+		cabinet, pour n’estre veue ainsi des-habillée, s’il ne l’eust
+		retenue par sa robe, et puis se jettant à genoux devant elle, il
+		la pria et supplia tant qu’elle revint où elle estoit, commandant
+		toutesfois à Andronire de reculer les chandelles en lieu qu’elle
+		eust moins de honte de se voir en cet habit: Madame, luy dit Belisard,
+		si c’est pour m’empescher de m’esblouyr, vous avez raison, car je ne
+		vis jamais nuict où un si beau soleil esclairast. – Belisard,
+		luy dit-elle, il faut espargner ses amies, et [520/521] mesmes en leur
+		presence; je ne veux pas que vous me voyez rougir de vos flatteries.
+		Mais dites-moy, je vous supplie, qu’est-ce qui vous ameine icy, et que
+		veut dire que vous n’estes pas en cette assemblée chez Dorinde,
+		où tant de belles dames se doivent trouver? – Pour respondre,
+		dit-il, à ce que vous me demandez, il faudroit que je sceusse ce
+		qui me doit advenir, car alors je vous diray si ce qui m’amene icy est
+		un bon ou un mauvais demon; mais quant à ce que vous me
+		demandez, que veut dire que je ne suis point chez Dorinde,
+		sçachez que vous en estes doublement la cause, car,
+		continua-t’il tout haut, Florice ayant sceu que vous vous trouviez un
+		peu mal, m’a commandé de venir sçavoir de vos nouvelles,
+		et vous offrir tout le service qu’elle vous pourra rendre. – Florice,
+		repliqua-t’elle, me fait trop de faveur d’avoir tant de soing de moy.
+		Vous luy direz, s’il vous plaist, que cette maladie me laissera encore
+		le moyen de m’acquitter de cette debte par quelque bon service. – O
+		Circéne, luy dit-il alors, d’une voix plus basse, que vous
+		estes à la bonne foy, si vous pensez que Florice sçache
+		chose quelconque de ma venue! – Et pourquoy, dit-elle, estes-vous
+		menteur? – Parce, repliqua-t’il, que trop de personnes
+		sçauroient nos affaires, si nous disions tousjours la
+		verité. Pensez-vous que je vueille qu’Andronire sçache le
+		sujet de mon voyage? Elle a trop peu de malice pour me fier en elle.</p>
+		<p>Circéne ne trouvoit pas estrange la façon de parler de
+		Belisard, parce qu’il avoit accoustumé d’en user ainsi et envers
+		elle et envers ses compagnes; et toutefois elle se douta bien que je
+		devois avoir part en ce message, car elle sçavoit que je me
+		fiois grandement en luy, et cela fut cause qu’elle ne luy voulut plus
+		demander le sujet qui l’amenoit. Mais luy reprenant la parole: Je ne
+		vis jamais, continua-t’il, une si peu curieuse personne que vous estes.
+		Pourquoy, puis que je vous ay dit que ce n’estoit pas Florice qui me
+		conduisoit icy, ne me demandez-vous qui c’est? Circéne alors en
+		souriant: Et moy, luy dit-elle, je ne vis jamais une personne si
+		prodigue de ses screts que Belisard qui ne se contente pas de les dire
+		à ceux qui les luy demandent, mais qui les veut mesme faire
+		sçavoir par force à ceux qui n’en ont point de
+		curiosité. – Vous devez cognoistre par là, respondit-il,
+		que le blasme que l’on donne aux femmes peut bien estre deu à
+		quelques hommes. – Et de quel blasme parlez-vous? dit Circéne
+		en sousriant. – De celuy duquel on les accuse, dit Belisard, de ne
+		sçavoir [521/522] rien taire. – Il est vray, reprit alors
+		Circéne, que les hommes nous en blasment. Et toutesfois il me
+		semble qu’avec raison on les en pourroit mieux accuser, pour le moins
+		plusieurs que je cognois. Que si c’est un vice naturel aux femmes, il
+		faut que la nature ait failly en moy, car je vous jure, Belisard, que,
+		quand on m’a prié de ne point dire quelque chose, je l’oublie de
+		sorte que je ne m’en souviens plus si l’on ne m’en parle. – Estes-vous
+		de cette humeur, adjousta Belisard, en tout? – En tout,
+		repliqua-t’elle, pour peu qu’il soit d’importance. – Je veux esprouver,
+		dit alors Belisard, si vous estes veritable, car je vous veux confier
+		un secret que je ne voudrois pas qui fust sceu pour la moitié de
+		ma vie. – Et pourquoy, adjousta Circéne, me le voulez-vous dire
+		? – Pour deux raison, dit-il, pour sçavoir s’il y a une femme
+		qui se sçache taire, et l’autre, pour vous faire voir combien
+		Belisard est vostre serviteur, puis qu’il vous remet entre les mains un
+		secret avec lequel vous le pourrez ruyner quand vous voudrez. –
+		Vrayement, respondit-elle, je veux bien sçavoir ce que vous me
+		voulez dire, pour les deux considerations que vous me representez, mais
+		prenez garde de n’en avoir parlé à quelqu’autre, ou que
+		vous n’en parliez apres, de peur que si celles à qui vous l’avez
+		dit, ou à qui vous le direz, le publioient, je ne fusse
+		accusée de leur faute. – Non non, respondit Belisard, je
+		m’assure que quand je le vous auray dit, vous perdrez cette doute. – Si
+		cela est, reprit Circéne en sousriant, je seray bien ayse de
+		l’entendre, tout pour vous montrer quelle je suis, que pour
+		sçavoir quel vous estes envers moy.</p>
+		<p>– Oyez donc, dit Belisard, ce que je vous veux dire. Vous
+		sçavez bien, continua-t’il, qu’il n’ya rien au monde que j’ayme
+		ny que j’honore comme Alcandre, vous sçavez le long temps que
+		j’ay esté nourry auprés de sa personne, je pense que vous
+		avez recognu l’estat qu’il fait de moy, et combien il se fie à
+		fidelité. Or à ce coup je vous veux remettre un secret
+		qu’il m’a confié, et qu’il aymeroit mieux mourir que d’estre
+		sceu. Sçachez donc, belle Circéne, qu’en me parlant de
+		choses d’importance, il m’a juré sur sa vie et rejuré
+		cent et centfois par tout ce qu’il a de plus cher, et je sçay
+		assurément qu’il disoit vray. Il m’a juré, dis-je, qu’il
+		aymoit de telle sorte la belle Circéne, et estoit tellement bon
+		serviteur qu’il n’y eut jamais une affection qui esgalast la sienne, et
+		si cette affection venoit à vous estre des-agreable, il ne
+		recourroit jamais à autre remede qu’à la mort. [522/523]
+		Et parce que Belisard se teut à ce dernier mot, Circéne
+		en sousriant reprit: Est-ce là tout le secret de Belisard, que
+		vous me voulez dire? – Et ne vous semble-t’il pas de tres-grande
+		importance, dit Belisard, puis qu’il y va du contentement et de la vie
+		d’un tel chevalier? Car sçachez, Circéne, que depuis
+		qu’il vous a veue, il ne songe en luy-mesme ny ne discourt avec moy
+		jamais que de vous. Toutes ses pensées sont de rechercher les
+		moyens de vous servir tous ses discours à vous louer et estimer,
+		et tous ses desirs en l’honneur de vos bonnes graces. – Vrayment,
+		adjousta Circéne, voicy une façon de descouvrir
+		l’affection d’une personne qui n’est pas commune. – Je vous supplie,
+		reprit-il, ma belle dame, de vouloir bien tenir secret ce que je vous
+		dis. – Je le vous promets, adjousta-t’elle, et de telle façon
+		que je ne veux pas mesme que Circéne en sçache ny en
+		croye jamais rien. – O ce n’est pas, dit-il alors, ce que je demande de
+		vous, car au contraire, je veux que Circéne le sçache et
+		le croye comme il est tres-veritable; mais j’entends que vous n’en
+		parliez point ny à Palinice, ny à Clorian. – Non non,
+		respondit-elle, ny Palinice, ny Clorian, ny Circéne n’en
+		sçauront rien: asseurez-vous-en sur moy. Et ne vous
+		souvenez-vous pas de ce que je vous ay dit au commencement de nostre
+		discours, que quand l’on me disoit quelque chose qu’il falloit taire,
+		je l’oubliois entierement? Croiez, Belisard, que j’en feray de mesme
+		du secret que vous me venez de dire, car je ne m’en souviendray jamais
+		plus. – Mauvaise fille, repiqua Belisard, pensez-vous que je vous aye
+		dit quelque chose pour vous le faire oublier? Est-ce ainsi que vous
+		mesprisez ce que je vous dis, et qui importe à un chevalier de
+		tant de merite, et à une dame la plus belle du monde? – Ce que
+		vous me dites reprit alors froidement Circéne, n’a nulle des
+		conditions que vous proposez, et c’est la dame de laquelle vous parlez
+		est bonne, mais non pas belle, et le chevalier auquel vous dites que
+		cette affaire touche, ne le pense pas comme vous, et ce secret que vous
+		figurez tel, est desja sceu de tous ceux qui l’ont, voulu entendre. –
+		Je suis bien-aise, respondit Belisard, puisque contre votre conscience
+		vous voulez nier ce que je dis, que vous advouez au moins que chacun
+		les advoue, et que , pour la beauté que vous dites n’estre point
+		en Circéne, tous les yeux qui la voyent vous desmentent, que
+		pour l’affection que vous mettez en doute d’Alcandre, toutes ses
+		actions vous en rendent tesmoignage, et qu’en fin, pour le secret que
+		vous dites n’estre [523/524] plus tel, le temps qui descouvre la
+		verité vous fasse cognoistre que personne n’en a jamais ouy
+		parler que Circéne, Alcandre et Belisard. – Ah! menteur,
+		reprit-elle incontinent, et Florice ne m’en a-t’elle pas diverse fois
+		parlé? – Florice peut bien vous avoir parlé de ce
+		qu’elle a pensé, mais non pas qu’Alcandre luy en ait dit quelque
+		chose. – Et Clorian et Palinice, continua-t’elle, ne s’en sont-ils pas
+		aperceus? – Et comment, adjousta Belisard, sçavez-vous qu’ils
+		s’en soient aperceus? – Comme je le sçay? respondit-elle, et
+		l’un et l’autre me l’ont dit, et avec quelles reproches! Croyez,
+		Belisard, que depuis qu’ils en ont eu opinion, je
+		n’ay pas esté sans exercice.</p>
+		<p>Alors Belisard en sousriant: Voulez-vous, luy dit-il, belle
+		Circéne, que je vous confesse la verité? Tout ce que je
+		vous ay dit d’Alcandre est si vray, que le Ciel et la terre ne le sont
+		point davantage, et je veux estre rayé du nombre des vivans s’il
+		ne vous aime, ou plustost s’il ne vous adore. Mais le sujet qui m’a
+		fait venir en ce lieu, et celuy de tout le discours que jusqu’icy je
+		vous ay fait, n’a esté que pour sçavoir ce que vous venez
+		de me dire de Palinice et de Clorian. Car et Alcandre et moy nous ne
+		pouvions imaginer pourquoy vous le traitiez si cruellement, veu
+		l’extreme affection qu’il vous porte, et la discretion avec laquelle il
+		vous aime, nous semblant qu’il n’y avoit pas grande apparance qu’il
+		fust rudoyé de la sorte, veu son merite et le desirs qu’il avoit
+		de vous faire service. Maintenant je voy bien qu’il n’y a point eu de
+		mauvaise volonté de vostre costé, mais que
+		l’importunité seul de Clorian et de sa sœur en ont esté
+		la cause. Vous plaist-il pas que nous le croyons ainsi, et que pour la
+		satisfaction, ou plustost pour la conversation de la vie de mon cher
+		maistre, je le luy fasse entendre de cette façon?</p>
+		<p>Et parce qu’elle ne parloit point, et qu’au lieu de luy respondre, elle
+		s’estoit levée, et se promenoit doucement par la chambre, il
+		continua de cette sorte: Je me suis plusieurs fois estonné du
+		bon-heur de quelques personnes et du mal-heur des autres, car j’en ay
+		veu qui avoient plus de bien qu’ils ne meritoient, et d’autres qui ne
+		pouvoient obtenir ceux desquels chacun les jugeoit dignes. En cette
+		occasion, nous pouvons bien justement faire cette mesme consideration,
+		car avec quelle justice l’honneur de vos bonnes graces peut-il estre
+		desnié à Alcandre, ou avec quelle raison Clorian aura-t’il
+		l’absolu pouvoir qu’il emporte sur vostre volonté,
+		puis que, qui considerera le merite de l’un et l’autre, [524/525] sera
+		bien privé de jugement, s’il ne prefere, en tout Alcandre; mais
+		quand il n’y auroit que cette seule consideration, elle vous devroit
+		emporter de son costé, Clorian use d’un si grand empire sur
+		vous, qu’il semble que vous luy soyez de beaucoup inferieure, et au
+		contraire Alcandre vous respecte et honore de telle façon que si
+		vous estiez sa déesse, il ne sçauroit vous servir ny vous
+		reverer davantage. Et c’est une chose qui est difficile d’estre creue,
+		et que toutesfois nous voyons estre vraye: vous usez de toute sorte de
+		soubmission envers qui vous foule aux pieds, et de toute espece de
+		cruauté et de mespris envers qui vous adore. – Ha! reprit
+		Circéne, de mespris? vous vous trompez, j’estime Alcandre comme
+		je dois, et comme son merite y oblige tous ceux qui le cognoissent. –
+		Je vous assure, reprit alors Belisard, que vous le gratifiez fort d’en
+		faire l’estime que font tous ceux qui le cognoissent. N’estes-vous pas
+		obligée à quelque chose davantage, puis qu’il ne vit ny
+		ne veut vivre que pour vous servir. – Et que voulez-vous,
+		respondit-elle en sousriant, que je fasse de plus? – Que sert-il que
+		je vous le die? adjousta-t’il.
+		Et à ce mot, ils s’approcherent de la table, où sans
+		songer à ce qu’il faisoit, il prit une plume, et alors tirant
+		quelques lignes sur du papier sans dessein: Pourquoy, continua-t’il,
+		vous le diray-je, puis qu’aussi bien vous n’en ferez rien? –
+		Peut-estre, reprit-elle en sousriant, vous avez deviné, mais
+		peut-estre aussi vous trompez-vous. – Respondez-moy premierement
+		à une chose que je vous veux demander: aimez-vous, ou
+		voulez-vous mal à Alcandre? – Vrayment, respondit-elle en
+		sousriant, vous me faites une gracieuse demande, et pourquoy hayrois-je
+		une personne qui a tant de merite, et qui ne m’en donne point
+		d’occasion? – Si vous dites vray, reprit-il, pourquoy le traittez-vous
+		avec tant de rigueur? – Je ne sçay, dit-elle, ce que vous
+		appelez rigueur. – Quand vous le voyez, repliqua Belisard, vous vous
+		tournez de l’autre costé; s’il s’approche, vous le fuyez; s’il
+		parle à vous, vous ne luy respondez point, ou si vous y estes
+		forcée, c’est tousjours avec des demy-mots et bref toutes ces
+		autres façons mesprisantes et dont vous n’usez qu’envers luy. –
+		Veux-tu, Belisard, luy dit-elle en luy mettant une main sur l’espaule,
+		que je te parle franchement? je n’ay jamais creu que toy ny ton
+		maistre eussiez si peu d’esprit que vous en avez. Dy moy, je te
+		supplie, si je traitte differemment Alcandre de tout autre, n’est-ce
+		pas signe que je le tiens en autre rang que tous les autres? [525/526]
+		Va, Belisard, et apprends que les femmes sont bien souvent contraintes
+		de faire semblant de ne voir point ce qu’elles voyent, et de voir au
+		contraire ce qu’elles ne voyent point. – O dieux! dit-il,
+		Circéne, que je remercie de bon cœur mon ignorance, puis que
+		vous m’avez appris la seule chose que je desirois sçavoir! et
+		que cette leçon apportera de contentement à la personne
+		du monde qui est maintenant la plus affligée, et que je rendray
+		la plus contente bien-tost et la plus heureuse.</p>
+		<p>Et à ce mot, reprenant la plume, il se remit à brouiller
+		le papier, cependant que Circéne reprenant son promenoir le long
+		de la chambre, pour ne donner soupçon à Andronire de leur
+		si long discours, de temps en temps venoit voir ce qu’il escrivoit, car
+		Belisard, de qui l’esprit est excellent, avoit la reputation de mettre
+		aussi bien par escrit que personne qui fust en la Cour. Et cela fut
+		cause qu’elle luy dit fort haut: Que n’escrivez-vous quelque chose de
+		bon et non pas brouiller seulement mon papier? – Si vous voulez,
+		dit-il, approuver ce que j’escriray, vous verrez que je ne seray point
+		paresseux à vous obeir. – Si c’est chose qui se doive,
+		respondit-elle, je le feray. – O, reprit-il, Circéne! que
+		j’estimerois ce soir heureux si vous le vouliez faire. – Je le feray
+		sans doute, repliqua-t’elle, pourveu qu’il se puisse; mais qu’est-ce
+		que vous voulez escrire? – Vous le verrez, dit-il, et ne me croyez
+		jamais pour vostre serviteur, si j’y mets chose
+		qu’avec raison vous puissiez desadvouer.</p>
+		<p>Et lors, prenant un autre papier, il escrivit ce billet.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">BILLET DE CIRCÉNE</head>
+		<h3>A ALCANDRE</h3>
+		<milestone type="space"/>
+		<p>L’assurance que vos actions m’ont donnée de vostre
+		amitié m’oblige, pour n’en estre point mescogoissante de vous
+		aymer, et de faire estat de vostre merite, comme d’une personne que je veux honorer toute ma vie.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Cependant qu’il l’escrivoit, elle l’alloit lisant, et sousrioit en
+		elle-mesme. Or bien! dit alors Belisard, tenez-moy la parole que vous
+		m’avez donnée; faites à cette heure ce que vous m’avez
+		promis. – Et quelle promesse, dit-elle, vous ay-je faite? – Vous
+		m’avez assuré, respondit-il, que si c’estoit chose que vous
+		deus-[526/527]siez, vous approuveriez ce que j’escrirois. Ay-je rien
+		escrit qui ne soit vray, et que vous ne deviez advouer? – Je ne
+		sçay, reprit-elle, à qui cet escrit s’adresse, ny au nom
+		de qui vous l’escrivez. – Vous pouvez aisément juger, dit-il,
+		qu’il est raisonnable, pour me rendre croyable, que j’emporte ce
+		tesmoignage au plus fidele serviteur que vous aurez jamais. – Mais
+		quand tout cela seroit, respondit-elle, que voulez-vous que j’y fasse?
+		– Je veux, repliqua-t’il, que vous approuviez ce que j’ay escrit. –
+		Ce n’est pas assez, adjousta-t’il, il faut que vous y mettiez vostre
+		nom. – Et puis alors, continua-t’il, vous aurez satisfait à
+		vostre promesse et je seray content. – Mais ce n’est pas ce que je
+		demande, respondit-elle, je veux sçavoir que deviendra ce
+		billet, et à quoy se resoudra tout ce mystere? – Il ne faut
+		pas, dit-il alors, en luy mettant la plume en la main, et la luy portant
+		sur le papier, il ne faut pas estre si curieuse; faites seulement ce
+		que vous avez promis, et puis nous en parlerons davantage.</p>
+		<p>Et lors presque par force il luy fit escrire Circéne et parce
+		qu’incontinent il retira le papier: Non non, dit-elle, je le veux
+		ravoir, car je n’ay pas promis de le vous laisser, mais seulement de
+		l’approuver. – Il est vray, respondit-il, mais aussi ne vous ay-je pas
+		promis de vous le rendre; de sorte que je ne manque non plus à
+		ma parole que vous à la vostre. – Et bien! dit-il, vous l’aurez
+		à condition que ce sera des mains d’Alcandre.</p>
+		<p>Avec semblables discours, parce qu’il se faisoit tard, il luy donna la
+		bonsoir, et elle, voyant qu’il emportoit, s’approchant de luy: J’ai
+		appris, dit-elle, en sousriant, qu’il faut donner ce que l’on ne peut
+		vendre; dites pour le moins à Alcandre de quelle façon
+		vous m’avez trompée. – Ce ne sera pas, luy dit-il en s’en
+		allant, ce que je luy diray, mais ouy bien qu’il est plus heureux qu’il
+		n’a jamais pensé estre. Et sans attendre autre responce, il me
+		vint trouver, et parce que j’estois seul dans le logis, je m’estois
+		amusé à escrire du sujet qui me touchoit le plus, et
+		à l’heure mesme que Belisard revint, il
+		trouva que je finissois ces vers. [527/528]</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">SONNET</head>
+		<h3>Quoy qu’elle le mesprise, il la veut aymer.</h3>
+		<milestone type="space"/>
+		<p> Pourquoy la dois-je aimer, cette belle inhumaine,</p>
+		<p>Puisque je cognoy bien qu’en fin je luy desplais,</p>
+		<p>Et qu’un mespris cruel de tout ce que je fais,</p>
+		<p>Sera le seul loyer d’une si grande peine?</p>
+		<milestone type="space"/>
+		<p>Retirons nous, mon cœur, d’une amitié si vaine,</p>
+		<p>Sans souffrir que l’espoir nous flatte desormais.</p>
+		<p>Que sçaurois-je esperer que sa haine à jamais,</p>
+		<p>Si mon affection est cause de sa haine?</p>
+		<milestone type="space"/>
+		<p> O Dieu! qu’il est facile à l’amant de parler!</p>
+		<p>Mais de tout de beautez se pouvoir demesler,</p>
+		<p>Celuy n’aima jamais qui peut estre si sage.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Au mesme temps que Belisard entra, j’achevois d’escrire ces vers,
+		et parce qu’ordinairement je les luy communiquois, devant que luy
+		demander s’il avoit veu Circéne, je les luy fis lire, afin d’en
+		sçavoir son advis, d’autant que, comme je vous ay dit, il avoit
+		un tres-bon esprit, et jugeoit fort bien de semblables choses. Mais
+		à ce coup, à peine se pust-il donner le loisir de les
+		lire, que les jettant sur la table: Ces vers, me dit-il, ne sont non
+		plus de saison que les docteurs en temps de guerre. – Qu’est-ce,
+		Belisard, adjoutay-je, que tu veux dire? – Je veux dire, reprit-il, en
+		se mettant les mains sur les costez, qu’il n’y a qu’un Belisard au
+		monde pour remettre une affaire qui estoit desesperée. Qu’est-ce
+		que vous parlez de mespris, de rigueur et de cruauté? rien
+		qu’amour, rien que faveurs.</p>
+		<p>Jettant la plume alors que j’avois encore entre mes mains, je courus
+		l’embrasser en luy disant: Te mocques-tu point, Belisard? est-il
+		possible que Circéne t’ait rendu quelque tesmoignage de bonne
+		volonté pour moy? – Je m’assure que vous estes tellement
+		preoccupé, me dit-il, de l’opinion que vous avez, que
+		mal-[528/529]aisément croirez-vous à mes paroles. Mais
+		oyez bien ce que je vay vous dire, et puis demandez m’en quelque
+		assurance, qu’avec raison vous puissiez dés à cette heure
+		pretendre, et je m’assure que je vous la donneray. Je vous dis donc que
+		non seulement Circéne a agreable d’estre servie de vous, mais de
+		plus qu’elle vous aime, et que voulez-vous pour preuve de ce que je dis
+		? – Ah! Belisard, m’escray-je, transporté de trop de
+		contentement, dois-je croire une si bonne nouvelle? – Je
+		sçavois bien, reprit-il, que vous seriez incredule, et c’est
+		pourquoy dés le commencement je vous ay offert de vous en donner
+		une telle assurance, que vous pussiez adjouter foy à ce que je
+		dirois; or pensez laquelle seroit assez forte pour faire que vous me
+		voulussiez, donner creance. – Jures-en, luy dis-je, par l’amitié
+		que tu me portes. – Celle-là, me dit-il, en effet est
+		tres-grande, et je ne pense pas en pouvoir trouver une qui le soit
+		davantage; mais d’autant qu’il faut mesme que vous vous serviez de la
+		foy que vous avez en moy, je veux vous en donner une où cette
+		creance que vous avez en moy n’ait point de lieu. – Jure-le, luy
+		dis-je, par l’amitié que je porte à Circéne. – les
+		sermens, respondit-il, ne sont que des paroles, et je veux vous donner
+		quelque preuve que vous voyiez et que touchiez. – M’apportes-tu,
+		repris-je, pour marque de ce que tu dis quelque chose que j’aye veu
+		dessus elle ou entre ses mains? – Plus, repliqua-t’il. – Je te
+		conjure, luy dis-je alors, saisi d’impatience, ne me retiens plus long
+		temps privé du bien que tu me veux faire. – Vous
+		contenterez-vous, repliqua-t’il, et me croirez-vous une autrefois, si
+		maintenant je vous fais voir par escrit que ce que je vous ay dit est
+		vray? – O dieux! m’escriay-je, j’ay peur que tes promesses soient
+		trop grandes. – Or je veux montrer, reprit-il, que mes effects sont
+		encore plus grands que mes promesses, car non seulement vous le verrez
+		par escrit, mais que c’est à vous à qui elle l’escrit.</p>
+		<p>Et lors me donnant le billet: Voyez-vous, continua-t’il, comme ce
+		contact d’amour duquel j’ay esté le secretaire, a esté
+		signé et approuvé de sa belle main, et jugez que signifie
+		cette Circéne qu’elle vous envoye, sinon qu’elle vous donne
+		celle-cy, en attendant qu’elle vous fasse possesseur de l’autre.</p>
+		<p>Vous pourrois-je dire, Hylas, ny mon ayse ny mon ravissement? Je
+		baisay cent fois ce beau nom de Circéne, et me le joignant
+		contre le cœur, il me sembloit que j’en recevois une consolation qui ne
+		se peut imaginer. Et parce en fin que je m’estonnois [529/530] comme il
+		estoit possible qu’il eust pu obtenir cette declaration d’elle, puis que
+		ne luy ayant jamais escrit, il me sembloit que ce n’estoit pas bien
+		à elle de commencer, il me raconta d’un bout à l’autre
+		tous les discours qu’ils avoient eus ensemble, sans en oublier une
+		moindre parole. Je l’escoutois si attentivement et avec un si grand
+		plaisir que je n’eusse jamais voulu que ce discours eust finy: Masi en
+		fin, me dit-il, c’est la verité, mon maistre, que cette fille
+		n’a pas seulement le corps fort beau, mais l’un des plus rares esprits
+		que l’on puisse imaginer, et que sa jeunesse, encore que bien grande,
+		ne luy oste point la prudence et la sagesse. Et croyez-moy que vous
+		estes obligé de l’aymer, non seulement pour cette extreme
+		beauté que vous voyez en elle, mais plus encore pour la bonne
+		volonté qu’elle vous porte. Car, outre ce que vous en voyez par
+		escrit, je vous asseure que ses discours me l’ont bien mieux
+		tesmoigné et que toutes ces actions qui vous ont mis en peine
+		n’ont esté que des contraintes qu’elle faites pour n’oser pas
+		faire autrement; mais que ne devez-vous pas attendre, puis que
+		dés la premiere fois j’ay obtenu plus
+		que vous n’eussiez osé esperer?</p>
+		<p>Nostre discours n’eust pas si tost finy, car je ne me pouvois lasser de
+		luy faire dire et redire cent fois une mesme chose, n’eust esté
+		que Florice et Amilcar revindrent de cette assemblée où
+		tous deux avoient eu du desplaisir et du contentement, car Lucindor et
+		Cerinte s’y estoient trouvez, qui n’avoient gueres abandonné
+		Florice. Sileine aussi avoit tenu bonne compagnie à Palinice, de
+		sorte qu’Amilcar ne pust guere parler à elle sans compagnie.
+		Soudain que je les vis, rompant nostre propos, Belisard et moy, je les
+		pris tous deux par la main, et les retirant à part: Or sus,
+		leur dis-je, je veux participer à vos contentements, afin que ce
+		soir qui a esté si mal employé pour moy, ne se passe
+		point, au moins entierement, sans me donner quelque plaisir.</p>
+		<p>Ils sousrirent tous deux, et Florice prenant la parole: Quant à
+		moy, dit-elle, j’ay veu Lucindor et Cerinte. – Et moy, continua
+		Amilcar, pour mon bon-heur, Palinice, et pour mon malheur, Sileine
+		auprés d’elle. – Or, reprit Florice, je ne vous puis dire rien
+		de nouveau, sinon que je suis la fille du monde la plus
+		persecutée de leurs importunitez, ou plustost de leurs jalousies
+		; car figurez-vous que je ne puis parler à l’un, que, si
+		à mesme temps, je n’ay l’œil sur l’autre, il n’en demeure mal
+		satisfait. Et bien souvent avec toute la peine que je m’en donne, je
+		les desoblige [530/531] tous deux, car celuy à qui je parle est
+		marry que je ne le reagrde pas, et celuy que je regarde, que ce n’est
+		luy à qui je parle, et ce soir j’ay eu peur deux ou trois fois
+		qu’ils ne vinssent à quelques paroles picquantes, car j’en ay
+		veu le discours ouvert diverses fois, si promptement je ne l’eusse
+		rompu. – Pour moy, ma sœur, luy dis-je, si vous avez à en aymer
+		l’un des deux, je vous supplie que ce soit Lucindor, car il est frere
+		de Circéne, et luy dites, pour l’obliger, que c’est moy qui
+		tiens son party auprés de vous. – Tant s’en faut, adjousta
+		Amilcar en sousriant, je vous conjure, ma sœur, d’aymer Cerinte, parce
+		qu’il est frere de Palinice, et lui faites bien entendre que je vous en
+		ay suppliée. – Mes freres, mes amis, interrompit Florice, pour
+		l’amour de vous, dit-elle, se tournant vers Alcandre, je ne feray point
+		d’estat du frere de Circéne, et pour l’amour de moy je ne me
+		soucieray, ny de Lucindor, ny de Cerinte.</p>
+		<p>Nous ne pusmes nous empescher de rire de ceste declaration, et apres,
+		reprenant la parole: Aymez-les, luy dis-je, ou ne les aymez point,
+		c’est le moindre de mes soucis, pourveu que vous fassiez semblant de ce
+		que je dis. Mais vous, Amilcar, continuay-je, quelle fortune avez vous
+		eue? – Fort gracieuse, respondit-il, pour le commencement, mais la fin
+		n’a pas esté telle. Lors que nous sommes arrivez dans
+		l’assemblée, Sileine n’y estoit point encore, si bien que
+		trouvant la place libre, pour n’estre mauvais mesnager de ce temps, je
+		luy ay dit: Que j’eusse voulu de mal à mon frere si je m’en
+		fusse allé avec luy, comme il m’a voulu emmener. – Peut-estre,
+		me respondit-elle, y eussiez-vous eu plus de contentement que vous n’en
+		recevrez pas icy. – A la verité, repliquay-je, il n’y a personne
+		qui le puisse deviner plus content et le plus malheureux homme du
+		monde, et seulement avec une parole. – Si cela est, adjousta-t’elle, il
+		faut que vous mettiez vostre heur ou vostre malheur en peu de chose. –
+		Non pas cela, respondis-je, mais c’est que je fais tant d’estat de vous
+		que les moindres choses qui viennent de vous me semblent tres-grandes.
+		– Prenez garde, me dit-elle, Amilcar, que ce qui vous semble tel, en
+		effect ne le soit pas. – Pleust à Dieu, repliquay-je, belle
+		Palinice, qu’il vous plust de m’en faire juger avec l’experience. – Et
+		que faudroit-il que je fisse, dit-elle, pour vous rendre aussi
+		sçavant? – Je voudrois, continuay-je, que vous disiez [531/532]
+		seulement: J’ayme Amilcar. – Ce mot ne sied pas bien, dit-elle, en la
+		bouche d’une honneste femme. – Dites donc, repris-je: L’amour
+		qu’Amilcar me porte m’est agreable. – comment, reprit-elle en
+		sousriant, voulez-vous que je le die, si mesme je ne croy pas qu’il
+		soit vray? – O Dieu! me suis-je escrié, vous ne le croyez pas? Ah!
+		mescognoissante Palinice, et que faut-il donc que je fasse pour vous
+		en donner la creance? – Si ceste creance, a-t’elle respondu, vous
+		pouvoit estre utile, il en faudroit chercher les moyens, mais autrement
+		je ne le vous conseille pas. – Et lors que vous ne pourrez plus
+		l’ignorer, ay-je repliqué, l’aurez-vous agreable? – De
+		l’advenir, a-t’elle dit, les jugemens sont fort incertains, et
+		mal-aisément en peut-on asseurer quelque chose. – A quoy faut-il
+		donc que je recoure? ay-je respondu. Et en mesme temps Sileine est
+		arrivé, qui nous a empesché de continuer nostre discours,
+		sinon qu’elle m’a dit fort bas: A l’essai. Et depuis, de tout le soir,
+		nous n’avons pu parler sans ce fascheux tesmoin. Nous nous allions
+		entretenant de la sorte et j’apprenois ainsi leurs fortunes, sans que
+		je leur fisse part des miennes, non pas que je ne voulusse bien qu’ils
+		les sceussent, mais je craignois de deplaire à Circéne
+		que je voyois estre si contrainte pour l’authorité que Palinice
+		et Clorian s’y estoient usurpée. Et d’autant qu’il estoit tard,
+		nous nous retirasmes pour nous reposer; mais j’entretins encore
+		Belisard dans ma chambre si long-temps, en luy faisant raconter cent
+		fois une mesme chose, que le jour commença de paroistre, devant
+		que je luy voulusse permettre de se retirer. Le soleil nous pressant,
+		nous prismes resolution qu’il falloit gaigner auprés de
+		Circéne la fille qui la servoit, estant presque impossible de se
+		defendre de ses yeux, et puis que Belisard avoit desja esté si
+		heureux en sa premiere entreprise, je luy remis de telle sorte la
+		conduite de toutes choses que je m’en reposay entierement sur luy.</p>
+		<p>Ce discours seroit trop long, Hylas, si je voulois vous raconter par le
+		menu tout ce que nous fismes, tant mon frere et moy, que ces autres
+		quatre chevaliers. Tant y a que Belisard, travailla si bien qu’il
+		s’acquit non seulement un grand credit envers Circéne, mais
+		aussi se rendit entierement sienne Andronire. Mais, par malheur, je fus
+		contraint en ce temps-là de faire un voyage pour le bien de
+		nostre maison dans le pays des Veragrois, ou ma mere, quoy que je
+		sceusse faire, voulut que j’allasse fort promptement. Dieu sçait
+		si ce depart me fut sensible, et si je n’eusse pas volon-[532/533]tiers
+		donné cette charge à Amilcar! Mais d’autant que j’estois
+		l’aisné et par conséquent celuy à qui le bien
+		arrivoit, il fallut se resoudre à ce fascheux depart. Je me
+		souviens que Belisard porta à Circéne ces vers de ma part.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">SONNET</head>
+		<h3>Il est prest à partir.</h3>
+		<milestone type="space"/>
+		<p>Que ma vie en fuyant devance ce depart.</p>
+		<p>Aussi bien, m’en allant, puis-je avoir quelque envie</p>
+		<p>De prolonger encor les tourmens de ma vie?</p>
+		<p>La mort, loing de ses yeux, ne viendra que trop tard.</p>
+		<milestone type="space"/>
+		<p>Si je ne vis, helas! que de leur doux regard,</p>
+		<p>Quand l’absence m’aura ceste beauté ravie,</p>
+		<p>Quel desir mal-heureux encore m’y convie?</p>
+		<p>Veux-je, mourant icy, vivre en quelqu’autre part?</p>
+		<milestone type="space"/>
+		<p>L’amant à qui le Ciel de l’esloigner ordonne,</p>
+		<p>Doit mourir de regret devant qu’il abandonne,</p>
+		<p>Ou vivre seulement pour remourir tousjours.</p>
+		<milestone type="space"/>
+		<p>Que rien donc desormais mon ame ne console!</p>
+		<p>C’est en vain abuser du bien de la parole</p>
+		<p>Que vouloir alleger ce mal par le discours.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Mais voyez si la fortune ne vouloit pas bien esprouver ma
+		resolution! Lors que mon voyage fut en tel estat qu’il m’estoit
+		impossible de le retarder, sans donner une trop grande cognoissance de
+		ce que je voulois tenir caché, Circéne tomba malade, fust
+		pour les grandes chaleurs (car c’estoit environ le temps des jours
+		caniculaires), ou pour quantité de fruicts que les jeunes
+		personnes mangent en cette saison. Tant y a que la voylà dans le
+		lict avec une grande fievre. O Hylas! combien de fois desiray-je
+		qu’Amilcar fust mon aisné ou pour le moins que nous eussions
+		perdu toute l’esperance de ce bien que j’allois receuillir? Et le pis
+		estoit que jamais ou Clorian, ou Palinice ne bougeoit du chevet de son
+		lict, et le plus souvent tous les deux y estoient, de sorte que, quand
+		en fin il fallut que je partisse, il me fut impossible de parler
+		à elle [533/534] sans ces deux importuns tesmoins. Jugez quel
+		congé je pris, et quelle satisfaction j’eus de mon adieu!
+		C’estoit ma coustume d’emmener tousjours Belisard avec moy, à
+		cause que je l’aymois comme un autre moy-mesme, mais à ce coup je
+		le laissay exprés, afin qu’il essayast de donner une lettre
+		à ceste belle fille, et quelques vers qui tesmoignoient l’ennuy
+		que je recevois de cet esloignement, et m’en faire sçavoir des
+		nouvelles. La lettre estoit telle.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">LETTRE D’ALCANDRE</head>
+		<h3>A CIRCÉNE</h3>
+		<milestone type="space"/>
+
+		<p>O dieux! quelle sera la fin de ce voyage, puisque le
+		commencement en est si-mal-heureux? Partir, et sans presque pouvoir
+		parler, vous laisser malade dans un lict, ne sont-ce pas trois
+		malheurs, contre lesquels de mon costé il n’y peut point avoir
+		de resistance? Vous plaist-il toutesfois que je vive? Plaignez ma
+		peine, et prenez quelque part en mon extreme desplaisir.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Quant aux vers que je luy donnay à part, ils estoient tels.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">STANCES</head>
+		<h3>Sur le desplaisir d’un depart.</h3>
+		<milestone type="space"/>
+		<h4>I</h4>
+		<milestone type="space"/>
+		<p>Destin! vous le voulez, il faut que je vous cede,</p>
+		<p>Rien ne peut revoquer l’arrest de mon depart,</p>
+		<p>O combien promptement fuit le bien qu’on possede!</p>
+		<p>Et quand il s’en revient, ô dieux! qu’il revient tard!</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>II</h4>
+		<milestone type="space"/>
+		<p>Le bon-heur des amans, d’une aisle trop legere,</p>
+		<p>S’enfuit d’eux aussi-tost qu’il a commencement,</p>
+		<p>Semblable à la clairté du foudre messagere,</p>
+		<p>Dont la vie et la mort se font dans un moment. [534/535]</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>III</h4>
+		<milestone type="space"/>
+		<p>Que ne suis-je un Acis accrazé d’une pierre!</p>
+		<p>Pour voir tousjours mes yeux dans une source d’eau,</p>
+		<p>Ou pour tige si beau, que ne suis-je un lyerre,</p>
+		<p>Pour ne m’en separer mesme dans le tombeau!</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>IV</h4>
+		<milestone type="space"/>
+		<p>Que sera-ce de vous, ô mes tristes paupieres!</p>
+		<p>Quand vous ne verrez plus Circéne en ces beaux lieux?</p>
+		<p>Vous pouvez bien, helas! vous changer en rivieres:</p>
+		<p>Loing d’elle, qu’ay-je affaire aussi bien de mes yeux?</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>V</h4>
+		<milestone type="space"/>
+		<p>Autresfois prés de vous, ô ma belle inhumaine!</p>
+		<p>Je n’avois, bien-heureux, des yeux que pour vous voir.</p>
+		<p>Maintenant je n’en ay que pour pleurer ma peine:</p>
+		<p>Encore pour cela n’en puis-je assez voir.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>VI</h4>
+		<milestone type="space"/>
+		<p>Que cet esloignement nous coustera de larmes</p>
+		<p>Qui ne se tariront que par nostre retour!</p>
+		<p>Amour doncc, à jamais, par l’effort de tes charmes,</p>
+		<p>Tu mesleras ensemble et les maux et l’amour.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>VII</h4>
+		<milestone type="space"/>
+		<p>Donc à jamais cruel, d’une injuste ordonnance</p>
+		<p>Les fruicts de ton jardin s’arroseront de pleurs?</p>
+		<p>Et de mille chardons nous recevrons l’offence</p>
+		<p>Devant que de cueillir la moindre de tes fleurs?</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>VIII</h4>
+		<milestone type="space"/>
+		<p>Que nos sages Gaulois sçavoient bien ta coustume,</p>
+		<p>Lors que pour dire aymer, ils prononçoient amer! [535/536]</p>
+		<p>Amers sont bien tes fruicts, et pleines d’amertume</p>
+		<p>Sont toutes les douceurs qu’on a pour bien aymer.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>IX</h4>
+		<milestone type="space"/>
+		<p>Helas! qui ne le sçait, s’en vienne voir Alcandre:</p>
+		<p>Il verra que son cœur est tout couvert de fiel,</p>
+		<p>Et que quand du hasard quelque heur il peut attendre</p>
+		<p>Un depart fait changer en absinthe son miel.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>X</h4>
+		<milestone type="space"/>
+		<p>Si faut-il s’en aller, quoy que je sçache faire,</p>
+		<p>Je puis plaindre mon mal, mais non m’en exempter,</p>
+		<p>Le Destin veut monstrer par cet effet contraire,</p>
+		<p>Qu’amour vainqueur des dieux ne l’a pu surmonter.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>XI</h4>
+		<milestone type="space"/>
+		<p>Adieu donc, ô Circéne, il faut que je flechisse</p>
+		<p>A la necessité qui m’esloigne de vous,</p>
+		<p>Mais si vous partagez avec moy ce supplice,</p>
+		<p>Quel tourment puis-je avoir qui ne me semble doux?</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>A la premiere occasion que se presenta, Belisard s’acquitta de
+		sorte de la charge que je luy avois donnée, qu’il trompa les
+		yeux, non seulement de Palinice et de Clorian, mais encore d’une
+		surveillante qu’ils avoient mise auprés d’elle, estans entrez en
+		quelque soupçon d’Andronire. Cependant je continuois mon voyage
+		avec tant de regret de n’avoir pu parler à elle, que, n’eust
+		esté l’esperance que j’avois en l’assistance de Belisard, je ne
+		sçay ce que je fusse devenu.</p>
+		<p>Durant mon voyage, Amilcar entreprit si soigneusement la recherche de
+		Palinice, que Sileine, frere aisné de Circéne,
+		commença d’en entrer en une peine qui n’estoit pas petite. Ce
+		Sileine, comme vous sçavez, est un chevalier tres-accomply, et
+		qui n’a personne qui le surpasse, et fort peu qui l’esgale en l’adresse
+		des armes, ny en tout ce qui concerne un chevalier. Dans les behours et
+		dans les tournois, il a tousjours l’advantage au jugement de tous ceux
+		qui le voyent, et cela est cause que comme il est en [536/537] bonne estime
+		auprés de chacun, aussi n’a-t’il point mauvaise opinion de
+		soy-mesme, courtois toutesfois, et plein de respect envers ses amis,
+		mais un peu imperieux en son affection, et qui pense autant obliger une
+		dame en l’aymant, qu’elle luy sçauroit faire de faveur en se
+		laissant aymer. Ce chevalier ayant esté nourry dans la cour du
+		roy Gondebaut, estant encore fort jeune, jetta les yeux sur Palinice.
+		Et d’autant que leurs maisons estoient fort proches, et qu’estant bien
+		souvent en la Cour de la reyne, femme de Gondebaut, il avoit eu
+		commodité de la voir, cette affection peu à peu devint
+		tres-grande, non seulement du costé de Sileine, mais de celuy de
+		Palinice aussi. Toutesfois, parce que le prince Sigismond qui pouvoit
+		estre d’un mesme aage, se rendit amoureux en mesme temps de cette
+		belle fille, le respect leur fit dissimuler leur amour, et donna
+		occasion à Sileine de s’en esloigner. Et quoy que ce qu’en
+		continuant ceste feinte, Sileine tourna les yeux sur Dorise et quoy
+		qu’il le nie, si croit-on qu’il s’y laissa prendre, n’en faisant que
+		semblant. Palinice, comme jeune qu’elle estoit, et qui avoit consenty
+		à cet artifice pour ne donner point de sujet au prince Sigismond
+		de se retirer de l’affection qu’il luy faisoit paroistre, ne monstra
+		point de ressentiment de la perte de Sileine, tant que Sigismond
+		continua de l’aymer, mais il advint quelque temps apres que ce jeune
+		prince, de qui l’humeur n’estoit pas fort endurante, pour quelque sujet
+		se retira de cette affection. – Il me semble, interrompit Hylas,
+		qu’estant à Lyon, j’en ouys parler, et que l’occasion n’en fut
+		pas grande. – On la raconte diversement, reprit Alcandre, mais la plus
+		commune opinion c’est que Palinice accommondant quelque chose à
+		la coiffure de la reyne, mere de Sigismond, car cette princesse la
+		favorisoit grandement, ce jeune prince luy vint prendre les doigts pour
+		se jouer et sans que la reyne le vit. Elle qui peut-estre eut peur
+		qu’elle ne s’en apperceust, retira la main par deux ou trois fois, et
+		parce qu’il continuoit: Seigneur, luy dit-elle, je vous supplie,
+		laissez-moy. Et d’autant qu’elle prononça ces paroles un peu
+		aigrement, à la seconde fois qu’elle les repliqua, il luy
+		dit: Voulez-vous en effet que je vous laisse? Et parce qu’elle
+		respondit de mesme façon qu’elle l’en supplioit: Je vous
+		permets, repliqua-t’il en rougissant, que vous n’aurez jamais occasion
+		de me le dire la troisiesme fois. Et dés lors il la laissa, de
+		façon que jamais il ne fit non plus semblant d’elle que comme
+		d’une personne indiffe-[537/538]rente. Le sujet à la
+		verité de cett separation fut bien foible, si est-ce qu’il eut
+		tant de force que jamais depuis cette affection ne se renoua.</p>
+		<p>Quelque temps auparavant, Sileine faisant semblant d’aymer Dorise,
+		tres-belle et tres-agreable fille, s’y estoit embarqué à
+		bon escient, monstrant bien par cette experience que les feintes en
+		amour sont tres dangereuses, parce qu’amour n’est qu’un jeu et
+		qu’en se jouant on vient quelquesfois à bien aymer. Le despit de
+		la perte de Sigismond et le desplaisir du divertissement de Sileine
+		furent cause que Rossiliandre, la recherchant, obtint en fin cette
+		belle fille, à quoy elle consentit d’autant plus volontiers
+		qu’elle estoit bien aise d’esloigner pour quelque temps cette Cour
+		où elle ne voyoit plus que des choses qui luy desplaisoient; et
+		de fortune Rossiliandre avoit sa demeure dans les plus reculez Sebusiens.</p>
+		<p>Mais voyez si Amour n’est pas un enfant: Sileine ne vid pas plustost
+		Palinice partie, qu’il se ressouvint qu’autrefois il l’avoit
+		aymée, et commença dés lors de regretter
+		l’esloignement de celle de la presence de laquelle il ne s’estoit point
+		souicié. Ce ne furent donc depuis ce temps que lettres et que
+		message, et cet amour reprit plus de chaleur de loing qu’il n’avoit pas
+		eu de prés. Et toutesfois il faut advouer qu’en la peine qu’ils
+		en ressentirent tous deux, Amour se monstra tres-juste, si jamais il
+		l’a esté, punissant l’inconstance, ou plustost l’imprudence de
+		ces deux jeunes amans par une absence de deux ans, durant lesquels ils
+		eurent tousjours une assez bonne intelligence pour n’estre jamais sans
+		des nouvelles l’un de l’autre.</p>
+		<p>En fin le Ciel quui favorise ordinairement les affections de ceux qui
+		ayment et continuent d’aymer, delivra Palinice de l’obligation du
+		mariage par la mort de Rossiliandre. Elle, se voyant libre, et ne
+		pouvant plus vivre parmy les Sebusiens, s’en revint au lieu de sa
+		naissance, où elle trouva le prince Sigismond marié; et
+		quoy que bien-tost apres il demeura veuf, si ne fit-il jamais semblant
+		de r’allumer les feux que son despit avoit une fois bien esteints, mais
+		Sileine, qui l’attendoit avec une impatience extreme, la receut
+		à son retour avec tant de contentement, que le recouvrement de
+		celuy-cy luy fit perdre presque la memoire de la perte de l’autre.</p>
+		<p>J’ay voulu, Hylas, vous raconter briefvement ces choses, afin de vous
+		faire mieux entendre comme Amilcar n’avoit pas
+		ren-[538/539]contré peu d’affaire, lors qu’il avoit entrepris de
+		servir Palinice, puis qu’elle estoit desja engagée ailleurs de
+		si longue main, et de plus en l’amitié d’une personne tant
+		accomplie. Et toutesfois les soings de mon frere furent tels, et
+		employez avec tant de prudence et de discretions, que Sileine ne se put
+		exempter de la jalousie, qui est assez ordinaire parmy ceux qui ayment
+		bien, et qui n’ont pas une entiere asseurance de la bonne
+		volonté de celles qu’ils recherchent.</p>
+		<p>Au commencement, Palinice faisoit paroistre qu’elle craignoit de luy en
+		donner, mais depuis, fust qu’elle eust quelque amie qui luy donnast ce
+		conseil, ou qu’elle creust que les soupçons qu’un rival peut
+		donner estoient des souffles qui esveilloient le feu languissant d’une
+		amour qui va longuement traisnant, tant y a qu’elle receut les services
+		d’Amilcar si favorablement que Sileine ne s’en pouvoit contenter,
+		faisant paroistre que, quand elle avoit donné conseil à
+		Circéne de ne point donner de la jalousie à Clorian, ce
+		n’estoit pas celuy qu’elle vouloit prendre pour elle.</p>
+		<p>Un jour qu’Amilcar et Sileine estoient dans son logis auprés
+		d’elle, et que l’un pour l’amour de l’autre ils n’osoient l’entretenir
+		de leur affection, ils vindrent à parler de la façon dont
+		on marquoit les esclaves de peur de les perdre: Je voudrois bien, dit
+		Sileine, porter en cette qualité quelque marque de vostre belle
+		main. – Vrayment, dit-elle, si vous voulez, je satisferay à
+		vostre desir. Et lors luy prenant la main: Voulez-vous,
+		continua-t’elle qu’avec la pointe de cette esguille je vous fasse mon
+		chiffre sur les bras? – Mais, dit-il, je ne l’y garderay pas
+		longuement, car il s’effacera incontinent. – Non, non, respondit-elle,
+		apres l’avoir esgratigné, j’y mettray de l’encre, et vous verrez
+		qu’il y demeurera long-temps. Sileine alors y consentant, elle
+		commença avec la pointe de l’esguille d’escorcher la peau peu
+		à peu, mais luy, impatient d’une telle douleur, ne put jamais la
+		souffrir. Alors Amilcar, tendant le bras: Tenez, dit-il, madame,
+		favorisez ce bras de cette belle marque, et vous verrez que la douleur
+		ne me privera point de ce contentement. Palinice qui n’estoit pas si
+		familiere avec mon frere: Je n’oserois, dit-elle, Amilcar, vous faire
+		le mal que vous dites. – Et toutesfois, reprit-il, vous avez bien eu ce
+		courage pour Sileine. – Il est vray, respondit-elle, mais c’estoit par
+		vengeance, car il y a long-temps qu’il m’a fait une injure de laquelle
+		je desirois le chastier. – Or bien! madame, adjousta Amilcar, faites
+		recompense à ce bras ce que vous avez voulu faire par
+		ven-[539/540]geance à Sileine. – Et quelle recompense, reprit
+		Sileine, luy pouvez-vous demander? – Envers les dieux, respondit mon
+		frere, la bonne volonté est receue pour l’effect. – et s’il est
+		ainsi, cette belle que je n’estime pas moins qu’une déesse, me
+		doit beaucoup de recompense, car j’ay beaucoup de volonté de luy
+		faire service. En ce pays où nous sommes, adjousta-t’il, les
+		dames sont si peu liberales, qu’elles ne payent pas seulement ce
+		qu’elles doivent, tant s’en faut qu’elles advancent le payement des
+		obligations qui sont encores à venir. – Il y a, repliqua mon
+		frere, des serviteurs à tous prix, outre qu’il me semble que les
+		supplications n’offencent jamais personne, et c’est par priere que je
+		luy demande cette faveur et non pas comme chose deue.</p>
+		<p>Palinice qui estoit bien aise, comme je croy, de nourrir la jalousie en
+		Sileine: Non, non, dit-elle, je veux qu’Amilcar cognoisse que vous
+		nous faites plus avares que nous ne sommes pas. Et lors, luy prenant
+		la main: Mais je ne sais, continua-t’elle, si sa resolution me laissera
+		finir le payement qu’il me demande. A ce mot elle escorcha jusques au
+		sang la premiere lettre de son nom sur son bras sans qu’il fit jamais
+		semblant d’en ressentir la douleur, et puis, avec de l’encre la plus
+		noire qu’elle put choisir, elle remplit l’esgratigneur qui entra si
+		bien dans la peau que la figure y demeura longuement empreinte, dont
+		Sileine ne pouvoit se tair e; mais elle, en se riant: Si j’avois fait
+		ainsi, dit-elle, à tous ceux qui ont esté miens, je les
+		eusse recognus quand ils s’en sont fuys, ou pour le moins je les eusse
+		pu demander avec raison à celles qui me les avoient desrobez. –
+		Si c’est par ce moyen, dit Sileine un peu offencé, et entendant
+		bien ce qu’elle vouloit luy reprocher, que vous pretendez de les
+		retenir, je croy que vous estes deceue. – Je puis bien, dit-elle,
+		essayer ce moyen, puis que j’ay trouvé tous les autres fort
+		mauvais. – Prenez garde, adjousta-t’il en s’en allant avec un visage
+		qui monstroit une fort mauvaise satisfaction, prenez garde, vous
+		dis-je, que toute la faute ne soit pas d’un costé.</p>
+		<p>Ainsi s’en alla Sileine, laissant la place libre à mon frere,
+		qui ne fut pas marry de ce petit divorce, et qui toutesfois ne dura
+		pas long-temps, car deux jours apres Sileine revint, et avec mille
+		submissions il obtint le pardon de sa colere. D’autre costé
+		Lucindor, jeune frere de Circéne, et Cerinte frere de Clorian et
+		de Palinice, qui aymoient Florice, nostre sœur, ne perdoient une seule
+		occasion de luy tesmoigner leur bonne volonté; et s’il y avoit
+		de la jalou-[540/541]sie du costé de Sileine, il n’y en avoit pas
+		gueres moins de celuy de Lucindor et de Cerinte.</p>
+		<p>Je ne veux pas icy louer Florice, parce que m’estant proche comme elle
+		est, je craindrois, Hylas, d’estre accusé de flatterie, amis
+		c’est la verité que cette fille se gouverna en cecy avec tant de
+		prudence qu’elle en estoit grandement estimable. Vous voyez sa
+		façon modeste et son esgalité en toute chose:
+		figurez-vous qu’elle ne changea jamais, ny envers l’un ny envers
+		l’autre, balançant de sorte ses faveurs, c’est ainsi qu’ils
+		nommoient le bon visage qu’elle leur faisoit, que mal-aisément
+		l’un se pouvoit-il vanter d’avoir quelque advantage par dessus l’autre.
+		Le premier qui l’ayma fut Lucindor, mais quelque temps apres, il fut
+		contraint de faire un voyage, et à son retour il trouva que
+		Cerinte, s’il n’avoit pris sa place, en avoit pour le moins obtenu une
+		qui n’estoit pas moins advantageuse que la sienne. Cela fut cause
+		qu’estant d’une humeur assez semblable à celle de Sileine son
+		frere, il faillit de perdre patience; toutesfois la discretion de
+		Florice sceut de sorte mesnager cet esprit, qu’en fin il demeura dans
+		les termes de la raison, quoy que ce ne fust sans se despiter diverses
+		fois, et n’eust esté que Cerinte estoit un chevalier fort
+		accomply et qui se faisoit aymer d’un chacun, et mesme de Lucindor, il
+		est certain que la jalousie de celuy-cy estoit telle que peut-estre en
+		fust-il arrivé de la dissention entr’eux.</p>
+		<p>Lors que ces affections estoient plus eschauffées, Florice fut
+		contrainte de sortir de la ville pour aller voir une de nos tantes qui
+		se trouvoit fort mal. Son esloignement apporta bien du desplaisir
+		à ces deux chevaliers, car il n’y a rien en amour de plus
+		insupportable que d’estre privé de la veue de la personne aymée.</p>
+		<p>Lucinor fit ces vers sur le sujet de son esloignement.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">STANCES</head>
+		<milestone type="space"/>
+		<h4>I</h4>
+		<milestone type="space"/>
+		<p>Soudain qu’elle s’en va, que ce lieu me displait;</p>
+		<p>Je n’y remarque rien qui ne me semble laid</p>
+		<p>Plus que je ne puis dire.</p>
+		<p>Ces surperbes palais, le sejour de nos dieux,</p>
+		<p>Ces jardins d’orangers que la nature admire,</p>
+		<p>Desplaisent à mes yeux. [541/542]</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>II</h4>
+		<milestone type="space"/>
+		<p>Lors confus de les voir, et plein d’estonnement:</p>
+		<p>D’où viens, leur dis-je, helas! un si grand changement?</p>
+		<p>Et qui nous l’a ravie,</p>
+		<p>Cette chere beauté que je regrette icy?</p>
+		<p>Qui l’a ravie, helas! puis qu’elle estoit ma vie,</p>
+		<p>Sans me ravir aussi?</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>III</h4>
+		<milestone type="space"/>
+		<p>Jardins delicieux, ô superbes palais,</p>
+		<p>Orangers parfumez, ombrages tousjours frais,</p>
+		<p>Sejour plein de delices,</p>
+		<p>Non, vous n’estes plus tels que vous estiez jadis!</p>
+		<p>Vous estes maintenant un enfer de supplices</p>
+		<p>Au lieu d’un paradis.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>IV</h4>
+		<milestone type="space"/>
+		<p>Ces marbres arrogants et ces lambris dorez,</p>
+		<p>Desquels, ô grands palais! vous estes honnorez,</p>
+		<p>Tesmoignent vostre perte:</p>
+		<p>Leur esclat est terny, comme portant le dueil</p>
+		<p>De vous voir maintenant une maison deserte</p>
+		<p>En perdant ce bel œil.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>V</h4>
+		<milestone type="space"/>
+		<p>Ces parterres fleuris et ces grands orangers,</p>
+		<p>L’honneur de ces jardins, et de ces beaux vergers</p>
+		<p>De tristesse languissent;</p>
+		<p>Et semble, un tel soleil s’eloignant de ces lieux,</p>
+		<p>Qu’il faille qu’à l’instant leurs beautez se fletrissent,</p>
+		<p>Qu’ils perdent ces beaux yeux.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>VI</h4>
+		<milestone type="space"/>
+		<p>Que faut-il donc, helas! que nous fassions icy?</p>
+		<p>Imitons, ô mon cœur! imitons le soucy.</p>
+		<p>[542/543] Le soucy qui se tourne, Amoureux du soleil, comme tournent ses pas:</p>
+		<p>Cette plante fait honte à l’amant qui sejourne</p>
+		<p>Où son amour n’est pas.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>VII</h4>
+		<milestone type="space"/>
+		<p>>Ainsi dit Lucindor, absent de ces beaux yeux,</p>
+		<p>Lors qu’apres leur depart il regardoit les lieux</p>
+		<p>Qui furent leur demeure.</p>
+		<p>Mais en fin ces regrets sont, dit-il, superflus;</p>
+		<p>Si sa veue est ma vie, il faut bien que je meure</p>
+		<p>Quand je ne la vois plus.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Cerinte qui aimoit avec beaucoup plus de respect Florice, ressentit
+		à la verité cet esloignement, mais il n’osoit pas mesme
+		s’en plaindre si ouvertement, quoy que, peut-estre, le ressentiment
+		qu’il en avoit n’estoit pas moindre que celuy de Lucindor. Et d’autant
+		qu’elle n’estoit pas fort esloignée de Lyon, où
+		toutesfois il n’osoit l’aller voir, il fit tels vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">SONNET</head>
+		<h3>Contre le respect.</h3>
+		<milestone type="space"/>
+		<p>Ennemy des mortels le plus ingenieux,</p>
+		<p>Respect, tyran d’Amour et de l’amant fidele,</p>
+		<p>Pourquoy me bannis-tu, sans raison, de ma belle,</p>
+		<p>Me contraignant de vivre en ces sauvages lieux?</p>
+		<milestone type="space"/>
+		<p>Elle est proche d’icy, celle que j’ayme mieux</p>
+		<p>Que je ne puis aymer tout le reste sans elle,</p>
+		<p>Et toutesfois, helas! cette loy trop cruelle</p>
+		<p>Qu’impose le respect m’esloigne de ses yeux.</p>
+		<milestone type="space"/>
+		<p>Donc pour ne faire voir qu’il est vray que je l’ayme,</p>
+		<p>Il faut vivre loin d’elle, ou plustost de moy-mesme:</p>
+		<p>O destins contre moy sans raison conjurez![543/544]</p>
+		<milestone type="space"/>
+		<p>Injustes loix d’honneur et du siecle où nous sommes,</p>
+		<p>Pourquoy faut-il aymer, et vivre separez,</p>
+		<p>Pour aux hommes cacher ce que font tous les hommes?</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Ces quatre chevaliers alloient de cette sorte poursuivant leur
+		dessein, cependant que j’estois dans Agaune, où les jours
+		m’estoient si longs et si ennuyeux, qu’il me sembloit y avoir un siecle
+		que j’y demeurois, et toutesfois à peine y avoit-il la
+		troisiesme partie d’une lune. Et parce que je vis bien que j’y serois
+		encore retenu quelques jours, que je nommois des années, le
+		desir de sçavoir des nouvelles de la santé de
+		Circéne, et de Belisard comme ma fortune estoit conduite, me fit
+		y depescher un jeune homme que je luy adressay avec une lettre pour
+		Circéne, si par son moyen elle la vouloit recevoir. E jeune
+		homme fit diligence, et fut le troisiesme jour à Lyon, où
+		Belisard de son costé commençoit de s’ennuyer, ne
+		recevant point de mes nouvelles, luy semblant bien que l’affaire pour
+		laquelle je luy avois commandé de m’esloigner, devoit avoir assez de
+		force pour me faire souvenir d’escrire plus souvent. Il
+		commençoit donc à se plaindre de mon oubly, quand mes
+		lettres luy rendirent tesmoignagequ’il me blasmoit à tort. Il les
+		receut avec un contentement extreme, parce que depuis trois ou quatre
+		jours Clorian avoit esté contraint de laisser Lyon, pour
+		quelques affaires qui le retenoient aux champs, mais en eschange
+		Palinice estoit tousjours au chevet de cette belle dame, et l’autre
+		surveillante qu’on luy avoit donnée. Mais parce qu’Almicar
+		sçavoit l’affection que je portois à Circéne, et
+		qu’il se doutoit bien que Belisard avoit charge de la faire souvenir de
+		moy, aussi-tost qu’il en pouvoit prendre la commodité, et qu’il
+		sçavoit que Palinice estoit auprés d’elle, il s’y en
+		alloit, et parlant de ses affaires, il donnoit bien souvent le moyen
+		à Belisard de faire les miennes.</p>
+		<p>A cette fois que mes lettres arriverent, Amilcar se trouva
+		empesché à la Cour auprés du prince Sigismond,
+		si bien que Belisard, qui mouroit d’impatience de parler à
+		Circéne, ne laissa pas de s’y en aller seul. Et de fortune il
+		trouva que Palinice sortoit de chez elle pour aller au temple, parce
+		qu’il estoit encore assez matin, il feignit de luy donner le bon-jour,
+		et s’en aller ailleurs. Mais aussi tost qu’elle eut passé le coin
+		de la rue, et qu’elle ne pust voir ce qu’il devenoit, il se rejetta
+		dans maison, où de bonne fortune il rencontra Andronire: Ma
+		fille, luy dit-il, et [544/545] nostre maistresse, comment se
+		porte-t’elle? – de la vostre, respondit-elle en sousriant, je n’en
+		sçay rien, car je ne la cognois pas, mais pour la mienne, elle
+		commence à se bien porter, Dieu mercy! et je ne croy pas
+		qu’elle demeure long-temps à sortir du lict. – Si j’avois dit la
+		mienne, repliqua-t’il, il faudroit entendre Andronire; mais ayant dit
+		la nostre, tu peux bien sçavoir que je parle de Circéne,
+		puis qu’estant la maistresse de ma maistresse, et de mon maistre, avec
+		fort bonne raison je la puis nommer la nostre. – Ah! menteur,
+		reprit-elle en sousriant, si elle n’estoit non plus la maistresse de ton
+		maistre, qu’Andronire est ta maistresse, tu ne le viendrois pas voir si souvent.</p>
+		<p>Et alors, Ayant à faire quelque chose par la maison, elle luy
+		dit qu’il ne laissant d’aller trouver Circéne, encore que cette
+		autre fille y fust, car elle n’estoit pas tant mauvaise qu’elle estoit
+		noire: Je veux dire, adjousta-t’elle, qu’elle commence à se taire, et
+		à ne plus rien dire à ceux qui nous l’ont donnée.
+		– Et comment, demanda Belisard, l’avez-vous si tost gaignée? –
+		Circéne, respondit-elle, se fait aymer par force, et cette fille
+		depuis deux ou trois jours luy a pris une si grande amitié, que
+		je ne pense pas qu’elle die jamais rien qui luy desplaise. Toutesfois,
+		adjousta-t’elle, il ne s’y faut pas encore fier du tout, que nous ne
+		l’ayons esprouvée. Et puis elle prend paisir à vous voir
+		danser, et chanter. J’ay peur, Belisard, que si vous estes mon
+		serviteur, il m’en faudra bien-tost chercher un autre. – Non non,
+		Andronire, repliqua-t’il, nous ferons de cette sorte: je chanteray et
+		danseray pour elle, elle m’aimera, et je t’aimeray. Et à ce mot,
+		pour ne perdre cette occasion, il monta dans la chambre de
+		Circéne, mais en chantant de dansant d’une si gratieuse
+		façon, qu’aussi tost que la surveillante l’ouyt: Ah! madame,
+		s’escria-t’elle frappant des mains par resjouyssance, voicy Belisard.</p>
+		<p>Et en mesme temps il entra, et feignant de ne voir point Circéne
+		dans le lict, il courut les bras ouverts, comme s’il eust voulu
+		l’embrasser; mais estant au milieu de la chambre, il s’arresta, faisant
+		semblant de n’avoir veu qu’alors se maistresse: Madame, luy dit-il un
+		peu apres, si j’eusse pensé vous trouver au lict, je n’eusse osé
+		entrer. – Je sçay bien Belisard, respondit-elle, que vous estes
+		la mesme discretion; toutesfois ne laissez de vous approcher, ce n’est
+		pasla premiere fois que vous m’avez veue en ce lieu. – Il est vray,
+		madame, adjousta-t’il, mais vous estiez malade. Maintenant que, Dieu
+		mercy! vous ne l’estes plus, sous quel [545/546] pretexte y puis-je
+		venir? – Pour me conserver en santé, repliqua-t’elle, outre
+		qu’encore ne suis-je pas entierement hors de mon mal. – Pleust à
+		Dieu, madame, dit-il alors froidement, que vous voulussiez faire une
+		recepte que je vous dirois! je jure Jupiter Pierre que vous seriez
+		incontinent guerie. – Vous jurez à bon escient, interrompit
+		cette fille. – Je jure, reprit Belisard, parce que je dis vray, et que
+		je veux qu’elle me croye. – Si je pensois, respondit Circéne en
+		sousriant, que vostre remede fust bon, pourquoy ferois-je
+		difficulté de le faire?</p>
+		<p>Belisard qui desiroit se servir de ce pretexte pour luy donner ma
+		lettre: Pouvez-vous dire, adjousta-t’il, de m’avoir jamais recognu
+		menteur ou que je vous aye jamais trompée? – Je ne dis pas
+		cela, respondit-elle, mais je suis tellemnet lasse de ces mires qui me
+		tourmentent avec leurs fascheues drogues, que si je croyois que votre
+		recepte fust bonne, il est certain que je la ferois de bon cœur. –
+		Madame, dit alors Belisard, j’ay juré Jupiter Pierre, je jure
+		encore le Guy de l’an neuf, afin que vous receviez lequel des deux
+		sermens, des Gaulois ou des Latins, vous penserez estre le plus
+		asseuré. Que s’il vous plaist faire ma recepte, et de bon cœur,
+		comme vous dites, infailliblement vous guerirez, et s’il n’advient
+		ainsi, tenez-moy pour le plus athée qui fut jamais.
+		Circéne cognut bien que cette recepte devoit estre plus propre
+		pour l’esprit que pour le corps; toutesfois estant bien aisé
+		d’estre trompée, elle voulut bien luy en donner la
+		commodité. Et faut-il, luy dit-elle, prendre quelque fascheux
+		breuvage? – Vous n’en prendrez point, respondit-il, s’il ne vous
+		plaist, ce remede consiste presque tout en la force de quelques
+		paroles. – C’est peut-estre, repliqua-t’elle, quelque enchantement? –
+		Nullement, reprit-il, je ne suis point sorcier; les paroles se peuvent
+		bien entendre, il n’y a point de caracteres incognus, ny chose
+		quelconque qui approche du sortilege. – S’il est ainsi, dit alors
+		Circéne, apres y avoir un peu songé, je vous promets,
+		Belisard, que je la feray volontiers. Dites moy donc ce qu’il faut que
+		je fasse? – Ces receptes, reprit-il, doivent etsre tenues secrettes,
+		et depuis qu’elles sont divulguées, elles perdent leur vertu.</p>
+		<p>Et à ce mot s’approchant de Circéne, il se mit à
+		genoux au chevet de son lict, et prenant la lettre que j’escrivois
+		à cette belle dame, parlant tout haut: Afin, continua-t’il, que
+		vous ne pensiez pas que je me mocque, celuy qui me la donna me
+		l’escrivit dans ce papier que je vous veux faire voir. Et lors feignant
+		de la cher-[546/547]cher parmy plusieurs autres qu’il avoit dans sa
+		poche, il luy donna ma lettre qu’à l’heure mesme il avoit
+		decachetée, afin que la surveillante ne s’appeuceust de son
+		artifice. Elle leut qu’elle estoit telle.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">LETTRE D’ALCANDRE</head>
+		<h3>A CIRCÉNE</h3>
+		<milestone type="space"/>
+		<p>De tous le plus cruels tourments qu’un mortel peut souffrir, il
+		n’y en a point de plus sensible que ceux d’amour; mais entre tous ceux
+		d’amour, l’absence est le pus insupportable. Et parmy toutes les
+		absences, celle qui a lesconditions de la mienne: perdre la veue de la
+		personne pour qui seulement je desire avoir des yeux, l’avoir
+		laissée dans un lict malade, et n’avoir point de nouvelles de sa
+		santé. Jugez, madame, à quels plus desesperez supplices
+		je puis estre reservé. Si le miserable estat d’un cœur
+		affligé comme le mien vous peut toucher, que j’en aye quelque
+		cognoissance, amis que la passion, et non pas la compassion, obtienne cette grace de vous.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Et bien! madame, reprit alors Belisard tout haut, n’est-il pas
+		vray que ma recepte est bonne? – Je ne sçay, respondit-elle en
+		sousriant, si elle est bonne, mais elle est bien plaisante. – Madame,
+		adjousta-t’il, s’il vous plaist de la faire, mais il faut que ce soit
+		de bon cœur, vous en sentirez un effect admirable. Et parce que cet
+		amy, continua-t’il, qui me la donna, m’en escrivit en un autre papier
+		la façon dont il s’en faut servir, je veux s’il vous plaist, que
+		vous la voyez, afin que vous en sçachiez autant que moy. Et lors
+		il luy presenta la lettre que je luy avois escrite.
+		Circéne n’osant faire difficulté de la prendre, de peur que
+		cette fille se doutast de quelque chose: Vrayment, luy dit-elle tout
+		bas, et sans le regarder, voicy, Belisard, une gracieuse façon
+		de faire lire des lettres. – Madame, luy dit-il, il faut bien tromper
+		les yeux importuns de cette fille. A ce mot elle leut la lettre que
+		j’escrivois à Belisard qui estoit telle.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">LETTRE D’ALCANDRE</head>
+		<h3>A BELISARD</h3>
+		<milestone type="space"/>
+		<p>Que je t’envie, ô cher amy, le bon-heur que tu possedes,
+		juge-le, [547/548] que tout le contentement que j’ay icy, c’est de
+		penser aux felicitez où tu es, et tousjours ces pensées
+		se finissent en m’escriant: ô dieux! que ne suis-je, Belisard,
+		le plus heureux de tous les hommes! Et par ainsi, cher amy, n’est-il
+		pas vray que je te puis accuser de nonchalance, m’ayant laissé si
+		long-temps sans me faire sçavoir l’estat de ma vie? je dis de
+		ma vie, puis que c’est du lieu où tu es que ces nouvelles me
+		doivent venir. Sois desormais plus soigneux de ce maistre qui t’ayme,
+		je dirois de tout son cœur, s’il en avoit un icy, mais tu sçais
+		bien où il l’a laissé.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Il y a bien icy, dit alors tout haut Circéne, plus d’affaires que
+		vous ne disiez pas, et le pis que j’y vois, j’ay grand peur que vostre
+		recepte ne vaille guere, car, à ce que j’en puis juger, elle ne
+		semble pas estre fort asseurée. – Madame, reprit-il incontinent,
+		croyez-moy qu’il n’y a rien là qui ne soit vray, et que je veux
+		mourir toutes les fois que vous me trouverez menteur. – Et bien!
+		dit-elle, que faut-il que je fasse pour l’essayer? – Il faut,
+		reprit-il, madame, et puis il baissa la voix, que mon maistre soit
+		aimé de aime, et que pour tesmoignage de ce que je dis, vous luy
+		fassiez l’honneur de luy escrire. – Ah! respondit-elle tout haut,
+		Belisard, cela est trop difficile; j’ayme mieux me servir des medecines ordinaires.</p>
+		<p>Cette fille qui s’amusoit à quelque petit ouvrage qu’elle alloit
+		cousant, s’approche alors de sa maistresse: Madame, dit-elle, il y a
+		desja si long que vous estes entre les mains de ces mires, qu’il vous
+		devroit estre ennuyeux, et ne faudroit pas pour peu de
+		difficulté laisser d’eprouver la recepte de Belisard. Je vous
+		supplie, dites-moy qu’y a-t’il de si difficile? – Ma belle fille,
+		interrompit Belisard, car il eut peur que Circéne ne sceut pas
+		si bien desguiser que luy, je vous le veux dire. Voyez-vous ce billet,
+		dit-il, prenant la lettre que j’avois escrite à Circéne,
+		il faut qu’elle die trois fois apres l’avoir leu: je le crois de bon
+		cœur, et qu’elle baise le papier, le plie bien avec de la soye, et le
+		pendant à son col, elle fasse en sorte qu’il touche à
+		l’endroit de cœur et qu’elle fasse ainsi neuf jours durant, et je veux
+		n’estre jamais tenu pour Belisard si elle ne guerit. – Hé!
+		madame, s’escria alors cette fille, et qu’y a-t’il de tant difficile?
+		– M’amie, respondit-elle, il est mal aisé de faire tenir ce
+		papier, comme il dit, au droit du cœur, et mesme en dormant. – Si
+		est-ce, adjouta Belisard, qu’en cela [548/549] gist sa plus grande
+		force, et que personne ne lise le billet que vous; car je vous asseure
+		bien que celuy qui le verra, apres que vous aurez commencé cette
+		recepte, prendra infailliblement le mal que vous avez, et il vous
+		reviendra plus fort qu’auparavant. Et c’est bien pour cela que les
+		neuf jours estans passez, il le faut brusler. – Voyez-vous, dit cette
+		fille, tout le venin du mal s’en ira là dedans. – Il n’en faut
+		point douter, dit Belisard, et vous verrez aussi quand on le bruslera,
+		les diverses couleurs du feu. – Or madame, reprit-elle alors, il faut
+		que nous essayons ce remede, et je veux moy-mesme vous accommoder ce
+		papier au droit du cœur. – Laissez-le luy donc relire auparavant, luy
+		dis-je, mais tournons les yeux d’un autre
+		costé si nous ne voulons nous en repentir.</p>
+		<p>Circéne à ce mot ne se pouvant tenir de rire de voir avec
+		quelle diligence elle s’esoit esloignée, prit le papier, et
+		apres l’avoir leu, le luy remit; mais elle, plus soigneuse de ne le
+		point lire, que Belisard ne pouvoit estre qu’elle ne le leust point, le
+		plia de telle sorte, qu’il sembloit toute autre chose que ce qu’il
+		estoit, et puis prenant de la soye, luy en mit tout autour, et avec un
+		petit ruban le luy pendit au col, apres le luy avoir fait baiser et
+		fait dire qu’elle croyoit tout ce qui y estoit escrit. Et parce que
+		Belisard disoit qu’il falloit que ce fust au mesme lieu où le
+		cœur battoit, elle voulut elle-mesme y mettre la main, pour remarquer
+		bien l’endroit, mais Circéne qui rioit du grand soin qu’elle y
+		mettoit, l’empeschoit de pouvoir bien sentir le battement du cœur:
+		Madame, luy disoit-elle, vous n’estes pas bien sage; voulezvous me
+		laisser faire comme il faut? car je sçay bien que la moindre
+		circonstance qui n’y sera pas observée,la recepte ne fera point
+		d’effet. En fin cette bonne fille ayant mis ce papier à
+		l’endroit où il devoit estre: Neuf jours, dit-elle, madame,
+		seront bien tost passez, il faut un peu vous contraindre, c’est une si
+		douce chose que la santé! Si maintenant vous n’estiez point
+		malade, vous iriez vous promener dans ces beaux jardins de
+		l’Athenée, et en cent autres lieux autour de la ville où
+		vous prendriez mille plaisirs.</p>
+		<p>Si Circéne rioit, Belisard de son costé ne s’en pouvoit
+		presque empescher, mais en fin pour la confirmer en cette opinion, et
+		aussi qu’il eut peur que Palinice revinst du temple: Ce n’est pas
+		tout, dit-il, il faut encore que vous sçachiez la derniere chose
+		qu’il faut que vous fassiez. Et lors s’approchant de Circéne:
+		Madame, continua-t’il, ne vous plaist-il pas en fin apres tous ces
+		[549/550] jeux, avoir pitié de mon maistre et pour luy donner
+		quelque allegement, le favoriser d’un mot de lettre? – Belisard, luy
+		respondit-elle fort bas quand je le voudrois faire, il me seroit
+		impossible, y ayant deux grandes difficultez: premierement je n’ay icy
+		ny encre ny papier, et je n’en puis avoir que l’on ne s’en
+		apperçoive; en second lieu, je suis tellement espiée que
+		ny jour ny nuict je ne suis sans cette fille, et voyez-vous l’endroit
+		où vous estes? Andronire et elle y apportent un matelas, et y
+		couchent la nuict. Madame, pour la premiere difficulté, luy
+		respondit-il, il est aisé d’y pourvoir, car je vous apporteray
+		et encre et papier. Pour l’autre, ne tient-on pas tout la nuict de la
+		lumiere dans vostre chambre? Si cela est , vous estes assurée
+		d’Andronire, faites-la coucher du costé de vostre lict, et lors
+		que cette surveillante, telle la peut-on nommer, sera endormie, elle
+		vous donnera une bougie, et vous pourrez escrire tout ce qu’il vous
+		plaira. – Je voudrois bien, Belisard, m’exempter, dit-elle, de cette
+		corvée. – Non. Non, respondit-il tout haut, il faut exactement
+		observer toutes les circonstances. Et parce qu’elle avoit parlé
+		haut, il luy respondit de mesme ces dernieres paroles et luy semblant
+		qu’il avoit mis l’affaire en bon estat, il s’en
+		alla, de peur aussi que Palinice revinst.</p>
+		<p>Au sortir de la chambre, il trouva Andronire, à laquelle,
+		s’esclattant de rire, il dit qu’elle sçauroit de sa maistresse
+		la plus plaisante invention qu’on eust pu dire, et qu’il falloit qu’elle
+		y aidast de son costé, que la peur qu’il avoit d’estre
+		rencontré de Palinice l’empeschoit de luy en faire tout le
+		discours. Cette fille qui estoit fine entrant dans la chambre, dit
+		à Misseine (tel estoit le nom de cette fille): Qu’est-ce qu’a
+		Belisard, qu’il s’en va si content? – Nous aurons bien raison de
+		l’estre, respondit-elle, si la recepte est bonne: ô que Dieu le
+		benie! – Et quelle recepte? reprit Andronire. – Demandez à
+		madame, repliqua Misseine, je vous jure qu’il me semble qu’elle a desja
+		meilleur visage qu’elle ne souloit avoir. Et ce n’estoit pas sans
+		raison qu’elle le disoit, car Circéne avoit tant ry, que la
+		couleur luy en estoit montée au visage. – Et ma maistresse,
+		adjouta Andronire, ne voulez-vous pas me dire ce secret? – Elle alors
+		prenant la parole luy raconta tout haut tout ce qui s’estoit
+		passé, et puis luy fit particulierement entendre toute chose,
+		dont elle ne se pust empescher de rire, quoy qu’elle fist semblant d’en
+		croire encore davantage que Misseine. Belisard qui desiroit plus que sa
+		vie mon contentement, ne [550/551] faillit de venir sur le soir avec une
+		escritoire et du papier dans sa pochette; mais il fut bien
+		empesché, d’autant qu’il trouva Palinice auprés du lict
+		de Circéne, quand il entra dans la chambre: Et bien! dit-il
+		d’une voix hardie, comment se porte nostre malade? Circéne en
+		sousriant contre Palinice: Vous ne sçavez pas, luy dit-elle,
+		que Belisard m’a fait une recepte? – je viens sçavois,
+		continua-t’il, si nos remedes ont point fait plus encore que nostre
+		esperance. Palinice alors l’interrompant: Mais est-il vray, luy
+		dit-elle, Belisard, que vous sçachiez guerir les dames? – Ouy,
+		respondit-il, les belles, et c’est pourquoy, lors que vous serez
+		malade, ne vous adressez à personne qu’à moy. – Je
+		sçavois bien, reprit-elle, que vous aviez beaucoup de merite et
+		de sçavoir, mais je ne pensois pas que vostre doctrine
+		s’estendist jusques-là. – A l’œuvre, respondit-il, on recognoist
+		l’ouvrier, je veux donner ma vie, si dans trois jours cette belle
+		malade ne perd son nom. – Celuy de belle? dit Palinice. – Non, non,
+		repliqua-t’il, je dis celuy de malade. – Pour le moins, adjousta
+		Circéne, il y a un advantage, c’est que les drogues qu’il donne
+		ne sont point si fascheuses que celles des autres.</p>
+		<p>Palinice vouloit s’enquerir particulierement quelle recepte c’estoit,
+		et peut-estre eust-elle mieux recognu l’artifice que Misseine, mais de
+		fortune elle ouyt une voix dans la rue qu’elle recognut incontinent
+		pour estre celle de Sileine, frere de ma belle Circéne. Elle
+		courut aux fenestres, tant pour l’ouyr que pour voir ce chevalier qui
+		la servoit, et cependant Belisard, sans que personne s’en apperceust,
+		mit sous le chevet du lict l’escritoire et le papier, et supplia cette
+		belle dame d’avoir pitié du plus fidelle amant qui fut jamais. –
+		et bien! dit-elle en sousriant, j’en parleray à mon Conseil,
+		j’en demanderay particulierement l’advis de Clorian et de Palinice.
+		Belisard sans lui respondre, la menaça du doigt, et pour ne
+		point donner de soupçon, s’en courut à la fenestre pour
+		ouyr Sileine qui chantoit ces vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">MADRIGAL</head>
+		<h3>Plainte amoureuse.</h3>
+		<milestone type="space"/>
+		<p>De vous, de moy, d’amour j’ay raison de me plaindre:</p>
+		<p>De vous qui me bruslez,</p>
+		<p>Et toutesfois gelez;[551/552]</p>
+		<p>De moy qui me bruslant veux plustost que d’esteindre</p>
+		<p>Le moindre de mes feux</p>
+		<p>Me consumer en eux</p>
+		<p>Et de l’amour enfin qui dans vos yeux s’arreste,</p>
+		<p>Car quoy qu’il me promette,</p>
+		<p>Il ne veut , le mocqueur</p>
+		<p>De vos yeux une fois voler dans vostre cœur.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Palinice s’estoit bien mise à la fenestre, toutesfois elle
+		se tenoit un peu reculée dans la chambre, de peur que ceux de la
+		rue la vissent. Et cela fut cause que Sileine ayant esté adverti
+		qu’elle estoit au logis, y entra, mais ne sçachant pas qu’elle
+		fust dans la chambre de sa sœur, y rencontrant une telle hostesse,
+		receut un double contentement de voir sa sœur guerie, et de rencontrer
+		sa chere Palinice. Si Belisard eust voulu entretenir Circéne, il
+		en avoit bien la commodité, car Palinice et Sileine avoient
+		tant à faire pour eux qu’ils ne prenoient gueres garde aux
+		autres. Toutesfois, ne jugeant pas qu’il fust necessaire d’y demeurer
+		davantage, pour monstrer qu’il ne se soucioit point de telles
+		commoditez, il s’en alla sans rien dire à personne, et cela
+		selon sa coustume, pour estre plus libre, et monstrer une plus grande
+		franchise, ruse qui n’estoit que pour s’y familiariser davantage, et y
+		traiter presque comme domestiquement.</p>
+		<p>Le lendemain il ne fut pas paresseux d’aller voir sa malade et
+		sçavoir l’effet de ses remedes, prenant le temps que Palinice,
+		apres avoir donné le bon jour à Circéne, s’en
+		estoit allé au temple selon sa coustume. Il entra donc dans
+		le logis, et apprit de Misseine qu’il trouvoit sur le degré que
+		Circéne s’estoit si bien trouvée de son remede qu’elle
+		estoit en volonté de sortir du lict, et se promener un peu par
+		la chambre. – Je puis donc bien, dit-il, y aller? – Je m’asseure,
+		respondit Misseine, qu’elle sera bien aise de vous voir, et puis elle
+		en a bien raison, car je croy que vostre remede vaut mieux que tous ces
+		autres fascheux desquels on a failly de la faire mourir. – Vous me
+		dites là les meilleures nouvelles, repliqua-t’il, que je
+		sçaurois avoir. Mais, ma belle fille, a-t’elle refait la recepte
+		ce matin? – Non, pas encores, respondit-elle. – O! s’escria alors
+		Belisard, je m’en suis bien douté, et c’est ce qui m’a fait
+		venir ce matin icy pour l’en faire souvenir.</p>
+		<p>Et à ce mot il monta l’escalier et entra dans la chambre,
+		où il trouva qu’Andronire peignoit Circéne: Je me
+		resjouys, ma belle [552/553] malade, luy dit-il, apres luy avoir
+		donné le bon jour, que je vous trouve hors du lict. Elle alors en
+		sousriant: Je croy que si Misseine tomboit malade, il faudroit que
+		vous fissiez la recepte pour elle que vous avez faite pour moy, tant
+		elle a de creance en vous. – Madame, respondit-il, mes drogues ne sont
+		pas pour vous; mais dites-moy, je vous supplie, comment s’est
+		passée, cette nuict? – Andronire, dit-elle en sousriant, vous
+		dira que j’ay bien observé vostre ordonnance. Et parce qu’il n’
+		avoit personne dans la chambre qui les vist, prenant la lettre dans le
+		sein d’Andronire: En voicy le tesmoignage, continua-t’elle en la
+		donnant à Belisard, vous la cacheterez, et asseurerez vostre
+		maistre que c’est à vostre consideration que je l’ay escritte. –
+		O madame! reprit-il alors, que vous allez rendre une personne
+		heureuse, vous acquittant par cette faveur de tous les services qu’elle
+		vous a jamais rendus! Je sçay asseurément que ce papier
+		ne luy partira jamais de l’endroit où vous portez la recepte que
+		je vous ay donnée, et qu’il le tiendra plus cher que tout le
+		reste de son bien. – Vous avez cette opinion, respondit-elle, parce que
+		vous croyez qu’il sçache aymer. – Je ne le croy pas,
+		repliqua-t’il, car je sçay de science asseurée. Et parce
+		qu’en mesme temps il vid qu’Andronire pignant sa maistresse, estoit
+		soigneuse de recueillir les cheveux qui demeuroient au peigne, d’autant
+		qu’à cause de sa maladie, il luy en tomboit: Et s’il vous
+		plaisoit, adjousta-t’il, madame, rendre cette personne encore plus
+		heureuse que le bon-heur mesme, il faudroit que vous permissiez que
+		j’eusse la despouille du larcin que ce peigne fait de vos cheveux. – O
+		dieux! s’escria-t’elle, j’aymerois mieux la mort que si un homme avoit
+		de mes cheveux. Et d’autant qu’en mesme temps il advança la main
+		et prit à Andronire ceux qu’elle avoit desja recueillis, et
+		qu’en feignant de faire resistance, elle luy avoit donnez: Gardez-vous
+		bien, continua-t’elle, Andronire, qu’il ne les a desja. – O mon Dieu!
+		dit Circéne, que vous avez peu d’esprit, Andronire, et que ne
+		les mettiez-vous en lieu où il ne les vist pas? Et lors se
+		tournant vers Belisard: Rendez-les moy,luy dit-elle, ou je seray en
+		colere contre vous. – Madame, luy respondit-il, pardonnez-moy, s’il
+		vous plaist; n’est-il pas vray que la trahison et le manquement de foy
+		est un vice le plus indigne qu’un homme puisse avoir. – Il est vray,
+		dit-elle, mais cela n’a rien de commun avec ce que je voous demande. –
+		Si en vous rendant ce que vous me demandez, repliqua-t’il, je ne
+		com-[553/554]mets et une trahison et un manquement de foy , je suis
+		content de vous rendre mon larcin; mais s’il est vray aussi, est-il
+		possible que vous me hayssiez tant que vous me veuillez rendre, pour
+		vous obeyr, le plus infame de tous les hommes. – Ce sont des excuses,
+		adjousta-t’elle, qui n’ont point de credit auprés de moy,
+		car en fin je les veux ravoir, et vous me ferez un desplaisir
+		signalé, Belisard, si vous ne me les rendez. – Madame,
+		interrompit Andronire, encore faut-il ouyr ses raisons. – Mes raisons,
+		respondit-il, sont telles qu’il n’en faut point douter. Lors que mon
+		maistre m’a commandé de demeurer en ceste ville pour le sujet
+		que vous sçavez, je luy ay promis par tous les plus estroits
+		sermens que je luy pu faire de rapporter tout ce qui me seroit possible
+		à son contentement: Ne suis-je pas traistre et parjure si,
+		rendant le larcin que j’ay fait, je trompe l’asseurance que je luy ay
+		donnée? – Madame, dit incontinent Andronire, je croy en ma
+		conscience qu’il dit vray, et vous devez trouver bon qu’il ne
+		contrevienne point à son serment. – Je croy, Andronire, dit
+		Circéne, que vous estes hors du sens, qu’un homme ait de mes
+		cheveux? – Madame, reprit Belisard, Alcandre pour vous n’est point un
+		homme, il n’est que vostre serviteur.</p>
+		<p>Elle vouloit repliquer, lors que Misseine entra, qui l’empescha de
+		l’oser faire, mais d’autant que Belisard eut peur que ce prompt silence
+		la mist en quelque doute: Ma belle fille, luy dit-il, venez nous ayder,
+		ceste belle dame ne veut pas continuer la recepte, et dit qu’elle l’ait
+		faite une fois, et je vous asseure qu’il vaudroit mieux qu’elle ne
+		l’eust point commencée que si elle la laissoit imparfaite. –
+		Hé! madame, reprit incontinent ceste fille, quelle humeur est
+		la vostre de vouloir tousjours estre malade? Et quelle si grande peine
+		y-a-t’il à faire ce que vous a dit Belisard? – Il me fasche,
+		dit Circéne, de refaire si souvent une mesme chose. – Mais,
+		madame, adjousta Andronire, encore vaut-il mieux prendre ceste petite
+		peine que de retourner au lict. – Or madame, interrompit Misseine,
+		c’est la verité que si vous ne le faites de bonne
+		volonté, ce sera par force. Et lors destachant à toute
+		force le cordon où la lettre estoit attachée, elle la
+		desploya soigneusement, et puis la presenta à Circéne
+		pour la lire. Elle en sousriant: Je vous prie, Misseine, dit-elle,
+		lisez-la pour moy. – Je vous remercie tres-humblement, dit-elle en
+		detournant la veue, vous voulez que je sois malade? Andronire ny sa
+		maistresse ne se pouvoient empescher de rire de la simplicité de
+		[554/555] ceste fille. Et alors que Circéne l’eut leue: Que
+		faut-il, dit-elle, que je fasse encore? – Baisez-la, trois fois,
+		respondit Misseine, que dites: Je croy tout ce qui est escrit dans ce
+		papier. Et parce que Circéne feignoit de ne le vouloir pas dire,
+		la pauvre Misseine la luy fit baiser presque par force, et luy fit dire
+		mot à mot ces paroles, mais non pas sans bien donner du plaisir
+		à la compagnie. En fin toutes les ceremonies de cet enchantement
+		estans finies, et aussi Circéne incontent apres de s’habiller,
+		on luy vint dire que Palinice revenoit du temple, et Sileine en sa
+		compagnie. Cela fut cause que Belisard s’approchant d’elle, il luy dit
+		: Ce present que vous faites au plus fidele amant qui fut, ny qui sera
+		jamais, le conservera en vie; car, autrement le regret d’estre
+		esloigné de vous, infailliblement le feroit mourir. – Belisard,
+		luy respondit-elle, je consens à tout ce que vous voulez, mais
+		souvenez-vous que s’il manque de fidelité ou de discretion, ce
+		sera à vous à m’en respondre. Belisard vouloit repliquer,
+		mais la survenue de Palinice et de Sileine, et peu apres d’Amilcar,
+		l’en empescha. Et lors qu’il les vid plus avant en discours, il se
+		retira comme de coustume en son logis, d’où il m’escrivit si
+		particuliérement tout ce que je viens de vous dire , que je
+		ne croy pas qu’une seule circonstance y fust oubliée. Mais que
+		devins-je, lors qu’ouvrant la lettre que Circéne m’escrivoit,
+		j’y trouvay de ses cheveux! Je les baisay plus de cent fois, et fut
+		tres à propos que j’ouvris ces lettres, je fusse en lieu
+		où personne ne me vist, car il m’eust esté impossible de
+		ne donner trop de cognoissance de mon extreme contentement. En fin
+		apres avoir baisé, rebaisé et adoré ces beaux
+		cheveux, je leus la lettre, qui estoit telle.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">LETTRE DE CIRCÉNE</head>
+		<h3>A ALCANDRE</h3>
+		<milestone type="space"/>
+		<p>La peine où vous estes de ma santé me plaist et
+		m’oblige. Dieu vous donne en eschange le bien et le contentement que
+		vous meritez et que vous desirez! Ce souhait vient de moy qui vous
+		ayme par dessus tous ceux qui ont de l’affection pour Circéne.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Quand je me remets en memoire les contentemens que je receus en ce
+		temps-là, je ne puis qu’accuser grandement de deffaut
+		d’affection ceux qui disent qu’il y a plus de peine en amour que [555/556]
+		de plaisir. Car, Hylas, je ne pense pas qu’un mortel puisse estre
+		capable d’une plus grande felicité, et que pour en gouster
+		davantage il faudroit avoir deux ames et deux cœur. Qui eust veu mes
+		actions eust sans doute pensé que j’estois hors du sens. Mais
+		pour abreger, et qu’aussi bien il est impossible de les representer, je
+		les passeray sous silence, et vous diray que les jours que je demeuray
+		encore parmy les Veragrois me semblerent plus longs qu’ils ne souloient
+		estre, et cela fut cause que je me hastay si bien que six jours apres
+		je partis, apres avoir mis un peu d’ordre à l’affaire qui m’y
+		avoit conduit. Et d’autant que passant par ces rochers, destroits et
+		precipices, il faisoit un orage qui dura trois jours entiers, et que je
+		ne voulus retarder mon retour pour ce mauvais temps, je fis ces vers
+		par le chemin.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">SONNET</head>
+		<h3>Rien ne peut le retarder.</h3>
+		<milestone type="space"/>
+		<p>Rochers qui supportez le ciel et ses flambeaux,</p>
+		<p>Ainsi que des Atlas, dessus vos testes nues,</p>
+		<p>Qui voyez dessous vous troupe à troupe les nues</p>
+		<p>Comme voile s’estendre à l’entour des coutaux;</p>
+		<milestone type="space"/>
+		<p>Torrents impetueux qui tumbez à grands sauts</p>
+		<p>Des sommets eslevez de ces pointes chenues,</p>
+		<p>Effroyables vallons, vous glaces incognues,</p>
+		<p>En vos recoins gelez aux soleils les plus chauds;</p>
+		<milestone type="space"/>
+		<p>Vent qui depuis trois jours renforçant tes haleines,</p>
+		<p>Sembles estre complice en mes cruelles peines,</p>
+		<p>Vous travaillez en vain pour retarder mes pas.</p>
+		<milestone type="space"/>
+		<p>Le sujet est si beau qui cause mon voyage,</p>
+		<p>Que si parmy l’enfer s’adressoit mon passage,</p>
+		<p>L’enfer ny ses horreurs ne m’arresteroient pas.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Mais, Hylas, vous sçaurois-je dire quel excés de
+		contentement je receus lors que je vis de loing les murailles de lyon,
+		et quand, peu’apres, je pus remarquer l’endroit où estoit le
+		logis de ceste belle fille, et en fin quand je vis la maison où
+		tout mon heur et [556/557] tous mes desirs estoient renfermez? Je
+		cognus bien alors qu’il est vray qu’amour surpaye en un coup mille
+		peines et mille desplaisirs, et ce fut sur cette pensée que je fis ces vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">MADRIGAL</head>
+		<milestone type="space"/>
+		<p>A cet heureux retour</p>
+		<p>Prés de celle que j’ayme,</p>
+		<p>Tel bien me donne Amour</p>
+		<p>Que je dis en moy-mesme,</p>
+		<p>Puis qu’en fin mon retour tant d’heur me fait sentir,</p>
+		<p>Ne suis-je pas heureux qu’il m’ait fallu partir?</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Soudain que je vis mon aymable Belisard, je demeuray si
+		transporté de joye pour les bons offices qu’en mon absence il
+		m’avoit rendus, que je ne sçavois quelles caresses luy faire.
+		Luy, d’autre costé, qui me portoit une affection incroyable,
+		avoit un si grand desir de parler à moy en particulier
+		qu’à peine me pouvoit-il donner le loisir de voir ma mere, et de
+		parler à mon frere. En fin nos premieres salutations estans
+		faites, et que je luy eus raconté en gros le succez de mon
+		voyage, je feignis d’estre un peu las pour me retirer avec mon cher
+		Belisard, et je croy bien que mon frere s’en prit garde, parce que je
+		le vis sousrire deux ou trois fois, jugeant, comme je m’imagine,
+		l’impatience où j’estois, par luy-mesme. Belisard d’autre
+		costé qui n’estoit pas pressé d’une moindre envie, me
+		suivit de si prés dans ma chambre, que je n’y estois pas presque
+		entré qu’il ferma la porte. Et Dieu sçait si alors je
+		redoublay les caresses et les embrassemens, et si je luy fis de
+		particuiers demandes de tout ce qu’il avoit fait durant mon absence. Il
+		respondit à tout ce qu’il avoit tant de satisfaction pour moy
+		que je n’en avois jamais osé tant desirer.</p>
+		<p>Figurez-vous, Hylas, que nous demeurasmes plus de deux heures
+		enfermez, qu’il ne me sembloit pas y avoir esté la moytié
+		d’une, et il est certain que nous n’eussions pas si tost interrompu ces
+		agreables discours, si l’on ne nous fust venu appeler pour souper.
+		Nostre separation toutesfois ne se fit point sans de nouveau luy faire
+		mille caresses et mille remerciemens.</p>
+		<p>Mais, parce qu’il me dit que Circéne seroit bien aise que
+		dés ce soir mesme je la visse, nous ne fusmes pas si tost hors de
+		table [557/558] que, feignant de vouloir aller à la Cour, nous
+		prismes le chemin du logis de cette belle dame. Et afin d’avoir plus
+		de commodité de l’entretenir, et aussi que mon frere n’estoit
+		pas moins desireux de voir Palinice, que je pouvois estre de revoir
+		Circéne, il s’en vint avec nous. Par ce moyen nous y fusmes les
+		biens venus, car Palinice qui s’y trouva fut bien aise de la compagnie
+		d’Amilcar. Lucindor qui aymoit nostre sœur, nous fit toutes les
+		caresses qu’il put, et de fortune, Sileine estoit allé veiller
+		ailleurs, ne pensant pas que Palinice vint ce soir en la maison de
+		Circéne, qui fut un peu surprise de me voir tant
+		inopinément, et Palinice aussi, car elles
+		n’avoient rien sceu de mon retour.</p>
+		<p>Circéne d’abord rougit, et se tournant vers Belisard, apres les
+		salutations ordinaires: Hé! Belisard, luy dit-elle, vous nous
+		aviez bien caché la venue d’Alcandre? – Madame, respondit-il,
+		elle m’a esté cachée presque aussi longuement
+		qu’à vous, car il ne fait que d’arriver. Mais s’approchant un
+		peu d’elle, cependant que je rendois quelques devoirs à
+		Palinice. Mais encore, continua-t’il, qu’il fut arrivé
+		dés le matin je n’eusse eu garde de vous en advertir. – Et
+		pourquoy? dit-elle. – Et parce, repliqua-t’il, que deux raisons m’en
+		eussent empesché: l’une , que je ne vous eusse rien dit de
+		nouveau, car vous sçavez bien qu’Alcandre est tousjours
+		où vous estes; et l’autre, que c’est chose de laquelle vous ne
+		vous souciez guere. Et parce qu’elle ne respondit point de quelque
+		temps, ayant les yeux sur nous: Vous ne dites rien, madame,
+		consentez-vous à ce que je dis? – Que voulez-vous, dit-elle en
+		sousriant, que je vous responde sinon que vous
+		estes menteur en tousles deux poincts?</p>
+		<p>Et à ce mot, parce que je revenois vers elle, elle le laissa
+		pour me dire qu’elle se resjouyssoit du contentement de ma mere, et
+		aussi de l’esperance qu’elle avoit que mon retour seroit bien-tost
+		cause de celuy de Florice, qui n’avoit pas la constance de demeurer un
+		long temps si prés de son cher frere sans le venir voir. – Je
+		pensois, respondis-je, madame, que vous feriez quelqu’autre
+		consideration sur mon retour qui me seroit plus advantageuse, mais je
+		voy bien que, comme vous estes tousjours aussi belle que de coustume,
+		vous estes aussi mauvaise que quand je partis. – Et quelle raison,
+		reprit-elle, avez-vous, Alcandre, de m’accuser? – Pourquoy, madame,
+		repliquay-je, ne vous plaist-il pas de me dire que vous vous
+		resjouyssez de mon retour pour le contentement que vous avez de voir
+		une personne qui est tellement [558/559] à vous que rien ne
+		le peut estre davantage? – Je croy, Alcandre, adjousta-t’elle en
+		sousriant, que Belisard vous a instruit de vostre logis icy, afin que
+		tous deux vous me teniez les mesmes discours. – Il est vray, madame, luy
+		dis-je, que Belisard et moy parlons fort souvent de vous, et si je
+		disois qu’en particulier nous ne tenons jamais autre discours, je dirois
+		la verité, car je me fie autant en luy que je fais en moy-mesme.
+		Mais pour ceste instruction de laquelle vous parlez, nous n’y avons
+		encore jamais pensé, parce que la verité n’estant qu’une,
+		nous sçavons bien que ne voulant vous dire que la verité,
+		nous n’avons garde de nous contrarier. – Et bien! interrompit-elle,
+		feignant de vouloir changer de discours, je croiray tout ce qu’il vous
+		plaira de vous et de Belisard; mais, Alcandre, racontez-nous un peu
+		quelle a esté vostre vie depuis que nous vous avons perdu. –
+		Madame, respondis-je, pour sçavoir quelle a esté la vie
+		d’Alcandre, il faut le demander à la belle Circéne, car
+		elle a esté telle qu’elle l’a voulu ordonner. – Vous estes un
+		mocqueur, repliqua-t’elle, dites-moy quelle a esté vostre
+		fortune, et quels contentemens vous avez receus en vostre voyage. –
+		madame, luy dis-je, jamais homme ne fut si mal-heureux qu’Alcandre en
+		vous esloignant, ny si heureux que luy en recevant l’honneur de vos
+		nouvelles; et par là vous voyez que j’ay raison de dire que
+		vous avez rendu ma vie telle qu’il vous a pleu, et quelle ne sera
+		jamais autre que vous voudrez. – Mais, interrompit-elle, ce n’est pas
+		ce que je veux sçavoir de vous. Dites-moy, continua-t’elle, si
+		vos affaires sont en bon estat, et si vostre voyage ne vous a point
+		esté inutile? – Belisard m’a mandé, luy dis-je, madame,
+		et la belle Circéne aussi, qu’ils estoient en meilleur estat que
+		je n’eusse osé esperer, et c’est pourquoy je suis venu si
+		promptement, non seulement pour vous baiser les mains d’une si grande
+		faveur, mais pour vous renouveller l’hommage que je vous dois, comme
+		à celle qui peut ordonner de mon sang et de ma vie comme il luy plaist.</p>
+		<p>Elle vouloit respondre, lors que Palinice n’estant pas si attentive aux
+		discours de mon frere, qu’elle ne pensast aux affaires de Clorian,
+		prenant garde avec quelle affection je parlois à Circéne,
+		s’en vint nous interrompre, feignant que c’estoit par civilité
+		parce que j’estois encore estranger. Cependant Belisard ne perdoit
+		point le temps, car il entretenoit Andronire, et apprenoit les nouvelles
+		du logis le plus particulierement qu’il pouvoit. Il sceut donc que mes
+		affaires ne pouvoient estre en meilleur estat, [559/560] sinon que
+		Clorian vinst à se marier ou à se distraire de cette
+		recherche. Que Circéne avoit pour moy plus de bonne
+		volonté qu’elle n’eust jamais creu, mais que ce qui retenoit
+		encore un peu, c’estoit cet homme qui avoit pris sur elle une si grande
+		authorité par le moyen de Palinice qu’il estoit bien mal
+		aysé au jeune esprit de Circéne d’avoir la resolution de
+		se retirer de cette servitude si promptement que je desirois. Que si
+		l’on pouvoit faire en sorte que Palinice se pust bien embarrasser dans
+		l’amour d’Amilcar, ce seroit un bon moyen pour faire qu’elle se
+		departit de la protection de son frere. – Car, croyez-moy, Belisard,
+		disoit-elle, l’amour a plus de pouvoir que l’amitié, et s’il
+		advient que cette amour la touche à bon escient, elle fera tout
+		ce que voudra Amilcar. Je croy bien toutesfois qu’il y aura un peu de
+		peine à la vaincre, car Sileine qui l’a aimée dés
+		long-temps, a beaucoup gagné sur elle. – O folle! luy dit
+		Belisard, les nouvelles acquisitions nous sont tousjours les plus
+		cheres, et celles que nous aimons le mieux.</p>
+		<p>Mais en fin se faisant tard, nous fusmes contraints de nous separer, et
+		ainsi, leur donnant le bon-soir, nous nous retirasmes en nostre logis
+		avec une telle satisfaction pour moy, qu’encores qu’il fust assez tard,
+		toutesfois je me fis entretenir long temps, quand je fus seul en ma
+		chambre, par Belisard, duquel j’appris tous les discours d’Andronire.
+		Et lors que le sommeil le contraignit de se coucher, je ne pus
+		m’empescher de faire encore ces vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">SONNET</head>
+		<h3>Pour un retour.</h3>
+		<milestone type="space"/>
+		<p>Icy jadis je me laissay moy-mesme;</p>
+		<p>Icy les dieux ont escouté mes cris,</p>
+		<p>A mes clameurs ils se sont attendris,</p>
+		<p>Me rappellant prés de celle que j’ayme.</p>
+		<milestone type="space"/>
+		<p>Esperons tout en leur bonté supreme,</p>
+		<p>Puis qu’ils n’ont eu ma priere à mespris,</p>
+		<p>Et que par moy tout amant soit appris</p>
+		<p>Que d’un grand mal peut naistre un bien extreme.[560/561]</p>
+		<milestone type="space"/>
+		<p>Mais est-il vray? suis-je bien de retour,</p>
+		<p>Ou n’est-ce point quelque songe d’amour,</p>
+		<p>Qui d’un bien faux contente mon envie?</p>
+		<milestone type="space"/>
+		<p>Ah! si je dors, dormons toujours ainsi.</p>
+		<p>Et si je veille, Amour, toute ma vie,</p>
+		<p>Sans clorre l’œil, fay moy dormir, aussi.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Incontinent que Florice fut advertie de mon retour, il sembla
+		qu’elle voulust faire dire vray à Circéne, car incontinent
+		elle me vint voir, mais d’autant qu’elle estoit contrainte de ne gueres
+		sejourner, à cause que nostre tante se trouvoit mal, elle ne fit
+		que disner avec nous, et puis sur le soir elle s’en retourna; non
+		point toutesfois si promptement que Lucindor n’en fust adverty; car
+		Belisard qui pensa que cela servoit à l’avancement de mes
+		affaires, fut d’opinion qu’il falloit l’obliger, et qu’il estoit tres
+		à propos d’entrer en quelque sorte de confiance avec luy, afin
+		que quand il iroit en la maison de Circéne, il ne l’eust point
+		desagreable. Ce fut donc Belisard qui luy en alla dire les nouvelles,
+		mais il ne fut pas presque plustost en mon logis que Florice partit, et
+		sur ce sujet il donna tels vers à Belisard pour les faire voir
+		à ma sœur.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">SONNET</head>
+		<h3>Pour un retour.</h3>
+		<milestone type="space"/>
+		<p>Elle est partie, Amour, aussi tost que venue,</p>
+		<p>La voir, ne la voir plus n’est qu’un mesme moment:</p>
+		<p>Ainsi passe l’esclair au travers de la nue,</p>
+		<p>Qui s’esteint aussi-tost qu’il a commencement.</p>
+		<milestone type="space"/>
+		<p>Est-ce ainsi, mes espoirs, que le Ciel vous dement?</p>
+		<p>Est-ce ainsi que trompeur nostre heur il diminue?</p>
+		<p>A peine ay-je de luy ma requeste obtenue,</p>
+		<p>Qu’il m’en ravit l’effect presque aussi promptement.</p>
+		<milestone type="space"/>
+		<p>Ou ne revenez plus, ou qu’un second voyage</p>
+		<p>Ne nous prive si tost de vostre beau visage:</p>
+		<p>La nuict est plus obscure apres un si beau jour. [561/562]</p>
+		<milestone type="space"/>
+		<p>Mais non, non, revenez, Amour vous y convie,</p>
+		<p>Et quand d’un jour tout seul seroit vostre sejour,</p>
+		<p>J’aymerois mieux ce jour que tous ceux de ma vie.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Mais, Hylas, vous souvenez-vous point des gands de
+		Circéne, dans lesquels il y avoit quelque temps que j’avois
+		escrit des vers? Je ne sçay comme cela advint, tant y a qu’ils
+		tomberent entre les mains de Palinice. Nous eusmes opinion que Misseine
+		les ayant trouvez les luy avoit donnez, tant y a que Clorian en fut
+		incontinent adverty, et que laissant les affaires qui le retenoient
+		loing de la Cour, il revint avec plus de diligence que je n’eusse
+		voulu. Car d’abord le premier mal que j’en ressentis, ce fut que
+		Circéne pria Belisard de ne plus l’aller voir si souvent, et
+		lors que j’y allois, elle n’osoit presque s’approcher de moy, ny
+		tourner les yeux de mon costé, tant s’en faut qu’elle eust la
+		hardiesse de parler à moy. Si je ressentis ce changement, et si
+		j’en demeuray estonné, vous le pouvez penser, Hylas, car il me
+		sembloit bien que les tesmoignages qu’elle m’avoit donnez de sa bonne
+		volonté estoient trop grands, pour ne s’en souvenir plus, et que
+		pour feindre, cette dissimulation estoit trop grande. Et d’autant que
+		mal-aisément la pouvois-je supporter sans en faire
+		demonstration, Belisard fut d’avis que je fisse revenir Florice, parce
+		que Lucindor peut-estre se pourroit gaigner par elle, et cela estant,
+		il donneroit un grand coup en la resolution qu’il falloit que
+		Circéne prist pour sortir de la tyrannie de Palinice et de
+		Clorian. Et de fortune, lors que nous estions en peine de trouver
+		quelque excuse pour son retour, la mort de nostre tante luy en donna
+		assez, de sorte qu’elle revint plustost que nous n’esperions. Le dueil
+		que nous fismes de cette bonne vieille fut bien-tost passé, car
+		son aage, et les incommoditez que la vieillesse luy faisoit ressentir,
+		consolerent tous ceux qui avoient occasion de la plaindre; si bien
+		qu’incontinent je ne faillis de supplier Florice de faire tous les
+		efforts qu’elle pourroit pour convier Lucindor de me favoriser. Elle
+		qui m’aimoit grandement, et qui n’avoit pas faute d’esprit, le sceut
+		faire de telle sorte, que Lucindor prit mon party, et contre Clorian,
+		et contre Palinice. En effet il en parla à sa sœur avec tant
+		d’affection, qu’elle qui, à ce que nous nous faisons accroire,
+		avoit quelque inclination pour moy, commençoit de pencher de mon
+		costé, lors que Clorian et Palinice s’en prenant garde,
+		penserent que, comme Florice faisoit jouer ce personnage à
+		Lucindor, il [562/563] falloit que Palinice en fist de mesme envers
+		Sileine, qui estoit amoureux d’elle, et qui estoit frere aisné,
+		comme vous sçavez, de ma belle Circéne, et que par ce
+		moyen leur party seroit bien le plus fort.</p>
+		<p>Que sert-il, Hylas, que ce discours aille en longueur? Sileine, pour
+		l’amour qu’il portoit à Palinice, entreprit de soustenir Clorian,
+		si bien que voilà les deux freres l’un contre l’autre, et la
+		maison tellement partie en deux, que ce divorce la mettoit toute en
+		confusion. Mais riez, Hylas, de ce qui advint presque en mesme temps.
+		Tout ainsi que la maison de Circéne estoit partagée pour
+		Clorian et pour moy, la nostre aussi la fut incontinent pour Lucindor
+		et pour Cerinte, parce que ces ceux chevaliers aimoient, comme je vous
+		ay dit, ma sœur Florice. Et je tenois le party de Lucindor, parce qu’il
+		estoit frere de Circéne, et qu’il m’y rendoit tous les bons
+		offices qu’il pouvoit, et Amilcar favorisoit Cerinte frere de Palinice
+		pour les mesme interests; et incontinent apres, la mesme dissention
+		arriva entre Clorian et Cerinte, parce que Clorian estoit pour Sileine
+		qui aimoit Palinice, et Cerinte parloit à Palinice pour Amilcar,
+		parce qu’il estoit serviteur de Florice.</p>
+		<p>Voyez, je vous supplie, comme Amour avoit pris plaisir d’embrouiller
+		cette fusée, mais encore n’estoit-ce pas tout, car jamais
+		Florice ne rencontroit Circéne qu’elle ne luy parlast pour moy,
+		et Circéne à elle pour Lucindor, et jamais Circéne
+		ne voyoit Palinice qu’elle ne la requist de favoriser Sileine, et
+		Palinice en mesme temps luy recommandoit Clorian; et quand Palinice
+		rencontroit Florice, elle ne luy parloit que de son frere Cerinte, et
+		Florice à elle d’Amilcar. Jugez, je vous supplie, lors que nous
+		nous rencontrions tous ensemble, les gracieuses responces que nous nous
+		faisions les uns aux autres. Il fut tres à propos que devant ces
+		interests nous eussions esté bons amis, car, sans cela, c’est
+		sans doute qu’ils nous eussent portez à des violentes
+		resolutions. Et toutesfois prevoyans bien que nous ne pouvions demeurer
+		longuement de cette sorte sans nous aigrir, un jour que nous estions
+		tous dans le logis de Circéne à nous rendre les uns aux
+		autres les offices ausquels nos inerests nous obligeoient, quelque bon
+		Demon nous conseilla de chercher remede en cette affaire, devant qu’il
+		fust arrivé chose qui pust alterer nostre amitié.</p>
+		<p>Nous nous trouvasmes tous conformes en cette volonté, tant les
+		dames que les chevaliers, et parce que nous ne sçavions
+		où prendre un meilleur conseil que d’Amour mesme, ou de ma mere,
+		nous [563/564] allasmes au temple de Venus tous neuf
+		ensemble, et nous eusmes cette response.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">ORACLE</head>
+		<milestone type="space"/>
+		<p>Les six demeureront sans partir de ce lieu,</p>
+		<p>Que le devoir ou l’honneur ne l’ordonne;</p>
+		<p>Et pour les autres trois, l’oracle de ce dieu</p>
+		<p>Ne respondra qu’à leur seule personne.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Le vieux qui nous expliqua ces paroles nous dit que l’Oracle nous
+		commandoit de demeurer dans la ville, jusqu’à ce que par honneur
+		ou par devoir nous fussions contraints d’en partir, et que si les dames
+		venoient seules sans nous, le dieu leur diroit ce qu’elles auroient
+		à faire. Nous sceusmes que trois jours apres qu’elles s’en estoient
+		allées, apres avoir consulté l’Oracle. Quant à
+		nous, pour obeyr à l’ordonnance du dieu, nous avons tousjours
+		attendu qu’un sujet d’honneur nous fist sortir de Lyon. Or il est
+		advenu que le prince Sigismond nous commanda de suivre le prince
+		Godomar son frere, afin de l’assister en l’entreprise qu’il a faite
+		pour la conservation de Dorinde. Nous avons jugé que nostre devoir</p>
+	</div>
+	<div class="contentc">
+		<p>et nostre honneur nous convioient de luy obeyr, et c’est pour</p>
+		<p>quoy nous sommes venus où de fortune nous avons</p>
+		<p>trouvé ces trois belles dames, mais nous ne sç-</p>
+		<p>avons encore ce que l’Amour ordonne de nos</p>
+		<p>affaires. Ainsi finit Alcandre, et parce qu’il</p>
+		<p>estoit fort tard, Hylas de qui les</p>
+		<p>yeux estoient appesantis du som-</p>
+		<p>meil, apres leur avoir donné</p>
+		<p>le bon-soir, se remit</p>
+		<p>en son lict, où il</p>
+		<p>reposa jusqu’au</p>
+		<p>matin.[564/565]</p>
+	</div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

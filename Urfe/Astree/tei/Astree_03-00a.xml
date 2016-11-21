@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Troisième – AU ROY</title>
+                <title type="partie">03</title>
+                <title type="livre">00</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="publicdomain">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+		<head type="partie">AU ROY</head>
+		<milestone type="space"/>
+		<p>SIRE,</p>
+		<p>Cette bergere qui s’oze presenter maintenant devant vos yeux
+		est celle-là mesme qui autrefois prenant une semblable hardiesse,
+		fut receue avec tant de faveurs par Henry le Grand, de tres-heureuse et
+		tres-glorieuse memoire, pere de vostre Majesté. J’avois
+		creu, en la luy dédiant, que cette Astrée, que la sage
+		antiquité a tousjours prise pour la Justice; se devoit offrir à celuy qui
+		par ses armes luy avoit donné envie de descendre du Ciel, pour revenir
+		dans les Gaules, son ancienne et plus agreable demeure. Mais,
+		aussi-tost qu’elle a ouy le nom de Louys, que V. M. porte, elle
+		a incontinent jugé qu’elle estoit bien plus obligée de se
+		donner toute à vous, Sire, puis que par l’eslection d’une
+		tres-heureuse destinée, s’il est vray que les lois soient une
+		mesme chose que la justice, votre nom glorieux et le sien, ne
+		signifient qu’une mesme chose: celuy de Louys ne pouvant estre escrit,
+		que l’on n’y lise aussi cette sacrée parole de Louys.
+		Considerant cette [3/4] heureuse rencontre de vostre nom, avec vostre
+		louable inclination, j’avoue que je l’ay prise pour un infaillible
+		augure que, comme nous avons eu un Henry le Grand, par qui la France
+		chancelante avoit esté relevée et r’afermie, ou pour
+		mieux dire, parce qu’estant perdue elle avoit esté reconquise:
+		de mesme nous verrons en nos jours un Louys le Juste, qui luy rendra sa
+		premiere splendeur, et la maintiendra en son ancienne majesté,
+		avec tant de prudence et d’equité, que ce regne ne sera pas
+		moins admirable ny redoutable, par les solides fondemens d’une durable
+		paix, que celuy qui est passé l’a esté par la force et
+		par les armes. Dieu qui a tousjours maintenu la couronne que vous
+		portez avec de particuliers soins, par dessus toutes les autres de la
+		terre, augmentera le nombre de ses graces en V. M., tant que ceste
+		Astrée sera en vostre ame et en vos desseins, et tant que
+		l’espée que vous aurez au costé ne sera employée
+		que pour la maintenir, on ne tranchera que par ses mains. Ne
+		l’esloignez donc point de vous, Sire; mais au contraire, à
+		l’imitation de ce grand Roy, Pere de V. M., aymez-la, et la cherissez
+		avec une tres-certaine asseurance, que tant que vous reiglerez vos
+		actions à son exemple, vous acquerrez une extreme gloire par
+		dessus tous les princes de la terre, un tres-grand amour parmy vos
+		peuples, et une infinie benediction de la main de Dieu. Toute l’Europe
+		attend ces effects de V. M., tous les François les esperent, et
+		tous bons et fideles subjects les souhaittent, et moy, Sire, en cette
+		qualité, j’en supplie Dieu, avec tous ceux qui desirent la grandeur de vostre couronne, le repos de vos
+		peuples, et la gloire de vostre nom, comme celuy qui sera à jamais,</p>
+		<milestone type="space"/>
+		<p>SIRE,</p>
+		<p>Tres-humble, tres-fidelle, et tres-obeyssant serviteur et sujet de vostre Majesté,</p>
+		<milestone type="space"/>
+		<p>HONORÉ D’URFÉ.</p>
+	</div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

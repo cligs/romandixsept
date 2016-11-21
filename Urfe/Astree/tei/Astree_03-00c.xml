@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">L'Astrée</title>
+        <title type="part">Troisième – ODE A LA RIVIERE</title>
+        <title type="partie">03</title>
+        <title type="livre">00</title>
+        <author>Honoré d'Urfé</author>
+        <respStmt>
+          <resp>Establishment of the text</resp>
+          <name xml:id="hv">Hugues Vaganay</name>
+          <resp>Digitization</resp>
+          <name xml:id="rk">Reinhard Krüger et al.</name>
+          <resp>TEI-Conversion</resp>
+          <name xml:id="cf">Christof Schöch</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <availability status="publicdomain" />
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digital-source">
+          Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010.
+          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/" />
+          .
+        </bibl>
+        <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p />
+      </div>
+    </front>
+    <body>
+      <div>
+        <head type="partie">ODE A LA RIVIERE DE LIGNON</head>
+        <milestone type="space" />
+        <head type="chapitre">Par le Sieur de Baro.</head>
+        <milestone type="space" />
+        <p>Lignon qui par un doux murmure</p>
+        <p>Charmes les soucis plus cuisans,</p>
+        <p>Pour te garantir de l’injure</p>
+        <p>Et de la puissance des ans,</p>
+        <p>Urfé faict voir à tout le monde</p>
+        <p>Tant de merveilles de ton onde,</p>
+        <p>Et tant de beautez, que je croy</p>
+        <p>Que par sa plume glorieuse,</p>
+        <p>Il rendra la mer envieuse</p>
+        <p>Et ses eaux jalouses de toy.</p>
+        <milestone type="space" />
+        <p>Aussi les bords que ton rivage</p>
+        <p>Emaille de belles couleurs,</p>
+        <p>Par un miracle de nostre aage,</p>
+        <p>Ont moins de roseaux que de fleurs,</p>
+        <p>Et les beaux yeux de tes bergeres</p>
+        <p>Plus divines que boccageres,</p>
+        <p>Bruslent nos cœurs; mais tellement</p>
+        <p>Que tu peux benir la fortune,</p>
+        <p>Si l’eau que tu dois a Neptune</p>
+        <p>S’oppose à cet embrasement.</p>
+        <milestone type="space" />
+        <p>Encor’ seroit-il impossible</p>
+        <p>A cet Element d’empescher,</p>
+        <p>Que ton cur ne receust sensible</p>
+        <p>Les traicts qu’elles sçavent lascher.</p>
+        <p>Mais considerant leur visage,</p>
+        <milestone type="space" />
+        <p>[8/9] La crainte de vivre en servage</p>
+        <p>Donne des aisles à tes pas,</p>
+        <p>Et faict que tu fuys leur presence,</p>
+        <p>Pour rencontrer plus d’asseurance</p>
+        <p>Dans la mer que dans leurs appas.</p>
+        <milestone type="space" />
+        <p>Combien de fois la jalousie</p>
+        <p>M’a faict souhaitter de pouvoir</p>
+        <p>Gouster les douceurs de la vie,</p>
+        <p>Dont tu jouys sans le sçavoir!</p>
+        <p>Poussé de ce desir extreme,</p>
+        <p>J’ay dict mille fois en moy-mesme:</p>
+        <p>O Dieu! dont j’adore le nom,</p>
+        <p>Fais à mon amour ceste grace,</p>
+        <p>Que Lignon occupe ma place,</p>
+        <p>Ou bien moy, celle de Lignon.</p>
+        <milestone type="space" />
+        <p>Jamais la clairté de mon onde</p>
+        <p>Ne s’esloigneroit de ces lieux, ’</p>
+        <p>Pour chercher ailleurs vagabonde</p>
+        <p>Des objects qui luy plussent mieux;</p>
+        <p>Car ravy de les voir si belles,</p>
+        <p>Je serois paisible pres d’elles,</p>
+        <p>Autant que dureroit le jour,</p>
+        <p>Et puis soubs une nuict contraire</p>
+        <p>Nous porterions à nostre mere</p>
+        <p>Pactole l’or, et moy l’amour.</p>
+        <milestone type="space" />
+        <p>Les vents de leurs fortes haleines</p>
+        <p>N’estonneroient plus les zephirs,</p>
+        <p>Mais seroient pour plaindre mes peines,</p>
+        <p>Changez en amoureux souspirs.</p>
+        <p>Que si quelquefois ma frisure,</p>
+        <p>Bien que sans point faire d’injure,</p>
+        <p>S’eslevoit par des tourbillons,</p>
+        <p>C’est que foible pour tant de flamme,</p>
+        <p>Le feu qui brusleroit mon ame</p>
+        <p>Seroit cause de ces bouillons.</p>
+        <milestone type="space" />
+        <p>Mais qu’est-ce que me represente</p>
+        <p>La vaine ombre de ces plaisirs?</p>
+        <p>Il en faut esloigner l’attente,</p>
+        <p>Comme en estouffer les desirs;</p>
+        <p>Car je sçay (s’il est necessaire</p>
+        <p>Qu’un souhait bien que temeraire</p>
+        <p>Desormais me serve d’object),</p>
+        <p>Qu’il faut que mon ame ravie,</p>
+        <p>Juge digne de son envie</p>
+        <p>Plustost l’autheur que le subject.</p>
+        <milestone type="space" />
+        <p>Ainsi, Lignon, si dans toy-mesme</p>
+        <p>Tu retiens quelque sentiment,</p>
+        <p>Admire la faveur extréme</p>
+        <p>Qu’Urfë te faict en t’estimant.</p>
+        <p>Et afin que l’ingratitude</p>
+        <p>Ne soit le prix de son estude,</p>
+        <p>Prise le beau feu qui l’éprit,</p>
+        <p>Et confesse dans tes limites</p>
+        <p>Que tu tiens ce que tu merites</p>
+        <p>De sa plume et de son esprit.</p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p />
+      </div>
+    </back>
+  </text>
+</TEI>

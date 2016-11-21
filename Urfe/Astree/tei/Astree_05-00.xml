@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Cinquième partie – Epistre</title>
+                <title type="partie">05</title>
+                <title type="livre">00</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="publicdomain">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+		<p>Tres-haut et puissant seigneur, Messire Ambroise Spinola, marquis des Balbaces, conseiller d’estat de sa Majesté Catholique, chevalier de ses Ordres, et son capitaine general, etc.</p>
+		<milestone type="space"/>
+		<p>Monseigneur,</p>
+		<p>Depuis cet heureux moment qui me donna l’honneur d’estre cogneu de vous, j’ay si bien estudié les merveilles de vostre vie, que si j’avois resolu de ne dire que de belles choses, je voudrois tousjours parler de vos actions; et de fait, peu s’en est fallu que je ne me sois proposé de vous louer. Mais enfin, ayant consideré que pour demesler un si glorieux suject, il faut un esprit fort comme vostre courage, et une main qui responde à vostre reputation, j’advoue que je me suis trouvé trop foible pour l’entreprendre, et que je n’ay pas douté que, pour descrire les qualitez d’un homme dont la memoire ne doit jamais mourir, il ne fallust une de ces plumes, qui ne font pas un ouvrage, dont la durée ne se puisse mesurer à celle de l’eternité. [1/2]</p>
+		<p>Ainsi, Monseigneur, cette lettre ne sera que pour vous presenter une Bergere, qui a creu ne pouvoir mieux conserver ses myrthes qu’à l’ombre des lauriers dont vous estes couvert; et certes je remarque en ce choix je ne sçay quoy de legitime, puis qu’il seroit comme impossible qu’elle ne treuvast du repos aupres de celuy, dont la valeur le donne à des provinces entieres. Que s’il arrive quelque jour que, lassé de vaincre, vous la rencontriez au bord de quelque agreable fontaine, dont l’humide fraischeur appelle vostre soif et vostre sommeil, là, cependant que vous luy permettrez d’oster de vostre visage la sueur, la poussiere et le sang, elle vous racontera ce qu’elle a ouy publier de vous dans les parties du monde les plus esloignées. Elle vous dira que la gloire de vostre nom desormais craint ou aymé par toute la terre communique quelque chose de son esclat aux ennemis mesmes dont vous triomphez; que les plus grands personnages avouent qu’on trouve en vous ces qualitez eminentes qui peuvent mettre un homme dans l’estime de meriter toutes choses; que c’est vous de qui l’exemple devroit avoir banny de l’univers ces infames monstres d’avarice et d’ingratitude, que vostre prudence a introduit l’art de rendre les victoires moins funestes, et qu’enfin ces bras dont vous surmontez, devroient desormais estre occupez à porter des sceptres aussi bien qu’à les conserver.</p>
+		<p>Voylà, Monseigneur, de quels discours cette belle Bergere vous entretiendra, qui pourroient estre appellez des flatteries pour tout autre que pour vous, en faveur de qui les meilleurs esprits ne sçauroient inventer des louanges qui ne fussent encore moindres que celles que vous meritez. Mais je ne prends pas garde qu’insensiblement je me laisse charmer aux appas de vostre vertu et que pensant dire ce que vous estes, j’oublie ce que je suis: c’est pour cela que revenant à mon premier object, je vous supplie de voir de bon œil cette marque de l’estime que j’ay pour vous, et de croire que je ne m’esloigne nullement du dessein qu’avoit feu monsieur d’Urfé, de ne mettre cet ouvrage que sous la protection des Couronnes, puisque, ny luy, ny moy, n’avons jamais sceu faire de la difference entre posseder des Empires, et les meriter.</p>
+		<milestone type="space"/>
+		<p>Monseigneur,</p>
+		<p>De vostre Excellence,</p>
+		<p>Le tres-humble et tres-obeissant serviteur</p>
+		<p>Baro. [2/3]</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentli">
+		<p>Vn peintre sçauant entreprit</p>
+		<p>De tirer au vray ton visage</p>
+		<p>Mais nul que toy neut le courage</p>
+		<p>VRFÉ de peindre ton esprit.</p>
+		<p>Duquel prends tu plus d’avantage</p>
+		<p>ASTRÉE, ou d’estre de ton aage</p>
+		<p>Toute la gloire et l’ornement</p>
+		<p>Ou deuoir l’Amour meritée</p>
+		<p>D’vn Berger si fidelle amant,</p>
+		<p>Ou qu’VRFÉ ta gloire ait chantée.</p>
+	</div>
+	<div class="contentl">
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<head type="chapitre">A LA BERGERE ASTRÉE</head>
+		<milestone type="space"/>
+		<p>Tu ne sçaurois t’imaginer, chere Astrée, combien m’est sensible le regret de voir que tu t’esloignes de moy; ce n’est pas qu’il n’y ait de puissantes raisons qui authorisent ta fuitte, mais je croy bien que si tu eusses pris le soing de considerer attentivement quels sont les perils où tu vas t’exposer, l’horreur de tant d’obstacles eust esté assez forte pour te faire consentir à ne voir le jour que par les fenestres de mon cabinet. Je sçay bien que le bon accueil que l’on t’a fait dans les pallais mesmes des plus grands monarques, flatte maintenant ta presomption; et te fait esperer un traittement aussi favorable; mais souviens toy que,comme il y a des beautez à qui le deuil est un ornement, et qui ne sont jamais si aymables que dans l’affliction, il se peut faire que ceux à qui la pitié aura fait trouver quelque plaisir dans le ressentiment de tes maux, seront desormais jaloux ou affligez de ta bonne fortune.</p>
+		<p>[3/4] Voy tu, ma Bergere, je presume beaucoup de ta vertu, mais pour en parler sainement, je ne la croy pas seule capable de faire toute ton estime: ce siecle a des delicatesses estranges, et on te dira qu’il ne falloit point sortir de tes antres ny de tes solitudes pour ne paroistre qu’à la façon du commun; enfin on veut aujourd’huy faire passer pour maxime qu’il ne faut pas se mesler d’une chose, si on n’y excelle jusqu’à faire des miracles, comme si le moindre trait de tes yeux ou de ma plume devoit guerir les malades et ressusciter les morts. Certes je te treuve desormais si esloignée de ce degré de perfection, que si j’estois creu, tu ne te sousmettrois plus à la censure du monde, et chercherois ta propre satisfaction dans l’entretien de nos plus particuliers amis.</p>
+		<p>Considere, je te prie, combien depuis la perte de celuy à qui tu dois ta naissance, ton visage a perdu de son premier esclat; il n’est pas jusqu’aux plus petites fontaines qui ne t’offrent un miroir, pour y remarquer combien tes graces sont changées. Cependant rien n’est capable de te retenir, et comme si la gloire estoit pour toy un object de mespris, il semble qu’au lieu d’en vouloir acquerir, il ne te reste pas seulement du soing pour conserver celle que tu possedes. Et bien, puis qu’une secrette fatalité ordonne que pour representer les accidents de ta vie, nous n’ayons point de plus petit theatre que l’Univers, va, ma Bergere, je consents à ton départ, aussi bien ay-je appris, qu’il est bon quelquefois de permettre ce qu’on ne peut empescher.</p>
+		<p>Mais s’il est juste que cette estroitte confidence qui nous a unis depuis quelque temps, me fasse esperer d’obtenir quelque chose de toy, je te conjure, chere Astrée, de ne te presenter jamais devant personne, que pour luy estre proposée comme un parfait exemple de vertu, et de faire en sorte que le repos dont le Ciel a recompensé tes peines, inspire dans l’ame de celles de ton sexe l’humeur d’imiter ta fidelité. Je ne doute pas que ce desir, quelque legitime qu’il soit, ne te fasse de nouveaux malheurs, puis qu’aujourd’huy peu s’en faut que le changement ne soit mis dans le nombre des belles actions, et que si c’estoit un crime qu’on eust puny de mort, peut-estre ne resteroit-il pas une beauté dans le monde. Mais, bien que j’en aye receu une blessure qui ne guerira jamais, et que la plupart des hommes treuvent de la consolation à se faire des compagnons enleur infortune, je meure si je ne seray bien aise qu’à l’advenir personne ne soit aussi miserable que moy. [4/5]</p>
+		<p>Ou bien, s’il arrive que tu tombes entre les mains de ces grands genies, à qui la France defere, avecque raison, 1’honneur de juger souverainement du merite des choses, et de qui les opinions sont autant de loix pour establir ou pour destruire 1’estime d’un homme, je te prie, devant qu’ils te condamnent au feu, de leur representer que s’il y a de la honte à paroistre comme tu fais, c’est a moy seulement qu’elle doit estre imputée; que je n’ignore pas le peu de rapport qu’il y a de mes deffauts aux perfections de feu Monsieur d’Urfé, et que ce seroit une espece d’injustice de te punir pour la faute d’autruy. Que si le respect de ton nom, ny la necessité d’obeyr (qui est la seule qui m’a fait escrire) ne les peut obliger à te faire grace, arme toy des pleurs que sa perte m’a fait verser, et croy que le nombre de mes larmes sera capable de te sauver de cet embrazement.</p>
+		<p>Tu sçais, chere Astrée, que ce souvenir a tousjours trouvé de l’humidité dans mes yeux, et quelque lascheté qu’il y ait dans cette marque de mon ressentiment, tu ne m’as jamais veu assez fort pour ne la commettre pas. Que si tu trouves plus à propos de t’eschapper, je ne seray pas marry que tu recoures à ce remede pour t’empescher de perir, mais prends garde, si tu ne veux m’offenser cruellement, de ne retourner point sans moy revoir le lieu bien-heureux qui te donna ta premiere nourriture, et qui triomphe aujourd’huy de la despouille de ce corps, qui fut autre-fois l’organe de l’esprit qui te forma. Le desir qui me presse de t’y accompagner, est si beau et si violent, que la crainte d’y trouver des obstacles, fait que j’ay presque autant de passion à craindre une bonne fortune, que les autres en ont à la rechercher. Ce sera alors que Lignon succedant à l’amitié de son Maistre et du mien, me redira confidemment les plus doux secrets qui ont esté fiez à ses ondes, et chaque jour verra naistre de nouvelles fleurs que j’iray semer sur son tombeau; chaque arbre m’ouvrira son escorce pour me montrer les chiffres qu’il y a autrefois gravez, et si la cruauté de mon destin ne m’avoit ravy les bonnes graces de Cloresinde, elle auroit la gloire d’y voir son nom presque aussi cognu que le tien. Mais, chere Astrée, il se peut faire que je m’afffige d’une vaine apprehension, et que tu recevras dans le monde un accueil qui trompera mon esperance; ne perds donc pas courage, ma Bergere, et bien que je ressemble à ceux en qui la liberalité est un vice, faute d’estre exercée de bonne grace, paye toy de mes raisons, et croy que si j’eusse pu te donner quelque ornement [5/6] plus agreable, je n’y aurois espargné ny mes veilles, ny mes soings. Va donc jusques parmy les barbares parler de tes contentements, et si ma fortune veut que la posterité qui conservera eternelle la memoire du nom d’Urfé, permette que le mien ne meure pas, sçaches que je seray trop bien recompensé de ce que j’ay fait pour toy, puis que la fin de tes peines aura donné le commencement à ma reputation. [6/7]</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<p>Cher BARO bien que ton visage</p>
+		<p>Paroisse en ce fameux ouurage</p>
+		<p>Aussi bien peint que ton Esprit,</p>
+		<p>Ton liure a des graces si belles</p>
+		<p>Qu’il semble qu’Amour l’ait escrit</p>
+		<p>D’une plume de ses aisles.</p>
+		<p>De l’Estoille.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<milestone type="space"/>
+		<head type="chapitre">AU LECTEUR</head>
+		<milestone type="space"/>
+		<p>Je n’ay rien à te dire, cher Lecteur, sinon que j’apprehende infiniment que tu jettes les yeux sur cet ouvrage, devant qu’avoir veu la vraye quatriesme partie, que depuis quelque temps j’ay fait imprimer sur le manuscript mesme de feu mon Maistre; parce que cette Conclusion y estant immediatement attachée, il est presque impossible que tu n’y treuves de la confusion si tu en renverses l’ordre, et si tu cherches la fin d’une chose, dont tu n’auras pas leu le commencement. Que si ce malheur m’est inevitable, et que ta curiosité l’emporte pardessus la raison, je me descharge sur toy de tous les deffauts que tu remarqueras dans le sujet, pouvant jurer avecque verité que j’ay suivy le dessein si exactement, que si tu ne trouvois rien de bon en tout le reste peut-estre ne condamnerois-tu pas la conduitte que j’y ay observée; je m’en remets à ta patience et à ton jugement. Adieu. [7/8]</p>
+	</div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Cinquième partie – Livre V</title>
+                <title type="partie">05</title>
+                <title type="livre">05</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="publicdomain">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+		<head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
+		<head type="chapitre">LE CINQUIESME LIVRE</head>
+		<milestone type="space"/>
+		<p>Adamas avoit à faire si peu de chemin qu’il arriva dans
+		Marcilly bien long-temps devant qu’Amasis ny Galathée fussent
+		esveillées. Cela fut cause qu’il s’en alla droit dans la chambre de Lindamor qu’il treuva
+		presque habillé, car l’impatience que son amour luy donnoit ne
+		permettoit pas qu’il demeurast au lict si tard que les autres. Et
+		là s’estant informé du suject qui avoit obligé
+		Galathée à le faire revenir si promptement, Lindamor luy respondit en ces termes: Mon pere, la
+		cause pour laquelle cette Nymphe vous a donné la peine de venir,
+		nous touche, elle et moy esgallement, c’est pour cela que je vous en feray
+		le discours, afin que vous n’en soyez pas plus longuement en peine.
+		Sçachez donc, mon pere, qu’en l’estat où je suis, je
+		tiens que ma vie depend absolument de trois personnes, qui sont Amasis, Galathée
+		et vous ; peut-estre Amasis se souviendra de mes services, et dés que
+		mon intention luy sera cognue, il se peut faire qu’elle ne me refusera pas
+		un bien pour lequel j’ày desja tant de fois souspiré.
+		Galathée est presque toute vaincue, et si cela se peut dire sans vanité, elle
+		a des desirs qui sont entierement à mon avantage, il reste seulement
+		que vous preniez le seing de me secourir en cette occasion, et de me favoriser
+		de vostre credit aupres de la Nymphe, puisqu’il n’est personne qui
+		puisse tant aupres d’elle que vous, de qui la prudence luy est si
+		coghue que pour l’obliger à faire quelque chose, je croy qu’il
+		ne faut point d’autre charme que vostre approbation. Mais, mon pere,
+		continua-t’il, afin que vous cognoissiez le desespoir où je me
+		verrois réduit, si mon dessein n’avoit pas un succez aussi heureux que
+		je le desire, je vous feray un particulier [193/194] recit de mon amour, et
+		des autres accidens de ma vie, pourveu que vous me pardonniez la faute
+		que j’ay faite, vous ayant caché si longtemps un interest qui ne
+		me sçauroit estre que funeste, sans
+		l’assistance que vous m’y pouvez donner.</p>
+		<p>A ce mot le chevalier se teut, et ayant prié le Druide de
+		s’asseoir, il se mit aupres de luy et commença de se preparer à luy
+		faire un long recit de tout ce qui s’estoit passé entre luy et
+		Galathée, mais Adamas, qui le sçavoit desja parfaitement, et à qui Leonide
+		l’avoit raconté, le prevint, et luy dit: Brave Lindamor, vous m’avez creu plus ignorant de
+		vos affaires que je ne suis, et sans que vous vous mettiez en peine de
+		m’apprendre ce qui regarde vostre amour, je vous advertis que j’en
+		sçay tant de choses que peut-estre serez-vous bien estonné, quand je
+		vous en raconteray jusqu’aux moindres particularitez. Et pour marque,
+		adjousta-t’il, que je ne ments pas, n’est-il pas vray que ce fut
+		Lindamor qui vint desfier Polemas, et qui l’ayant vaincu se retira sans
+		vouloir estre cognu de personne? Ne vous souvenez-vous point d’avoir
+		esté vestu quelquefois en jardinier et d’avoir donné à Galathée un cœur
+		qu’elle receut vivant, au lieu qu’elle s’attendoit de le prendre mort?
+		Ce soir-là mesme, ne vous fit-elle point de promesses, et ne
+		jura-t’elle pas qu’elle ne refuseroit jamais, son consentement aux
+		desirs que vous auriez de la possedes? Voyez-vous, Lindamor, je
+		sçay tout ce qui vous touche, et vous n’en devez pas estre marry, puisque je
+		vous honore si fort que je me serviray tousjours plustost de cette
+		cognoissance pour vous favoriser que pour vous nuire. Je vous dis donc
+		que si vous avez jamais eu quelque suject de bien esperer de vostre
+		fortune, c’est maintenant que tout contribue à vous rendre
+		heureux, et qu’il n’est pas jusqu’aux cendres de Polemas qui ne parlent de ce qu’on
+		doit à vostre courage. Je vous conseille seulement de vous y
+		gouverner avecque discretion, afin que si vostre passion esclattoit, cela
+		n’offençast en quelque façon Amasis ou Galathée.</p>
+		<p>Lindamor escouta fort attentivement tout ce que le Druide luy dit, et ne fut pas
+		long-temps sans cognoistre qu’autre que Leonide ne luy pouvoit avoir
+		appris toutes ces nouvelles. Toutefois ne voulant pas perdre du temps
+		à la condamner, il fit semblant d’estre bien aise qu’il eust sceu la
+		vérité de tout, puis il luy respondit de cette sorte:
+		Mon pere, puisque vous n’ignorez pas un seul des accidents de ma vie, et que vous
+		sçavez bien que si on me refuse Galathée, je ne dois
+		jamais vivre content, je vous supplie [194/195] le plus humblement que je puis de me
+		dire quels sont les moyens qui me la peuvent faire obtenir. Je croy
+		qu’une seule de vos persuasions sera plus puissante pour toucher Amasis
+		que tout ce que j’ai fait pour elle, qui, pour en parler sainement,
+		n’est pas si considerable que j’en deusse esperer une recompense si
+		belle qu’est cette Nymphe. C’est pourquoy je vous conjure, par tous les
+		effects que la pitié peut produire dans une ame capable de la
+		ressentir, d’en vouloir faire la proposition à Amasis, et de luy
+		representer que, s’il faut un jour que Galathée soit le prix de
+		l’amour et des services de quelqu’un, peut-estre n’en
+		rencontrera-t’elle jamais qui l’ayme ni qui la serve mieux que moy.</p>
+		<p>Lindamor profera ce peu de mots avecque tant d’affection qu’Adamas
+		en fut touché, et pour luy en donner un tesmoignage: Genereux Lindamor, luy dit-il, vous
+		recognoistrez bien-tost quel est le desir que j’ay de vous voir jouyr
+		des contentements que vous meritez; mais afin que nous fassions jouer
+		en cecy tous les ressorts qui vous peuvent estre favorables, je suis
+		d’avis que vous descouvriez vostre dessein à Sigismond, à
+		Rosileon et à Godomar et que vous les obligiez à faire eux-mesmes cette
+		demande à la Nymphe. Il est croyable qu’elle ne leur sçauroit rien refuser,
+		et quand elle en auroit la volonté, elle ne le fera jamais sans me le
+		communiquer; que si cela arrive, jugez ce que je ne feray pas pour
+		vous en cette occasion, et si vous ayant promis de vous y servir,
+		j’espargneray ny mon credit, ny mes persuasions.</p>
+		<p>A ce mot Lindamor prit la main du Druide qu’il baisa, et ayant
+		protesté qu’il executerait
+		son conseil de poinct en poinct, il se leva pour envoyer sçavoir
+		si Galathée n’estoit point encore levée; mais Adamas qui
+		n’avoit pas beaucoup d’envie de la voir, de peur qu’elle luy fist quelques
+		reproches dequoy il estoit party le jour auparavant sans luy dire adieu: Seigneur
+		chevalier, dit-il à Lindamor, si la Nymphe Galathée n’a rien
+		de plus particulier à me dire, vous luy pourrez rendre compte de
+		mon voyage, et des choses dont nous nous sommes entretenus; pour moy j’ay
+		fait dessein de m’en retourner, car les hostes que j’ay chez moy ne me
+		permettent pas de faire icy plus de sejour. – A propos de ces hostes,
+		dit Lindamor en l’interrompant, je pense qu’elle eust esté
+		bien-aise de vous en demander des nouvelles, car elle se plaint dequoy elle ne les a
+		point veus lors qu’ils sont partis. – Ils sçavent si peu,
+		respondit Adamas, ce qu’il faut observer en semblables occasions, qu’ils sont
+		pardonnables s’ils ne se sont point acquittez [195/196] de ce qu’ils
+		dévoient à la grandeur d’Amasis et de Galathée;
+		mais je me promets que vous ferez leurs excuses, et je ne vous en aurois pas remis le seing,
+		n’eust esté que j’ay creu que mesme vostre repos demande
+		qu’Amasis ne sçache pas que je sois venu pour vos affaires, de peur qu’elle
+		me tienne pour suspect, et qu’elle pense que j’ay plus d’interest pour
+		vostre contentement particulier que pour le bien de son service.</p>
+		<p>Lindamor treuva cette consideration si puissante qu’il consentit à tout
+		ce qu’Adamas voulut; ainsi le Druide partit, et la premiere chose qui se
+		presenta à sa pensée durant son chemin, fut l’opiniastreté de Celadon,
+		et son obstination à fuyr les occasions qui le pouvoient faire
+		cognoistre à sa bergere; toutefois ne pouvant en deviner la cause, il
+		resolut, quoy qu’il en deust arriver, de ne
+		souffrir plus que cette tromperie durast.</p>
+		<p>Cependant le berger s’estoit esveillé, et parce
+		qu’il estoit couché. dans la mesme chambre où dormoient
+		Astrée, Diane et Phillis, car elles voulurent vivre chez Adamas, avec la mesme
+		liberté qu’elles avoient chez Phocion, il n’ouvrit pas plustost
+		les yeux pour en laisser sortir le sommeil qu’il ouvrit son rideau, et
+		portoit curieusement la veue sur le lict où sa bergere reposoit.
+		Mais Astrée qui s’esveilla presque en mesme temps: Je prie les
+		dieux, luy dit-elle, que ce jour soit aussi heureux
+		à ma belle maistresse que je le luy desire.</p>
+		<p>Celadon alors: Il ne faut pas, luy respondit-il en
+		souspirant, me le souhaitter, puisqu’il depend de vous de me le donner
+		tel que vous voudrez! – Ah Dieu! que dittes-vous? adjousta la
+		bergere, je vous jure que si cela estoit, vous n’en auriez jamais de
+		malheureux, car je vous ayme trop pour ne faire pas tout ce qui me
+		seroit possible pour vostre contentement. – Je vous proteste, reprit la
+		feinte druide, que l’affection que j’ay pour vous est allée
+		jusques là, que vous pouvez ce que je vous dis, et que le jour le plus doux de ma
+		vie me seroit funeste s’il ne nous estoit agreable, comme le plus
+		funeste me seroit doux si vous y receviez du plaisir. – Vous en direz
+		tant, ma maistresse, repliqua Astrée, que vous me donnerez de la
+		vanité, ou que vous me ferez soupçonner que vous avez
+		quelque dessein de vous mocquer de moy.</p>
+		<p>Le berger vouloit respondre, quand il prit
+		garde que Diane et Phillis s’estoient esveillées au bruit qu’ils
+		avoient desja fait en parlant. Cela fut cause qu’il se teut pour ouyr
+		Diane, qui s’estant un peu frotté les yeux, et se tournant de
+		son costé: Madame, [196/197] dit-elle, je pense que vous, ny Astrée,
+		n’avez point dormy de toute la nuict, car je m’endormis hyer cependant que
+		vous vous entreteniez, et maintenant que je me suis esveillée,
+		j’ay ouy que vous continuiez encore. – J’avoue, respondit Alexis, que si cette
+		belle fille eust eu autant de force pour vaincre le sommeil que j’en
+		avois de resolution, peut-estre eussions-nous passé la nuict
+		à discourir ensemble. – En verité, dit Astrée, je n’avois
+		pas trop de volonté de dormir, mais la crainte que j’eus de vous estre
+		importune fut cause que je cessay la premiere de parler. – Cette consideration,
+		reprit Alexis, ne vous devoit pas fermer la bouche, car j’attends bien
+		plus de repos de vos paroles que du sommeil. – Et bien, repliqua la
+		bergere, il est croyable que nous en jouyrons quelque jour, de cet
+		agreable repos, pourveu que vous vous hastiez d’accomplir la promesse
+		que vous m’avez faite. Celadon se preparoit de parler, quand Phillis le
+		prevenant: Mon Dieu! dit-elle à Astrée, qu’il vous
+		tarde d’estre aupres de cette belle druide et de vivre avec elle en quelque lieu,
+		où nostre presence ne puisse vous plus divertir! Je meure si j’estois
+		où est Diane, je vous jetterois hors du lict, afin que vous allassiez de
+		bonne heure prendre possession de la place que vous desirez. Disant
+		cela, elle commença de pousser Diane, et Diane Astrée,
+		mais avecque tant de force qu’Astrée estoit desja à moitié hors
+		du lict. Enfin craignant qu’elles la fissent tomber tout à fait: Diane,
+		s’escria-t’elle en sousriant, vous n’estes pas plus sage qu’il ne faut
+		de me vouloir chasser d’auprès de vous, sans sçavoir
+		premierement si ma maistresse voudroit prendre la peine de me recevoir. – La loy,
+		respondit Alexis, qui nous defend de laisser coucher personne avecque
+		nous, n’est pas si estroitte qu’elle ne permette bien que je vous y
+		reçoive en cette necessité. A ce mot elle ouvrit les bras
+		et se pancha un peu sur le costé, comme luy faisant signe qu’elle y vint,
+		mais par malheur sa chemise s’ouvrant à l’endroit de l’estomach, laissa
+		sortir le ruban où estoit attaché le portraict d’Astrée,
+		aussi bien que la bague qu’il luy avoit arrachée, quand son desespoir le fit
+		precipiter dans Lignon; dequoy Astrée s’estant apperceue et se remettant
+		en memoire combien la couleur de ce ruban estoit semblable à celle
+		du nœud que Celadon luy avoit pris, elle changea de visage et sans pouvoir
+		retirer ses yeux de dessus cet objet demeura assez long-temps sans dire
+		une seule parole. Le berger cependant qui l’attendoit s’estonna d’un
+		changement si soudain, et ne put s’empescher de [197/198] luy en
+		demander la cause, à quoy Astrée respondit: Je vous
+		jure, ma maistresse, que je suis si ravie de voir ce que vous portez sur
+		vostre gorge, que je ne puis retirer ma pensée d’un accident qui
+		m’a desja presque fait mourir.</p>
+		<p>Celadon alors baissant la veue, et voyant hors de sa chemise ces chers
+		gages de l’amour et de la jalousie d’Astrée, qu’il avoit
+		jusqu’alors cachez avecque tant de soing, peu s’en fallut qu’il ne se
+		pasmast. Toutefois s’imaginant que pour la tromper mieux, il falloit
+		tenir bonne mine, il se remit bien tost, et feignant de sous-rire: Mon
+		serviteur, luy dit-il, ce que vous avez veu ne vous doit pas mettre en
+		peine, je vous le montreray de plus pres quand vous vousdrez, et vous
+		diray librement de qui je le tiens, pourveu que vous m’assuriez que
+		vous n’en serez point jalouse. Disant cela il remit le ruban où
+		il devoit estre pour n’estre point veu, et Astrée qui mouroit
+		d’impatience: Je confesse, dit-elle, que je serois la plus coupable du
+		monde, si je ne recevois dés maintenant l’offre que vous me
+		faites, et si je ne me guerissois l’esprit du trouble où cette
+		veue l’a mis. A ce mot elle se jetta en bas du lict où elle
+		estoit pour aller dans celuy de Celadon, mais à peine fut-elle
+		au milieu de la chambre, qu’elle s’ouit nommer sur le degré, et
+		parce qu’elle eut peur que ce ne fust quelqu’un qui les vint visiter
+		comme Adamas et Leonide, elle s’en retourna le plus viste qu’elle put,
+		et se remit dans son lict, bien que Diane et Phillis fissent un peu de
+		difficulté de l’y recevoir.</p>
+		<p>En ce mesme temps Leonide entra, et Dieu sçait quel fut le
+		contentement de Celadon, se voyant delivré de la peine où
+		l’avoit mis la curiosité d’Astrée; mais quelque grande
+		que fust sa joye, elle ne fut en rien comparable à l’estonnement
+		de Diane, voyant que Leonide n’estoit venue dans leur chambre que pour
+		y amener Bellinde. Toutefois cette belle bergere dissimulant le
+		desplaisir que l’arrivée de sa mere luy avoit causé,
+		receut ses embrassemens et ses caresses, avec un tres-grand tesmoignage
+		de contentement. Phillis et Astrée en firent de mesme, et
+		cependant Leonide s’estant approchée du lict de Celadon, luy
+		demanda comme il avoit reposé, à quoy le berger
+		respondit: Sage nymphe, la nuict m’a esté bien plus douce que
+		ne le devoit permettre la cruauté de mon destin, qui trouve
+		tousjours quelque nouveau moyen de m’affliger. Leonide alors un peu
+		surprise: Et quoy, luy demanda-t’elle, est-il survenu depuis hyer
+		quelque nouvel accident? – Il en est arrivé un si funeste,
+		repliqua Celadon, que si vous eussiez demeuré [198/199] encor
+		une heure à venir, j’allois tomber dans la plus estrange peine
+		où jamais amant ait esté reduit. Alors il luy raconta de
+		quelle façon le nœud, le portraict et la bague d’Astrée
+		avoient paru, par l’ouverture de sa chemise, sur l’endroit de son
+		estomach, et comme Astrée s’en estoit apperceue, jusqu’à
+		le tesmoigner par les changements de son visage. Il luy dit encore le
+		dessein qu’avoit eu cette bergere de se venir mettre dans son lict,
+		pour s’esclaircir de la doute où cet object l’avoit mise; et
+		enfin la peine où il estoit de trouver
+		quelque invention capable de la tromper.</p>
+		<p>Leonide apres avoir ouy tout ce discours: En verité, dit-elle,
+		les dieux vous puniront du tort que vous faites à vostre
+		bergere, luy differant avec tant d’opiniastreté le plaisir
+		qu’elle auroit de vous cognoistre; mais si vous me croyez, vous ne
+		perdrez pas davantage de temps et chercherez aujourd’huy quelque
+		commodité pour luy dire de bouche ce que vos yeux luy auroient
+		mille fois persuadé, si elle en eust bien entendu le langage. –
+		Que mes malheurs, dit Celadon, se rendent eternels, si je ne desirerois
+		avec passion sçavoir desja quel bien ou quel mal j’en dois
+		attendre! car vous vous imaginez bien que dans les irresolutions
+		où nous sommes, je ne suis pas celuy qui souffre le moins. – Et
+		bien! reprit Leonide, j’en parleray à mon oncle, et luy diray
+		combien librement vous vous soumettez à tout ce qu’il ordonnera
+		sur ce suject. Cependant je suis d’avis que vous me remettiez entre les
+		mains ce nœud, ce pourtraict et cette bague, afin que si Astrée
+		vient à vous en demander des nouvelles, je vous sois une excuse
+		legitime pour luy refuser ce contentement. – Officieuse Leonide,
+		respondit Celadon, sans que je vous les donne, je pourray bien luy dire
+		que vous les avez, et je ne mentiray pas quand je luy jureray que vous
+		me les avez demandez; mais pardonnez-moy si je ne m’en ose pas
+		desfaire, quand ce ne seroit que pour un moment, car il est tres vray
+		que la douleur que je souffrirois durant cette separation seroit assez
+		forte pour me mettre au hazard de perdre la vie. Leonide qui cognut
+		bien qu’elle n’obtiendroit pas cela sur luy, ne s’y opiniastra pas
+		davantage, mais ayant dit à Celadon de quelle façon il
+		devoit recevoir Bellinde, ce berger s’en acquitta si bien et fit ses
+		compliments de si bonne grace qu’il eust pu decevoir non pas Bellinde
+		seulement, mais tout le monde ensemble.</p>
+		<p>Adamas en ce mesme temps revint de Marcilly, et treuva Paris fort pres
+		de sa maison, qui estoit desja party pour luy aller porter les
+		nouvelles de l’arrivée de Bellinde; l’ayant donc ramené
+		et [199/200] s’estant informé particulierement du succez de son
+		voyage, il luy fit toutes les caresses qu’un fils peut attendre d’un
+		pere qui l’ayme parfaittement. Bellinde fut incontinent advertie du
+		retour du Druide; cela fut cause qu’elle sortit de la chambre de ces
+		belles filles pour leur laisser le temps de s’habiller, et pour aller
+		de bonne heure s’acquitter de ce qu’elle devoit à l’affection et
+		à la qualité d’Adamas.</p>
+		<p>A peine ces bergeres commencerent de se lever que Diane, quelque
+		contrainte qu’elle se fist, ne put jamais cacher le desplaisir que luy
+		avoit causé la venue de sa mere, sçachant bien qu’elle
+		n’avoit autre desir que d’achever son mariage avecque Paris. Ainsi
+		à chasque espingle qu’elle attachoit sur ses cheveux ou sur sa
+		robe, elle poussoit quelque souspir, dequoy Astrée s’estonna
+		d’abord, et luy en ayant demandé la cause, Diane luy respondit
+		qu’elle ressentoit avecque tant d’excez le contentement que luy avoit
+		apporté le retour de sa mere, qu’elle en estoit comme
+		transportée, et que, dans la confusion où son esprit
+		estoit alors, il paroissoit presque plustost affligé que
+		content. Phillis qui l’ouyt parler de la sorte: Je crains bien,
+		adjousta-t’elle tout à coup, que la joye de Silvandre ne soit
+		semblable à la vostre, et que le retour de Paris ne donne
+		à son ame un plaisir qui ne paroistra jamais dans ses yeux. – Je
+		croy, repliqua Diane, que cela luy sera comme indifferent, ou que, s’il
+		doit estre touché de quelque chose, ce sera plustost du
+		contentement de revoir ma mere, que du regret de revoir Paris. – Je ne
+		sçay ce qui en sera, reprit Phillis, mais je ne voudrois pas que
+		tous les plaisirs que j’attends en la possession de Lycidas, fussent
+		semblables à celuy que Silvandre recevra quand on luy donnera
+		cette nouvelle. Voyez-vous, Diane, je cognois si bien son humeur que
+		j’oserois jurer qu’il n’en sera pas seulement affligé, mais
+		desesperé; car quelque mine que vous en fassiez, vous
+		sçavez bien qu’il a trop de jugement pour ne cognoistre pas que
+		toute cette partie est faite pour vous donner à Paris, ce qui
+		est le plus sanglant outrage qu’il puisse jamais recevoir. – Ah dieux!
+		dit la bergere, la larme à l’œil, que vous estes cruelle, ma
+		sœur, de me tenir ce discours! Disant cela, elle rougit, puis elle
+		adjousta: Et ne voyez-vous pas que puisque Silvandre a du jugement, il
+		ne treuvera pas estrange que j’obeysse à Bellinde, et que
+		j’observe ses volontez comme des loix qui me doivent estre inviolables?
+		– Je ne dis pas, respondit Phillis, qu’il condamne vostre obeyssance,
+		mais je dis bien qu’il s’en affligera, et [200/201] que peut-estre la
+		douleur qu’il en ressentira sera si violente qu’elle luy fera faire
+		quelque funeste resolution.</p>
+		<p>Diane alors pliant les epaules, et levant les yeux au ciel: Veuillent
+		les dieux, dit-elle, luy donner ce qu’il merite, ce que je luy
+		accorderois, s’il ne dependoit que de moy de le rendre heureux. – En
+		verité, dit Phillis, voilà qui luy fera grand bien,
+		cependant que vous donnerez à un autre vos plus particulieres
+		faveurs! Il faudra pour la recompense de tous ses services qu’il se
+		contente d’un simple souhait que vous avez fait à son avantage.
+		– Je meure, vous estes gratieuse, adjousta Diane, et que voudriez-vous
+		que je fisse pour luy, en l’estat où je suis, ne pouvant
+		seulement rien faire pour moy-mesme? – Je n’oserois dire, repliqua
+		Phillis, ce que je voudrois que vous fissiez, mais je sçay bien
+		ce que devroit faire une fille qui auroit du courage, et ce que je
+		ferois moy-mesme, si j’estois reduitte en cette extremité. – Ma
+		compagne, reprit Diane, vous estes si sage que vous souffririez vostre
+		disgrace, sans oser seulement vous plaindre de l’injustice qu’on vous
+		feroit, aussi est-ce la resolution que j’ay prise et que j’executeray,
+		quelques malheurs que mon destin me prepare. Diane accompagna ces
+		dernieres paroles d’une certaine action, qui fit bien cognoistre
+		à Astrée et à Phillis qu’elle ne parloit pas
+		contre son sentiment. Commençans donc de bonne heure à
+		plaindre le sort de Silvandre, elles acheverent de s’habiller, puis
+		toutes ensemble descendirent où Adamas et Bellinde estoient.</p>
+		<p>D’autre costé Ligonias qui sçavoit bien qu’il ne pouvoit
+		faire un plus grand plaisir à Sigismond, ny un plus grand
+		service à Amasis que d’emmener promptement hors du Forests les
+		troupes qui avoient esté remises soubs sa conduitte, leur fit
+		faire la plus grande journée qu’il put, et les fit coucher bien
+		avant dans les terres du Roy des Bourguignons; le lendemain il les fit
+		partir de bon matin, et leur fit faire une si grande diligence que sur
+		la nuict ils arriverent tous à Lyon.</p>
+		<p>Incontinent Ligonias s’alla jetter aux pieds de Gondebaut, et luy
+		rendit un compte si particulier de tout ce qui s’estoit passé en
+		la desfaitte de Polemas, que ce roy, offensé de l’evenement
+		qu’avoient eu les desseins de ce chevalier, tourna toute sa colere
+		contre Sigismond, comme s’il eust esté le principal autheur de
+		sa ruine. A cela sa jalousie le poussa extremément, car venant
+		à se souvenir que sa fuitte n’avoit pas esté si-tost pour
+		donner quelque secours à Godomar que pour faire voir des preuves
+		de [201/202] son amour à Dorinde, peu s’en fallut que ce despit
+		ne luy troublast le jugement. Il fut ainsi assez long-temps sans dire
+		seulement une parole; en fin apres avoir fait cinq ou six tours dans la
+		chambre: Je me doubtois bien, dit-il, que la desobeyssance de Sigismond
+		me causeroit un desplaisir extremément sensible, mais je perdray
+		la qualité de roy, ou je luy feray cognoistre bien-tost qu’il
+		n’est pas moins indigne de vivre que de porter le nom de mon fils. A ce
+		mot il se teut, et Ligonias jugeant bien que dans la violence de cette
+		colere, il n’y avoit pas apparence de rien dire pour la defense de
+		Sigismond, tint tousjours les yeux baissez, jusqu’à ce qu’il
+		ouyt que le roy reprenant la parole: Mais, Ligonias, luy dit-il, quand
+		vous avez esté obligé à me ramener mes trouppes,
+		et que Sigismond vous en a remis la commission, est-il possible que cet
+		ingrat les ait veu partir sans quelque ressentiment de douleur ou de
+		joye? – Seigneur, respondit Ligonias, je croy qu’il a esté
+		touché de tous les deux, car vostre courroux le tient dans une
+		affliction nompareille, et je sçay bien qu’il n’a pas
+		esté marry qu’Amasis ait esté délivrée,
+		pour un temps, des mortelles craintes où vostre puissance la
+		retenoit. Et pour marque de cela, lors que je luy dis adieu: Allez, me
+		dit-il, Ligonias, rendre au roy monseigneur et mon pere, des hommes qui
+		meritent d’estre employez en de meilleures occasions; et parce que
+		vous le treuverez en colere contre mon frere et contre moy, suppliez-le
+		qu’il nous pardonne, et representez-luy qu’il seroit bien plus juste
+		que les deux fils qui luy restent fussent desormais l’appui de sa
+		couronne, que l’object de sa hayne et de ses armes.</p>
+		<p>Ligonias dit ces dernieres paroles, avec un ton de voix qui toucha le
+		roy sensiblement, car enfin, quelque violent que fust son transport, il
+		n’estoit pas capable de luy faire oublier que ceux dont il accusoit
+		l’inclination, estoient les mesmes à qui il avoit autrefois
+		donné la naissance et la nourriture. Toutefois, craignant en
+		quelque façon que Ligonias eust inventé ce qu’il venoit
+		de luy dire: Je ne croiray jamais, adjousta-t’il, que le repentir
+		puisse entrer dans une ame, où l’ingratitude regne avecque tant
+		d’authorité. – Si vostre Majesté, repliqua Ligonias,
+		doubte de ce que j’ay dit, j’ay entre les mains dequoy le verifier.
+		Disant cela, il prit garde que Gondebaut s’arresta pour le regarder:
+		s’imaginant donc qu’il ne pouvoit mieux prendre son temps pour luy
+		remettre la lettre que Sigismond luy escrivoit, il la tira de sa
+		pochette, et mettant un genouil en terre, la presenta au roy. En ce
+		moment [202/203] Gondebaut changea deux ou trois fois de couleur,
+		disputant entre l’affection et le despit; toutefois l’amitié se
+		trouvant plus forte en luy que toute autre consideration, il la receut
+		en fin, et l’ayant ouverte, il y leut ces mesmes mots.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">LETTRE DE SIGISMOND</head>
+		<h3>A GONDEBAUT</h3>
+		<milestone type="space"/>
+		<p>Monseigneur, si l’extreme colere où vous estes contre
+		moy, n’a pas fait mourir dans vostre ame toute sorte de pitié,
+		recevez-en pour ce peu de lignes, et croyez qu’elles ne sont pas, comme
+		moy, tou à fait indignes de vos regards. Vous y verrez la peine
+		où me retient le regret de vous avoir despleu, et si vous leur
+		laissez quelque esperance de vous pouvoir toucher, elles ne manqueront
+		pas de paroles pour vous bien parler de mon repentir; en effet celuy
+		que je ressens surpasse de beaucoup mon crime, mais je desire que l’un
+		et l’autre soient moindres que vostre compassion. Je ne vous dis rien,
+		Monseigneur, de mes actions passées, c’est assez que je
+		sçache qu’elles vous ont fasché, pour juger que ce seroit
+		mesme une grande faute d’entreprendre de les justifier; je vous
+		supplieray seulement de considerer qu’elles n’ont pas esté si
+		criminelles qu’elles puissent avecque justice avoir merité
+		vostre hayne et mon bannissement. Toutefois, si c’est un arrest que
+		vous avez prononcé, je ne veux pas murmurer contre vos
+		ordonnances; mais j’ose vous demander que l’interest d’Amasis ne soit
+		pas meslé dans ma disgrace. Cette grande Nymphe desire de vous
+		une paix que son innocence merite, et si vous luy refusez cette faveur,
+		il est à craindre que vous n’ayez à combattre tout le
+		monde, et qu’aymant l’equité, comme vous faites, vous ne
+		deveniez vous-mesmes vostre ennemy; en un moment vous pouvez remedier
+		à tous ces desordres, et recevant l’amitié de cette
+		princesse, vous vanter de l’avoir vaincue par les armes de vostre
+		bonté. C’est la derniere grace que je vous demande, en attendant
+		que le retour de ce chevalier m’apprenne si Godomar doit estre aussi
+		miserable que moy, et si ne pouvants attendre un pardon de vous, il
+		faudra que le desespoir triomphe de ceux, à qui le Ciel eust
+		fait une faveur, s’il ne leur eust jamais donné de vie; puis
+		qu’il estoit fatal qu’ils la perdissent
+		hors de vostre service et de vostre amitié.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Durant que Gondebaut leut cette lettre, Ligonias prit garde
+		[203/204] à tous ses mouvements, et les observa si bien qu’il en
+		conceut une tres-bonne esperance pour le succez de son voyage. Il vid
+		que le roy tira son mouchoir, dont il se frotta deux ou trois fois les
+		yeux, puis il ouyt qu’il souspira plusieurs fois et qu’en fin haussant
+		la voix: Ce qu’il me demande, dit-il, est d’assez grande consequence
+		pour m’y faire penser, je verray ce que j’auray à resoudre
+		Là dessus, et demain vous en sçaurez la responce. Disant
+		cela, il commença encore à se promener par la chambre, et
+		Ligonias voulut sortir. Mais en mesme temps Clotilde entra, à
+		qui Gondebaut ayant montré la lettre de Sigismond, et Ligonias
+		l’ayant un peu entretenue du suject de son voyage, elle joignit ses
+		prieres à celles de ce chevalier, et sceut si bien persuader le
+		roy, qu’en ce moment elle tira de luy toutes les favorables promesses
+		qu’il pouvoit faire à l’avantage de Sigismond et de Godomar.</p>
+		<p>Les affaires d’Amasis et de ces princes estoient en cet estat,
+		cependant qu’Adamas, comme j’ay desja dit, estoit avecque Bellinde, et
+		luy faisoit toutes les honnestes caresses dont il se pouvoit souvenir.
+		Il se pourmenoit alors avec elle dans une sale basse, où Alexis,
+		Diane, Astrée et Phillis estoient desja descendues et presque au
+		mesme temps Circéne, Doris, Florice, Palinice, Delphire,
+		Dorisée et les autres y arriverent, qui, saluants Bellinde, la
+		firent estonner dequoy elle voyoit en elles tant de grace et de
+		beauté. Peu de temps apres Paris entra, qui les salua toutes,
+		mais avec un contentement qui n’estoit pas moindre que l’estonnement de
+		Diane et le repentir dont elle se vid touchée, pour luy avoir
+		donné la permission d’aller proposer son mariage à sa mere.</p>
+		<p>Ils estoient encore dans ce compliment, quand ils virent entrer dans la
+		sale un berger qu’à l’abord ils ne cognurent point; il avoit le
+		teint pasle comme un homme mort, les yeux extremément enfoncez
+		dans la teste, sur laquelle on ne voyoit presque point de cheveux, les
+		sourcils fort longs, les joues toutes descharnées, une
+		contenance languissante, et une desmarche qui tesmoignoit assez la
+		foiblesse qui estoit en luy. Soudain qu’il fut entré, il fit la
+		reverence au Druide et à Bellinde, qui au commencement le
+		receurent avec assez de froideur; mais enfin Adamas l’ayant
+		consideré un peu plus attentivement: O dieux! dit-il en
+		l’embrassant, vous voicy! Adraste, et d’où vient que nous vous
+		voyons si tost de retour et si changé? Au nom d’Adraste toutes
+		les bergeres s’approcherent, et Doris, ne croyant pas qu’il deust
+		jamais revenir sans Palemon, commença d’abord à se
+		troubler et à don-[204/205]ner place aux soupçons qui
+		faisoient naistre en elle une secrette crainte de ne le revoir plus.
+		Suivant donc les premiers mouvements de la peur, qui la possedoit, elle
+		s’approcha tout à fait de luy, et soudain qu’il eut repondu au
+		Druide: Mais Adraste, luy dit-elle, quelles nouvelles me donnerez-vous
+		de Palemon? Le berger alors la regardant avec un sousris meslé
+		d’un peu de froideur: Meilleures, luy respondit-il, belle Doris, que
+		vous ne les attendez, si par la pasleur que je vois peinte sur vostre
+		visage, il m’est permis de juger de l’estat où est maintenant
+		vostre esprit. – Vous pouvez bien, adjousta-t’elle, m’en donner de
+		meilleures que je n’en attends, mais s’il n’est pas de retour aussi
+		bien que vous, il est impossible que vous m’en donniez de si bonnes que
+		j’en desire. – Je voudrois bien, repliqua le berger, que vous puissez
+		jouyr de ce contentement, mais puis que le Ciel vous en veut encore
+		priver, je croy que tout ce que je puis faire de mieux pour vostre
+		satisfaction, c’est de vous rendre compte de ses actions et des
+		miennes, depuis nostre depart d’aupres de
+		vous, jusqu’au temps qui le separa de moy.</p>
+		<p>A ce mot il se retira un peu, comme ayant envie de l’en entretenir au
+		particulier; mais Adamas qui n’en avoit peut-estre pas moins de
+		curiosité qu’elle, l’arresta, et luy dit que si les nouvelles
+		qu’il devoit raconter à Doris n’avoient pas besoin d’un trop
+		grand secret, il seroit bien aise de les apprendre. A quoy le berger
+		s’estant disposé d’obeyr, apres s’estre excusé seulement
+		sur l’apprehension que son discours fust importun à la
+		compagnie, le Druide le fit asseoir, et tous les autres s’estants mis
+		autour de luy, il tourna ses yeux languissans sur Doris, et puis il
+		commença son discours en cette sorte.</p>
+
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<head type="chapitre">SUITTE DE L’HISTOIRE</head>
+		<h3>D’ADRASTE</h3>
+		<milestone type="space"/>
+
+		<p>Belle bergere, si les funestes accidents qui ont troublé le
+		repos de ma vie n’estoient aujourd’huy cogneus de tous ceux qui vivent
+		sur les rives de Lignon, je croirais estre obligé de tenir ma
+		douleur secrette, et je vous jure que, quelques grandes que fussent mes
+		miseres, elles seroient encore moindres que mon silence; mais puis que
+		les dieux ont permis que mes afflictions, soit en leur naissance, soit
+		en leur progres, ayent esté cogneues et pleurées
+		[205/206] presque de tous, je vous conjure de ne treuver pas mauvais si
+		leur fin a le mesme sort que leur commencement et leur continuation. Je
+		sçay bien que vostre rigueur condamnera comme criminelles toutes
+		les passions que je ressens; mais quand vous sçaurez que dans
+		leur extremité mesme, elles ne sçauroient desplaire
+		à Palemon, il est croyable que vous en serez touchée, et
+		que vous ne serez pas si peu sensible à la compassion, que vous
+		n’en ayez pour moy autant que vostre vertu vous le pourra permettre.
+		Puisse-je mourir, si je porte mon ambition plus avant, et si je ne me
+		croirois digne du plus grand supplice qui ait jamais esté
+		inventé, si je ne mesurois mon amour à vostre devoir et
+		à ma discretion. Je vous ay dit tout cela, belle Doris, afin que
+		vous cognoissiez l’estat de mon ame, et que vous jugiez du pouvoir de
+		vostre beauté par la qualité de ma blessure, de laquelle
+		je ne veux jamais guerir, puis que la cause qui l’entretient, qui est
+		la vie de Palemon, m’est plus chere mille fois que tous les remedes
+		qu’on me sçauroit donner. Mais enfin que vous ne pensiez point
+		que l’affection que je luy porte soit un artifice dont je me vueille
+		servir pour estre bien aupres de vous, je seray bien aise de redire icy
+		une partie des obligations que j’ay à son amitié, afin
+		que vous jugiez, s’il est possible, que je sois jamais ingrat des
+		faveurs que j’en ay receues.</p>
+		<p>Sçachez donc, mon pere, continua-t’il, se tournant vers Adamas,
+		que le mesme jour de nostre despart fut celuy auquel je vis mourir tous
+		mes contentements; car le regret de m’esloigner de Doris me fut si
+		sensible, que deslors je perdis non seulement l’esperance, mais encore
+		la volonté d’avoir jamais aucun plaisir en la vie. Je passay
+		donc cette premiere journée dans une melancholie si profonde que
+		Palemon, qui croyoit que ce fust quelque reste du malheur qui m’estoit
+		arrivé, employa toutes sortes d’inventions pour me divertir.
+		Mais quand la nuict fut venue, et qu’il vid que je ne voulois point
+		manger, cela redoubla la peine en laquelle il estoit de moy, et fut
+		cause qu’il commanda qu’on me fist promptement un lict, où je
+		pusse pour le moins prendre quelque repos. Pour luy, il souppa fort
+		legerement, mais Halladin qui n’avoit de l’interest que pour sa propre
+		conservation, mangea comme un homme qui avoit envie de vivre. Ainsi il
+		fut plus longuement à table que Palemon, qui estant revenu
+		bien-tost dans la chambre où j’estois desja couché, me
+		demanda en quel estat j’estois; moy qui craignois de le fascher, voyant
+		bien que ma douleur l’affligeoit, je luy dis que je me portois beaucoup
+		mieux que je n’avois [206/207] fait durant le jour, et que je croyois
+		que la nuict et l’abstinence que j’avois faite me remettroient en bon
+		estat. Je vous jure, cher Adraste, me dit-il, se panchant sur mon lict,
+		et me baisant au front, que vous ne sçauriez me donner une plus
+		agreable nouvelle, car je ne croy pas que je ne mourusse dans ce
+		voyage, si je voyois que vostre mal s’augmentast. Je le remerciay
+		dequoy il me faisoit paroistre qu’il estoit touché de quelque
+		ressentiment pour le mal que je souffrois, et le suppliay de
+		n’accroistre point ma douleur par la sienne, le conjurant de se coucher
+		de bonne heure, puis que nous devions partir le lendemain de bon matin.</p>
+		<p>Sur cela Halladin entra, qui s’estant approché de mon lict, et
+		m’ayant un peu consideré, nous donna le bonsoir, et s’alla
+		mettre dans le sien, où il dormit jusqu’à ce que nous
+		l’esveillasmes pour continuer nostre chemin. Palemon ne le vid pas
+		plustost couché, qu’il me dit à l’oreille: Voyla l’homme
+		du monde le plus heureux, il n’a point d’autre soing que de plaire
+		à un maistre qui l’ayme, il n’a rien dans l’esprit qui le
+		brouille, et je croy que toutes les choses du monde ne seroient pas
+		capables de luy faire perdre un moment de repos. Et alors je disois en moy-mesme:
+		<i> Helas! Palemon, qu’il est bien moins heureux que toy,
+		qui triomphes de ma maistresse qui t’ayme!</i> Et puis je luy
+		respondois tout haut: Il est vray que Halladin est heureux, aussi
+		l’a-t’il merité, car sa fidelité ne sçauroit
+		trouver de fortune qui ne fust petite. – Quelquefois, adjoutoit
+		Palemon, les plus fidelles ne sont pas les plus heureux. –
+		<i> Non,</i> disoit-je encore en moy-mesme,
+		<i> car Adraste estoit bien aussi fidelle que Palemon, et pourtant Doris n’a pas esté mienne.</i> Et
+		puis je luy repliquois tout haut: En cela la faute en est à
+		l’ingratitude des maistres, qui est un deffault dont Halladin ne
+		sçauroit accuser Damon, car il a trop de jugement pour ne
+		cognoistre pas ce que ses services meritent.</p>
+		<p>Avec semblables discours nous nous entretinsmes pres d’une demie heure,
+		apres laquelle il me demanda s’il ne m’incommoderoit point de se mettre
+		aupres de moy, je luy juray qu’il me feroit plaisir, et que je serois
+		bien-aise que nous ne fissions qu’un mesme lict durant tout nostre
+		voyage; ainsi s’estant deshabillé, il ne fut pas plustost
+		couché, qu’il remarqua que j’estois tout en feu, et de fait
+		j’avois desja quelque ressentiment de fievre. Cela fut cause qu’ayant
+		mis une main sur mon estomac: O dieux! dit-il, Adraste, vous
+		bruslez! – Oui, luy respondis-je, j’ay une chaleur
+		extreme par tout le corps. Et puis me taisant:
+		<i> Mais,</i> disois-je à [207/208] part moy,
+		<i> que cette chaleur est petite, en comparaison de celle qui fait que mon ame se consume!</i> Et
+		Palemon reprenant la parole: Mais, adjoustoit-il, je
+		crains de vous apporter de l’incommodité, car peut-estre si je
+		n’estois point icy vous n’auriez pas une si mauvaise nuict? – Vous ne
+		sçauriez, repliquay-je, rendre mon mal plus grand qu’il n’est.
+		Puis j’adjoustois en moy-mesme:
+		<i> Helas! il eut fallu que Palemon n’eust jamais esté au monde, ou que Doris m’en eust chassé, pour faire que tu n’eusses point esté cause, non pas de cette mauvaise nuict seulement, mais de toutes celles qu’il faudra que je passe desormais. </i> Il
+		me dit encorequelque chose, et je croy qu’il m’eust entretenu jusqu’au jour,
+		si pour estre plus libre en mes resveries, je n’eusse fait semblant de dormir.</p>
+		<p>Je demeuray donc quelque temps sans luy respondre, de sorte que
+		s’imaginant que je reposois, il cessa peu à peu de parler, et
+		enfin s’endormit. Quant à moy, j’achevay la nuict comme je
+		l’avois commencée, c’est à dire sans fermer les yeux, et
+		sans recevoir jamais aucun relasche parmy les fascheuses pensées
+		qui me representoient incessamment le bon heur de Palemon, et
+		l’infortune d’Adraste. Je recognus bien alors que de tous les maux, il
+		n’en est point où l’on doive attendre moins de remedes qu’en
+		l’amour, d’autant qu’ayant esté delivré de l’un des plus
+		grands qui sçauroient jamais arriver à un homme, je
+		n’avois pas pourtant esté guery de cette fascheuse passion. Mais
+		cette cognoissance qui faisoit qu’irriter ma playe, d’autant mieux
+		qu’estant hors de toute esperance de guerison, je n’osois pas seulement
+		pretendre d’y treuver quelque soulagement. Cependant que je me perdois
+		dans ces fantaisies, Palemon se resveilloit assez souvent, et parce
+		qu’à chasque fois il portoit la main sur mon estomac, et
+		l’avançoit un peu sur l’endroit du cœur:
+		<i> Cruel,</i> disois-je en moy-mesme,
+		<i> tu doubtes si je vis encore, apres que tu m’as osté Doris qui estoit ma vie?</i> Puis en continuant, et feignant tousjours de dormir:
+		<i> Qu’il est peu fin,</i> disois-je,
+		<i> de chercher mon cœur dans le lict, comme si la beauté qui eut des charmes pour me le ravir, n’en avoit pas pour le conserver!</i></p>
+		<p>J’estois encore ensevely dans ces fascheuses pensées, quand la
+		nuict disparut, et que Palemon, s’estant encore une fois
+		esveillé, prit garde que le jour commençoit à
+		poindre. Au commencement il ne m’osa rien dire, de peur d’interrompre
+		mon sommeil, dequoy m’estant apperceu, je fis semblant de m’esveiller
+		aussi, et cela fut cause qu’ayant jetté les yeux sur moy, bien
+		qu’il ne me pust [208/209] voir qu’avecque peine, il me dit que j’avois
+		esté toute la nuict dans une fort grande inquietude. Je luy
+		respondis que vrayment la nuict ne m’avoit pas esté trop douce,
+		mais qu’elle m’avoit laissé pourtant assez de force pour
+		continuer le dessein que nous avions desja fait. Disant cela, je
+		m’habillay, et Palemon en ayant fait de mesme, nous esveillasmes
+		Halladin, et partismes devant que le soleil fust levé. Cet accez
+		de fievre que j’avois eu, outre que de mon naturel je n’ay pas la
+		couleur trop bonne, me fit paroistre si pasle et si desfait, que
+		Palemon ne put s’empescher de me dire que je devois m’en retourner, et
+		que le voyage estant si long, il estoit bien difficile que je le pusse
+		achever, m’estant treuvé si mal à la premiere
+		journée. Mais moy qui ne desirois rien mieux que de mourir en
+		chemin, je m’obstinay si fort, qu’il fallut en fin qu’il cedast
+		à la volonté que j’avois de le suivre; ainsi nous
+		arrivasmes à Lyon, où nous ne fusmes pas plustost que
+		Palemon cognoissant bien qu’il estoit difficile que la seule fievre
+		eust causé en moy une melancolie si profonde, me tira à
+		part dans une chambre et nous estans tous deux assis sur un lict, il me
+		tint le mesme discours que je vous vay redire, afin de ne manquer pas
+		en la moindre circonstance de ce qui regarde l’interest de Doris ou le mien.</p>
+		<p>A ce mot il se teut pour un peu, puis tout à coup reprenant la
+		parole, il continua de cette sorte. Cher Adastre, me dit-il, il faut
+		que vous me pardonniez si je suis curieux jusques là que de
+		vouloir apprendre la cause qui vous rend si melancolique et si pensif;
+		je sçay bien que vous estes un peu mal disposé, et que le
+		travail du chemin ne contribue rien à vostre guerison, mais il
+		est impossible que je me persuade qu’il soit violent jusqu’au poinct de
+		faire que vous paroissiez de si mauvaise humeur. Si c’est qu’il vous
+		reste quelque souvenir du dernier accident qui vous est arrivé,
+		et que cette pensée nourrisse en vous un regret de n’avoir pas
+		esté tousjours dans une parfaitte cognoissance de vous mesme,
+		considerez que cette douleur ne devroit plus travailler vostre esprit,
+		parmy les contentemens que vous devez avoir d’en estre parfaittement
+		guery; outre que c’est aller contre les arrests du Ciel, qui ne vous
+		osta, durant quelque temps, le vray usage de la raison, que pour vous
+		le rendre en un degré plus eminent que vous ne le possediez. Que
+		si comme je le croy, ce n’est pas ce dernier accident qui vous trouble,
+		je vous prie, cher Adraste, par l’ennuy que je souffre de vous voir
+		afflige, par l’amitié que je vous porte, et par celle que je
+		desire que vous ayez pour moy, de ne [209/210] m’en cacher plus le
+		suject, et de croire que s’il depend de moy d’y apporter quelque
+		remede, je ne m’y espargneray pas, quand
+		mesme il y iroit de mon contentement et de ma vie.</p>
+		<p>Voyla quel fut le premier discours que Palemon me tint, auquel je
+		respondis en ces termes: Ce m’est un extreme desplaisir, cher Palemon,
+		de voir que mon mal soit si contagieux, et que ma douleur soit cause de
+		la vostre; je voudrois pour vostre repos que vous eussiez moins de
+		compassion, et souhaitterois pour mon contentement d’estre un peu moins
+		sensible, mais comme vous avouez vous-mesme que c’est une imprudence
+		d’aller contre les arrests du Ciel, je croy que vous n’estes pas moins
+		coupable d’estre en peine de cognoistre mon mal, que je le serois si
+		j’esperois d’en guerir. C’est pourquoy, cher Palemon, je vous supplie
+		et vous conjure par tout ce que vous aymez, de quitter cet inutile
+		soing que vous employez à ma conversation, et de ne mesler point
+		dans les contentemens que le Ciel vous a donnez, la fascheuse memoire
+		des ennuis qui me persecutent.</p>
+		<p>Je dis cela avec tant de froideur, que Palemon en fut touché
+		jusqu’à le tesmoigner presque par des larmes; en fin en
+		m’embrassant: Cher Adraste, me dit-il, pourquoy vous obstinez-vous
+		à me taire ce que vostre pasleur et vos regards s’efforcent de
+		me dire? Si c’est que vous me cognoissiez incapable de remedier
+		à vostre mal, ne me le descouvrez pas comme à un medecin,
+		de qui vous voudriez employer les secrets, mais racontez-le moy comme
+		à un amy qui sera bien aise de rendre vostre douleur moindre en
+		la partageant avecque vous. Je luy respondis que la raison par laquelle
+		il pensoit m’obliger à cela, estoit seule capable de m’en
+		empescher, puisque j’aymois trop son contentement pour consentir jamais
+		que le recit de ma misere luy fist prendre quelque part en mes
+		desplaisirs. Mas enfin Palemon, resolu de cognoistre le suject de mon
+		affliction, ou de ne me laisser jamais paisible: Adraste, me dit-il, ou
+		plustost mon frere, car desormais je veux que vous me permettiez de
+		vous nommer ainsi, je vous conjure encore un coup, par mon affection et
+		par l’amour que vous avez eue pour Doris, de m’oster l’esprit de
+		l’impatience où vostre silence le retient, et croyez que si vous
+		pouvez attendre d’un homme quelque soulagement à vostre mal, je
+		mourray plustost que de souffrir qu’autre
+		que moy vous rende cet agreable office.</p>
+		<p>J’avoue, mon pere, qu’à ce nom de Doris, tout mon sang s’esmeut,
+		et m’imaginant que c’eust esté manquer envers elle que de
+		[210/211] ne satisfaire pas aux desirs de Palemon, puisque j’en estois
+		conjuré de sa part: Cher Palemon, luy repliquay-je enfin, vous
+		avez tant de pouvoir sur moy que pour en obtenir quelque chose, vous
+		n’avez besoin d’y employer que vostre seul commandement. C’est pourquoy
+		je ne veux pas me defendre davantage sur ce que vous voulez
+		sçavoir de moy, car je croirois que mon opiniastreté
+		seroit punissable, si elle s’opposoit au moindre de vos desirs. Je vous
+		diray donc que j’accepte premierement l’alliance que vous faites
+		avecque moy comme le plus grand bien qui me pouvoit arriver, et puis je
+		vous confesseray ingenument que celle-là mesme par laquelle vous
+		m’avez conjuré de vous descouvrir ma douleur est la seule pour
+		qui je la souffre. Ne vous estonnez pas, mon frere, de m’ouyr tenir ce
+		discours: encore que je sois amoureux de Doris, je ne laisse pas
+		d’aymer Palemon, et quelque passion que je conserve pour elle, jamais
+		elle ne sera si forte qu’elle me fasse oublier le respect que je vous
+		doibs. Pleust à Dieu, adjoustay-je, que le premier jour que je
+		la vis eust esté le dernier de ma vie, comme il le fut de mon
+		contentement et de mon repos; j’aurois esvité mille morts par
+		une seule, et ne me verrois pas contraint aujourd’huy de nourrir une
+		flame qui me brusle sans me consommer. Croyez-moy, Palemon, le traict
+		dont je fus premierement blessé vint bien des yeux de Doris,
+		mais il fut descoché par la main d’un dieu qui luy communiqua
+		quelque chose de sa nature et qui voulut qu’au lieu de me faire mourir,
+		il fist en moy une playe qui fust immortelle; c’est donc pour cela que
+		quelque grand que soit le desespoir où je dois estre de pouvoir
+		jamais attendre quelque allegement en mon mal, je ne laisse pas d’en
+		aymer la cause et de cognoistre qu’il me sera bien plus facile de
+		cesser de vivre que de m’empescher de la cherir.</p>
+		<p>Belle Doris, continua Adraste, se tournant vers elle, vostre cher
+		Palemon ouyt tout cela sans m’interrompre, et sans cesser de tenir ses
+		yeux arrestez sur le miens; mais quand je vis qu’apres m’estre teu, il
+		continuoit encore à me regarder sans me dire une seule parole:
+		Je vois bien, repris-je tout à coup, que mon amour quelque
+		discrette qu’elle soit, vous donne de l’ombrage, et que ce ne seroit
+		jamais qu’avec de tres-grandes impatiences que vous en souffririez la
+		continuation. C’est pourquoy, pour arrester d’un mesme coup vos
+		soupçons et mes peines, il est juste que je me perde, et que je
+		vous oste de bonne heure la presence d’un homme, qui tost ou tard vous
+		apporteroit de l’ennuy.[211/212]</p>
+		<p>A ce mot je sautay en bas du lict où j’estois assis, et courus
+		prendre mon espée sur la table (car, comme vous sçavez,
+		nous laissasmes icy nos houlettes). Mon dessein estoit de sortir du
+		logis, et de me desrober par le premier coing de rue, afin d’aller
+		apres cela finir mes jours en quelque solitude, où le soleil
+		mesmes eust honte de me visiter; mais Palemon qui me vid dans cette
+		fureur, et qui creut que je ne m’allois saisir de cette espée
+		que pour m’en outrager, se vint jetter à corps perdu sur moy, et
+		me l’arracha des mains, sans que j’y fisse toutefois beaucoup de
+		resistance, car j’estois si foible, qu’à peine me pouvois-je
+		soustenir. Aussi-tost il commença d’accuser mon transport, et me
+		dit tant de choses pour m’en retirer, que peu à peu il porta mon
+		esprit à tout ce qu’il voulut; et comme je luy allois tousjours
+		representant qu’il estoit difficile que la volonté que j’avois
+		pour Doris ne luy despleust: Voyez-vous, mon frere, me dit-il, cela
+		seroit bon, si je ne cognoissois pas sa vertu et vostre discretion; au
+		contraire, je veux que vous l’aymiez, et que vous soyez assuré
+		que jamais vostre affection ne me donnera de l’inquiétude.</p>
+		<p>A ce mot se jettant à mon col: Croyez-moy, dit-il en
+		continuant, vivez pour elle, peut-estre que le Ciel aura pitié de vous, et
+		qu’il permettra un jour que vous occupiez la place que je confesse vous
+		avoir usurpée presque tyranniquement. Plust au Ciel que
+		dés aujourd’huy il fust en ma puissance de vous la remettre, je
+		jure que les accidents qui vous sont arrivez à sa consideration,
+		et l’estat où je vous vois à cette heure, me font tant de
+		pitié qu’elle seroit la femme d’Adraste, et la sœur de Palemon.
+		Disant cela, il m’embrassa fort estroittement, et me mouillant le
+		visage des larmes qu’il ne pouvoit retenir: Ce n’est pas,
+		adjousta-t’il, que l’amour que j’ay pour elle ne soit au delà de
+		tout ce que j’en pourrois dire, mais j’avoue que la compassion que j’ay
+		pour vous n’est pas en un moindre degré.</p>
+		<p>Je fus quelque temps sans luy respondre que par mes souspirs; enfin
+		voyant qu’il ne me disoit plus rien: Je serois bien ingrat, luy
+		repliquay-je, si je ne faisois pour vous la mesme chose que vous
+		voudriez faire pour moy. C’est pourquoy, Palemon, vivez pour Doris,
+		possedez-la heureusement, durant le cours d’un nombre d’années,
+		qui soit aussi grand que celuy de mes malheurs, et soyez assuré
+		qu’elle sera la sœur d’Adraste
+		tant qu’elle sera la femme de Palemon.[212/213]</p>
+		<p>A ce mot je l’enfermay dans mes bras, et le pressant de toute la force
+		qui m’estoit restée, nous demeurasmes fort longtemps sans nous
+		separer. Enfin nous fusmes contraints de nous quitter; car en mesme
+		temps un grand froid me saisit, qui me causa un si grand tremblement,
+		que sans le secours de mon frere, je pense que je n’eusse pas eu la
+		force de me mettre au lict. Au commencement Palemon ne cogneut pas bien
+		mon mal, mais tout à coup me voyant jetter par la bouche
+		quantité d’eaus jaunes et vertes, et que je sentois bien estre
+		extremément ameres, il jugea que c’estoit la fievre qui me
+		prenoit. Incontinent il envoya querir un mire, qui ne fut pas plustost
+		entré dans la chambre, qu’il s’assit dans une grande chaire au
+		chevet de mon lict, où apres avoir toussé deux ou trois
+		fois d’un ton assez aigu, et sans cracher, il me prit le bras, et puis
+		se mit à discourir sur la qualité de ma maladie. Un peu
+		apres, il me demanda si je ne me souvenois point d’avoir fait quelque
+		exces; à quoy je respondis innocemment que je n’en avois jamais
+		fait qu’en amour. Mais luy, qui expliqua mal ma pensée: Ils
+		sont fort dangereux, me dit-il, et sur tout en ce temps où nous
+		approchons de la canicule. Puis ayant toussé encore deux ou
+		trois fois, je pris garde que Palemon le tira à part, où
+		comme je l’ay sceu depuis, il luy guerit l’esprit de la mauvaise
+		opinion qu’il avoit eue de moy, et luy rendit un compte fort exact des
+		plus particuliers accidens qui m’estoient arrivez. Apres que ce mire
+		eut esté bien instruit, il s’approcha de moy, et mettant une
+		main sur mon lict, car dans l’autre il portoit ses grands pliez en
+		quatre: Or sus, me dit-il, bon courage, nous ne vous ordonnerons rien
+		jusqu’à demain, que nous sçaurons quel cours prendra
+		vostre maladie, cependant ne mangez que fort peu, et que ce soit apres
+		que l’accez sera tout à fait passé, ou pour le moins
+		qu’il aura perdu beaucoup de sa violence. Palemon luy promit d’avoir
+		soing de me faire observer ce qu’il ordonnoit, et puis l’alla
+		reconduire jusqu’au bas du degré.</p>
+		<p>Halladin cependant s’estoit approché de mon lict, et
+		commençoit à me dire quelques raisons pour me divertir du
+		dessein que j’avois de continuer le voyage, quand tout à coup
+		Palemon revint, qui joignant ses prieres à celles de cet
+		escuyer, me conjura de perdre la volonté que j’avois de luy
+		tenir compagnie: Ce n’est pas, me dit-il, que je veuille vous
+		abandonner; car si vostre mal tire à quelque longueur, je ne
+		partiray point que vous ne soyez parfaittement remis; mais ce qui
+		m’oblige à vous destourner [213/214] de ce dessein, c’est que,
+		quelque bonne disposition que vous acqueriez, elle ne sera jamais
+		telle, que vous puissiez continuer un si long chemin sans une extreme
+		incommodité. Halladin qui ouyt que Palemon estoit resolu de ne
+		partir point que je ne fusse bien guery: Mais, luy dit-il, Palemon,
+		vous ne regardez pas qu’en attendant la santé d’Adraste, nous
+		perdrons la commodité de nostre embarquement? Nous devons nous
+		servir du temps, et n’attendre pas qu’une injurieuse saison nous
+		defende d’executer ce que nous avons entrepris. Je cogneus bien qu’il
+		avoit raison, aussi je dis à mon frere, que le lendemain nous
+		pourrions nous mettre dans un batteau qui me porteroit jusqu’à
+		la ville des Massiliens, et que là nous verrions en quel estat
+		je serois, ou pour me mettre sur la mer, ou pour m’en revenir.</p>
+		<p>Ils trouverent ma proposition bonne, mais sans que je vous ennuye
+		davantage, je vous diray, que je ne la pus mettre en effect, car ma
+		fievre s’estant rendue continue, le mire qui me visita le lendemain,
+		assura que sans un extreme danger de ma vie je ne pouvois me mettre sur
+		l’eau, et qu’il valloit bien mieux, puis que j’estois en un lieu
+		où je pouvois estre assisté de remedes, que j’y
+		attendisse le succez de mon mal, que de le porter plus loin.</p>
+		<p>Il fut donc arresté entre nous que je demeurerois à Lyon; et
+		par ce que Palemon et Halladin ne pouvoient plus differer leur
+		depart, au bout de deux ou trois jours que ma fievre alloit tousjours
+		empirant, Palemon s’approcha de mon lict, et ayant la larme à
+		l’œil me tint de langage: Je vay partir, cher Adraste, ou plustost je
+		vay mourir, car je ne sçaurois appeller vivre, le temps qu’il
+		faudra que je passe dans les ennuis de nostre separation et dans la
+		peine où je seray pour l’evenement de vostre mal; mais souvenez
+		vous, que si les dieux ne m’obligeoient à ce voyage, par le
+		serment que j’en fis lors qu’on planta le cloud pour l’amour de vous,
+		je ne croy pas que rien au monde fust capable de m’y faire consentir.
+		Je les prends à tesmoings du mal que je souffre en vous
+		esloignant, et les supplie de me faire sentir la pesenteur de leurs
+		foudres, si ce desplaisir n’est le plus grand que j’aye jamais receu.
+		J’aurais bien trouvé quelque pretexte pour m’en desdire s’il
+		m’eust esté aussi facile de les tromper que Celidée, mais
+		je regarde qu’ils ne me l’eussent jamais pardonné, et que sans
+		doute ils se fussent vangez, ou sur vous, ou sur moy, du manquement que
+		j’eusse commis en leur manquant de parole. Voyla donc, mon cher frere,
+		comme il est impossible que j’évite ce despart, et que [214/215]
+		je ne cede à la loy, qui m’ordonne d’observer ce que j’ay
+		promis, et puis que vous jugez bien que l’interest que vous y avez m’y
+		porte plus que toute autre chose, je dois croire que vous ne me
+		condamnerez point, bien que je vous laisse en un estat où vous
+		avez besoin de l’assistance de tous vos amis.</p>
+		<p>Palemon profera, ces mots avecque des tesmoignages d’un si grand
+		ressentiment de douleur, que je cogneus bien qu’il m’aymoit
+		veritablement. Cela fut cause que tournant mes yeux languissants sur
+		luy, et tirant une mains hors du lict, je pris la sienne, et la
+		pressant le plus fort que je pus: Allez, luy dis-je, cher Palemon,
+		où vous estes appellé pour la guerison de Celidée,
+		et continuez vostre voyage sans estre en pein de mon mal, car je
+		cognois bien qu’il m’a desja reduit à l’extremité, et
+		qu’il est impossible qu’il me permette de survivre d’un seul jour, le
+		moment de nostre separation. C’est pour cela que je vous conjure de me
+		dire le dernier adieu, et de recevoir ce baiser comme la derniere
+		marque de mon affection. Disant cela, je le tiray un peu contre moy; et
+		luy, se laissant tomber sur mon visage: Ah dieux! me dit-il, quelle
+		allarme me donnez-vous, Adraste? Quoy! n’aurez-vous pas assez de
+		courage pour resister à la violence d’une fievre qui ne durera
+		qu’autant de temps que vous aurez dans le corps quelque mauvaise humeur
+		pour la nourrir? – Quand j’aurois, luy respondis-je, le moyen de
+		guerir, je n’en aurois pas la volonté, car je suis si
+		lassé de vivre, que je croy que la plus grande grace qu’on me
+		pourroit faire, seroit de me prononcer l’arrest de ma mort.</p>
+		<p>Mais, mon pere, à quoy me sert que je vous entretienne davantage
+		d’un recit de si mauvais goust? C’est assez que Doris sçache,
+		que Palemon me sceut si bien persuader qu’il me fit promettre deux
+		choses: la premiere, que je contribuerois tout ce qui pourroit dependre
+		de moy pour le recouvrement de ma santé; et l’autre,
+		qu’aussitost que je serois un peu remis, je reviendrois parmy nos
+		troupeaux, et rendrois à Doris une lettre qu’il me laissa. Ainsi
+		Halladin, et luy, apres m’avoir embrassé mille fois, et dit
+		adieu avec des souspirs et des larmes, se mirent sur l’eau, et me
+		laisserent entre les mains du mire, qui avoit pris le soing de me
+		guerir. Je luy avois esté si bien recommandé, que depuis
+		leur depart il ne m’abandonna que fort peu souvent, et seulement lors
+		qu’une extreme necessité le contraignoit d’aller voir
+		quelqu’autre malade. Ma fievre demeura continue pres d’une demy Lune,
+		apres laquelle elle s’arresta par la force, comme je crois, [215/216]
+		des remedes qu’il me fit prendre; et bien que je n’eusse plus besoin
+		de medicaments, il ne laissa pas de me voir jusqu’à ce que je fus
+		entierement remis, et en estat de m’en pouvoir revenir. Il ne se
+		passoit jour que dans ses visites il ne me racontast quelque nouvelle.
+		Ce fut luy qui, le premier, me dit le siege de Marcilly, et la fuitte
+		de Sigismond; par luy je sceus que Gondebaut envoyoit une armée
+		à Polemas, ce qui me mit tellement en peine, que si j’eusse
+		esté en estat de pouvoir marcher, je fusse allé à
+		l’heure mesme treuver Sigismond qui s’estoit sauvé dans Vienne,
+		et qu’on disoit n’estre là que pour faire des troupes, afin de
+		secourir Godomar son frere. En fin la derniere fois qu’il prit la peine
+		de me venir voir, il me dit, que le siege estoit levé, et que
+		Polemas avoit esté tué par Lindamor; dequoy je receus
+		tant de contentement, que je croy que cela acheva de me remettre. Et de
+		fait apres avoir pris congé de mon mire, et l’avoir
+		remercié du soing particulier qu’il avoit eu de moy, je partis
+		de Lyon, et vis bien en chemin la verité de ce qu’il m’avoit
+		desja raconté, car j’ay rencontré une partie des
+		solduriers que Gondebaut avoit envoyez contre Amasis.</p>
+		<p>A ce mot, Adraste se teut, presentant à Doris la lettre que
+		Palemon luy escrivoit. Et cette belle bergere l’ayant receue, l’ouvrit
+		au mesme instant, et vid qu’elle estoit telle.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<head type="chapitre">LETTRE DE PALEMON</head>
+		<h3>A DORIS</h3>
+		<milestone type="space"/>
+		<p>L’interest que j’ay en la conservation d’Adraste, me fait user
+		des remedes qui peuvent estre utiles à sa guerison; Et parce que
+		je sçay bien que vostre affection est le plus puissant de tous
+		ceux que j’y pourrois employer, il faut, chere Doris, que vous
+		l’aymiez, puisqu’il le merite, et que je le veux. Vostre vertu me
+		defend de prescrire des limites à cette bonne volonté;
+		toutefois, de crainte que soubs ce pretexte d’honneur, vous le
+		traittiez moins favorablement que je ne desire, j’ordonne que vostre
+		amité pour luy, ne sera pas moindre que pour un frere.
+		Disposez-vous donc à me donner ce contentement, et souvenez-vous
+		qu’en ce moment vous conserverez deux choses qui vous doivent estre
+		cheres, qui sont la vie d’Adraste, et le repos de Palemon.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Elle n’eut pas si-tost achevé de lire cette lettre, qu’elle
+		changea de couleur; dequoy le druide s’estant apperceu: Comment, luy
+		[216/217] dit-il, belle Doris, vous rougissez, il faut bien qu’il y ait
+		dans ce papier quelque chose qui vous touche? – Il n’y a rien de si
+		particulier, luy respondit-elle, que je ne sois bien aise que vous
+		voyez. Que si j’ay rougy, c’est sans doubte de la volonté de
+		Palemon, qui me commande d’aymer Adraste, comme si je pouvois sans
+		crime avoir de l’inclination pour qui que ce soit.</p><p>
+		Adamas alors ayant pris la lettre et l’ayant leue: En verité,
+		reprit-il, ce qu’il vous demande est si juste, que vous auriez tort de
+		le refuser, et pour moy je vous conseille de luy donner le contentement
+		qu’il desire, puisque mesme il vous tesmoigne d’avoir tant d’interest
+		en la vie d’Adraste, que peut-estre vous aymeroit-il moins, si vous le
+		faisiez mourir. Ces paroles, et l’estime que Doris faisoit d’Adraste,
+		emporterent enfin cela sur son humeur, et la firent resoudre à
+		souffrir qu’il l’aymast comme sa sœur, promettant qu’elle auroit pour
+		luy la mesme volonté que pour un frere.</p>
+		<p>En cet instant Adraste se leva pour luy baiser la main en remerciement
+		de cette faveur, mais il en fut enpesché par une tres-belle
+		bergere, qui en ce mesme temps estant entrée dans la sale, se
+		jetta à son col et le baisa. Cette caresse le surprit un peu,
+		d’autant mieux qu’il ne cognut point celle qui l’avoit salué de
+		cette sorte; s’imaginant donc qu’elle l’avoit pris pour un autre, il
+		se recula deux ou trois pas, sans que l’estonnement où il estoit,
+		luy permit de dire une seule parole, mais la bergere s’approchant de
+		luy: Seroit-il possible, Adraste, luy dit-elle, que vous ne me
+		cogneussiez pas apres m’avoir fait une faveur si grande? A cette voix
+		Adamas crut bien la cognoistre, toutefois voyant fort peu d’apparence
+		en l’opinion qu’il avoit, il la regarda fort attentivement, et puis
+		Adraste, qui pliant les espaules: Belle bergere, luy dit-il, ne vous
+		estonnez pas de ma mescognoissance, j’ay esté si longtemps sans
+		me cognoistre moy-mesme que je suis pardonnable, si je ne me puis
+		remettre en memoire d’avoir eu l’honneur de vous voir quelquefois. –
+		Vous m’avez veue, reprit la bergere, dans Marcilly et sur les rives de
+		Lignon, mais puisque vous en avez perdu le souvenir, Astrée et
+		Diane vous en feront foy. Disant cela, elle s’approcha d’elles, qui la
+		receurent fort courtoisement, mais non pas sans tesmoigner un
+		estonnement aussi grand que celuy d’Adraste. Dequoy l’incognue
+		sousriant en elle-mesme. O dieux! s’escria-t’elle, et qui vid jamais
+		rien de pareil? Seroit-il possible que depuis
+		ce matin je ne fusse plus Celidée?</p>
+		<p>[217/218] A ce nom toutes les bergeres commencerent à se
+		regarder entr’elles; enfin se souvenant que Palemon et Halladin
+		estoient partis pour sa guerison, et se remettans en l’esprit les
+		traits qu’elle avoit, devant qu’elle se fust fait tant de playes au
+		visage, elles ne la mescognurent plus, et se resjouyrent avecqu’elle du
+		recouvrement de sa premiere beauté. Elles furent long-temps sans
+		faire autre chose que l’embrasser et la baiser, cependant qu’Adamas
+		racontoit succinctement à Bellinde les derniers accidens qui
+		estoient arrivez à cette bergere.</p>
+		<p>Enfin s’estant approché d’elle: Mais belle Celidée, luy
+		dit-il, ne sçaurons-nous point de quelle façon vous avez
+		esté guerie? car j’avoue que le remede dont on s’est servy, a
+		fait une action si prompte, que je ne puis assez m’en estonner, et
+		particulierement quand je considere qu’estant hyer aussi blessée
+		que le premier jour, je vous treuve pourtant à ce matin aussi
+		belle que vous fustes jamais. – Mon pere, respondit la bergere, avecque
+		un visage qui tesmoignoit bien le contentement qu’elle avoit, il me
+		seroit impossible de vous raconter comme cela s’est fait; car en
+		verité je ne le sçay pas moy-mesme, je vous diray
+		seulement qu’au matin, apres que Thamire a esté hors de la
+		chambre, où Silvandre l’est venu querir pour s’aller promener
+		avecque les autres bergers, je me suis levée, et m’estant assise
+		devant mon miroir pour me coiffer, je n’y ay pas esté environ un
+		demy quart d’heure, que j’ay pris garde que je ne paroissois plus si
+		effroyable qu’à l’ordinaire. Au commencement j’ay creu que
+		j’allois insensiblement m’accoustumant à cette deformité,
+		mais voyant que de moment en moment, mon teint s’adoucissoit, et que
+		mes playes se fermoient, j’ay bien jugé que ce pouvoit estre un
+		effect des bonnes esperances que Damon m’avoit fait concevoir. Pour
+		cela j’ay attendu de me coiffer plus longuement que je n’eusse fait,
+		car je confesse librement que dans la resolution où j’estois de
+		ne me soucier jamais de guerir, je n’eusse osé croire que le
+		plaisir que j’en ay receu, eust pu estre au degré où je
+		le ressens. J’ay esté de cette sorte pres d’une heure, durant
+		laquelle, à chaque fois que j’ay porté mes yeux sur mon
+		miroir, j’ay remarqué en moy quelque nouveau changement. Enfin
+		me voyant au meilleur estat où j’eusse jamais esté, et
+		jugeant bien que c’eust esté une presomption punissable
+		d’attendre quelque chose davantage, puis que mesmes j’en avois obtenu
+		plus que je n’en avois esperé, j’ay achevé de m’habiller,
+		et en descendant le degré, je n’ay pas plus-[218/219]tost sceu
+		qu’Adraste estoit de retour, que dans la joye où j’estois de ne
+		me plus voir si laide, je n’ay pu m’empescher de le venir caresser en
+		remerciment du bien qui m’a esté rendu, duquel il est en partie cause.</p>
+		<p>Celidée alloit de cette sorte racontant ce qu’elle
+		sçavoit de sa guerison, cependant qu’Adraste qui estoit aupres
+		de Doris: Ma chere sœur, luy dit-il, vous n’avez plus besoin de
+		demander des nouvelles du voyage de Palemon; le visage de
+		Celidée vous tesmoigne qu’il a esté fort heureux
+		jusqu’icy, et que nous n’avons plus à faire des souhaits que
+		pour son retour. – Ce que vous dites, luy respondit-elle, a vrayment
+		beaucoup d’apparence, mais cela n’empesche pas que je ne sois encore en
+		des craintes mortelles, d’autant mieux qu’il doit faire une partie de
+		son chemin sur la mer, qui, à ce qu’on m’a dit, est un element
+		bien cruel et bien perfide. – La fortune, reprit Adraste, ne le
+		regardera jamais que d’un fort bon œil, et je croy qu’elle a
+		juré de ne luy faire jamais sentir un seul des effets de son
+		inconstance; la gloire qu’il a de vous posseder en est desja une
+		preuve irreprochable. Disant cela, il souspira assez haut, dequoy Doris
+		s’estant apperceue, et se doutant bien que ces souspirs estoient encore
+		des marques du feu qui s’entretenoit dans son ame, elle en fut en
+		quelque façon touchée, non pas d’amour, mais de
+		pitié. S’estonnant donc de voir que sa passion pust survivre son
+		esperance, elle fut une fois sur le point de luy conseiller de porter
+		ses volontez en quelque lieu d’où il pust attendre plus de
+		recompense, mais s’imaginant que peut-estre cela ne seroit que r’ouvrir
+		sa blessure, et l’irriter, elle ayma mieux n’en point parler du tout,
+		et laisser cela à la disposition du temps, qui bien souvent est
+		le meilleur medecin dont on se puisse servir en semblables maladies.
+		Ainsi elle cessa ce discours, et faisant signe au berger qu’elle
+		vouloit ouyr ce qu’Adamas disoit à Celidée, il presta
+		l’oreille de son costé, et ouyt que le Druide continuoit en
+		cette sorte: Il est croyable que Thamire ne sera pas peu content de
+		vous voir en cet estat, puis qu’il l’a desiré avecque tant de
+		passion. – Mon pere, respondit Celidée, je croy bien que la joye
+		qu’il en aura ne sera pas petite, mais aussi ne sera-t’elle pas de
+		longue durée, puis qu’elle ne durera qu’autant que ce petit
+		esclat, qu’il appelle beauté, paroistra en moy, ce qui ne
+		sçauroit estre longuement, par ce que c’est un tribut que nous
+		devons à la suitte des années, qui semblent prendre
+		plaisir à se faire compter par les plis, et par les rides
+		qu’elles nous laissent imprimées sur le [219/220] visage. – Quoy
+		que c’en soit, reprit Adamas, il me tarde que je ne le voye dans ce
+		contentement, et puis qu’il ne sçait encore rien de vostre
+		guerison, je suis d’avis que nous le trompions.</p>
+		<p>A peine le Druide eut fait ce dessein que Thamire entra avecque
+		Alcandre, Sileine, Lucindor, Calidon, Lycidas, Tomantes, Hylas, et
+		quelques autres. Soudain qu’ils furent dans la sale, ils saluerent
+		Bellinde, mais Adamas prenant Thamire par la main, le mena où
+		estoit Celidée, et luy fit accroire que c’estoit sa sœur, que
+		Bellinde avoit amenée. Thamire le crut d’autant plus facilement,
+		qu’il estoit vray que Celídée en avoit une, et qu’il
+		voyoit sur son visage presque les mesmes traits qu’il avoit autrefois
+		adorez en sa maistresse. Il s’en approcha donc, et apres luy avoir fait
+		les plus grandes caresses qu’il put, luy demanda si elle n’avoit point
+		encore veu Celidée. Cette belle bergere sousrit en cet instant,
+		et fut sur le point de parler, mais le Druide qui eut peur qu’il la
+		recogneut à la voix, prit la parole, et luy dit qu’elle l’avoit
+		veue vrayment, mais qu’elle n’avoit pas esté long-temps aupres
+		d’elle, à cause d’un mal qui luy estoit survenu, pour lequel
+		elle avoit demandé qu’on la laissast un peu en repos.</p>
+		<p>Ces dernieres paroles mirent Thamire en peine, et furent cause que
+		laissant la compagnie il monta le degré, et s’en alla dans la
+		chambre où il croyoit que Celidée reposast. La premiere
+		chose qu’il fit, ce fut de prester l’oreille pour escouter s’il
+		entendroit plaindre, mais ne pouvant rien ouyr, il s’approcha tout
+		à fait du lict, dont les rideaux estoient fermez, et n’osant pas
+		presque respirer, de peur de faire trop de bruit, il taschoit de se
+		faire un peu de jour, afin de la voir au visage. Adamas cependant qui
+		l’avoit suivy, tenoit Celidée par la main, et regardant du seuil
+		de la porte la contenance de Thamire, se mit à rire de le voir
+		si fort empesché; dequoy le berger s’appercevant: Peut-estre,
+		luy dit-il, vous riez de me voir chercher Celidée que vous avez
+		fait cacher en quelque lieu? Le Druide alors, entrant dans la chambre:
+		Tant s’en faut, luy respondit-il, que je voulusse vous la cacher, que
+		je vous l’ameine au meilleur estat où elle fust jamais. A ce
+		Thamire demeura tout confus, ne pouvant pas bien entendre ce qu’il
+		vouloit dire, mais Celidée luy sautant au col, et le baisant:
+		Quoy, luy dit-elle, Thamire, tenez-vous si peu compte du presant qu’on
+		vous fait, que vous ne daigniez pas seulement remercier celuy qui vous
+		le donne? A quoy servoit cet extreme soing que vous faisiez paroistre
+		pour me voir dans ma premiere beauté, si maintenant qu’elle m’a
+		été [220/221] rendue, vous ne voulez pas mesmes la
+		cognoistre? A cette voix Thamire se détrompa entierement, et la
+		serrant entre ses bras: O dieux! dit-il, ô Damon, quelles graces
+		ne vous dois-je pas, pour la faveur que vous m’avez accordée?
+		Disant cela, il commença de nouveau à luy baiser tantost
+		la bouche, et tantost les yeux; et il est croyable qu’il n’eust de
+		long-temps cessé de luy donner ces marques de son amour, et de
+		son contentement, s’il n’eust creu estre obligé de remercier
+		aussi le Druide, qui s’en retournant dans la sale, treuva bon que
+		devant que le jour se passast, il allast dans Marcilly rendre graces
+		à Damon et luy rendre compte de la guerison de Celidée.</p>
+		<p>Thamire en cet instant se disposa à ce petit voyage, et Adamas
+		ne sçachant ce que Silvandre estoit devenu, en demanda tout haut
+		des nouvelles, ce qui fut cause qu’Hylas prenant la parole pour tous
+		les bergeres, luy respondit qu’il l’avoit laissé en la compagnie
+		de Tircis, et qu’il croyoit qu’ils s’entretenoient de quelque discours
+		de grande importance. Aussi-tost le Druide luy demanda s’il n’en
+		sçavoit pas le suject, et Hylas en sousriant: Mon pere, luy
+		dit-il, je ne le sçay pas assurément, mais il est
+		croyable qu’ils s’entretiennent de leurs ordinaires resveries, et que
+		Silvandre, qui philosopheroit, comme on dit, sur la moustache d’un
+		Ciron, s’opiniastre peut-estre à luy persuader quelque chose que
+		l’autre ne peut pas comprendre facilement.</p>
+		<p>Bellinde fut bien aise d’entendre que ce berger parlast de la sorte,
+		car elle avoit autrefois ouy dire quelque chose de sa bonne humeur, et
+		cela fut cause que pour le faire parler davantage, elle s’adressa
+		à luy, et luy dit, qu’on luy avoit autrefois raconté les
+		accidents qui estoient arrivez en l’amour de Tircis et de Cleon, mais
+		que rien ne l’estonnoit comme la passion que ce berger tesmoignoit
+		encore pour sa maistresse morte. A quoy Hylas: Sage Bellinde,
+		respondit-il, si ce brave Juge qui condamna Laonice, estoit maintenant
+		icy, il vous feroit croire par des raisons qu’il a peschées dans
+		une autre escole que la mienne, que c’est son devoir de vivre ainsi, et
+		qu’il commettroit une extreme faute contre les maximes d’Amour, s’il ne
+		conservoit inviolablement cette fidelité, qu’il luy jura
+		dés le commencement de son affection. Estrange et insupportable
+		ignorance, d’autant mieux qu’elle n’a point de veritable fondement, et
+		qu’il n’est point de loy qui nous ordonne d’aymer ce qui n’est plus!
+		Mais cette belle constance de laquelle il fait tant de cas, et de qui
+		volontiers il feroit une déesse, afin qu’on [221/222] luy
+		dressast des autels, est cause qu’il soustient ces sottes opinions,
+		quelques dommageables qu’elles soient, et qu’il infecte cette province
+		d’une science qui devroit estre condamnée de tous ceux qui
+		ayment le repos, et la liberté. – Je voudrois, reprit Bellinde,
+		qu’il fust maintenant icy, car outre que je serois bien ayse de le voir
+		pour l’estime que je fay de son merite, encore serois-je curieuse de
+		sçavoir ce qu’il pourroit respondre au discours que vous tenez
+		de luy. – Madame, dit Hylas, haussant un peu la voix, ne le prenez pas
+		là, je croy que Lignon tariroit plustost que ses paroles, et
+		c’est bien ce qui gaste tout, car encore qu’il enseigne une
+		tres-pernicieuse doctrine en matiere d’amour, il sçait
+		accompagner ses raisons d’une eloquence si agreable, qu’il n’est
+		presque personne qui ne s’y laisse charmer.</p>
+		<p>Avec semblables discours, Adamas, Bellinde et les autres, s’alloient
+		divertissant, en attendant qu’il fust heure de disner, cependant que
+		Silvandre qui en effect se pourmenoit avecque Tircis, faisoit tout ce
+		qui luy estoit possible pour destourner ce triste berger du dessein
+		qu’il avoit fait de partir de Forests. Mais toutes les raisons qu’il
+		luy allegua, furent entierement inutiles, car ce pauvre
+		désolé se lassant d’avoir tant de tesmoings de sa
+		melancolie, s’opiniastra dans sa resolution, s’imaginant que desormais
+		les bords de Lignon n’auroient pas des objects assez tristes pour
+		plaire à sa douleur. Et ce fut pour cela qu’aussi-tost qu’il
+		pust rencontrer Silvandre en lieu commode pour l’entretenir, il
+		s’approcha de luy, et luy tint ce discours: Il n’est pas besoin, sage
+		Silvandre, que je vous renouvelle par mes paroles le suject de mon
+		affection, vous en avez desja une cognoissance assez grande, c’est
+		pourquoy je vous parleray seulement d’un dessein que j’ay fait, pour
+		avoir plus de commodité de rendre ce que je doibs à la
+		memoire de ma chere Cleon. Vous sçavez que depuis le jugement
+		que vous prononçastes en ma faveur, contre les importunitez de
+		Laonice, je n’ay pas laissé d’en estre persecuté,
+		jusqu’à ce qu’ayant ouy de sa propre bouche la trahison dont
+		elle avoit usé pour se vanger de vous et de Phillis, j’entray
+		dans une si forte colere contr’elle, que dés l’heure mesme elle
+		abandonna le Forests; et certes ce fut bien à propos, car je ne
+		croy pas qu’enfin je ne fusse sorty du respect que je doibs à
+		son sexe, pour luy rendre quelque signalé desplaisir. Or n’ayant
+		plus devant moy cette fascheuse, dont l’abord m’estoit insupportable,
+		comme celuy de quelque hideux animal, et desirant eviter desormais sa
+		rencontre, je suis resolu de me reti-[222/223]rer en quelque lieu,
+		où personne ne puisse interrompre mes pensées, ny me
+		divertir de ce que je veux faire, pour tesmoigner à ma Cleon
+		quelle est la fidelité que je conserve pour elle. J’ay honte de
+		partir sans dire le dernier adieu à Adamas et aux bergers, de
+		qui j’ay eu la cognoissance, mais j’espere, cher Silvandre, que pour
+		peu que vous preniez de peine à m’excuser envers eux, vous les
+		obligerez facilement à me pardonner cette faute, et à
+		recevoir plus de pitié pour mes ennuis, que de colere pour mes manquements.</p>
+		<p>A ce mot Tircis se teut, et Silvandre ayant remarqué ce qu’il
+		avoit dit de la trahison de Laonice, le pria de luy en faire le recit
+		tout au long, à quoy Tircis satisfit incontinent, et Silvandre
+		ravy de l’artifice qu’elle avoit inventé pour se vanger, apprit
+		en mesme temps que ç’avoit esté là le suject de la
+		colere de Diane, que Phillis avoit sceu desguiser si subtilement. Cette
+		marque de la jalousie de sa maistresse, luy fut une assez grande preuve
+		de son affection; et bien que ce contentement fust capable d’occuper
+		toutes ses pensées, il ne laissa pas de representer à
+		Tircis le peu de suject qu’il avoit de s’esloigner d’un lieu, où
+		tout le monde l’aymoit, pour aller vivre en quelque desert, où
+		son corps seroit exposé à la barbarie de mille animaux,
+		qui feroient tous les jours quelque nouveau dessein sur sa vie, et qui
+		chercheroient à tous moments le moyen de le surprendre, pour
+		plaire à leur insatiable faim. Mais le desolé au lieu de
+		se laisser toucher à ces raisons: Leur cruauté,
+		respondit-il froidement, ne sçauroit estre si grande que celle
+		de mille souscis qui m’affligent. Mon desespoir est en tel poinct,
+		qu’il me fait aymer tout ce qui peut avancer ma fin, et plust au Ciel
+		que sans crime je pusse faire moy mesme cet office: Tu sçaurois,
+		Cleon, combien peu je serois avare de mon sang, et tu verrois avec
+		quelle diligence je te remettrois l’ame de Tircis qui languit dans un
+		supplice pire mille fois que la mort, en attendant qu’il te revoye, et
+		qu’il ait l’honneur de jouyr sans trouble de la douceur de tes
+		embrassements. Disant cela, ses yeux qu’il tenoit ouverts contre le
+		Ciel, laisserent couler de grosses larmes, dont Silvandre fut tellement
+		esmeu, qu’il luy fut impossible de retenir les siennes, et cependant
+		qu’il employoit en vain son mouchoir pour en arrester le cours, il
+		pensoit à la constance de Tircis, et faisant apres cela des
+		reflexions sur soy-mesme, il consideroit quelle seroit sa douleur, si
+		par un semblable accident il venoit à perdre Diane.</p>
+		<p>Ils furent ainsi quelque temps sans parler, se pourmenants [223/224]
+		tousjours dans le bois, mais Silvandre reprenant la parole: Je vois
+		bien, luy dit-il, cher Tircis, que vostre ressentiment est juste, et
+		qu’on ne sçauroit condamner dans vostre douleur, autre chose,
+		que cet excez qui vous porte à nous vouloir quitter; car ayant
+		contracté icy des habitudes qui peuvent estre utiles à
+		vostre repos, je regarde que sans estre ennemy de vous-mesmes, vous ne
+		pouvez vous resoudre à vous en esloigner. Nostre vie est assez
+		douce, nostre conversation n’a rien de barbare, et quand il vous
+		arriveroit quelque mal, il n’est lieu au monde où vous deviez
+		esperer tant d’assistance, que vous en rencontrerez parmy nous. – Mon
+		repos, repliqua Tircis, depend du dernier moment de ma vie, qui
+		n’arrivera jamais si-tost, qu’il ne soit prevenu par mes souhaits, et
+		par les desirs de Cleon, qui m’aymant sans doute plus qu’elle n’a
+		jamais fait, m’accuse de paresse, et me blasme dequoy je suis si
+		long-temps sans la revoir. Je vous supplie donc par la chose du monde
+		qui vous est la plus chere, de ne treuver plus mauvais que je suive ma
+		premiere resolution, et de vouloir prendre la peine d’assurer Adamas,
+		et ceux de qui mon nom est cognu, qu’en quelque lieu que le sort
+		conduise mes pas, je conserveray inviolable, le souvenir que je doibs
+		à leur courtoisie. – Mais, adjousta Silvandre, dites moy pour le
+		moins, où vous avez resolu d’aller, afin que nous puissions
+		apprendre quelquefois de vos nouvelles, et vous faire part de ce qui se
+		passera sur les rives de nostre bienheureux Lignon. – Il me seroit
+		difficile, respondit le desolé, de vous dire ce que je ne
+		sçay pas moy-mesme. Je pars sans autre dessein que de me
+		confiner dans la premiere horreur que me presentera la Nature, parmy
+		des bois ou des rochers; c’est pourquoy je vous conjure de n’en estre
+		point en peine, et de croire que ne meritant pas l’honneur d’estre en
+		vostre souvenir, je n’ay garde de presumer que vous veuilliez donner
+		à vos pensées un object si desplaisant que le mien.
+		Disant cela, il embrassa Silvandre, et Silvandre serrant de mesme
+		Tircis entre ses bras: Puissiez-vous, luy dit-il, rencontrer toutes
+		choses favorables à vos desirs. – Et vous, Silvandre, repliqua
+		Tircis, puissiez-vous jouyr bien tost des faveurs
+		que le Ciel doibt à vostre merite.</p>
+		<p>A ce mot il se separerent, et Tircis s’estant enfoncé dans le
+		bois sans sçavoir seulement où il devoit aller, Silvandre
+		se remit dans la grande allée, et reprit le chemin de la maison
+		d’Adamas. Il ne sçavoit pas encore les malheurs que luy
+		preparoit le retour de Paris, et c’est sans doubte qu’il n’eust pas
+		esté si-tost adverty [224/225] de son arrivée, si de
+		fortune Lucindor se promenant avecque un jeune homme qui luy avoit
+		apporté des nouvelles de Lyon, ne l’en eust informé comme
+		d’une tres-agreable nouvelle. Il luy parla aussi de Bellinde, et ce
+		berger qui se doubta incontinent du suject de leur voyage, receut en ce
+		moment un si sensible coup, qu’il ne put s’empescher d’en faire voir
+		les marques dans le changement de son visage, il cacha toutefois au
+		chevalier le suject de son ressentiment, et de peur qu’on l’eust
+		accusé de manquer de</p>
+	</div>
+	<div class="contentc">
+		<p>civilité, si ayant sceu la venue de Bellinde, il ne luy fust allé</p>
+		<p>rendre ce qu’il luy devoit, il resista aux pensées, qui</p>
+		<p>luy persuadoient que, puisqu’elle n’estoit venue</p>
+		<p>que pour le contentement de Paris, il en devoit</p>
+		<p>fuyr la presence. Il entra donc dans la</p>
+		<p>maison, où Bellinde le receut avec des</p>
+		<p>caresses extraordinaires, et comme</p>
+		<p>si l’on n’eust attendu que luy</p>
+		<p>pour disner, à peine fut-il</p>
+		<p>dans la sale, que toute</p>
+		<p>la compagnie se</p>
+		<p>mit à table.</p>
+		<p>[227]</p>
+	</div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

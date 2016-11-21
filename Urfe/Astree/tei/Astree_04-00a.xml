@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Quatrième partie partie – A la Reyne</title>
+                <title type="partie">04</title>
+                <title type="livre">00</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="publicdomain">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+		<head type="partie">A LA REYNE</head>
+		<head type="partie">MARIE DE MEDICIS</head>
+		<head type="partie">MERE DU ROY,</head>
+		<head type="partie">TRES CHRESTIEN</head>
+		<head type="partie">LOUYS LE JUSTE</head>
+		<milestone type="space"/>
+		<p>MADAME,</p>
+		<p>Cette Astrée, à qui les meilleurs esprits ont
+		eslevé des autels, et qui se peut vanter d’avoir porté sa
+		gloire jusqu’au poinct de se faire bastir des temples en toutes les
+		parties de l’univers, orpheline, depuis deux ans, se vient jetter aux
+		pieds de V. M. pour y trouver le secours que son innocence merite.</p>
+		<p>Elle n’attend sa protection que de vous: Polemas tient toute sa
+		province occupée par l’injustice de ses armes; et Celadon,
+		languissant encore sous les habits d’Alexis, n’oseroit faire paroistre
+		en sa necessité, que les traicts de la foiblesse d’une fille.</p>
+		<p>Si bien, Madame, que si vostre pitié ne fait pour elle un
+		glorieux effort, il est presque impossible qu’elle ne perisse avec
+		infamie, et qu’elle ne soit desormais la honte et la fable de ceux qui,
+		[3/4] depuis sa naissance, n’en avoient osé parler qu’avec
+		admiration. II y a quelque temps que la France ne la void que sous un
+		habit deschiré par lambeaux, et sous un visage capable de faire
+		mourir d’horreur ceux qui n’auroient pas accoustumé de voir des
+		monstres, mais aujourd’huy qu’elle a retrouvé les mesmes graces,
+		dont son pere avoit appris de l’embellir, elle croit que sans
+		effronterie elle peut se presenter devant vous, et sans temerité
+		esperer que V. M. luy accordera quelques-uns de ses regards, qu’elle ne
+		donne qu’aux plus belles choses.</p>
+		<p>Que si cet incomparable soing, sur lequel s’appuye la seurté de
+		cet empire, vous permet quelquefois, Madame, de souffrir son entretien
+		innocent, peut-estre vous fera-t’elle avouer qu’il y peut avoir de
+		douces heures en la vie, et que ce n’est pas le moindre divertissement
+		que V. M. puisse choisir, en attendant que Louys, ce roy qui regne
+		encor plus absolument dans nos ames que sur nos corps, revienne
+		chargé des lauriers qui luy restoient à cueillir, vous
+		rendre compte de ses triomphes.</p>
+		<p>Pour moy, Madame, qui luy sers de guide au dessein qu’elle a de se
+		donner à vous, je jure que je ne l’eusse jamais entrepris, si je
+		n’eusse bien creu que mon obeissance excuseroit ma temerité, et
+		que tout le monde pourroit un jour recognoistre que le plus glorieux
+		advantage que j’en espere, c’est de pouvoir protester solemnellement,</p>
+
+		<milestone type="space"/>
+		<p>Madame,</p>
+		<p>que je suis de Vostre Majesté,</p>
+		<p>Tres-humble, tres-obeissant, et tres-fidelle serviteur et subjet,</p>
+		<p class="contentr">BARO. [4/5]</p>
+	</div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Troisième – Livre II</title>
+                <title type="partie">03</title>
+                <title type="livre">02</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="publicdomain">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+		<head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
+		<head type="chapitre">LE DEUXIESME LIVRE</head>
+		<milestone type="space"/>
+		<p>Le temple de la bonne Déesse, où presidoit la venerable
+		Chrisante, estoit au pied d’une agreable colline, qu’un bras de la
+		belle riviere de Lignon lavoit d’un costé de ses claires ondes,
+		et de l’autre s’eslevoit un boccage sacré au grand Tautates.
+		Dans ce temple somptueux que les Romains avoient dedié à
+		Vesta, et à la bonne Déesse, servoient les vierges
+		vestales, selon les coustumes des Romains; la premiere d’entr’elles se
+		nommoit Maxime. Et les vierges druides faisoient leurs sacrifices selon
+		la religion des Gaulois dans le boccage sacré. La venerable
+		Chrisante leur commandoit à toutes, quoy qu’elle fust Gauloise
+		et de l’ordre des druides. D’autant que, quand les Romains, sous
+		pretexte de vouloir secourir les Heduoys, qu’ils nommoient leurs amis
+		et confederez, se saisirent des Gaules, et la les soubsmirent à
+		leur Republique, l’une des principales marques de leur victoire fut de
+		faire adorer leurs dieux par tous les endroits de leur usurpation; ne
+		leur semblant pas d’en estre entierement possesseurs, s’il n’y
+		rendoient leurs dieux interessez, et obligez de la leur conserver. Et
+		toutesfois, pour ne se monstrer au commencement trop insupportables,
+		ils permirent aux Gaulois, qui n’adoroient qu’un Dieu, sous les noms de
+		Tautates, Hesus, Tharamis, et Belenus, de conserver leurs anciennes
+		coustumes, et de vivre en leur premiere religion, pourveu qu’ils
+		souffrissent aussi la leur, sçachant bien qu’il n’y a rien qui
+		soit plus difficile aux hommes que d’estre tyrannisez en leur croyance.
+		Et pour cette cause quand ils entrerent dans les estats des Segusiens
+		(outre la consideration de la déesse Diane, à qui ils
+		pensoient que cette contrée appartenoit) ils ne [43/44]
+		voulurent y changer aucunes des coustumes, ny pour la police de mœurs,
+		ny du gouvernement, ny de la religion.</p>
+		<p>Mais quand ils trouverent en ce bocage sacré un autel
+		dedié à la Vierge qui enfanteroit, à l’imitation
+		de celuy des sages Carnutes, et dessus la figure d’une Vierge qui
+		tenoit un enfant entre ses bras, et que la divinité qui y estoit
+		adorée estoit servie par des filles druides, ils y eurent
+		beaucoup plus de respect, estimant que ce Heu estoit consacré
+		sous autre nom, ou à la bonne Déesse (au service de
+		laquelle les hommes ne pouvoient asssiter) ou à la déesse
+		Vesta, sur le temple de laquelle ils avoient accoustumé de
+		mettre la statue d’une Vierge avec un enfant entre ses bras. En cette
+		opinion, pour ne diminuer en rien l’honneur et le service qui estoit
+		rendu à l’une de ces deux déesses, qu’ils avoient en
+		tresgrande reverence, ils y bastirent un temple à toutes deux
+		avec deux autels égaux; et en l’honneur de la bonne
+		Déesse l’appellerent Bon lieu, et en celuy de Vesta y mirent des
+		vestales. Et parce qu’ils estoient infiniment religieux envers les
+		dieux qu’ils adoroient, ne sçachant si ces déesses
+		vouloient estre servies à la façon des Romains ou des
+		Gaulois, et aussi pour contenter les habitans de la contrée, ils
+		y laisserent les vierges druides en leurs anciennes coustumes et
+		ceremonies, ausquelles comme à celles qui estoient les
+		premieres, ils donnerent toute authorité en ce qui estoit des
+		mœurs et de la conduite de l’œconomie; et par ainsi la venerable
+		Chrisante estoit maistresse absolue et des vierges druides et des vestales.</p>
+		<p>Ce temple estoit grand, et plus spacieux encores qu’on n’eust
+		jugé en le voyant, parce qu’il estoit de forme ronde, ayant sa
+		couverture plomb, sur le milieu et plus haut de laquelle s’elevoit la
+		statue d’une Vierge tenant un enfant entre ses bras Dans le lieu du
+		temple estoient posez les deux autres autels avec un si juste distance,
+		que l’un n’estoit point plus eloigné du milieu que l’autre. Aux
+		costez de chacun, il y avoit un petit arc de marbre blanc, soustenu de
+		trois colonnes, sur lesquelles on mettait les premices et les fruicts
+		avant que de les offrir. A la porte il y avait un vaze où ils
+		tenoient l’eau qu’ils nommoient lustrale, en laquelle la torche qui
+		servoit à l’autel quand ils avoient celebre les choses divines,
+		avoit esté premierement esteinte.</p>
+		<p>Lorsque cette troupe fut rencontrée par la venerable Chrisante,
+		il estoit si matin, que les sacrifices journaliers n’estoient pas
+		commencez; ce qui faut cause qu’apres les premieres saluta- [44/45]
+		tions, elle y convia ces belles bergeres, disant aux bergers, qu’elle
+		estoit bien marrie de leur oster cette aggreable compagnie, mais
+		qu’elle y estoit contrainte par l’ordonnance de la déesse, qui
+		vouloit que les hommes fussent bannis de ses autels.</p>
+		<p>Paris, Calidon et Silvandre qui y avoient le plus d’interest,
+		respondirent qu’ils estoient bien en colere contre le peu de merite des
+		hommes, puis qu’il estoit cause que leurs déesses ne les avoient
+		pas jugez dignes d’assister à leurs sacrifices, qu’ils ne
+		laisseroient cependant de les supplier de se contenter de leur faire ce
+		mal, et qu’elles ne missent de mesme dans les cœurs de leurs bergeres
+		une semblable haine contre les hommes. A quoy la venerable Chrisante
+		respondit, que ces sages déesses n’avoient pas banny par hayne
+		les hommes de leurs autels, mais pour quelques bons respects, et
+		peut-estre pour rendre leurs vestales plus attentives à leurs
+		mysteres, n’en estant point distraictes par la veue des personnes de
+		qui les perfections les pourroient faire penser ailleurs.</p>
+		<p>Hylas qui n’avoit guere de devotion aux dieux de son pays, et par
+		consequent beaucoup moins à ceux qui luy estoient estrangers,
+		prenant la parole pour Paris, et pour Silvandre, luy respondit: Si ces
+		déesses ne nous veulent point de mal, je m’en remets à ce
+		que vous en, dites; mais si m’advouerez-vous, madame, que nous avons
+		occasion de nous plaindre d’elles, et qu’il nous est bien permis de
+		desirer que s’il ne leur plaist de changer d’advis, on ne leur fasse
+		plus de sacrifice en ces contrées, ou pour le moins qu’il soit
+		deffendu aux belles, qui se treuveront en la compagnie d’Hylas, d’y
+		aller pour quelque occasion que ce soit. – Berger, dit la venerable
+		Chrisante, Dieu n’exauce que les souhaits qui sont justes, et qui sont
+		faits avec une bonne intention.</p>
+		<p>A ce mot, elle se retira dans le temple, parce qu’une vestale estoit
+		venue sur le sueil de la porte crier, selon leur coustume pour la troisiesme foi.</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<p>Loing d’icy, loing profanes.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Cela fut cause qu’Hylas ne peut luy respondre comme il eust bien
+		desiré: car aussi tost qu’elle fut entrée, les portes
+		furent fermées de sorte que Paris et tous ces bergers furent
+		contraints de les aller attendre dans le boccage sacré,
+		où le druide et devoit faire le sacrifice, quand
+		celuy de Vesta seroit achevé.</p>
+		<p>Ces vierges vestales estoient vestues de robbes blanches, presque
+		carrées, et si longues par le derriere, qu’elles les pouvoient
+		jetter sur leurs testes, pour se voiler, quand elles entroient dans le
+		[45/46] temple pour sacrifier. Ce jour estoit dedié à
+		Vesta, car pour n’estre surchargées de trop de sacrifices, les
+		jours estoient separez, où l’on sacrifioit à Vesta, ou
+		à la bonne déesse.</p>
+		<p>Or celuy-cy estant pour Vesta, aussi tost que le temple fut
+		fermé, et que toutes les vierges vestales et druides, et les
+		bergeres eurent pris leurs places, elles se prosternerent en terre au
+		premier coup que la vestale maxime donna d’un livre sur un banc, qui se
+		levant et prenant un rameau de laurier qu’une jeune vestale lui
+		presenta et qui estoit mouillé dans l’eau qu’ils appelloient
+		lustrale, qu’elle luy portoit apres dans un vaze d’argent, elle s’en
+		jetta un peu dessus, et puis en fit de mesme sur toute la compagnie,
+		qui prosternée recevoit cette eau avec grande devotion. Apres,
+		s’estant , toutes relevées, et elle retournée en son
+		siege, une autre jeune vierge luy presenta une corbeille pleine de
+		chappeaux de fleurs; elle en mit un sur sa teste, et en fit de mesme
+		à six autres qui se vindrent mettre à genoux à ses
+		pieds, et qui estoient celles qui devoient servir au sacrifice: l’une
+		incontinent alla prendre le Simpulle, petit vase, avec lequel elles
+		souloient sacrifier; l’autre prit le coffre des parfums qui se nommoit
+		Acerta; la troisiesme porta le gasteau de froment nommée
+		Mole-salée, qui estoit couronné de fleurs; l’autre
+		portoit l’eau qui devoit servir au sacrifice, car en ceux de Vesta on
+		n’y usoit point de vin, et en celuy-là mesme de la bonne
+		déesse on ne le nommoit pas vin, mais laict. La cin-quiesme
+		portoit le faisseau de verveine, et la derniere, un panier de fleurs et
+		de fruicts. Estans toutes devant elle, elle s’achemina jusqu’aupres de
+		l’autel de Vesta, au devant duquel elle se prosterna, et ayant quelque
+		temps demeuré à genoux, elle commença un hymne en
+		la louange de la déesse, que toutes les vestales qui estoient
+		dans le temple continuerent. Et ayant chanté le premier couplet,
+		elles se leverent toutes, ayant chacune un flambeau en la main, et
+		marchant deux à deux. Les plus jeunes passerent les premieres,
+		et les anciennes apres, et puis les six qui portoient les chappeaux de
+		fleurs, et en fin la maxime avec son baston pastoral, et allerent trois
+		tours à l’entour de l’autel, commençant à main
+		gauche, à la fin desquels chacune se remit en sa place, horsmis
+		la maxime et celles qui estoient chargées des choses necessaires
+		pour le sacrifice; car celle qui portoit le faisseau de verveine le
+		posa à main gauche sur l’autel, où le feu estoit
+		tousjours allumé et gardé nuict et jour par deux
+		vestales, parce que quand il s’esteignoit, elles croyoient qu’il leur
+		devoit arriver quelque grand [46/47] desastre, et la vestale qui estoit
+		en garde estoit rudement chastiée par le pontife, et puis on le
+		r’allumoit, non à d’autres feux materiels, mais aux rayons du
+		soleil, qui ramassez en des vases de verre, faisoient prendre ce feu
+		qu’ils nommoient sacré. L’autre vestale qui portoit les fleurs
+		et les fruicts, les posa sur l’arc de marbre, dont nous avons
+		parlé, et les autres quatre demeurerent debout devant la maxime,
+		qui alors se prosternant devant l’autel s’accusa à haute voix de
+		ses fautes, puis advoua qu’elle n’oseroit approcher le sainct autel de
+		la déesse, se sentant souillée de trop de vices, et trop
+		indigne de luy offrir chose qui luy fust aggreable, si ce n’estoit par
+		son commandement. Et puis s’en approchant encor d’avantage, elle baisa
+		et encensa l’autel de tous costez, et en fin laissant l’encensoir au
+		pied, y mit quantité d’encens et de parfums, dont l’odeur
+		remplissoit tout le temple. Et lors, prenant la Mole-salée et
+		couronnée de fleurs, et la tenant d’une main fort
+		eslevée, de l’autre elle prit le coing de l’autel, et puis se
+		tournant du costé de l’Orient, elle profera à haute voix,
+		et lentement les paroles qu’une vestale luy disoit mot à mot,
+		qu’elle lisoit dans un livre, de peur d’y faillir, ou de les mal
+		prononcer; car lors que cela arrivoit, elles croyoient que les
+		sacrifices n’estoient pas aggreables à la déesse, et les
+		faisoit recommencer. Les paroles estoient telles:</p>
+	</div>
+	<div class="contentli">
+		<milestone type="space"/>
+		<p>O redoutable déesse, fille de la grande Rhée, et du
+		puissant Saturne, qui nourris et eslevas Jupiter en ton giron, lors que
+		sa mere le tenoit caché! Vesta que les Thiereniens appellent
+		Lhabith Horchia, et qui es la premiere et la derniere engendrée
+		de toy, reçoy cette devote immolation que nous faisons pour le
+		peuple et Senat Romain, pour la conservation des Gaulois, et pour la
+		grandeur et prosperité d’Amasis nostre Dame souveraine. Et nous
+		fay la grace que ton feu qui est en nostre garde, ne s’esteigne jamais,
+		et que la requeste qu’apres la victoire obtenue sur les Titans tu fis
+		au grand Jupiter d’estre tousjours vierge, ait aussi bien esté
+		obtenue pour nous que pour toy, puis qu’estans toutes à toy,
+		nous pouvons aussi avec raison estre estimtées une partie de toy mesme.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Aux dernieres paroles de cette supplication, tout le chœur des vierges
+		respondit: Qu’il soit ainsi. Et lors elle posa la Mole-sacrée
+		sur l’autel, puis le panier de fleurs, et de fruicts que la vestale qui
+		en avoit la charge luy presenta, et de tout ensemble en mit un peu
+		dedans le feu qui estoit allumé pour le sacrifice, avec force
+		encens et drogues aromatiques; et puis, prenant de l’eau dans le vase
+		dit Simpulle, en tasta un peu, et en arrosa la Mole-sacrée, les
+		fleurs [47/48], les fruicts et le feu. Toutes ces choses
+		achevées, se reculant un peu de l’autel, elle commença un
+		hymne à la louange de la déesse, que toutes les vestales
+		continuerent, à la fin duquel y en eut une qui estoit vis
+		à vis de la maxime, qui se tournant vers les autres, dit
+		à haute voix: II est permis de s’en aller. Qui estoit signe que
+		le sacrifice estoit achevé.</p>
+		<p>Lors la venerable Chrisante, qui sans se mesler en ces sacrifices, ny
+		les vierges druydes aussi, y avoit seulement assisté pour le
+		respect qu’elle portoit à l’authorité Romaine, sortit du
+		temple; et avec toute sa suitte, hormis les vestales, qui se
+		retirerent en leurs demeures, s’en alla au boccage sacré,
+		où les vacies et bergers l’attendoient, les uns pour le
+		sacrifice, mais les autres, autant pour la devotion qu’ils portoient
+		à leurs bergeres, qu’à leur grand Tautates.</p>
+		<p>Hylas impatient en apparence plus que tous les autres, pour le desir
+		qui le pressoit de voir bien tost sa tant àimee Alexis, fut
+		contraint pour ne perdre point cette bonne compagnie, d’assister au
+		sacrifice du vacie. Mais sa plus ardente oraison fut, que Tautates se
+		contentast des plus courtes ceremonies pour cette fois, à fin
+		que tant plustost on prist le chemin qu’il desiroit. Et de fait,
+		à peine le dernier mot du sacrifice fut prononcé, qu’il
+		se leva, et contraignit toute la trouppe d’en faire de mesme. Mais sa
+		haste ne fut pas moindre lors que le disner fut achevé; car
+		voyant que la venerable Chrisante se remettoit sur le discours:
+		Madame, luy dit-il, en l’interrompant, si vous ne donnez ordre à
+		nostre depart, une partie de cette trouppe a fait dessein de vous aller
+		attendre aupres de la belle Alexis. Phillis prenant la parole pour la
+		venerable Chrisante: Et quelle mauvaise humeur, dit-elle, est la
+		vostre, Hylas, de vous fascher en ce lieu, et où esperez-vous de
+		trouver une meilleure compagnie? – Ma feue maistresse, res-pondit-il,
+		si je vous aymois comme j’ayme Alexis, et que vous ne fussiez point
+		icy, je dirois pour respondre à vostre demande, que la meilleure
+		compagnie pour moy seroit où vous seriez. Mais parce que cela
+		n’est pas, je vous diray, pour la mesme raison, que la meilleure
+		compagnie pour moy est aupres d’Alexis; et pour vous rendre preuve que
+		je dis vray, si vous ne partez à ceste heure mesme, il n’y a
+		plus d’Hylas pour vous aujourd’huy.</p>
+		<p>A ce mot, faisant une grande reverence il se preparoit de s’en aller,
+		lors que toute la trouppe accourant autour de luy, essaya de l’arrester
+		à moitié par force. Et cependant qu’il se debattoit pour
+		[48/49] s’eschapper de leurs mains, ils virent entrer un homme que la
+		venerable Chrisante recogneut incontinent pour estre de la maison
+		d’Amasis, qui la vint advertir de sa part, que sa maistresse venoit
+		coucher chez elle, pour faire le lendemain un sacrifice aux dieux
+		infemaux, à cause de quelque fascheux songe qu’elle avoit fait.
+		Ce message fut cause qu’Hylas pressa encore d’avantage, voyant que la
+		venerable Chrysante ne pouvoit estre de la partie, et son
+		importunité fut telle que ces belles bergeres furent
+		forcées de partir plustost qu’elles n’eussent fait, quoy que le
+		desir d’Astrée fut assez grand pour la convier de se haster;
+		mais sa discretion luy faisoit dissimuler ce que la franchise d’Hylas
+		ne luy permettoit pas de pouvoir faire. Ayant donc pris congé,
+		elles se mirent en chemin, accompagnées de ces gentils bergers;
+		et parce que quelquefois les sentiers estoient estroits, chacun prit
+		à conduire celle qui luy estoit la plus agreable, horsmis
+		Silvandre, qui par respect avoit esté contraint de quitter Diane
+		à Paris. Et d’autant que Phillis avoit esté priée
+		de Diane de ne la point laisser seule aupres de luy, de crainte qu’il
+		ne revinst aux mesmes discours de son affection, que quelques jours
+		auparavant il luy avoit tenus, toutes les fois que le chemin le pouvoit
+		permettre, Phillis prenoit Diane de l’autre bras, et mesloit le plus
+		qu’elle pouvoit ses discours parmy les leurs, feignant de le faire sans dessein.</p>
+		<p>II advint qu’estans sortis du bois, et ayans passé Lignon sur le
+		pont de la Bouteresse, le chemin s’eslargit de sorte qu’ils pouvoient
+		aller plusieurs de front, ce qui donna commodité à
+		Phillis d’appeller encore Lycidas aupres d’elle. Et voyant que
+		Silvandre estoit pour lors contraint d’entretenir Hylas: Et bien!
+		Silvandre, (luy dit-elle fort haut, afin d’interrompre plus
+		honnestement Paris) à vostre advis, qui a rencontré
+		meilleure place de nous deux? – Je croy, respondit le berger, que
+		celle que j’ay dés long-temps est la meilleure. – Vous auriez,
+		dit Phillis, des fortes raisons, si vous me faisiez advouer ce que vous
+		dites, et vous auriez fort peu d’affection si vous le croyiez ainsi. -
+		La verité, respondit froidement Silvandre, ne laisse d’estre
+		vraye, encore qu’on ne la croye pas, si bien que quelque jugement que
+		vous fassiez, ou de la place que je tiens, ou de l’affection que je
+		porte à Diane, il ne peut les changer ny rendre autres qu’elles
+		sont; car il n’est pas plus vray que Phillis est Phillis, que la place
+		que je tiens est meilleure que la vostre. – J’ay tousjours ouy dire,
+		adjousta Phillis, que plus on est prez de la personne aymée, et
+		plus l’amant se contente [49/50]. – Vous avez, repliqua le berger, ouy
+		dire la verité. – Toutesfois, continua Phillis, me voicy prez de
+		Diane, et il me semble que vous en estes fort esloigné. – J’en
+		suis encore plus pres que vous, respondit-il, car si vous estes
+		à son costé, je suis en son cœur. – Je ne te plains donc
+		plus, interrompit Hylas, de la peine que je pensois que tu eusses de
+		marcher; car, à ce conte, il ne tiendra qu’à Diane que
+		tu ne fasses de longs voyages sans guere travailler tes jambes.</p>
+		<p>Silvandre sousrit de cette response, et puis respondit froidement: Je
+		sçay bien, Hylas, que tu n’entens pas ce que je dis; aussi
+		n’estoit-ce pas à toy à qui je parlois, mais à
+		Phillis, qui à la verité est bien autant ignorante des
+		misteres d’amour, mais qui toutesfois a si bonne volonté de les
+		apprendre, qu’elle merite mieux que toy de les ouyr, – Voicy, dit
+		Hylas, une louange qui n’est pas à desdaigner pour Phillis,
+		disant qu’elle desire d’apprendre les mysteres d’amour; que s’il est
+		ainsi, et qu’elle vueille estudier en mon
+		escole, je les luy apprendray à bon marché.</p>
+		<p>Tous les bergers se mirent à rire des paroles d’Hylas, et parce
+		que Silvandre prit garde qu’Astrée et Diane baissoient les yeux,
+		il voulut changer de discours, et pource, il luy dit: Je voy bien,
+		Hylas, que tu enseignes ta doctrine fort librement; mais pour revenir
+		à ce que j’ay dit à Phillis, je te repliqueray encores
+		que je suis plus prez de Diane, qu’elle n’est pas, encore qu’elle soit
+		à ses costez, parce que Diane est en mon cœur. – Vous avez dit,
+		reprit incontinent Phillis, que vous estiez en son cœur. – Et je
+		l’advoue encores, respondit Silvandre. – Si est-ce, adjousta Phillis,
+		qu’il y a bien de la difference, et mesme selon ce que je vous en ay
+		ouy dire autresfois; car j’entendois que vous aimiez Diane, si on me
+		disoit qu’elle fust en vostre cœur, et qu’elle vous ayme, si l’on
+		disoit que vous fussiez dans le sien. – A parier, dit Silvandre, avec
+		le commun, on l’entend comme vous le dites, mais quand on discourt avec
+		les personnes un peu mieux entendues, l’un signifie l’autre. Et en
+		voicy la raison. Estre en quelque lieu s’entend de deux sortes: l’une,
+		quand le corps occupe une place, et lors la surface de la chose
+		contenue est te lieu; l’autre, c’est quand l’ame, qui est toute
+		spirituelle, agit en quelque lieu. Car rien ne pouvant agir
+		immediatement en quelque lieu qu’il n’y soit, U s’ensuit que, si mon
+		ame agit de cette sorte dans le cœur de Diane, qu’elle y est, Or si,
+		comme nous avons dit autresfois, l’ame vit mieux où elle ayme,
+		que où elle anime, puis que le vivre est une action imme [50/51]
+		diate de l’ame, il s’ensuit que si j’ayme Diane, je suis veritable-ment
+		en elle.- Cela respondit Phillis, est un peu bien obscur pour moy,
+		toutesfois encor ne preuveriez-vous par là, sinon que vostre ame
+		y est, et non pas Silvandre. Et par ainsi ma place est encore la
+		meilleure, puis que pour le moins une partie de moy, et celle que j’ay
+		ouy dire estre la plus fertile en passions, qui est le corps, est plus
+		prés que vous n’estes pas. – J’avoue, respondit-il, que du corps
+		vous en estes plus prés que moy; mais il ne faut pas conclure
+		pour cela que vostre place soit la meilleure, parce que l’ame est de
+		telle sorte superieure au corps, qu’au prix d’elle il n’est de nulle
+		consideration, tant s’en faut qu’il puisse tenir quelque rang aupres
+		d’elle. – Pleust à Dieu, berger, dit Hylas, que nous fussions
+		tous deux amoureux d’une mesme bergere; car puis que tu mesprises si
+		fort le corps, je le prendrois fort librement pour moy, et je te
+		laisserois volontiers l’esprit, quand mesme ce seroit celuy du plus
+		sçavant de nos druides. Et pour te monstrer que je te dy vray,
+		laisse-moy le corps d’Alexis, et je te laisse l’esprit
+		d’Adamas, qui est un si sçavant homme.</p>
+		<p>Chacun se mit à rire du party que l’inconstant presentoit
+		à. Silvandre, et cela l’empescha de luy respondre si tost, mais
+		peu apres, il prit la parole de ceste sorte: Si chaque chose estoit
+		prisée selon son merite, il est certain que le choix que tu fais
+		n’est pas le meilleur, parce que le corps que tu veux seulement aymer,
+		n’est pas un objet digne d’estre aymé de l’ame, d’autant que
+		l’amour doit tousjours adjouster quelque perfection à l’amant,
+		comme chacun avoue, quand on dit, que l’amour est desir d’un bien qui
+		defaut. Et par cette ordonnance, l’amant seroit obligé d’aymer
+		tousjours quelque chose de plus qu’il ne seroit pas. Mais concedons
+		à ces esprits qui sont tant abaissez qu’ils ne font que trainer
+		par terre, sans se pouvoir relever à ce qui est par dessus eux,
+		qu’ils puissent aimer ce qui leur est égal; je m’asseure qu’il
+		n’y a personne qui pour le moins ne confesse, qu’il est honteux de
+		s’abbaisser à l’amitié de ce qui est moins que nous ne
+		sommes. Que si cela est vray; comment pourrait-on estimer le corps
+		digne d’estre aimé de l’ame, puis qu’il est si vil et
+		abbaissé par dessous elle? Mais outre que cette amour est
+		honteuse, je tiens qu’elle est impossible, ou pour le moins
+		insensée, si nous voulons y adjouster les conditions que la
+		vraye atnour doit avoir. Car celuy qui aime, n’a point de plus violent
+		desir que d’estre aimé de la chose aimée; mais n’est-il
+		pas impossible que celuy qui n’ayme que le corps, en [51/52] soit aime,
+		d’autant que l’amour peut estre seulement en l’ame? Et par là
+		ne vois-tu pas, Hylas, que ceux qui aiment le corps, sont imitateurs de
+		la folie de Pigmalion, qui devint amoureux d’un marbre? Aussi pour
+		monstrer que cela ne se doit point, la nature y repugne, et je
+		m’asseure que tu l’avoueras si l’on te le demande; car confesse la
+		verité, Hylas, si Alexis estoit morte, en aimerois-tu le corps?
+		Et parce qu’il ne respondoit point: Tu es muet, continua Silvandre,
+		est-ce la verité qui te confond, ou la honte d’avoir eu une si
+		mauvaise opinion? – Ny l’un ny l’autre, dit Hylas, mais que veux-tu
+		que je te responde? Penses-tu que je sois un devineur? Ne
+		sçais-tu que quand les yeux voyent ce qu’ils n’ont point veu, le
+		cœur pense ce qu’il n’a point pensé? Je parle fort asseurement
+		des choses passées quand il m’en souvient, et des presentes
+		quand je les sçay: mais des futures? Eh! mon amy, pour qui me
+		prends-tu? Penses-tu que ce soit moy qui aye instruict les Sybilles,
+		ou que j’aye esté en leur escole pour apprendre à predire
+		? Suvandre mon amy, si tu veux discourir avec moy, parlons des choses
+		dont les hommes peuvent parler, sans entrer dans les secrets des dieux
+		: laissons leur les choses futures, puis qu’ils ont retenu cela en leur
+		partage. Et si tu me demandes, si j’ayme le corps d’Alexis, je te
+		respondray qu’ouy, et de telle sorte (quoy que tu sçaches dire
+		de tes resveries et de ton amour de l’ame) que si elle n’avoit point de
+		corps, je ne l’aimerois point; mais quand tu me demanderas ce que je
+		ferois quand ce corps n’aura point d’ame, je te renvoyeray vers- ceux
+		qui sçavent predire l’advenir, et si tu veux, tu pourras aller
+		avec eux visiter les destinées, et nous rapporter des nouvelles
+		de leurs conseils. Et moy, cependant que tu feras ce long voyage, je
+		continueray d’aimer le beau corps d’Alexis, non tel qu’il sera d’icy
+		à cent ans, mais tel qu’il est, c’est à dire l’ouvrage
+		des dieux le plus beau, et le plus parfait.</p>
+		<p>Ainsi disoit Hylas, et Silvandre luy voulut respondre, lorsque suivant
+		le chemin il falut passer une petite planche, où chacun des
+		bergers s’amusa à aider à sa bergere mieux aimée.
+		Et lors qu’elles furent toutes de l’autre costé, et que
+		Silvandre voulut reprendre la parole, il en fut empesché par
+		Diane, qui oyant une bergere, et un berger qui chantoient, le pria de
+		les escouter. Toute la trouppe tourna les yeux vers le lieu d’où
+		la voix venoit, et s’approchant peu à peu, ils virent une
+		bergere assise à l’ombre d’une touffe d’arbres, et un berger
+		à genoux devant elle, et peu [52/53] apres us commencerent
+		d’ouyr leurs paroles un peu plus distinctement. Elles estoient telles.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">ALCIDON, DAPHNIDE</head>
+		<h3>Dialogue.</h3>
+		<milestone type="space"/>
+		<h4>ALC.</h4>
+		<p>Vous verra-t’on jamais changer,</p>
+		<p>Puisque vous estes si legere?</p>
+		<milestone type="space"/>
+		<h4>DAPH.</h4>
+		<p>Alcidon n’est pas mon berger,</p>
+		<p>Ny Daphnide vostre bergere.</p>
+		<p>Le destin qui commande à tous</p>
+		<p>Ne nous fit pas naistre pour nous.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>ALC.</h4>
+		<p>Jamais le destin n’accusez</p>
+		<p>D’une chose si volontaire.</p>
+		<milestone type="space"/>
+		<h4>DAPHN.</h4>
+		<p>Vous aussi ne vous abusez</p>
+		<p>De rien obtenir au contraire:</p>
+		<p>Car soit destin, soit volonté,</p>
+		<p>En fin le sort en est jetté.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>ALC.</h4>
+		<p>Vueillez ou ne me vueillez point,</p>
+		<p>Me donnant à vous, je suis vostre.</p>
+		<milestone type="space"/>
+		<h4>DAPHN.</h4>
+		<p>Si nostre vouloir ne s’y joint,</p>
+		<p>Ce qu’on nous donne n’est pas nostre:</p>
+		<p>Et je refuse franchement</p>
+		<p>De vous recevoir pour amant.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>ALC.</h4>
+		<p>Recevez-moy pour serviteur,</p>
+		<p>Si vostre amant je ne puis estre.</p>
+		<milestone type="space"/>
+		<h4>DAPHN.</h4>
+		<p>Non, non, je ne vous veux, Pasteur,</p>
+		<p>Ny pour serviteur, ny pour maistre:</p>
+		<p>Et si vous voulez vostre bien,</p>
+		<p>De moy n’esperez jamais rien.</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>ALC.</h4>
+		<p>Quoy que fasse vostre rigueur,</p>
+		<p>Mon feu sera tousjours extreme.</p>
+		<milestone type="space"/>
+		<h4>DAPHN.</h4>
+		<p>C’est bien avoir faute de cœur</p>
+		<p>D’aymer si fort qui ne vous ayme,</p>
+		<p>Car un bon cœur devroit chasser</p>
+		<p>Par le mepris un tel penser [53/54].</p>
+		<milestone type="space"/>
+		<milestone type="space"/>
+		<h4>ALC.</h4>
+		<p>Mais pourquoy ne se changera.</p>
+		<p>En fin ce farouche courage?</p>
+		<milestone type="space"/>
+		<h4>DAPHN.</h4>
+		<p>S’il’ peut changer, ce ne sera</p>
+		<p>Que pour vostre desavantage,</p>
+		<p>Mais que je vous ayme, berger,</p>
+		<p>Vous n’y devez jamais songer.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>A peine la bergere eut finy ces dernieres paroles, que cessant de
+		chanter, et voyant que le berger vouloit continuer, elle luy dit:
+		C’est assez, Alcidon. Si vous voulez que je m’arreste ici plus
+		longtemps, je vous prie, cessez ou changez de discours, et croyez que
+		ceux-cy ne vous acquerront jamais rien de plus advantageux envers moy
+		qu’un accroissement de mauvaise volonté. – II y a long-temps,
+		respondit le berger, que si je n’avois non plus d’esperance en la
+		justice d’amour qu’en la vostre, je n’aurois pas seu-lement cesse de
+		parier à vous, mais aussi de vivre. – Et quelle esperance est la
+		vostre, dit Daphnide, puis que s’il estoit juste, ce dieu de qui vous
+		parlez, il y a long-temps que vous serviriez d’exemple à tous
+		ceux qui ont la hardiesse de l’outrager? – N’ofiencez point, dit
+		Alcidon, celuy de qui la puissance ne se mesure qu’à sa
+		volonté et de qui le pouvoir ne vous a point tousjours
+		esté tant incogneu, que vous le deviez maintenant mespriser
+		comme vous faites. La bergere eust repliqué, n’eust
+		été qu’elle vid approcher
+		cette troupe qui luy donna sujet de se taire.</p>
+		<p>Astrée et le reste de la compagnie qui avoient ouy ce que ces
+		estrangers avoient chanté, et entr’ouy une partie de ce qu’ils
+		avoient dit plus bas, conviez de la beauté de la bergere et de
+		la bonne mine et gentille disposition du berger, tant pour satisfaire a
+		leur curiosité, qu’au devoir, auquel les loix de
+		l’hospitalité religieusement observées en cette
+		contrée les obligeoient, s’addresserent à la bergere, et
+		apres l’avoir saluée, luy offrirent et à toute sa trouppe
+		toute sorte d’assistance; car en mesme temps s’approcherent d’elle
+		deux autres bergeres et un berger, qui s’estoient escartez entre
+		quelques arbres, attendant que la chaleur fust un peu abbatue. Daphnide
+		voyant cette belle trouppe s’offrir à elle avec des paroles si
+		pleines de courtoisie, luy, respondit avec toute la civilité qui
+		luy fut possible, et puis leur dit en general à toutes: Je ne
+		m’estonne plus si le Ciel favorise de ses graces cette contrée
+		plus avantageusement que les autres, puis qu’elle est habitée
+		par des personnes si accomplies de toute sorte de merite [54/55].</p>
+		<p>Astrée, prenant la parole, luy respondit: II n’y a personne icy
+		qui ne soit fort disposeé à vous faire service, tant pour
+		satisfaire à nos ordonnances, qui nous commandent de rendre
+		toute assistance aux estrangers, que pour avoir la gloire de servir des
+		personnes qui le meritent comme vous, et vostre compagnie. – Je
+		commence, respondit l’Estrangere, à bien esperer de la fin de
+		mon voyage, pnis que ma premiere rencontre a esté si bonne. Et
+		puis que les offres que vous me faites me doivent donner la hardiesse
+		de m’enquerir de ce qui m’est necessaire de sçavoir, je vous
+		supplie donc, belle bergere, de me dire s’il y a une fontaine en cette
+		contrée qui s’appelle, De la verité d’Amour, et où
+		elle est? Astrée tournant l’œil sur Paris, et sur Silvandre,
+		comme leur en demandant des nouvelles, demeura sans parler. Qui fut
+		cause que Silvandre prit la parole, et luy dit: Belle bergere, la
+		fontaine que vous demandez est veritablement en cette contrée;
+		mais amour est cause qu’il vaudroit autant qu’elle n’y fust point,
+		estant remise en la garde de quelques animaux enchantez, qui en
+		defendent l’accez. – Et où est-elle? reprit Astrée. -
+		Comment, dit l’Estrangere, vous estes de ce pays et vous ignorez
+		où est une chose si rare? Cela est presque incroyable, et mesme
+		à ceux qui verront vostre visage, qui estant si beau, ne peut
+		pas avoir esté veu sans amour, ny vous, par consequent, sans
+		curiosité de sçavoir la verité de l’affection de
+		ceux qui vous ayment, qui, à ce que j’ay ouy dire, se void en
+		cette fontaine. – Je sçay bien, dit Astrée, en rougissant
+		un peu, que vostre courtoisie vous fait parier de mon visage si
+		avantageusement, vous semblant d’estre obligée pour les offres
+		que je viens de vous faire, de me gratifier de cette sorte; et c’est
+		pourquoy je ne vous respondray point à cela. Mais quant à
+		la curiosité que vous croyez qui doive estre en moy, outre que
+		l’occasion n’y est point, parce que je n’ay jamais eu assez de bonheur
+		pour estre aymée de cette façon, encores avons-nous une
+		coustume parmy nous, que jamais nous ne recourons à la fontaine
+		dont vous parlez, pour cognoistre la volonté de ceux qui nous
+		servent, ayant un moyen beaucoup meilleur et plus asseuré. – Et
+		quel est-il, dit incontinent l’Estrangere, afin que l’un me
+		deffaillant, je puisse recourre à l’autre?- C’est, respondit
+		Astrée, le temps et les effets. – Encore, dit Daphnide, que
+		chacun le die comme vous; si tiens-je cette cognoissance bien
+		incertaine et certes je le puis dire, comme y ayant esté
+		trompée. – Si cela nous estoit avenu, reprit Diane, nous y
+		userions d’un autre remede. – [55/56] Et quel est-il? dit
+		l’Estrangere. – C’est de ne plus rien aymer du tout, respondit Diane. -
+		Voilà, dit Alcidon, un remede bien injuste, puis qu il punit
+		l’innocent, et ne chastie point le coulpable; car celuy qui a
+		trompé une bergere en feignant de l’aymer, ne se soucie pas de
+		n’estre point aymé d’elle, et par ainsi il ne reçoit
+		point de chastiment de sa faute, et si de fortune elle vient à
+		estre bien aymée de quelqu’autre, luy qui n’aura point
+		offensé en portera toute la peine. – Voilà, gentil
+		berger, interrompit Hylas, comme nos bergeres sont aussi injustes, que
+		vous les voyez estre belles, et si pour tout cela, nous ne pouvons nous
+		empescher de les aymer; jugés ce que nous ferions si elles
+		avoient l’esprit aussi doux que le visage.</p>
+		<p>L’une de ces bergeres oyant parler Hylas de cette sorte,
+		commença à tenir les yeux arrestez sur luy, luy semblant
+		de le cognoistre; et sans doute, sans l’habit, qui le déguisoit
+		un peu, elle n’eust pas demeuré si long temps en cette peine.
+		Mais en fin pour ne se point méprendre, elle s’addressa à
+		Thamire, et luy demanda assez bas, si ce berger qui parloit n’estoit
+		pas Hylas, et luy ayant respondu qu’ouy, elle revint vers Daphnide, et
+		s’approchant à son oreille, luy dit: Madame, vous parlez
+		à Hylas sans le cognoistre. L’Estrangere changeant de couleur,
+		et se mettant une main sur le visage, comme de honte d’estre veue de
+		luy, revestue de ces habits, se recula un pas ou deux, s’écriant: Mon
+		Dieu! Hylas, que l’habit que vous portez vous change! Je ne
+		sçay si le mien m’en fait autant? Lors Hylas s’approchant
+		d’elle, il la considera attentivement, si bien que quoy qu’il y eut
+		long temps qu’il ne l’eust veue, et que l’habit de bergere la changeast
+		beaucoup, si la recogneut-il pour Daphnide, estimée la plus
+		belle dame qui fust en Arles, ou dans la Province des Romains, de quoy
+		il demeura si estonné, qu’il ne
+		sçavoit s’il songeoit, ou s’il veilloit.</p>
+		<p>En fin, apres estre demeuré fort long temps à la
+		considerer, il se retira d’un pas, et plus ravy en admiration qu’il ne
+		se peut dire, se mit à la regarder, et à la considerer,
+		sans pouvoir proferer une seule parole. Dequoy l’autre estrangere
+		s’appercevant: C’est sans doute,dit-elle,que voicy la contrée
+		des merveilles, puis que j’y vois des bergeres qui surpassent les
+		personnes plus civilisées, des beautez sans curiosité, et
+		ce qui est de plus merveilleux, des Hylas sans parole. Hylas à
+		ce mot tournant les yeux sur celle qui parloit, il la recogneut pour
+		estre Carlis, et l’autre [56/57] Stiliane, et Hermante avec eux. Cette
+		veue le rendit si confus, que sans pouvoir parler, il courut embrasser
+		Hermante son cher amy, et apres l’avoir tenu quelque temps en ses bras,
+		se separa de luy pour le reprendre par deux ou trois fois; en fin
+		reprenant la parole: Est-ce bien, dit-il, mon cher Hermante que je
+		vois, et que je tiens entre mes bras? Celles que-je vois icy, est-il
+		possible que ce soient les plus belles de la Province des Romains? Et
+		je dirois de l’univers, si la contrée où nous sommes en
+		estoit dehors. Quoy! je vois donc la belle et tant admirée
+		Daphnide, la glorieuse Stiliane et cette, Carlis, qui la premiere
+		m’apprit à aimer?</p>
+		<p>Les dieux m’ont fait trop de grace de vous avoir conduite icy,
+		madame,dit-il, s’addressant à Daphnide, avec vostre compagnie,
+		croyant quant à moy, que c’est pour vous faire estre tesmoing de
+		ma gloire et de ma felicité. – Hylas, respondit incontinent
+		l’Éstrangere, vous n’aurez jamais contentement, où, comme
+		vostre amie, je ne participe; mais si vous estes estonné de me
+		voir en cet equipage, je ne le suis pas moins de vous avoir
+		rencontré, et deguisé comme vous estes, et en un lieu
+		où je n’avois aucune esperance de vous trouver. Mais comme que
+		ce soit, je tiendray cette rencontre pour tres-heureuse, si elle me
+		fait participer à la gloire et à la felicité que
+		vous possedez. – Madame, interrompit Carlis, il n’a garde de se
+		resjouyr si fort de ma venue, ny de celle de Stiliane. – Et pourquoy,
+		ma premiere maistresse, entrez-vous en cette opinion? dit-il. Ne
+		sçavez-vous pas que l’on tient que les premieres amours ne
+		s’effacent jamais? – Toutesfois, dit-elle, vous monstrez le contraire,
+		puis que l’amour ne peut pas estre quand l’oubly oste la memoire de la
+		chose aymée; et vous ne pouvez nier que vous ne nous ayez
+		mescogneues et oubliées. – Je suis fait, dit Hylas, tout d’une
+		autre façon que le reste de ceux qui se meslent d’aimer; car
+		jamais je ne perds la memoire de celles que j’ay aimées, ny
+		jamais mon affection ne s’efface. II est bien vray que quelque fois ma
+		memoire se couvre d’oubly, comme le brasier de cendre, et que mon
+		affection se lasse, comme l’arc qui a demeuré trop long-temps
+		tendu; mais comme le brasier, pour peu qu’il soit soufflé, se
+		descouvre vif et ardent, et l’arc, quand on le retend, est aussi fort
+		qu’auparavant, de mesme est-il de ma memoire et de mon affection, lors
+		que cette cendre de l’oubly est ostée par la veue, et par la
+		presence, ou bien que mon amour par quelque nouvelle faveur se renforce
+		de desir et [57/58] d’esperance. – Je voy bien, dit Stiliane, qu’en fin
+		Hylas est tousjours Hylas. – Mais, adjousta Daphnide, nous
+		sçaurons à loisir un peu plus de vos nouvelles.
+		Cependant, afin que nous ne fassions quelque erreur envers ces belles
+		et honnestes bergeres, dites-nous, Hylas, qui elles sont, et si
+		Astrée ou Diane ne sont point en cette compagnie. – Madame,
+		respondit Hylas, si vous estes venue en cette contrée pour ce
+		seul subject, vous pourrez vous en retourner quand vous voudrez, car
+		les voilà toutes deux devant vous, dit-il, les luy monstrant.</p>
+		<p>Lors Daphnide s’avançant les salua encores une fois, et apres
+		les avoir quelque temps considerées: II est vray, dit-elle,
+		qu’en cecy la renommée est moindre que la verité, et
+		qu’il est certain que vostre beaute surpasse ce que l’on en dit. -
+		Madame, respondit Astrée en rougissant, les personnes qui vivent
+		comme nous faisons, peuvent dire qu’elles sont au monde sans y estre;
+		car ne voyant que nos bois et nos pasturages, à peine peut la
+		renommée se charger seulement de nos noms, tant s’en faut
+		qu’elle en doive raconter quelque chose, et en son silence nous pensons
+		luy estre infiniment favorisées, car ce nous est beaucoup de
+		bon-heur, que ne pouvant rien dire de nous à nostre advantage,
+		elle n’en die rien du tout. – Vous direz ce qu’il vous plaira, reprit
+		Daphnide, mais puis que j’ay cognoissance de vos noms, si faut-il que
+		la renommée me l’ait donnée, estant de sorte
+		esloignée de vos demeures, que n’ayant jamais esté icy,
+		je ne sçauroys les avoir appris que par elle. Et je voy
+		maintenant qu’encores qu’elle parle fort avantageusement de vous, elle
+		est toutesfois infiniment inferieure à la verité, et
+		qu’en cela elle vous fait tort. – Madame, dit Diane, vostre courtoisie
+		est celle qui nous donne cet advantage, et quoy que nous soyons presque
+		hors du monde, comme vous disoit ma compagne, si voudrions-nous bien
+		estre telles qu’il vous plaist de nous figurer, parce que la perfection
+		est toujouis desirable en qui que ce soit. – Vous ne devez point,
+		repliqua l’Estrangere, en desirer plus que vous en avez, car vostre
+		desir outrepasseroit la puissance de la nature, ne croyant point
+		qu’elle puisse faire deux différentes beautez plus parfaites. -
+		Et que diriez-vous, madame, interrompit Hylas, qu’encores qu’elles
+		soient telles, je n’en ay jamais esté amoureux, ou c’est si peu
+		que ce n’est rien? – Je diray respondit Daphnide, qu’il n’appartient
+		pas à tous les oyseaux de se plaire en la pure lumiere du
+		soleil, ny par consequent à vostre mauvaise veue en ces trop
+		grandes beautez. – Tout [58/59] au contraire, madame, repliqua Hylas,
+		c’est parce qu’il y en a de plus belles en ceste contrée
+		qu’elles ne sont et vous sçavez qu’Hylas ayme sur tout la
+		beauté. – Je croiray difncilement ce que vous dites, respondit
+		l’Estrangere. – Je vous le feray advouer, dit-il, si vous voulez venir
+		où toute ceste trouppe s’en va. – Et afin, discretes bergeres,
+		cohtinua-t’il se tournant vers Astrée, et Diane, que vous ne
+		vous mescontiez, scachez que vous voyez devant vous, sous ces habits de
+		berger et de bergere, la plus belle dame, et le plus gentil chevalier
+		de la Province des Galloligures, et que peut-estre vostre
+		contrée n’eut jamais une plus grande faveur du Ciel, que de les
+		recevoir. C’est pourquoy, gentil Paris, vous ne devez pas souffrir
+		qu’ils se separent de ceste compagnie, qu’Adamas
+		ne les ait receus en sa maison.</p>
+		<p>Paris et les bergeres s’addressant à Daphnide, s’excuserent de
+		ne luy avoir rendu l’honneur qu’ils luy devoient, et la supplierent de
+		sorte de vouloir faire ceste faveur au grand druide, qu’en fin elle y
+		consentit, tant pour satisfaire à la priere que Paris, et ces
+		belles bergeres luy faisoient, que pour le desir qu’elle avoit de
+		parler au sage Adamas, sur les affaires qui la conduisoient en ce lieu,
+		ayant desja fort ouy parler de sa prud’hommie.</p>
+		<p>Le contentement d’Hylas ne fut pas petit quand il vit ceste resolution.
+		Et parce que Daphnide ayoit fort bonne cognoissance de son humeur, et
+		qu’elle l’avoit cogneu en l’isle de Camargues et en Arles, elle luy fit
+		par les chemins plusieurs demandes, ausquelles les bergeres
+		respondoient quelquefois pour luy, et quelquefois Silvandre. Et quoy
+		qu’il voulust se contraindre un peu devant Daphnide, Stiliane, et
+		Carlis, si est-ce qu’il ne pouvoit s’empescher d’eschapper bien souvent
+		en ses responses, et mesme quand Silvandre prenoit la parole; de quoy
+		ces estrangeres rioient, de sorte qu’en fin s’addressant à
+		Daphnide: Je croy, luy dit-il, madame, que prenant l’habit de ces
+		bergeres, vous en avez aussi pris l’humeur, puis que les discours de ce
+		berger vous plaisent si fort; car il ne sçauroit ouvrir la
+		bouche pour me contredire, qu’elles n’en rient à haut de teste.
+		Mais, Silvandre mon amy, continua-t’il, se tournant vers le berger,
+		sois certain que c’est de toy que ceste belle dame se mocque, et non
+		pas de moy, parce que n’ayant esté nourry qu’aux villages, tu ne
+		sçais guere bien comme il faut parler à celles qui luy
+		ressemblent. Et pource, si tu m’en crois, tu ne continueras plus ce qui
+		est tant à ton desavantage. – Gentil berger, dit incontinent
+		Daphnide, ne croyez [59/60] point Hylas; vous sçavez assez quel
+		il est, et j’aurois trop de desplaisir que vous eussiez cette opinion
+		de moy. – Madame, respondit Silvandre, nous nous faisons souvent de
+		semblables reproches, Hylas et moy, et toutesfois nous ne nous croyons
+		guere l’un l’autre. Mais Hylas, dit-il, se tournant vers Iuy, tu te
+		trompes fort, si tu crois que je n’aye point de cognoiasance de ceste
+		belle dame; j’aurois en vain esté si longuement parmy les
+		Massiliens, et il faudroit bien que j’eusse eu les oreilles
+		bouchées, et les yeux clos, si je n’eusse ouy parier de son
+		merite, ny veu sa beauté. Je sçay, Hylas, peut-estre
+		mieux que toy, qui est la belle Daphnide, qui Alcidon, et qui le grand
+		et redoutable roy Euric; peut-estre te raconterois-je plus
+		particulierement la prise qu’fl fit et de la ville des Massiliens, et
+		de celle d’Arles, qu’autre qui le voulust faire, et pour ce ne pense,
+		encor que je sois berger, m’estonner par tes discours, n’ayant pas, non
+		plus que toy porté tousjours la houlette et la pannetiere que tu me vois.</p>
+		<p>Daphnide alors prenant la parole: A la verité, dit-elle, Hylas,
+		ce berger monstre qu’il ne me cognoist pas mal, et je crois aux paroles
+		qu’il tient, qu’il en sçait plus que vous ne pensiez. Mais,
+		gentil berger, dit-elle, si ce ne vous est importunité,
+		dites-nous où vous avez appris ce que vous racontez? – Madame,
+		respondit Silvandre, j’ay esté longuement dans les escoles des
+		Massiliens, où vostre nom a este tant chantdé des bardes,
+		qu’il n’y a personne qui ne l’aye ouy. – Et comment estes-vous
+		maintenant, dit-elle, en ceste contrée avec cet habit de berger,
+		et qui vous y retient? – La fortune, dit-il, m’y a conduit, et l’amour
+		m’y arreste. – Et moy, dit Hylas, l’amour m’y a conduit, et Alexis m’y
+		fait demeurer. – Et qui est, dit-elle en sousriant, ceste bien-heureuse
+		Alexis? – C’est celle-là, continua Hylas, qui vous fera rougir
+		de honte, et paslir d’envie, la voyant si belle qu’il n’y a
+		beauté qui puisse egaler la sienne. – Vous en dites beaucoup,
+		Hylas, respondit-elle, pour n’estre pas creu, et trop pour estre creu
+		du tout. – Que diriez-vous, repliqua-t’il, si je vous en disois autant
+		qu’il y en a, puisque, n’ayant seulement que commencé d’en
+		parler, vostre croyance est si foible? Si vos yeux ne me servoyent
+		bien tost de tesmoins contre vous-mesmes, je m’efforcerois de le vous
+		tesmoigner par mes paroles; mais je me rermets à eux, et au
+		jugement qu’ils en feront, mesme que j’espere que ce sera si tost que
+		vous souvenant encores de mes paroles, vous advouerez en vostre ame
+		qu’elles sont veritables, si ce n’est que
+		vous m’accusiez de n’en avoir pas dit assez [60/61].</p>
+		<p>Alcidon lors prenant la parole: Pour l’amour de vous, Hylas, dit-il,
+		on vous advouera que vostre maistresse est belle, mais qu’elle surpasse
+		Daphnide, si les paroles me deffailloient pour soustenir le contraire,
+		j’y mettrois le sang et la vie. – Et moy, dit Hylas, d’un visage fort
+		serieux, tant qu’il ne faudra que des paroles pour soustenir ce que
+		j’ay dit, je le maintiendray contre qui que ce soit; mais soudain
+		qu’il faudra y employer du sang, je ne le quitteray pas seulement
+		à vous, mais à tous autres qui voudront soustenir le
+		contraire, car je fay profession de parler, et non pas de tuer. Chacun
+		se mit à rire et de telle sorte qu’Alcidon
+		ne peut luy respondre de long temps.</p>
+		<p>Sans doute leurs discours eussent continué plus longuement,
+		s’ils ne se fussent trouvez si prés de la maison d’Adamas,
+		qu’ils furent contraincts de se taire pour la considerer. Cependant
+		Alexis, pour advancer d’autant le contentement qu’elle se promettoit de
+		la veue d’Astrée, s’estoit accoudée sur une fenestre, qui
+		regardoit du costé de la plaine, et discouroit avec Leonide du
+		prochain contentement qu’elle attendoit. Mais lors qu’elle apperceut
+		cette belle et grande trouppe, s’asseurant qu’Astrée en estoit,
+		elle tressaillit toute, et à mesure qu’elle se venoit
+		approchant, elle alloit aussi discernant tantost une bergere, et
+		tantost un berger de sa cognoissance. Mais lorsqu’elle recogneut
+		Astrée, ô Dieu! que devint-elle! Elle demeura longuement
+		la veue sur elle sans dire mot, comme ne pouvant saouler ses yeux de
+		cest agreable object; en fin avec un grand souspir, et la monstrant du
+		doigt à Leonide: La voilà, dit-elle, la plus belle, et
+		la plus aimable bergere de l’univers, imitant presque en ce transport
+		Adraste en sa folie. Et apres s’estre teue pour quelque temps, elle se
+		recula un pas de la fenestre, et pliant le bras l’un en l’autre sur
+		l’estomac. Mais, ô Dieu, dit-elle, comment m’oseray-je presenter
+		devant ses yeux, puis qu’elle m’a commandé le contraire? – Vous
+		voicy encore, respondit Leonide, en vostre vieille erreur: n’avez-vous
+		pas assez debattu avant que venir icy, ces mesmes considerations contre
+		Adamas? Et avez-vous desja oublié les raisons que si prudemment
+		il vous a rapportées? – Ne croyez pas, repliqua Alexis, que je
+		les ay oubliées, mais je sçay bien aussi que comme que ce
+		soit, Astrée me verra et je la verray, qu’elle parlera à
+		moy, et que’je parleray à elle; et n’est-ce pas cela
+		contrevenir à ce qu’elle m’a deffendu? Va-t’en, me dit-elle (je
+		me souviendray toute ma vie de ces cruelles paroles). Va-t’en
+		déloyal, et garde-toy bien [61/62] de te faire jamais voir
+		à moy, que je ne te le commande.</p>
+		<p>La nymphe, qui vid bien que si ce discours passoit plus outre, il ne
+		pouvoit que donner beaucoup d’inquietude au berger, pour ne le
+		continuer davantage, elle luy respondit: II ne faut plus, Alexis, vous
+		remettre devant les yeux ces considerations; la pierre en est
+		jettée, il n’est plus temps de demander conseil. Si vous devez
+		voir Astrée, les choses sont en tel estat, que de
+		necessité faut passer plus outre; mais voicy bien l’heure que
+		vous devez monstrer que vous estes homme, et que vous venez de cet
+		Alcipe, de qui le courage a tant esté estimé de chacun.
+		II faut, dis-je, que changeant de visage et de façon, vous
+		receviez Astrée sans vous estonner, et qu’à son abord
+		vous ayez tant de puissance sur vous-mesme, que personne ne s’apercoive
+		de ce que vous voulez tenir caché. Car il faut que vous
+		sçachiez que les premieres impressions sont celles qui durent le
+		plus long-temps, et sur lesquelles on fait un plus seur jugement; et
+		pource resolvez-vous à vous déguiser de sorte, que ceux
+		que vostre habit abusera, ne puissent estre détrompez par vos
+		actions: – Ha! madame, dit Alexis, que ceux qui sont sains donnent
+		aisément conseil aux malades! – Ne voilà pas desja une
+		faute? reprit Leonide, pourquoy ne m’appelez vous vostre sœur, et non
+		pas madame? Puis que vous sçavez bien que, comme Adamas veut
+		que j’appelle Paris mon frere, de mesme, il m’a ordonné que je
+		vous nommasse ma sœur, et si vous faictes autrement, quel
+		soupçon ne donnerez-vous point de vous-mesme? Voyez-vous,
+		Alexis, vostre visage ressemble si fort à celuy de Celadon, que
+		si vous voulez qu’il ne soit point recogneu, il vous faut user d’un
+		grand artifice pour le déguiser. – Ma sœur, respondit Alexis,
+		puis qu’il vous plaist que je vous nomme de cette sorte, je
+		m’estudieray de n’y plus faillir, mais souvenez-vous que jamais
+		personne ne fut plus empeschée que vostre miserable scœur en
+		cette occasion, et que si personne luy ayde, je ne sçay comment
+		elle pourra tromper les yeux d’Astrée envers laquelle elle n’a
+		jamais usé de feinte ny de déguisement. – C’est aux
+		occasions, dit la nymphe, qu’il faut faire paroistre ce que nous valons
+		; efforcez-vous un peu, et faites, comme on dit, de necessité
+		vertu, et vous asseurez que l’authorité d’Adamas est si grande,
+		et sa preud’homie telle en l’opinion de chacun, que pour peu que vous
+		vous y aydiez, il n’y a pas apparence que
+		l’on entre en doute, que vous ne soyez sa fille.</p>
+		<p>Elle parloit de cette sorte, quand Adamas ayant esté adverty
+		[62/63] de la venue d’Astrée, entra dans la salle pour rasseurer
+		un peu Alexis, qui ne fut pas une petite prudence; car elle estoit
+		tant hors d’elle-mesme, qu’il estoit bien necessaire de la preparer
+		à cette rencontre, de peur qu’estant surprise, elle ne donnast
+		trop de cognoissance de ce qu’elle estoit. Et lors qu’ils estoient plus
+		avant en discours, on les vint advertir que toute cette trouppe estoit
+		desja dans la basse cour du chasteau. Alexis changea toute de couleur,
+		et les jambes luy tremblerent de sorte qu’elle fut contrainte de
+		s’asseoir. Leonide qui s’en prit garde, afin de mieux couvrir leur
+		dessein, dit à Adamas, qu’il seroit à propos de fer-mer
+		les vanteaux des fenestres, et ne laisser que fort peu de clarté
+		dans la sale, afin que l’on s’apperceust moins des changemens du visage
+		d’Alexis, et que cet artifice seroit encore à propos pour
+		empescher que la grande chaleur n’entrast si fort dans le logis. Le
+		druide qui trouva cet advis fort bon, le commanda à ceux qui
+		l’estoient venu advertir de l’arrivée des bergeres.</p>
+		<p>Mais s’ils estoient bien empeschez de leur costé, Astrée
+		ne l’estoit gueres moins du sien, à qui le cœur battoit de sorte
+		qu’elle en estoit elle-mesme toute estonnée. Ce qui la
+		contraignit, s’approchant de Phillis, de luy dire à l’oreille:
+		Je vous prie, ma sœur, trouvez quelque excuse pour nous faire un peu
+		arrester icy, car j’advoue que l’esperance que j’ay de voir en Alexis
+		le visage de Celadon, me met si fort hors de moy que je crains, si je
+		n’ay le loisir de me rasseurer un peu, de donner trop de cognoissance
+		de ce que je desire de cacher à chacun, mais particulierement
+		à ces estrangers. Phillis qui estoit advisée,
+		s’approchant de Daphnide: Madame, luy dit-elle, n’estes-vous point
+		lasse de cette aspre montée? Si vous le trouviez à
+		propos, je m’asseure que toute cette compagnie seroit bien aise de
+		reprendre un peu d’haleine avant que de monter à la sale. -
+		Quant à moy, dit-elle, je suis bien de cet avis et je n’osois le
+		proposer, de peur de vous desplaire à toutes.</p>
+		<p>Hylas qui ne pouvoit souffrir qu’on luy retardast le contentement de
+		voir sa chere Alexis: Madame, dit-il, si vous n’estiez en si bonne
+		compagnie, je n’oserois vous laisser seule, mais puis que cela est,
+		vous ne trouverez pas mauvais que j’aille dire que vous venez, car
+		j’aime mieux reprendre haleine aupres d’Alexis, et contenter mes yeux
+		des beautez que j’ay laissées dans la maison, que d’estre icy,
+		et ne contempler que les statues, qui sont dans les niches de ces
+		murailles. A ce mot, sans attendre personne, [63/64] ny mesme la
+		response de Daphnide, il monta l’escallier, au haut duquel, à
+		l’entrée de la salle, il rencontra Adamas, Leonide, et Alexis.
+		Et parce qu’ils avoient jugé tous trois que l’amour de Hylas
+		serviroit beaucoup à couvrir ce qu’ils vouloient tenir
+		caché, ils luy firent la meilleure chere qu’ils peurent, et
+		mesme le druide, apres l’avoir embrassé en sousriant, luy dit:
+		II est aisé à cognoistre que de toute cette troupe il est
+		le plus de nos amis. – Si la haste, dit Hylas, que j’ay eue de venir le
+		premier vous en a donné quelque cognoissance, le retardement que
+		je mettray à m’en aller le dernier ne vous en rendra pas moins
+		de tesmoignage. Mais je voudrois bien que ma venue fust aussi aggreable
+		à vostre compagnie comme elle a este desirée de moy. – II
+		n’en faut nullement douter, dit Leonide, n’est-il pas vray? ma sœur. -
+		J’avoue, respondit Alexis, que quant à moy j’en reçois
+		beaucoup de contentement. Hylas alors s’approchant d’elle: Vous voyez,
+		belle Alexis, dit-il assez bas, comme je ne suis guere fascheux
+		à contenter. Pourveu que de vous trois, vous seule l’ayez
+		aggreable, ce m’est assez. – Et quoy? reprit Leonide, feignant fort
+		à propos d’en estre faschée, estimez-vous, glorieux
+		berger, si peu le reste de la compagnie? Je vouis asseure que je m’en
+		vengeray, et qu’avant que la journée se passe, vous vous
+		repentirez du mespris que vous avez fait de moy. Elle profera ces
+		paroles avec un visage severe, et representant fort bien ce faint
+		mécontentement. Mais Hylas, qui de son naturel ne se soucioit de
+		femme du monde, que de celle qu’il aymoit: Je m’en repentiray, dit-il,
+		lors que la belle Alexis se repentira de ce qu’elle a dit, et avant que
+		cela soit, si vous ne voulez perdre vos peines, ne cherchez point de
+		vous venger de moy. Et lors qu’elle s’en repentira, ne prenez non plus
+		la peine de faire cette vengeance; car le desplaisir que j’en auray
+		sera si grand, que vous n’y sçauriez rien adjouster. – Mon
+		serviteur, respondit Alexis, tant que vous m’aymerez, cette vengeance
+		ne se fera donc point, car vostre bonne volonté m’est trop chere.</p>
+		<p>II vouloit respondre lors qu’Adamas l’interrompit, luy demandant qui
+		estoient les bergers et bergeres qui venoient: Je suis bien aise, mon
+		pere, luy respondit-il, que vous m’ayez fait souvenir de le vous dire;
+		car en partie, j’ay devancé cette troupe pour vous en advertir,
+		et je l’avois oublié, tant la veue d’Alexis m’empesche de penser
+		ailleurs. Sçachez donc qu’Astrée, Diane et Phillis y
+		sont, et plusieurs autres des hameaux voisins, ensemble quelques
+		estrangers, comme Florice, Circene et leur compagnie. [64/65]</p>
+		<p>Mais cela ne m’eut pas convié de vous en venir donner advis,
+		n’eust esté la rencontre que nous avons faicte en chemin de la
+		belle Daphnide et du gentil Alcidon, qui desguisez avec des habits de
+		berger, viennent en cette contrée chercher la fontaine de la
+		Vérité d’amour; car Daphnide est la plus estimée
+		dame de la province des Romains, et Alcidon le plus aymé
+		chevalier de Thierry, et du grand Euric; et par ainsi vous voyez que
+		je ne suis pas le seul estranger, qui changeant mon habit me desguise
+		de celuy de berger, pour vivre heureusement en vostre contrée.
+		Adamas luy respondit: Est-il possible que ce soit cette belle
+		Daphnide, de qui le grand Euric roy des Visigots a esté tant
+		amoureux? Et Hylas luy ayant respondu, que c’estoit celle-là
+		mesme, il continua: Encore que je ne l’aye jamais veue, je ne
+		laisseray pas de la cognoistre, parce que j’en ay un pourtraict, qu’on
+		m’a asseuré luy estre fort ressemblant, si ce n’est que l’habit
+		qu’elle porte m’en puisse peut-estre empescher. Je feray toutesfois
+		semblant de n’en rien sçavoir, pour pouvoir rendre à nos
+		bergeres l’accueil que je leur dois.</p>
+		<p>Leurs discours eussent bien continué davantage, s’ils n’eussent
+		esté interrompus par la venue de toute la troupe; car
+		Astrée, encore que ce fust elle, qui fust cause du retardement,
+		ne pouvant toutesfois se priver plus long temps de la veue de ce visage
+		tant aimé, en fit signe à Phillis, qui pour complaire
+		à sa compagne, s’addressant à Daphnide et à Paris,
+		leur dit tout haut: Hylas par son imatience nous empesche de reprendre
+		nostre haleine à nostre aise, nous contraignant de le suivre;
+		car que dira Adamas, quand il sçaura par luy que nous sommes icy
+		?- Vous avez raison dit Daphnide. Et prenant Astrée et Diane par
+		la main, elles s’acheminerent toutes de compagnie. Et parce que
+		l’escalier estoit large, elles marchoient toutes trois ensemble, et le
+		reste de la troupe venoit confusément apres.</p>
+		<p>Adamas les attendoit à l’entrée de la sale, où il
+		les receut avec le meilleur visage qui luy fut possible, et feignant de
+		ne point cognoistre Daphnide ny Alcidon, il addressa sa parole aux
+		bergers de sa cognoissance, et leur dit en sousriant. Et quoy,
+		glorieuses bergeres, vous mesprisez de sorte vos voisins, que si je ne
+		m’en fusse plaint, ma fille eust esté long temps icy sans que
+		vous eus daigné la venir voir? Astrée qui prit garde
+		qu’encores qu’il parlast à toutes, toutesfois il adressoit sa
+		parole particulierement à elle, luy respondit aussi pour toutes
+		: C’est ainsi, mon pere, que les [65/66] choses qui dependent de
+		plusieurs sont bien souvent retardées, encores qu’elles soient
+		jugées devoir estre faites promptement. – Cette excuse, dit
+		Adamas, n’est guere bonne, et me semble que chacune de vous en
+		particulier me devoit cette cognoissance d’amitié pour celle que
+		je vous porte à toutes. Lors Diane prenant la parole: Mon pere,
+		dit-elle en sousriant, vous sçavez bien que plusieurs ayment
+		mieux donner ce qu’ils ne doivent pas, que de s’acquitter de leurs
+		dettes, Mais si nous avons fait cette faute, nous n’en sommes pas
+		demeurées sans chastiment, nous privant si long-temps de la
+		chose du monde qui merite le plus d’estre veue. Et à ce mot,
+		parce que Daphnide s’estoit reculée expressément, apres
+		avoir salué Leonide, Astrée s’avança pour en faire
+		de mesme à la deguisée Alexis; mais quelle devint-elle,
+		quand elle jetta les yeux sur son visage? Et quelle devint Alexis,
+		quand elle vid venir Astrée vers elle pour la baiser? Mais en
+		fin, ô Amour! en quel estat les mis-tu toutes deux quand elles
+		se baiserent? La bergere devint rouge comme si elle eust eu du feu au
+		visage, et Alexis, transportée de contentement, se mit à
+		trembler comme si un grand accez de fievre l’eust saisie. Hylas qui
+		avoit remarqué de quel courage sà maistresse avoit
+		saluée cette bergere, en devint si jaloux, qu’il ne peut
+		souffrir qu’elle la tint plus long-temps en ses bras, et cette jalousie
+		fut cause qu’il les separa, et que Diane eut le loisir d’entrer en la
+		place d’Astrée, et apres elle Phillis, et puis le reste de la troupe.</p>
+		<p>Mais Adamas qui desiroit de couvrir le plus qu’il luy estoit possible
+		les changemens de visage, et les troubles de l’esprit de sa fille,
+		apres que les premieres salutations furent faites, et que
+		confusément toute la trouppe fut entrée dans la salle, il
+		mit Alexis au lieu le plus obscur, et lorsqu’il voulut les faire
+		asseoir, il fit semblant de prendre garde à Daphnide, et a toute
+		sa suite, et pource s’adressant à Thamire, il luy demanda fort
+		haut, qui estoient ces belles estrangeres. Hylas, luy dit-il, mon pere,
+		vous en dira plus de nouvelles que moy, s’il vous plaist de prendre la
+		peine de luy en demander, car je ne puis vous en dire autre chose,
+		sinon que les ayant rencontrées en venant icy, il nous a dit
+		qu’elles estoient principales dames de la province des Galloligures.
+		Lors Paris s’approchant d’Adamas, luy dit que c’estoit la belle
+		Daphnide, et le renommé Alcidon, si cogneus et pour la
+		beauté, et pour le merite dans la Cour du grand Euric. Le druide
+		feignant de n’en avoir rien sceu encore, fist semblant de se courroucer
+		à Paris, de [66/67] ce qu’il ne l’en avoit point adverty, et
+		lors s’addressant à elle: Madame, luy dit-il, pardonnez
+		à mon ignorance, et accusez vostre habit si je ne vous ay pas
+		rendu l’honneur qui vous est deu. – Mon pere, respondit Daphnide, quand
+		je me suis deguisée de cette sorte, ce n’a jamais esté en
+		intention d’estre recogneue en cette contrée, où je ne
+		suis pas venue pour y tenir le rang de Daphnide, mais seulement pour y
+		trouver le repos que les dieux m’y ont promis, et je crois bien que
+		sans Hylas, j’eusse peu achever mon voyage aussi incogneue que je le
+		desirois. Mais puis que sa rencontre m’en empesche, je vous supplie,
+		mon pere, que la cognoissance que vous avez de moy ne vous porte pas
+		à ces devoirs de respect, et d’honneur desquels vous parlez,
+		mais à m’ayder à trouver les salutaires remedes que les
+		dieux m’ont faict esperer de recevoir en cette contrée. Adamas
+		avec beaucoup d’honneur, et de soubmission luy respondit: qu’il
+		essayeroit de la servir en tout ce qu’il seroit capable, et que
+		toutesfois il ne pretendoit pas le dispenser pour cela de l’honneur
+		qu’il luy devoit. Et lors luy presentant une chaire, et de mesme
+		à Alcidon, et à tout le reste de la compagnie, chacun
+		ayant pris sa place, Astrée se trouva aupres d’Alexis, et
+		Leonide de l’autre costé, qui empescha qu’Hylas ne se peut
+		mettre aupres de sa nouvelle maistresse; et parce qu’il luy sembloit
+		qu’elle s’amusoit trop avec Astrée, et qu’il ne pouvoit souffrir
+		de se veoir privé si long-temps de son entretien, il l’alloit
+		interrompant, et la contraignoit bien souvent de luy respondre.</p>
+		<p>Phillis prit garde au visage d’Astrée, qu’il l’ennuyoit, et
+		qu’elle eust bien voulu en estre dechargée pour entretenir plus
+		commodément cette druide, si ressemblante à son berger
+		tant aymé, et pour descharger sa compagne d’une telle
+		importunité, elle dit à Hylas: Mon feu serviteur, encore
+		n’y a-t’il que les anciennes amitiez; ceste maistresse que vous
+		estimez si fort, est si belle, qu’elle ne faict pas grand cas de vous,
+		revenez vers moy, qui vous ayme, et qui voas estime comme vous meritez.
+		Hylas qui estoit passionnénent amoureux d’Alexis: Ma feue
+		maistresse, dit-il à.Phillis, vous ne prenez pas garde à
+		qui vous parlez, quand vous mettez en avant ces anciennes amitiez, car
+		il suffit de les nommer telles pour me les faire hayr; et pour vous
+		monstrer que ce n’est pas d’aujourd’huy que j’ay ceste opinion, oyez
+		des vers que j’ay faits il y a long temps sur ce sujet lors que venu de
+		Camargue, j’estois encore sur les rives de l’Arar, et que selon la
+		[67/68] coustume, aux Bacchanales, nous nous déguisions pour
+		dancer. Et lors s’approchant de Phillis, il dit tels vers.</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<head type="chapitre">AMOUR AUX DAMES,</head>
+		<h3>Conduisant les vents pour dancer</h3>
+		<milestone type="space"/>
+		<p>Je suis Amour, cet enfant</p>
+		<p>Qui commande à toute chose,</p>
+		<p>Et qui de tous triomphant,</p>
+		<p>De tous à mon gré dispose:</p>
+		<p>La jeunesse, les appas,</p>
+		<p>Et les ames sans malices,</p>
+		<p>Le ris, le jeu, les esbas,</p>
+		<p>Sont mes plus cheres delices.</p>
+		<milestone type="space"/>
+		<p>Enfant, j’ayme les enfans,</p>
+		<p>Chacun ayme ses semblables,</p>
+		<p>Et des vieux je me deffens,</p>
+		<p>Comme d’amour incapables:</p>
+		<p>Où sont aiguisez mes dards,</p>
+		<p>Où sont mes flammes esprises,</p>
+		<p>Qu’entre les enfans mignards,</p>
+		<p>Et leurs jeunes mignardises?</p>
+		<milestone type="space"/>
+		<p>Aussi j’ayme la beauté</p>
+		<p>Qui comme nouvelle rose,</p>
+		<p>Sous les rayons de l’Esté,</p>
+		<p>N’est encore bien esclose:</p>
+		<p>Et tiens pour un grand mal-heur</p>
+		<p>D’aymer long-temps une belle;</p>
+		<p>Car plus que la vieille fleur,</p>
+		<p>J’ayme l’espine nouvelle.</p>
+		<milestone type="space"/>
+		<p>Qui veut donc suivre l’Amour,</p>
+		<p>Ayme une tendre jeunesse,</p>
+		<p>Qu’il change de jour en jour,</p>
+		<p>Pour tousjours d’une maistresse</p>
+		<p>Ne r’alumer le tison,</p>
+		<p>Que mes loix veulent qui meure: [68/69]</p>
+		<p>Amour est vieux et grison</p>
+		<p>Quand il dure plus d’une heure.</p>
+		<milestone type="space"/>
+		<p>Mais je ne sais toutesfois</p>
+		<p>Quelle est l’erreur estrangere,</p>
+		<p>Qui meslant parmy mes loix</p>
+		<p>Sa doctrine mensongere,</p>
+		<p>Vient enseigner à l’amant</p>
+		<p>Une nouvelle science,</p>
+		<p>Que’ quelques-uns vont nommant</p>
+		<p>Du faux titre de constance.</p>
+		<milestone type="space"/>
+		<p>Elle dit qu’il faui aymer</p>
+		<p>Jusques dans la sepulture,</p>
+		<p>Et qu’on doit mesestimer</p>
+		<p>Qui cherche une untre advanture,</p>
+		<p>Vivre comme si son mieux</p>
+		<p>Chacun ne devoit pas suivre.</p>
+		<p>A quoy serviroient les yeux,</p>
+		<p>Et pourquoy faudroit-il vivre?</p>
+		<milestone type="space"/>
+		<p>Or pour deffendre les miens</p>
+		<p>D’une si grande folie,</p>
+		<p>A ceste heure je m’en viens</p>
+		<p>Des cavernes d’Eolie,</p>
+		<p>Où dans de profonds cachots,</p>
+		<p>Pres du centre de la terre,</p>
+		<p>Les vents qu’on y tient enclos,</p>
+		<p>Sans cesse se font la guerre.</p>
+		<milestone type="space"/>
+		<p>Je les ameine avec moy,</p>
+		<p>Ces vents legers, ô mes dames,</p>
+		<p>Pour vous inspirer ma loy,</p>
+		<p>Et pour chasser de vos ames,</p>
+		<p>Avec la legereté</p>
+		<p>Qu’ils ont eue en leur naissance,</p>
+		<p>Ceste opiniastreté</p>
+		<p>Que vous appellez constance. [69/70]</p>
+		<milestone type="space"/>
+		<p>Venez donc, troupeau leger,</p>
+		<p>Venez, je vous en supplie,</p>
+		<p>Dedans ces cœurs vous loger</p>
+		<p>Pour chasser ceste folie:</p>
+		<p>Faites que d’oresnavant</p>
+		<p>A bien aymer on s’appreste,</p>
+		<p>Mais qu’Amour comme le vent</p>
+		<p>Meure soudain qu’il s’arreste.</p>
+		<milestone type="space"/>
+		<p>Esloignez, esloignez-vous,</p>
+		<p>O vous ames trop austeres,</p>
+		<p>De mes autels et de nous,</p>
+		<p>Et de mes sacrez mysteres,</p>
+		<p>Non, vous ne meritez pas</p>
+		<p>D’avoir part à nostre gloire</p>
+		<p>Contentez-vous du trespas</p>
+		<p>Dont nous aurons la victoire.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Si vous voulez donc, continua Hylas, que je revienne vers vous, ne me
+		parlez plus de ces anciennes amitiez, car je tiens pour ma devise</p>
+	</div>
+	<div class="contentci">
+		<milestone type="space"/>
+		<p>Une heure aymer, c’est longuement,</p>
+		<p>C’est assez d’aymer un moment.</p>
+		<milestone type="space"/>
+	</div>
+	<div class="contentl">
+		<p>Et ne pensez que l’estime que vous dites faire de raoy me puisse
+		attirer, car on ne se soucie guere d’estre estimé des personnes
+		de qui on a quitté l’amitié et qui nous sont indifferentes.</p>
+		<p>Silvandre, prenant la parole pour Philis: La reputation, dit-il, que
+		chacun desire si fort, qu’est-ce autre chose que ceste estime que tu
+		mesprises tant? Et si elle est mesme estimable parmy les ennemis,
+		pourquoy ne le sera-t’elle, Hylas, parmy les personnes que tu as tant
+		aymées? – Je-voy bien, respondit froidement Hylas, que
+		Sùvandre n’a-pas la place qu’il desire non plus que moy, et que
+		pour décharger sa colere sur quelqu’un, il me vient faire
+		contes, dont les nourrisses endorment leurs enfants. Mais, Silvandre
+		mon amy, contre la mauvaise fortune il faut avoir bon cœur, et
+		cependant nous contenter de dire que ce siecle est fort depravé,
+		que les faveurs ne suivent jamais les merites, et que quelque jour la
+		Fortune cessera de nous persecuter. [70/71]</p>
+		<p>Hylas parloit de ceste sorte à Silvandre, parce que Leonide,
+		pour favoriser Paris, avoit mis Diane au milieu, de sorte que Silvandre
+		ne pouvant s’en approcher, avoit esté contraint de se mettre
+		entre Celidée et Florice, ce qui estant recogneu de chacun, fust
+		cause qu’ils se mirent tous à rire de cette responce, et Phillis
+		particulierement qui dit: II faut advouer, Silvandre, qu’à ce
+		coup il vous est advenu comme à celuy qui veut separer deux
+		personnes qui ont l’espée en la main, et qui se mettant au
+		milieu en demoure blessé, encore qu’il n’ayt point de querelle.
+		- Si vous n’aviez point, respondit Silvandre, esprouvé bien
+		souvent que les armes d’Hylas n’ont ny pointe, ny tranchant, je ne
+		m’es-tonnerois pas tant que je fais de ’ce que vous dites; mais,
+		bergere, l’ayant cessé tant de fois, je ne sçay comment
+		vous pouvez avoir ceste opinion. – Ne vous en estonnez, dict la
+		bergere, car il a changé d’armes, maintenant il ne combat pas
+		sous les siennes, et celles dont il vous a blessé, sont
+		empruntées d’une personne qui a accoustumé de vaincre. -
+		De ceste sorte, respondit-il, je vous advoueray une partie de ce que
+		vous dictes. – Et moy, interrompit Hylas; je diray avec plus de
+		verité, que vous ne sçauriez, ny l’un, ny l’autre, me
+		blesser, ny de vos armes, ny de quelque autre que vous puissiez
+		emprunter; car entre vos mains, pour bonnes qu’elles soient, elles
+		demeureront sans force contre moy.</p>
+		<p>- Et entre les miennes, dit Florice, qu’en diriez-vous? – Que je ne me
+		souviens plus, respondit-il, si vous en avez jamais eu. – Vous ne direz
+		pas ainsi de moy, adjousta Circene. – J’advoueray, dit-il, que quand je
+		ne vous vy qu’un peu, je vous aimay beaucoup, et quand je vous vy
+		beaucoup, je ne vous aimay que fort peu. – Sa veue, dit Palinice, a
+		faict en cela comme le scorpion qui guerit la blosseure qu’il a faicte
+		; mais je m’asseure que vous ne direz pas cela de moy. – De vous,
+		dit-il, comme s’il eust esté estonné? eh! par Hercule,
+		dictes-moy comment vous appellez-vous à fin que je
+		sçache, si vostre nom ne me blessera point mieux que vostre
+		visage? – Je voy bien, reprit Stiliane, qu’il n’y a que moy qui l’ayt
+		peu vaincre. – Le peu, respondit Hylas, que je demeuray dans vostre
+		prison, monstra assez quelle fut vostre victoire. – A la verité,
+		continua-t’elle, vous en sortistes, mais ce ne fust pas sans payer
+		vostre rançon. – Si je vous ay payée, repliqua-t’il, je
+		ne vous doy plus rien, et si vous pensiez de me pouvoir surmonter aussi
+		aisément que vous fistes, vous [71/72] vous tromperiez fort; je
+		suis bien devenu plus grand guerrier que je n’estois pas, et je vous
+		conseille de ne vous y point hazarder, car vos armes ne sont pas
+		d’assez bonne trempe pour fausser les miennes. – Croyez, Stiliane,
+		adjousta Carlis, qu’Hylas n’est que pour moy, et que’comme j’ay
+		esté la premiere qu’il a aymée, je dois estre aussi la
+		derniere. N’est-il pas vray, Hylas? – Souvenez-vous, luy dit-il,
+		Carlis, qu’il est certain que tout revient à son commencement,
+		et que tout ainsi qu’au commencement que je vous vy, je ne vous aimois
+		point, de mesme aussi la derniere fois que je vous
+		revoy, je n’ay point d’amour pour vous.</p>
+		<p>II n’y eut personne qui se pust empescher de rire, oyant les gracieuses
+		responses d’Hylas, qui continuerent fort long-temps, cependant
+		qu’Alexis et Astrée parloient ensemble. Mais encores qu’il
+		semblast qu’Alexis deust bien employer ce temps, que la fortune luy
+		concedoit, si est-ce qu’elle demeura long-temps, sans sçavoir
+		par où commencer, estant empeschée par tant de
+		considerations, que peut-estre ceste commodité se fust
+		escoulée injustement; si Astrée n’eust commencé
+		la premiere à parler. Car cette deguisée druide, voyant
+		devant elle celle qui luy avoit faict le commandement de ne se laisser
+		jamais voir à elle, craignant d’estre recogneue, ou à la
+		voix, ou à la parole, ou en quelqu’une de ses actions, estoit de
+		sorte interdite, qu’elle n’osoit ouvrir la bouche; ce qu’Astrée
+		attribuoit au peu de privauté qui estoit entr’elles, ou bien
+		qu’ayant tousjours esté nourrie parmy les vierges druides, et ne
+		sçachant guere des affaires de cette contrée, elle estoit
+		en peine dequoy luy parler. Mais la bergere estoit bien deceue, puis
+		que ce qui l’en empeschoit, c’estoit tout le contraire, et pour en
+		sçavoir trop. Et parce que ce visage qui luy representoit celuy
+		de Celadon, aussi bien à la memoire que devant les yeux, luy
+		donnoit un extreme desir de gaigner les bonnes graces d’Alexis, qui ne
+		luy estoit desja que trop acquises, elle fut la premiere à
+		rompre le silence de cette sorte: Quand je considere la beauté
+		de vostre visage, et les graces dont le Ciel vous a advantagée
+		par dessus les plus belles de nostre aage, je l’appelle presque injuste
+		d’avoir voulu priver si long-temps cette contrée de ce qu’elle a
+		jamais produit de plus rare, en vous cachant parmy les vierges druides,
+		si loing de nous. Mais quand je me remets devant les yeux, que de tout
+		ce qui est en l’univers, il n’y a rien d’assez digne pour servir la
+		grandeur de Dieu, je dis qu’il est tres-juste d’avoir fait choix de
+		vous, comme de la chose du monde la [72/73] plus parfaicte. – Pleust
+		à Dieu, dit froidement Alexis, que les perfections que la
+		civilité vous fait dire estre en moy, y fussent aussi
+		veritablement que tous ceux qui vous voyent les recognoissent en vous,
+		afin que je fusse en quelque sorte aussi digne de servir nostre grand
+		Tautates, que d’affection je dedie le reste de mes jours à son
+		Service! Je ne rougirois pas, belle bergere, de vous ouyr tenir ce
+		langage, qui me reproche plustost ce qui me deffaut, qu’il me
+		represente ce que je suis. – Je serois marrie reprit Astrée, que
+		vous eussiez si mauvaise opinion de moy, qu de croire que je ne
+		sçache recognoistre en quelque sorte les perfections qui sont en
+		vous; car encore que le Ciel m’ait faict naistre bergere, et ne m’ait
+		donné guere plus d’esprit qu’il en faut pour vivre parmy les
+		bois, si est-ce que, comme la clarté du Soleil es veue par tous
+		les yeux ausquels elle esclaire, quoy que plus ou moins, selon qu’ils
+		en sont capables, de mesme m’est-il permis de voir vos perfections et
+		en recognoistre assez pour les admirer, quoi que j’advoue que plusieurs
+		autres à qui Tautates aura donné plus de jugement les
+		remarqueront mieux, mais ne les sçauroient estimer d’avantage
+		que je fais. – Je ne contrediray jamais, repliqua Alexis, à un
+		si favorable jugement; mais je prieray seulemen Dieu que quand vous
+		m’aurez mieux cogneue, vous ne le revoquiez point; car encores que mon
+		dessein, ny ma profession ne me doive pas laisser en ce lieu fort
+		longuement, si est-ce qu ce nie sera tousjours un extréme
+		contentement d’estre aux bonne graces de toutes celles qui vous
+		ressemblent, et particulieremer de vous, de qui j’ay desiré il y
+		a long-temps la cognoissance, et vous asseure que ce desir me fit
+		laisser mes compagnes avec moins de desplaisir, quand je sceus que je
+		verrois Astrée. – Madame, respondit la bergere, cette faveur en
+		toute façon es extréme; car si vous en avez eu la
+		volonté, si esloignée de nous, ce bon-heur ne peut estre
+		mesuré, et si c’est seulement pour nous obliger que vous le
+		dites, ne sommes-nous pas bien-heureus que cette pensée ait
+		esté en vous? Mais je diray bien avec verité que la
+		nouvelle de vostre venue remplit toute cette contrée, et de
+		tristesse et de joye: de tristesse, oyant dire vostre maladie et de
+		joye, nous asseurant de recevoir cest honneur de vous veoir. – Et
+		toutesfois, dit Alexis, belle bergere, vous avez tant retardé de
+		venir icy, que si autre que vous me le disoit, je ne le croyrois pas.
+		Mais pour changer de discours, dites-moy, je vous supplie à quoi
+		passez-vous ordinairement le temps? car on m’a faict [73/74] entendre
+		que la plus heureuse vie du monde, est celle des bergers et bergeres de
+		Forests. – Elle est, dit Astrée, veritablement heureuse pour
+		ceux qui n’ont point esté plus aymez de la fortune, car vous
+		sçavez, Madame, que ceux qui ont esté heureux, quand ils
+		perdent une partie du bien qu’ils ont possedé, ressentent plus
+		de desplaisir, que s’ils avoient esté tousjours mal-heureux. -
+		II est vray, dit Alexis, mais en vostre vie champestre et
+		retirée, je ne croy pas que vous soyez gueres subjetes à
+		ces coups de fortune. – Nous ne le sommes pas tant, dit Astrée,
+		que celles qui vivent dans les Cours, et dans le maniment du monde;
+		mais tout ainsi que les lacs, encor qu’ils soient moins spacieux que la
+		mer, ne laissent d’avoir leurs orages, et leurs tempestes, de mesme
+		est-il de nous, car nous avons aussi nos infortunes et nos mal-heurs.
+		Et je sçaurois bien qu’en dire, ayant depuis peu perdu presque
+		en mesme jour, et mon pere et m’a mere, perte qui m’a de sorte
+		affligée que je ns pense pas de long-temps m’en pouvoir
+		remettre. – Et y a-t-il long-temps, respondit Alexis, car il me semble
+		d’en avoir ouy parler? – II y a environ quatre ou cinq lunes, dict la
+		bergere, jour qui me sera à jamais deplorable. Et à ce
+		mot, elle fit un grand souspir. – II est bien ennuyeux, dit Alexis, de
+		perdre ceux à qui on est obligé de porter tant
+		d’affection; si n’y a-t-il rien de si naturel que de voir mourir le
+		pere avant les enfans. Encor vous doit-ce estre une grande consolation
+		qu’ils vous ayent laissée en aage de vous sçavoir
+		conduire. – Une des choses, dit Astrée, qui m’a aussi vivement
+		touchée, en leur mort, c’est que presque j’en suis la cause. – II
+		est certain, dit Alexis, que vous me remettez en memoire d’en avoir ouy
+		dire quelque chose, et me semble qu’on me raconta qu’ils s’estoient
+		noyez en voulant vous retirer d’une riviere où vous estiez
+		tombée. – Pardonnez-moy, madame, dit Astrée. II est vray
+		que je tombay dans la malheureuse et diffamée riviere de Lignon,
+		voulant ayder un berger qui s’y noya. Et parce que les mauvaises
+		nouvelles sont incontinent portées, ma mere Hyppolite le sceut,
+		et comme on augmente tousjours au conte, on luy dit, que je m’y estois
+		noyée: elle fut surprinse d’une si grande frayeur, que jamais
+		depuis elle ne se peut remettre, et mourut incontinent apres, et mon
+		pere du regret de sa perte la suivit bien-tost, et ainsi je fus
+		privée en mesme temps, et de pere et de mere.</p>
+		<p>Astrée ne peut raconter ces choses sans estre fort esmeue, et
+		Alexis de mesme, mais feignant que c’estoit pour la compas- [74/75]
+		sion, elle luy dit: Et qui estoit le pauvre berger qui se noya? – Je
+		ne croy pas, dit froidement Astrée, que son nom soit cogneu de
+		vous: il se nommoit Celadon, et estoit frere de Lycidas, que vous
+		voyez icy. – Est-ce, continua Alexis, Celadon fils d’Alcippe et
+		d’Amarillis? – C’est celuy-là mesme, dit Astrée. – Je
+		cognois son nom, respondit Alexis, et je me souviens d’en avoir ouy
+		fort souvent parler; Ce fut à la verité un mal-heureux
+		accident. – Je vous asseure, madame, reprit Astrée, que depuis
+		ce temps-là, il semble que toute sorte de plaisir se soit banny
+		de nostre rivage, car autrefois on ne voyait que jeux et resjouyssances
+		parmy nous. A cette heure chacun est saisi d’un tel assoupissement,
+		qu’on ne jugeroit jamais que nous fussions celles que nous soulions
+		estre. Et quant à mon particulier, j’en ay bien eu du sujet,
+		ayant perdu un pere et une mere, qui me tenoient si chere, que
+		maintenant me voyant traiter autrement par mon oncle, entre les mains
+		de qui je suis tombée, je le ressens doublement. Mais madame, je
+		vous entretiens d’ennuyeux discours, pardonnez-moy, s’il vous plaist. -
+		Tant s’en faut, repliqua Alexis, que vous m’obligez infiniment, et me
+		faites un extréme plaisir de me raconter ces particularitez qui
+		vous touchent; car outre que vostre merite, et vostre, vertu obligent
+		chacun à vous estimer, il faut que vous croyez que
+		particulierement je desire que vous m’aymiez, et pource continuez, si
+		vous me voulez faire plaisir. – Madame, dit Astrée, si Dieu m’a
+		fait cette grace de vous donner cette bonne volonté à mon
+		avantage, je la reçois pour tres-grande, et vous jureray, si
+		toutesfois vous me le permettez, et que vous ne pensiez que ce soit
+		outrecuidance, que des le moment que j’ay eu l’honneur de vous voir, il
+		y a eu quelque chose qui m’a tellement donnée à vous, que
+		rien ne m’en retirera que la mort.</p>
+		<p>Alexis vouloit respondre, et peut-estre fussent-elles entrées
+		bien avant en discours, si la jalousie de Hylas ne les en eust
+		empeschées; mais, tout effrontément, ne pouvant plus
+		supporter cette longue conference entre ces deux amans, il se vint
+		mettre à genoux devant Alexis, et luy prenant une main, la luy
+		baisa avant qu’elle s’en fut pris garde, tant elle estoit attentive
+		à son discours. S’en estant en fin apperceue, elle retira sa
+		main, et luy dit: Et quoy, mon serviteur, ces belles bergeres de
+		Lignon, ont-elles accoustumé de vous permettre ces familiaritez
+		? Les vierges druides, d’où je viens, trouveroient cela fort
+		estrange. – Ma maistresse, dit Hylas, tout ainsi que je ne me conduits
+		pas selon [75/76] les incivilitez de ces bergeres dont vous parlez,
+		aussi ne devez-vous suivre les austeritez de ces druides, autrement ny
+		vous, ny moy n’en recevrons pas beaucoup de contentement. – Je ne
+		sçay, dit Alexis, ce que vous voulez dire, si sçay bien
+		qu’il vous faudra avoir de fortes raisons, pour m’empescher de suivre
+		les exemples des sainctes vierges, parmy lesquelles j’ay esté si
+		longuement nourrie. – Je croy bien, dit froidement Hylas, ce que vous
+		dites, mais vous devez aussi penser qu’il ne vous faut pas de moindres
+		persuasions pour me faire changer de naturel. – Je serois bien marrie,
+		respondit Alexis, de vous contraindre d’en changer, car je vous veux
+		bien tel que vous estes; mais per-mettez que la loy soit esgale entre
+		nous, c’est le moins que, comme à vostre mistresse, vous me
+		deviez accorder. – II est vray, dit Hylas, mais comment l’entendez-vous
+		? – Je l’entends, continua Alexis, que comme je vous veux bien tel que
+		vous estes, que vous me vueillez bien aussi telle que je suis, et
+		qu’ainsi, sans que vous changiez ny moy d’humeur ny vous de
+		complexions, nous nous entre-aymions tousjours comme nous avons
+		commencé. – Je veux bien, dit Hylas, une partie de ce que vous
+		dites, mais l’autre n’est pas selon mon Intention; et je crains que
+		vous n’ayez trop appris parmy ces clergesses es Carnutes.</p>
+		<p>Chacun se mit à rire du discours de Hylas.</p>
+		<p>Et cependant Adamas entretenoit Daphnide et Alcidon de cette sorte:
+		Madame, luy disoit-il, je ne doute point que ce ne soit pour un bon
+		sujet que vous soyés venue en cette contrée, car
+		autrement vous n’eussiez pas pris une si grande peine, vous qui estes
+		nourrie et eslevée dans les douceurs et delicatesses de la Cour,
+		et qui luy avez si longuement servy de lustre et de loy. Et je n’aurois
+		garde de vous en demander la cause, si ce n’estoit ce que vous m’en
+		avez desja dit, car cognoissant par là que vous attendez quelque
+		service de moy, le desir que j’ay de vous en faire, me rendra plus
+		hardy à vous supplier de me le dire, à fin que je vous y
+		serve, et selon vostre merite et selon mon devoir. – Mon pere,
+		respondit Daphnide, et l’asseurance que j’ay en vostre preud’hommie, et
+		la necessité que j’ay de vostre assistance, me feront tousjours
+		remettre entre vos mains, et ce secret, et un plus grand encores, si
+		j’en pouvois avoir. Et je dis, si j’en pouvois avoir, car je ne croy
+		pas que jamais il s’en presente un qui soit plus important pour moy que
+		celuy-cy. – J’estimeray, dit [76/77] le druide, ma condition plus
+		heureuse, lors que j’auray plus de moyen de m’employer pour vostre
+		service. Et pour vous faire paroistre combien j’ay fait estime de
+		vostre merite avant que d’avoir eu l’honneur de vous voir, si vous
+		voulez prendre la peine de voir une galerie qui est en cette maison,
+		vous trouverez que vostre pourtraict y est au rang qu’il merite. – Je
+		n’eusse jamais creu, dict Daphnide, que chose si peu digne d’estre ny
+		veue, ny conservée, eust esté si soigneusement
+		recherchée par le grand Adamas. Toutesfois, puis que cela est,
+		je veux croire que les dieux qui sont bons, vous ont donné cette
+		curiosité, afin de m’ayder en cette occasion, dont tout mon
+		repos, et contentement peut proceder. Et pour vous dire ce que c’est,
+		je le feray avant que de partir d’aupres de vous, aussi a-ce
+		esté la principale occasion qui m’a conduite icy. Cependant, mon
+		pere, dites-moy, je vous supplie, en quel lieu de cette contrée
+		est la fontaine de la Verité d’Amour, et par quel moyen
+		pourray-je y aller? – II est fort aisé, dit le druide, de vous
+		dire en quel lieu est cette fontaine, car elle n’est pas loing d’icy.
+		Mais je croy impossible maintenant que vous y puissiez aller, pour les
+		dangereux enchantements qui y ont esté faits, à cause de
+		Clidaman, et de Guyemants, il y a quelques lunes, par lesquels certains
+		lyons, et quelques autres animaux sauvages y ont esté mis pour
+		la garder, lesquels ont tant de force et d’agilité, qu’il n’y a
+		point d’apparence que par force on y puisse rien faire. – S’il ne faut,
+		dit Alcidon, que mettre la vie pour le Service de madame, elle aura
+		bien tost le contentement qu’elle desire. – Je croy bien, dit
+		froidement le druide, que si la valeur et le courage pouvoient quelque
+		chose contre les enchantemens, la belle Daphnide auroit ce qu’elle
+		desire, par le vaillant et courageux Alcidon. Mais il faut que vous
+		sçachiez que toute la force de tous les hommes ensemble ne
+		sçauroient rompre le moindre sort qui se fasse; d’autant que
+		les esprits qui sont d’un genre superieur aux hommes, sont tellement
+		puissants, qu’un seul pourroit par sa propre puissance ruiner tout
+		l’univers, si le grand Tautates pour la conservation des hommes ne les
+		en empeschoit. Or ces esprits, par les conventions qu’ils font avec ces
+		hommes qui se nomment magiciens (quoy que ce nom soit trop honnorable
+		pour eux), s’obligent si estroitement à executer ce qu’ils
+		promettent, qu’il n’y a force humaine qui les en puisse empescher; de
+		sorte que pour en veoir la fin, ou il faut recourre aux vœux et aux
+		supplications, afin que Hesus, le Dieu [77/78] fort, flechy par nos
+		sacrifices, les rompe, ou bien il faut attendre que le temps prefix et
+		les conditions ordonnées par ceux qui ont fait l’enchantement
+		aviennent. – Et quelles sont les conditions? dit Alcidon. – Elles
+		sont, adjousta Adamas, veritablement estranges: car l’enchantement ne
+		peut finir qu’avec le sang, et la mort du plus fidelle amant, et de la
+		plus fidelle amante, qui fust onques en cette contrée. -
+		Voilà, dit Daphnide, un estrange sort, et qui ne peut estre que
+		mal-heureux. – Pourveu, reprit Alcidon, que l’amante se peust trouver,
+		je fournirois bien de ce fidelle amant. – Ouy, respondit Daphnide en
+		sousriant, pourveu qu’aymer en divers lieux fust fidelité. -
+		Puissiez-vous seulement, repliqua-t’il, produire aussi bien les
+		tesmoignages de la vostre, qu’Alcidon iroit librement mettre sa vie en
+		ce hazard. – Je vous asseure, dit Daphnide, que je ne suis point si
+		desesperée, que de me vouloir faire mourir pour finir cet
+		enchantement, et s’il ne doit jamais prendre fin que par ce moyen, ce
+		ne sera pas moy qui esprouveray l’advanture. – Si est-ce, madame,
+		adjousta Alcidon, qu’il semble que les dieux ayent cette
+		volonté, puis qu’ils nous ont commandé d’y venir. -
+		J’obeiray, dit Daphnide, tant qu’il me sera possible, à la
+		volonte des dieux, mais pour me faire faire cette preuve, il faudra
+		bien qu’ils me le commandent plus clairement et plus absolument. -
+		Voilà que c’est, repliqua Alcidon, que d’une foible
+		amitié. – J’advoue, dit-elle, que si cela tesmoigne la foiblesse
+		de la mienne, vous aurez tousjours plus d’occasion de la croire telle;
+		car je ne sçaurois me resoudre à estre sacrifiée
+		pour le public. Outre, que n’y ayant rien que j’ayme maintenant,
+		pourquoy serois-je tant hors de moy, que de me vouloir priver de vie
+		pour quelqu’un, puis qu’encor que j’aymasse plus que je ne
+		sçaurois dire, je ne le voudrois pas faire? Et que j’estimerois
+		celuy hors du sens qui seroit de contraire opinion, n’y ayant pas
+		grande apparence que celuy qui aime bien, vueille se priver de la veue,
+		de la presence, voire de la jouysance de ce qu’il
+		aime, pour mettre fin à un enchantement.</p>
+		<p>Mais, mon pere, dit-elle, se tournant vers Adamas, je vois bien
+		qu’Alcidon me contraint de vous descouvrir le subject qui nous ameine
+		icy. S’il vous plaist, nous nous retirerons à part; je le feray
+		tres-volontiers, à condition que vous nous donnerez le conseil
+		que vous jugerez le meilleur. – Madame, dit le druide, je voudrois vous
+		pouvoir aussi bien conseiller, que d’affection je m’offre à vous
+		rendre toute sorte de Service. Et s’il vous plaist, [78/79] nous
+		laisserons icy toute cette bonne compagnie, et vous prendrez la peine
+		de venir en une galerie qui est prés d’icy, où vous ne
+		serez accompagnée que de ceux que vous y appellerez.</p>
+		<p>A ce mot se levant, Adamas s’addressant à Leonide, à
+		Paris et à Alexis, leur commanda de demeurer avec ces belles
+		bergeres et gentils bergers, cependant qu’il conduiroit Daphnide dans
+		la galerie. Et vous, Hylas, dit-il, mettant une main sur l’espaule, je
+		vous supplie d’entretenir ceste bonne compagnie, et comme l’un de nos
+		meilleurs amis, faire l’honneur de ma maison. – Encores, dit froidement
+		Hylas, que j’aye plus accoustumé de faire le deshonneur que
+		l’honneur des maisons où je me trouve, si est-ce que pour vous
+		obeir, je le feray; pourveu que ma maistresse me promette de faire ce que je luy diray.</p>
+		<p>Chacun sousrit de ceste responce d’Hylas, et Alexis mesme qui, mettant
+		la main sur les yeux comme si elle eust eu honte, luy dit d’une fort
+		bonne grace: Vous voudriez peut-estre, mon serviteur, vendre vos
+		paroles trop cherement. – Non, non, dit incontinent Hylas, je ne veux
+		que parole pour parole. – Si cela est, dit Alexis, et qu’Adamas me le
+		permette, je le veux bien. – Priez donc ma belle maistresse, dit-il,
+		toute cette trouppe, et Hylas avant tous les autres, de vous tenir
+		compagnie pour tout aujourd’huy, et un peu plus longtemps encores si
+		vous le voulez; car il n’y auroit pas apparence
+		que tant de bons amis se separassent si tost.</p>
+		<p>Adamas qui fut fort aise de ceste requeste, prenant la parole avant
+		qu’Alexis pût respondre: Je vous asseure, Hylas, dit-il, que je
+		vous en prie tous de bon cœur, et que celuy qui ne m’accordera ceste
+		demande, me desobligera grandement. – Et moy, respondit incontinent
+		Hylas, je vous dis pour tous, que nous vous obeyrons, et d’aussi bon
+		cœur que vous nous en priez, et de plus, qu’encores que tous les autres
+		s’en voulussent aller, j’y demeurerois plustost seul, pour vous rendre
+		preuve de la puissance que vous avez sur moy. – Je vous asseure, Hylas,
+		interrompit Daphnide, que vous avez merveilleusement bien
+		profité en ceste contrée, et que vous y avez de sorte
+		appris la civilité, que quand vous serez en Camargue vous en
+		pourrez tenir escole. – Madame, dit Hylas, si tous mes escoliers
+		devoient estre semblables à ma maistresse, je ne dis pas que je
+		n’en prisse la peine; mais autrement, croyez que je ne voudrois pas
+		leur enseigner ce que j’en sçay si ce n’est qu’il y en eust
+		quelqu’une comme vous. – Vous [79/80] m’obligez de me mettre à
+		l’esgal de cette belle dame, dit-elle, monstrant Alexis. -
+		Pardonnez-moy, madame, reprit incontinent Hylas, je n’ay jamais
+		pensé à faire cette faute; aussi faudroit-il bien un
+		plus sain jugement que le mien, qui est desja tellement prevenu par
+		l’affection que je porte à celle que vous dites, que je ne puis
+		ny voir, ny juger chose quelconque, qui ne soit à son advantage.
+		Daphnide eust respondu elle eust ouy ces paroles,
+		mais elle s’estoit desja fort esloignée, sans s’amuser à
+		luy, et avoit emmené avec elle Alcidon, Stiliane, Carliset Hermante.
+		Le reste demeura dans la sale, où la collation leur fut
+		apportée, attendant l’heure du soupper.</p>
+	</div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>
