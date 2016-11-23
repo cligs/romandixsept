@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="https://raw.githubusercontent.com/TEIC/TEI-Simple/master/teisimple.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -9,23 +9,19 @@
         <title type="partie">01</title>
         <title type="livre">01</title>
         <author>Honoré d'Urfé</author>
-        <respStmt>
-          <resp>Establishment of the text</resp>
-          <name xml:id="hv">Hugues Vaganay</name>
-          <resp>Digitization</resp>
-          <name xml:id="rk">Reinhard Krüger et al.</name>
-          <resp>TEI-Conversion</resp>
-          <name xml:id="cf">Christof Schöch</name>
-        </respStmt>
+        <principal> <name>Christof Schöch</name> </principal>
       </titleStmt>
       <publicationStmt>
-        <availability status="publicdomain" />
+        <publisher>CLiGS</publisher>
+        <availability status="free">
+          <p>Text is in the public domain.</p>
+        </availability>
         <date>2016</date>
       </publicationStmt>
       <sourceDesc>
         <bibl type="digital-source">
           Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010.
-          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/" />
+          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>
           .
         </bibl>
         <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
@@ -38,16 +34,15 @@
   <text>
     <front>
       <div>
-        <p />
+        <p></p>
       </div>
     </front>
     <body>
       <div>
-        <head type="partie">LA PREMIERE PARTIE DE L’ASTRÉE</head>
-        <head type="partie">DE MESSIRE HONORÉ D’URFÉ</head>
-        <head type="chapitre">LIVRE PREMIER</head>
-        <milestone type="space" />
-        <p>
+        <head type="partie">LA PREMIERE PARTIE DE L’ASTRÉE DE MESSIRE HONORÉ D’URFÉ</head>
+        <head type="livre">LIVRE PREMIER</head>
+        <div type="text">
+          <p>
           Aupres de l’ancienne ville de Lyon, du coste du
           soleil’couchant, il y a
           un pays nomme Forests, qui en sa petitesse contient ce qui est de plus
@@ -66,7 +61,7 @@
           où Loire le recevant, et luy faisant perdre son nom propre,
           l’emporte pour tribut à l’Océan.
         </p>
-        <p>
+          <p>
           Or sur les bords de ces delectables rivieres on a veu de tout temps
           quantité de bergers, qui pour la bonté de l’air, la
           fertilité du rivage et leur douceur naturelle, vivent avec
@@ -75,9 +70,9 @@
           leur eust aussi bien permis de conserver leur felicité, que le
           Ciel leur en avoit esté veritablement prodigue. Mais endormis en
           leur repos ils se sousmirent à ce flatteur, qui tost apres
-          changea son authorité en tyrannie. [9/10]
-        </p>
-        <p>
+          changea son authorité en tyrannie.
+          <pb n="9/10"></pb> </p>
+          <p>
           Celadon fut un de ceux qui plus vivement la ressentirent, tellement
           espris des perfections d’Astrée, que la haine de leurs parents
           ne peut l’empescher de se perdre entierement en elle. Il est vray que
@@ -104,7 +99,7 @@
           deceut Astrée, et qu’elle paya despuis
           avec tant d’ennuis, de regrets et de larmes.
         </p>
-        <p>
+          <p>
           De fortune, ce jour l’amoureux berger s’estant leve fort matin pour
           entretenir ses pensées, laissant paistre l’herbe moins
           foulée à ses troupeaux, s’alla asseoir sur le bord de la
@@ -121,7 +116,10 @@
           guirlande, parce que la bergere atteinte de trop de desplaisir, ne s’estoit donne
           le loisir de l’agencer comme de coustume. Elle venoit apres assez
           lentement, et comme on pouvoit juger à ses façons,
-          [10/11] elle avoit quelque chose en l’ame qui l’affligeoit beaucoup, et la ravissoit
+          <pb
+            n="10/11"
+            ></pb>
+          elle avoit quelque chose en l’ame qui l’affligeoit beaucoup, et la ravissoit
           tellement en ses pensées, que fust par megarde ou autrement,
           passant assez pres du berger, elle ne tourna pas seulement les yeux
           vers le lieu où il estoit, et s’alla asseoir assez loing de
@@ -139,7 +137,7 @@
           malaise à supporter, je croy que la fortune, pour luy oster
           toute sorte de resistance, le voulut ainsi assaillir inopinement.
         </p>
-        <p>
+          <p>
           Ignorant donc son prochain mal-heur, apres avoir choisi pour ses brebis
           le lieu plus commode pres de celles de sa bergere, il luy vint donner
           le bon-jour, plein de contentement de l’avoir rencontrée,
@@ -162,7 +160,9 @@
           triste, qu’il ne laissa aucune sorte de joye en son ame, si la doute
           où il estoit y en avoit oublié quelqu’une. Ils estoient
           si proches de Lignon, que le berger y pouvoit aisement atteindre du
-          bout de sa houlette, et le dégel avoit si fort grossi [11/12]
+          bout de sa houlette, et le dégel avoit si fort grossi
+          <pb
+            n="11/12"></pb>
           son cours, que tout glorieux et chargé des despouilles de ses bords, il
           descendoit impetueusement dans Loire. Le lieu où ils assoient
           assis, estoit un tertre un peu relevé, contre lequel la fureur
@@ -173,7 +173,7 @@
           assaillir, qui flottants comme l’onde, n’estoient point si tost
           arrivez, qu’ils en estoient chassez par d’autres plus violents.
         </p>
-        <p>
+          <p>
           Il n’y avoit une seule action de sa vie, ny une seule de ses
           pensées, qu’il ne r’appelast en son ame, pour entrer en conte
           avec elles, et sçavoir en quoy il avoit offensé; mais
@@ -195,7 +195,7 @@
           moy, qui ne recognois que trop, à mes despens, les effects de
           tes infidelitez et trahisons.
         </p>
-        <p>
+          <p>
           Quel devint alors ce fidelle berger? celuy qui a bien aime le peut
           juger, si jamais tel reproche luy a este faict injustement. Il tombe
           à ses genoux pasle et transi, plus que n’est pas une personne
@@ -207,13 +207,16 @@
           deux, dit-elle, que non point un jour, mais tous les jours que je t’ay
           veu, eussent este ostez de la tienne et de la mienne. Il est vray que
           tes actions ont fait, que je me treuve deschargée d’une chose,
-          qui [12/13] ayant effect, m’eust despleu d’avantage que ton
+          qui
+          <pb n="12/13"
+            ></pb>
+          ayant effect, m’eust despleu d’avantage que ton
           infidelité. Que si le ressouvenir de ce qui s’est passé
           entre nous, [que je desire toutesfois estre effacé] m’a encor
           laissé quelque pouvoir, va t’en desloyal, et garde toy bien de
           te faire jamais voir à moy que je ne te le commande.
         </p>
-        <p>
+          <p>
           Celadon voulut repliquer, mais Amour qui oyt si clairement, à ce
           coup luy boucha pour son malheur les aureilles; et parce qu’elle s’en
           vouloit aller, il fut contraint de la retenir par sa robbe luy disant:
@@ -243,16 +246,16 @@
           fini ces mots, que tournant les yeux du coste d’Astrée, il se
           jetta les bras croisez dans la riviere.
         </p>
-        <p>
+          <p>
           En ce lieu Lignon estoit tres-profond et tres-impetueux, car c’estoit
           un amas de l’eau, et un regorgement que le rocher luy faisoit faire
           contre mont; si bien que le berger demeura longuement avant que d’aller
           à fonds, et plus encore à revenir, et lors qu’il parut,
           ce fut un genouil premier, et puis un bras, et soudain
           enveloppé du tournoyement de l’onde il fut emporte bien loing de
-          là dessous l’eau. [13/14]
-        </p>
-        <p>
+          là dessous l’eau.
+          <pb n="13/14"></pb> </p>
+          <p>
           Des-ja Astrée estoit accourue sur le bord, et voyant ce qu’elle
           avoit tant aimé, et qu’elle ne pouvoit encore hayr, estre
           à son occasion si pres de la mort, se trouva si surprise de
@@ -272,7 +275,7 @@
           de l’autre costé de la riviere, entre quelques petits arbres,
           mais avec fort peu de signe de vie.
         </p>
-        <p>
+          <p>
           Aussi tost que Phillis [qui pour lors n’estoit point chez elle ] sceut
           l’accident arrivé à sa compagne elle se mit
           à courir de toute sa force; et n’eust este que Lycidas la
@@ -288,7 +291,7 @@
           Astrée, Lycidas n’eut pas moins d’inclination à servir Phillis, ny
           Phillis à aimer Lycidas.
         </p>
-        <p>
+          <p>
           De fortune, au mesme temps qu’ils arriverent, Astrée ouvrit les
           yeux, et certes bien changez de ce qu’ils souloyent estre, quand Amour
           victorieux s’y monstroit triomphant de tout re qui les voyoit et qu’ils
@@ -299,7 +302,9 @@
           brusloient et d’amour et de pitié tous ceux qui estoient
           à l’entour d’elle. Quand elle apperceut sa compagne Phillis, ce fut bien
           lors qu’elle receut un grand eslancement, et plus encor quand elle vit
-          Lycidas; et quoy qu’elle ne voulut que ceux qui estoient pres [14/15]
+          Lycidas; et quoy qu’elle ne voulut que ceux qui estoient pres
+          <pb n="14/15"
+            ></pb>
           d’elle recogneussent le principal sujet de son mal, si fut-elle
           contrainte de luy dire, que son frere s’estoit noyé en luy
           voulant aider. Ce berger à ces nouvelles fut si estonné, que sans
@@ -319,7 +324,7 @@
           de son esvanouissement, Celadon comme j’ay dit, pousse de l’eau, donna
           de l’autre costé entre quelques arbres, où difficilement pouvoit-il estre veu.
         </p>
-        <p>
+          <p>
           Et lors qu’il estoit entre la mort et la vie, il arriva sur le mesme
           lieu trois belles Nymphes, dont les cheveux espars alloient ondoyans
           sur les espaules, couverts d’une guirlande de diverses perles: elles
@@ -342,9 +347,10 @@
           nous y venons chercher. La troisiesme qui n’avoit point encore
           parlé: Si a-t’il bien, dit-elle, quelque apparence en ce qu’il
           vous a dit, puis qu’il vous a si bien representé ce lieu que je
-          ne croy point qu’il y ait icy un arbre que vous n’ayez veu dans le miroir. [15/16]
-        </p>
-        <p>
+          ne croy point qu’il y ait icy un arbre que vous n’ayez veu dans le miroir.
+          <pb
+            n="15/16"></pb> </p>
+          <p>
           Avec semblables mots, elles approcherent si pres de Celadon, que
           quelques fueilles seulement le leur cachoyent. Et parce qu’ayant
           remarqué toute chose particulierement, elles recogneurent que
@@ -370,7 +376,7 @@
           reins estoit tellement avance, qu’il sembloit rompu, et cela faisoit
           paroistre le ventre enflé plus, quoy que remply de tant d’eau il le fust assez de luy-mesme.
         </p>
-        <p>
+          <p>
           Ces nymphes le voyant en cest estat en eurent pitié, et Leonide
           qui avoit parlé la premiere, comme plus pitoyable et plus
           officieuse, fut la premiere qui le prit sous le corps pour le tirer
@@ -386,11 +392,14 @@
           semble que je le recognois. Et lors se baissant elle le prit de
           l’autre costé, et le regardant de plus pres: Pour certain, dit
           elle, je ne me trompe pas, c’est celuy que je veux dire, et certes il
-          merite bien que vous le secouriez; car outre qu’il est [16/17] d’une
+          merite bien que vous le secouriez; car outre qu’il est
+          <pb
+            n="16/17"></pb>
+          d’une
           des principales familles de ceste contrée, encor a-t’il tant de
           merites que la peine y sera bien employée.
         </p>
-        <p>
+          <p>
           Cependant l’eau sortoit en telle abondance, que le berger estant fort
           allegé, commença à respirer, non toutesfois qu’il
           ouvrit les    yeux, ny qu’il revint entierement. Et parce que Galathée eut
@@ -403,7 +412,7 @@
           pour n’estre veues avec ceste proye par les gardes du palais, elles
           allerent descendre à une porte secrette.
         </p>
-        <p>
+          <p>
           Au mesme temps, qu’elles furent parties, Astrée revenant de son
           esvanouissement tomba dans l’eau, comme nous avons dit, si bien que
           Lycidas, ny ceux qui vinrent chercher Celadon, n’en eurent autres
@@ -430,9 +439,10 @@
           vous voir ressentir d’avantage son malheur; mais puis que vous ne
           pouvez ignorer qu’il ne vous ait aymée plus que luy-mesme, c’est
           chose cruelle, Astrée, croyez-moy, de vous voir aussi peu
-          esmeue, que si vous ne le cognoissiez point. [17/18]
-        </p>
-        <p>
+          esmeue, que si vous ne le cognoissiez point.
+          <pb
+            n="17/18"></pb> </p>
+          <p>
           La bergere tourna alors le regard tristement vers luy, et apres l’avoir
           quelque temps consideré, elle luy respondit: Berger, il me
           deplaist de la mort de vostre frere, non pour amitié qu’il m’ait
@@ -456,7 +466,7 @@
           et si fay, je le sçay, qu’il eust plustost desobey aux grands Dieux
           qu’à la moindre de vos volontez.
         </p>
-        <p>
+          <p>
           Alors la bergere en colere luy respondit: Laissons ce discours,
           Lycidas, et croyez moy, qu’il n’est point à l’avantage de vostre
           frere; mais s’il m’a trompée, et laissée avec ce
@@ -474,9 +484,11 @@
           temps, n’eust este que sa honte me desplaisoit, et que pour dire le
           vray, j’avois d’autres affaires ailleurs, qui me pressoient d’avantage.
         </p>
-        <p>
+          <p>
           Lycidas alors comme transporte s’ecria: Je ne demande plus la cause de
-          la mort de mon frere, c’est vostre jalousie, Astrée, et [18/19]
+          la mort de mon frere, c’est vostre jalousie, Astrée, et
+          <pb n="18/19"
+            ></pb>
           jalousie fondée sur beaucoup de raisons, pour estre cause d’un
           si grand mal-heur. Helas! Celadon, que je voy bien reussir
           à ceste heure vrayes les propheties de tes soupçons, quand tu
@@ -511,7 +523,7 @@
           lieu, où il estoit force de feindre, il falloit qu’il se mit sur
           un lict, comme revenant de faire un tres grand effort.
         </p>
-        <p>
+          <p>
           Et lors, il s’arresta pour quelque temps, et puis il reprit ainsi. Or
           sus, Astrée, mon frere est mort. C’en est fait, quoy que vous en
           croyez, ou mecroyez, ne luy pent r’apporter bien, ny mal, de sorte que
@@ -519,7 +531,10 @@
           consideration, mais pour la seule vérité. Toutefois
           ayez-en telle croyance qu’il vous plaira: si vous jureray-je qu’il n’y
           a point deux jours que je le trouvay gravant des vers sur l’escorce de
-          ces arbres, qui [19/20] sont par delà la grande prairie à
+          ces arbres, qui
+          <pb n="19/20"
+            ></pb>
+          sont par delà la grande prairie à
           main gauche du bié et m’asseure que si vous y daignez tourner
           les yeux vous remarquerez que c’est luy qui les y a couppez; car vous
           recognoissez trop bien ses caracteres si ce n’est qu’oublieuse de luy
@@ -527,26 +542,27 @@
           ce qui je touche, mais je m’asseure que les dieux ne me permettront
           pour sa satisfaction, et pour vostre punition. Les vers sont tels:
         </p>
-      </div>
-      <div class="contentci">
-        <milestone type="space" />
-        <head type="chapitre">MADRIGAL</head>
-        <milestone type="space" />
-        <p>Je pourray bien dessus moy mesme.</p>
-        <p>Quoy que mon amour soit extresme,</p>
-        <p>Obtenir encor ce Point,</p>
-        <p>De dire que je n’ayme point.</p>
-        <milestone type="space" />
-        <p>Mais feindre d’en aymer un’autre,</p>
-        <p>Et d’en adorer l’œil vainqueur</p>
-        <p>Comme en effet e fay le vostre,</p>
-        <p>Je n’en sçaurois avoir le cœur.</p>
-        <p>Et s’il le faut, ou que je meure,</p>
-        <p>Faites moy mourir de bonne heure.</p>
-        <milestone type="space" />
-      </div>
-      <div class="contentl">
-        <p>
+          <lg>
+            <head>MADRIGAL</head>
+            <lg>
+              <milestone unit="line"></milestone>
+              <l>Je pourray bien dessus moy mesme.</l>
+              <l>Quoy que mon amour soit extresme,</l>
+              <l>Obtenir encor ce Point,</l>
+              <l>De dire que je n’ayme point.</l>
+            </lg>
+            <milestone unit="line"></milestone>
+            <lg>
+              <l>Mais feindre d’en aymer un’autre,</l>
+              <l>Et d’en adorer l’œil vainqueur</l>
+              <l>Comme en effet e fay le vostre,</l>
+              <l>Je n’en sçaurois avoir le cœur.</l>
+              <l>Et s’il le faut, ou que je meure,</l>
+              <l>Faites moy mourir de bonne heure.</l>
+              <milestone unit="line"></milestone>
+            </lg>
+          </lg>
+          <p>
           Il peut y avoir sept ou huict jours, qu’ayant esté
           contraint de m’en aller pour quelque temps sur les rives de Loire, pour response il
           m’escrivit une lettre que je veux que vous voyez, et si en la lisant
@@ -554,13 +570,13 @@
           volonté vous avez perdu pour luy toute espece de jugement. Et
           lors la prenant en sa poche, la luy leut. Elle estoit telle:
         </p>
-      </div>
-      <div class="contentli">
-        <milestone type="space" />
-        <head type="chapitre">RESPONSE DE CELADON</head>
-        <h3>A LYCIDAS</h3>
-        <milestone type="space" />
-        <p>
+        </div>
+        <div type="letter">
+          <milestone unit="line"></milestone>
+          <head>RESPONSE DE CELADON</head>
+          <salute>A LYCIDAS</salute>
+          <milestone unit="line"></milestone>
+          <p>
           Ne t’enquiers plus de ce que je fais, mais
           sçache que je continue tousjours en ma peine ordinaire. Aimer et ne l’oser faire
           paroistre, aimer point ei jurer le contraire: cher frere, c’est
@@ -568,21 +584,23 @@
           que deux contraires ne peuvent en mesme temps estre en mesee lieu,
           toutesfois la vraye et la feinte amitié sont d’ordinaire en
           mesmes actions; mais ne t’en estonne Point, car je suis contraint
-          à l’un par la perfection, et à autre par [20/21] le
+          à l’un par la perfection, et à autre par
+          <pb n="20/21"></pb>
+          le
           commandement de mon Astrée. Que si ceste vie te semble estrange,
           ressouviens toy que les miracles sont les oeuvres ordinaires des dieux
           et que veux tu que ma déesse cause en moy que des miracles?
         </p>
-        <milestone type="space" />
-      </div>
-      <div class="contentl">
-        <p>
+          <milestone unit="line"></milestone>
+        </div>
+        <div type="text">
+          <p>
           Il y avoit long temps qu’Astrée n’avoit rien
           respondu, parce que les paroles de Lycidas la mettoient presque hors d’elle
           mesme. Si est-ce que la jalousie, qui retenoit encore quelque force en
           son ame, luy fit prendre ce papier, comme estant en doute que Celadon l’eust escrit.
         </p>
-        <p>
+          <p>
           Et quoy qu’elle recogneust, que vrayement c’estoit luy, si disputoit
           elle le contraire en son ame, suyvant la coustume de plusieurs
           personnes, qui veulent tousjours fortifier, comme que ce soit, leur
@@ -613,11 +631,13 @@
           l’attribuoit-on plustost à un bon naturel, qu’à un amour
           [tant profite la bonne opinion que l’on a d’une personne].
         </p>
-        <p>
+          <p>
           Cependant elle continuoit son chemin, le long duquel mille pensers, ou
           plustost mille desplaisirs la talonnaient pas à pas, de telle
           sorte que quelquesfois douteuse, -d’autres fois asseurée de
-          [21/22] l’affection de Celadon, elle ne sçavoit, si elle le
+          <pb n="21/22"
+            ></pb>
+          l’affection de Celadon, elle ne sçavoit, si elle le
           devoit plaindre, ou se plaindre de luy. Si elle se ressouvenoit de ce que
           Lycidas luy venoit de dire, elle  le jugeoit innocent; que si les
           paroles qu’elle luy avoit ouy tenir aupres de la bergere Amynthe, luy
@@ -652,15 +672,18 @@
           son ame, qu’elle fut contraire de se frotter plusieurs fois les yeux
           avant que de le pouvoir faire; en fin elle leut tels mots:
         </p>
-      </div>
-      <div class="contentli">
-        <milestone type="space" />
-        <head type="chapitre">LETTRE DE CELADON</head>
-        <h3>A LA BERGERE ASTRÉE</h3>
-        <milestone type="space" />
-        <p>
+        </div>
+        <div type="letter">
+          <milestone unit="line"></milestone>
+          <head type="chapitre">LETTRE DE CELADON</head>
+          <salute>A LA BERGERE ASTRÉE</salute>
+          <milestone unit="line"></milestone>
+          <p>
           Mon Astre, si la dissimulation, à quoi vous me
-          contraignez, est pour me faire mourir de peine, vous le pouvez plus aisement d’une [22/23] seule
+          contraignez, est pour me faire mourir de peine, vous le pouvez plus aisement d’une
+          <pb n="22/23"
+            ></pb>
+          seule
           parole; si c’est pour punir mon outrecuidance, vous
           estes juge trop doux, de m’ordonner un moindre supplice que la mort. Que si
           c’est pour esprouver quelle puissance vous avez sur moy, pourquoy n’en
@@ -673,10 +696,10 @@
           personnage de Celadon, ayant si longuement, et avec tant de Peine
           representé celuy de la personne du monde, qui luy est la plus contraire.
         </p>
-        <milestone type="space" />
-      </div>
-      <div class="contentl">
-        <p>
+          <milestone unit="line"></milestone>
+        </div>
+        <div type="text">
+          <p>
           O quels cousteaux trenchans furent ces paroles en son
           ame! lors qu’elles luy remirent en memoire le commandement qu’elle luy avoit
           fait, et’la resolution qu’ils avoient prise de cacher par ceste
@@ -703,10 +726,13 @@
           si ne le jugeoit elle egal à son imprudence, puis que le terme
           de tant d’années luy devoit donner assez d’asseurance de sa fidelité.
         </p>
-        <p>
+          <p>
           D’autre costé Lycidas, qui estoit si mal satisfait d’Astree, qu
           il n’en pouvoit presque avec patience souffrir la pensée, se
-          leva [23/24] d’aupres de Phillis, pour ne dire chose contre sa compagne
+          leva
+          <pb n="23/24"
+            ></pb>
+          d’aupres de Phillis, pour ne dire chose contre sa compagne
           qui luy depleust, et partit l’estomach si enflé, les yeux si
           couverts de larmes, et le visage si change, que sa bergere le voyant en
           tel estat, et donnant à ce coup quelque chose à son
@@ -727,65 +753,68 @@
           vers, les yeux tendus contre le ciel, les mains jointes sur son
           estomach, et le visage tout couvert de larmes.
         </p>
-      </div>
-      <div class="contentci">
-        <milestone type="space" />
-        <head type="chapitre">STANCES</head>
-        <h3>SUR LA MORT DE CLEON</h3>
-        <milestone type="space" />
-        <p>La beauté que la mort en cendre a fait resoudre,</p>
-        <p>La des pouillant si tost de son humanité,</p>
-        <p>Passa comme un esclair, et brusla comme un foudre,</p>
-        <p>Tant elle eut peu de vie, et beaucoup de beauté.</p>
-        <milestone type="space" />
-        <p>Ces yeux jadis autheurs des douces entreprises</p>
-        <p>Des plus cheres amours sont à jamais fermez.</p>
-        <p>Beaux yeux qui furent pleins de tant de mignardises,</p>
-        <p>Qu ’on ne les veit jamais sans qu’ils f ussent aimez.</p>
-        <milestone type="space" />
-        <p>S’il est vray, la beaute d’entre nous est ravie,</p>
-        <p>Amour pleure vaincu qui fut toujours vainqueur,</p>
-        <p>Et celle qui donnoit à mille cœurs la vie,</p>
-        <p>Est morte, si ce n’est qu’elle vive en mon cœur.</p>
-        <milestone type="space" />
-        <p>Et quel bien desormais peut estre desirable,</p>
-        <p>Puis que le plus parfait est le plustost ravy? [24/25]</p>
-        <p>Et qu’ainsi que du corps l’ombre est inseparable,</p>
-        <p>Il faut qu’un bien tousjours soit d’un mal-heur suivy?</p>
-        <milestone type="space" />
-        <p>Il semble, ma Cleon, que votre destinée</p>
-        <p>Ait des son Orient vostre jour achevé,</p>
-        <p>Et que vostre beauté morte aussi tost que née,</p>
-        <p>Au lieu de son berceau son cercueil ait trouvé.</p>
-        <milestone type="space" />
-        <p>Non, vous ne mourez pas, mais c’est plustost moy-mesme,</p>
-        <p>Puisque vivant je fus de vous seacle animé,</p>
-        <p>Et si l’amant a vie en la chose qu’il aime,</p>
-        <p>Vous revivez en moy m’ayant tousjours aimé.</p>
-        <milestone type="space" />
-        <p>Que si je vis, amour veut donner cognoissance,</p>
-        <p>Que mesme sur la mort il a commandement,</p>
-        <p>Ou comme estant un dieu pour monstrer sa puissance</p>
-        <p>Et sans ame et sans cœur faire vivre un amant.</p>
-        <milestone type="space" />
-        <p>Mais, Cleon, si du Ciel l’ordonnance fatale</p>
-        <p>D’un trespas inhumain vous, fait sentir l’effort,</p>
-        <p>Amour à vos destins rend ma fortune égale,</p>
-        <p>Vous mourrez par mon deuil, et moy par vostre mort.</p>
-        <milestone type="space" />
-        <p>Je regrettois ainsi mes douleurs immortelles,</p>
-        <p>Sans que par mes regrets la mort puist s’attendrir:</p>
-        <p>Et mes deux yeux ehangez en sources eternelles,</p>
-        <p>Qui pleurerent mon mal, ne sceurent l’amoindrir.</p>
-        <milestone type="space" />
-        <p>Quand Amour avec moy d’une si belle morte</p>
-        <p>Ayant plaint la mal-heur qui cause mes travaux,</p>
-        <p>Sechons, dit-il, nos yeux, pleignons d’une autre sorte,</p>
-        <p>Aussi bien tous les pleurs sont moindres que nos maux.</p>
-        <milestone type="space" />
-      </div>
-      <div class="contentl">
-        <p>
+        </div>
+        <div type="poem">
+          <lg>
+            <milestone unit="line"></milestone>
+            <head>STANCES</head>
+            <head>SUR LA MORT DE CLEON</head>
+            <milestone unit="line"></milestone>
+            <l>La beauté que la mort en cendre a fait resoudre,</l>
+            <l>La des pouillant si tost de son humanité,</l>
+            <l>Passa comme un esclair, et brusla comme un foudre,</l>
+            <l>Tant elle eut peu de vie, et beaucoup de beauté.</l>
+            <milestone unit="line"></milestone>
+            <l>Ces yeux jadis autheurs des douces entreprises</l>
+            <l>Des plus cheres amours sont à jamais fermez.</l>
+            <l>Beaux yeux qui furent pleins de tant de mignardises,</l>
+            <l>Qu ’on ne les veit jamais sans qu’ils f ussent aimez.</l>
+            <milestone unit="line"></milestone>
+            <l>S’il est vray, la beaute d’entre nous est ravie,</l>
+            <l>Amour pleure vaincu qui fut toujours vainqueur,</l>
+            <l>Et celle qui donnoit à mille cœurs la vie,</l>
+            <l>Est morte, si ce n’est qu’elle vive en mon cœur.</l>
+            <milestone unit="line"></milestone>
+            <l>Et quel bien desormais peut estre desirable,</l>
+            <l>Puis que le plus parfait est le plustost ravy?</l>
+            <pb n="24/25"></pb>
+            <l>Et qu’ainsi que du corps l’ombre est inseparable,</l>
+            <l>Il faut qu’un bien tousjours soit d’un mal-heur suivy?</l>
+            <milestone unit="line"></milestone>
+            <l>Il semble, ma Cleon, que votre destinée</l>
+            <l>Ait des son Orient vostre jour achevé,</l>
+            <l>Et que vostre beauté morte aussi tost que née,</l>
+            <l>Au lieu de son berceau son cercueil ait trouvé.</l>
+            <milestone unit="line"></milestone>
+            <l>Non, vous ne mourez pas, mais c’est plustost moy-mesme,</l>
+            <l>Puisque vivant je fus de vous seacle animé,</l>
+            <l>Et si l’amant a vie en la chose qu’il aime,</l>
+            <l>Vous revivez en moy m’ayant tousjours aimé.</l>
+            <milestone unit="line"></milestone>
+            <l>Que si je vis, amour veut donner cognoissance,</l>
+            <l>Que mesme sur la mort il a commandement,</l>
+            <l>Ou comme estant un dieu pour monstrer sa puissance</l>
+            <l>Et sans ame et sans cœur faire vivre un amant.</l>
+            <milestone unit="line"></milestone>
+            <l>Mais, Cleon, si du Ciel l’ordonnance fatale</l>
+            <l>D’un trespas inhumain vous, fait sentir l’effort,</l>
+            <l>Amour à vos destins rend ma fortune égale,</l>
+            <l>Vous mourrez par mon deuil, et moy par vostre mort.</l>
+            <milestone unit="line"></milestone>
+            <l>Je regrettois ainsi mes douleurs immortelles,</l>
+            <l>Sans que par mes regrets la mort puist s’attendrir:</l>
+            <l>Et mes deux yeux ehangez en sources eternelles,</l>
+            <l>Qui pleurerent mon mal, ne sceurent l’amoindrir.</l>
+            <milestone unit="line"></milestone>
+            <l>Quand Amour avec moy d’une si belle morte</l>
+            <l>Ayant plaint la mal-heur qui cause mes travaux,</l>
+            <l>Sechons, dit-il, nos yeux, pleignons d’une autre sorte,</l>
+            <l>Aussi bien tous les pleurs sont moindres que nos maux.</l>
+            <milestone unit="line"></milestone>
+          </lg>
+        </div>
+        <div type="text">
+          <p>
           Lycidas et Phillis eussent bien eu assez de
           curiosité pour s’enquerir de l’ennuy de ce berger,’si le leur propre le leur eust
           permis; mais voyant qu’il avoit autant de besoin de consolation
@@ -794,7 +823,9 @@
           continuerent leur chemin sans estre suivis de personne, pour le desir
           que chacun avoit de sçavoir qui estoit ceste trouppe incogneue.
           A peine estoit party Lycidas, qu’ils ouyrent d’assez. loing une autre voix qui
-          [25/26] sembloit de s’approcher d’eux, et la voulant escouter, ils
+          <pb n="25/26"
+            ></pb>
+          sembloit de s’approcher d’eux, et la voulant escouter, ils
           furent empeschez par la bergere qui tenoit la teste du berger dans son
           giron, avec telles plaintes: Et bien! cruel, et bien, berger
           sans pitie! jusques à quand ce courage obstine
@@ -809,7 +840,7 @@
           prens gardes, si tu continues, de n’attirer sur toy la vengeance de ta
           cruauté, et de ton injustice.
         </p>
-        <p>
+          <p>
           Le berger alors, sans tourner les yeux vers elle, luy respondit
           froidement: Pleust à Dieu, belle bergere, qu’il me fust permis
           de vous pouvoir satisfaire par ma mort, car pour vous oster, et moy
@@ -834,66 +865,69 @@
           pleuvoir des foudres sur mon chef, que jamais j’offense ny mon serment
           ny ma chere Cleon. Elle vouloit repliquer, lorsque je berger qui
           alloit chantant, les interrompit, pour estre desja trop pres d’eux,
-          avec’ tels vers: [26/27]
-        </p>
-      </div>
-      <div class="contentci">
-        <milestone type="space" />
-        <head type="chapitre">CHANSON</head>
-        <h3>DE L’INCONSTANT HYLAS</h3>
-        <milestone type="space" />
-        <p>Si l’on me dedaigne, je laisse</p>
-        <p>La, cruelle avec son dedain.</p>
-        <p>Sans que j’attende au lendemain</p>
-        <p>De faire nouvelle maistresse;</p>
-        <p>C’est erreur de consumer</p>
-        <p>A se faire par force aymer</p>
-        <milestone type="space" />
-        <p>Le plus souvent ces tant discrettes,</p>
-        <p>Qui vant nos amours mesprisant,</p>
-        <p>Ont au coeur un feu plus cuisant;</p>
-        <p>Mais les flammes en sont secrettes,</p>
-        <p>Que pour d’autres nous allumons,</p>
-        <p>Cependant gue nous les aymons.</p>
-        <milestone type="space" />
-        <p>Le trop fidelle opiniastre,</p>
-        <p>Qui deceu de sa loyauté</p>
-        <p>Ayme une cruelle beauté</p>
-        <p>Ne semble-t-il point l’idolastre,</p>
-        <p>Qui de quelque idole impuissant</p>
-        <p>jamais le secours ne ressent?</p>
-        <milestone type="space" />
-        <p>On dit que qui ne se lasse</p>
-        <p>De longuement importuner,</p>
-        <p>Par force en fin se fait donner</p>
-        <p>Mais c’est avoir mauvaise grace,</p>
-        <p>Quoy qu’on puisse avoir de quelqu’un,</p>
-        <p>Que d’estre tousjours importun.</p>
-        <milestone type="space" />
-        <p>Voyez les, ces amans fidelles,</p>
-        <p>Ils sont tousjours pleins de douleurs</p>
-        <p>Les souspirs, les regrets, les pleurs</p>
-        <p>Sont leurs contenances plus belles,</p>
-        <p>Et semble que pour estre amant,</p>
-        <p>Il faille plaindre seulement.</p>
-        <milestone type="space" />
-        <p>Celuy doit-il s’appeler homme,</p>
-        <p>Qui, l’honneur de l’homme etouffant,</p>
-        <p>Pleure tout ainsi qu’un enfant, [27/28]</p>
-        <p>Pour la perte de quelque pomme?</p>
-        <p>Ne faut-il plustost le nommer</p>
-        <p>Un fol qui croit de bien aymer?</p>
-        <milestone type="space" />
-        <p>Moy qui veux fuyr ces sottises,</p>
-        <p>Qui ne donnent que de l’ ennuy,</p>
-        <p>Sage par le mal-heur d’autruy</p>
-        <p>J’use tousjours de mes franchises,</p>
-        <p>Et ne puis estre mecontant,</p>
-        <p>Que l’on n’en appelle inconstant.</p>
-        <milestone type="space" />
-      </div>
-      <div class="contentl">
-        <p>
+          avec’ tels vers:
+          <pb
+            n="26/27"></pb> </p>
+        </div>
+        <div type="poem">
+          <lg>
+            <milestone unit="line"></milestone>
+            <head>CHANSON</head>
+            <head>DE L’INCONSTANT HYLAS</head>
+            <milestone unit="line"></milestone>
+            <l>Si l’on me dedaigne, je laisse</l>
+            <l>La, cruelle avec son dedain.</l>
+            <l>Sans que j’attende au lendemain</l>
+            <l>De faire nouvelle maistresse;</l>
+            <l>C’est erreur de consumer</l>
+            <l>A se faire par force aymer</l>
+            <milestone unit="line"></milestone>
+            <l>Le plus souvent ces tant discrettes,</l>
+            <l>Qui vant nos amours mesprisant,</l>
+            <l>Ont au coeur un feu plus cuisant;</l>
+            <l>Mais les flammes en sont secrettes,</l>
+            <l>Que pour d’autres nous allumons,</l>
+            <l>Cependant gue nous les aymons.</l>
+            <milestone unit="line"></milestone>
+            <l>Le trop fidelle opiniastre,</l>
+            <l>Qui deceu de sa loyauté</l>
+            <l>Ayme une cruelle beauté</l>
+            <l>Ne semble-t-il point l’idolastre,</l>
+            <l>Qui de quelque idole impuissant</l>
+            <l>jamais le secours ne ressent?</l>
+            <milestone unit="line"></milestone>
+            <l>On dit que qui ne se lasse</l>
+            <l>De longuement importuner,</l>
+            <l>Par force en fin se fait donner</l>
+            <l>Mais c’est avoir mauvaise grace,</l>
+            <l>Quoy qu’on puisse avoir de quelqu’un,</l>
+            <l>Que d’estre tousjours importun.</l>
+            <milestone unit="line"></milestone>
+            <l>Voyez les, ces amans fidelles,</l>
+            <l>Ils sont tousjours pleins de douleurs</l>
+            <l>Les souspirs, les regrets, les pleurs</l>
+            <l>Sont leurs contenances plus belles,</l>
+            <l>Et semble que pour estre amant,</l>
+            <l>Il faille plaindre seulement.</l>
+            <milestone unit="line"></milestone>
+            <l>Celuy doit-il s’appeler homme,</l>
+            <l>Qui, l’honneur de l’homme etouffant,</l>
+            <l>Pleure tout ainsi qu’un enfant,<pb n="27/28"></pb></l>
+            <l>Pour la perte de quelque pomme?</l>
+            <l>Ne faut-il plustost le nommer</l>
+            <l>Un fol qui croit de bien aymer?</l>
+            <milestone unit="line"></milestone>
+            <l>Moy qui veux fuyr ces sottises,</l>
+            <l>Qui ne donnent que de l’ ennuy,</l>
+            <l>Sage par le mal-heur d’autruy</l>
+            <l>J’use tousjours de mes franchises,</l>
+            <l>Et ne puis estre mecontant,</l>
+            <l>Que l’on n’en appelle inconstant.</l>
+            <milestone unit="line"></milestone>
+          </lg>
+        </div>
+        <div type="text">
+          <p>
           A ces derniers vers ce berger se trouva si proche de
           Tyrcis, qu’il peut voir les larmes de Laonice, et parce qu’encores qu’estrangers, ils
           ne laissoient de se cognoistre, et de s’estre desja pratiquez quelque
@@ -922,7 +956,11 @@
           de l’art, mais quand on fait autrement, il advient comme à ceux
           qui s’estant fourvoyez, plus ils marchent, et plus ils s’esloignent de
           leur chemin. Et c’est pourquoy, tout ainsi que la pierre qui roule
-          con- [28/29] tinuellement, ne se revestit jamais de mousse, mais
+          con-
+          <pb
+            n="28/29"
+            ></pb>
+          tinuellement, ne se revestit jamais de mousse, mais
           plustost d’ordure et de sallete, de mesme vostre legereté se peut bien
           acquerir de la honte,.mais non jamais de l’amour. Il faut que vous
           sçachiez, Hylas, que les blessures d’Amour sont de telle
@@ -938,7 +976,7 @@
           permis d’ouyr les secrets de ce dieu, je ne croy pas que vous ne
           voulussiez renoncer à vostre infidelité.
         </p>
-        <p>
+          <p>
           Hylas alors en sousriant: Sans mentir, dit-il vous avez raison, Tyrcis
           de vous mettre du nombre de ceux qu’Amour traite bien. Quant à
           moy, s’il traitte tous les autres comme vous, je vous en quitte de bon
@@ -952,7 +990,7 @@
           gout perverty, comme vous le sens, ne trouvera-t-il les douceurs de ma
           vie plus agreables, et aymables, que les amertumes ordinaires de la vostre?
         </p>
-        <p>
+          <p>
           Et se tournant vers la bergere qui s’estoit plainte de Tyrcis: Et vous
           insensible bergere, ne prendrez vous jamais assez de courage pour vous
           delivrer de la tyrannie, où ce denature berger vous fait vivre?
@@ -961,12 +999,14 @@
           supplications l’eslevent à telle arrogance, qu’il luy semble que
           vous luy estes trop obligée, quand il les escoute avec mespris?
         </p>
-        <p>
+          <p>
           La bergere avec un grand helas! luy respondit: Il est fort aise,
           Hylas, à celuy qui est sain de conseiller le malade, mais si tu
           estois en ma place, tu cognoistrois que c’est en vain que tu me donnes
           ce conseil, et que la douleur me peut bien oster l’ame du corps,
-          [29/30] mais non pas la raison chasser de mon ame ceste trop forte
+          <pb n="29/30"
+            ></pb>
+          mais non pas la raison chasser de mon ame ceste trop forte
           passion. Que si cest aimé  berger use envers moy de
           tyrannie, il peut encores traitter avec beaucoup plus absolue
           puissance, quand il luy plaira, ne pouvant vouloir d’avantage sur moy,
@@ -990,7 +1030,7 @@
           et croyez qu’aussi bien, si vous ne le faites, je ne laisseray pas de
           me retirer, ayant trop de honte de servir une si pauvre maistresse.
         </p>
-        <p>
+          <p>
           Elle luy respondit assez froidement: Ny toy, ny moy, n’y ferons pas
           grand’perte. Pour le moins je t’asseure bien que celle-là ne me
           fera jamais oublier le mauvais traitement que je reçois de ce
@@ -1001,32 +1041,36 @@
           petit, s’il n’esgale celuy que j’ay pour vous. Et lors il chanta tels
           vers en s’en allant:
         </p>
-      </div>
-      <div class="contentci">
-        <milestone type="space" />
-        <head type="chapitre">SONNET</head>
-        <milestone type="space" />
-        <p>Puis qu’il faut arracher la prof onde racine,</p>
-        <p>Qu’amour en vous voyant nie planta dans le cœur,</p>
-        <p>Et que tanz de desirs avec tant de langueur,</p>
-        <p>Ont si soigneusement nourrie en ma poitrine: [30/31]</p>
-        <milestone type="space" />
-        <p>Puis qu’il faut que le temps qui vid son origine,</p>
-        <p> Triomphe de sa fin, et s’en nomme vainqueur,</p>
-        <p>Faisons un beau dessein, et sans vivre en langueur,</p>
-        <p>Ostons en tout d’un coup, et l’espine.</p>
-        <milestone type="space" />
-        <p>Chassons tous ces desirs, esteignons tous ces feux,</p>
-        <p>Rompons tous ces liens, serrez de tant de nœuds,</p>
-        <p>Et prenons de nous-mesme un congé volontaire.</p>
-        <milestone type="space" />
-        <p>Nous le vaincrons ainsi, cest Amour indompté,</p>
-        <p>Et ferons sagement de nostre volonté</p>
-        <p>Ce que le temps en fin nous forceroit de faire.</p>
-        <milestone type="space" />
-      </div>
-      <div class="contentl">
-        <p>
+        </div>
+        <div type="poem">
+          <lg>
+            <milestone unit="line"></milestone>
+            <head type="chapitre">SONNET</head>
+            <milestone unit="line"></milestone>
+            <l>Puis qu’il faut arracher la prof onde racine,</l>
+            <l>Qu’amour en vous voyant nie planta dans le cœur,</l>
+            <l>Et que tanz de desirs avec tant de langueur,</l>
+            <l>
+          Ont si soigneusement nourrie en ma poitrine:
+          <pb n="30/31"></pb> </l>
+            <milestone unit="line"></milestone>
+            <l>Puis qu’il faut que le temps qui vid son origine,</l>
+            <l> Triomphe de sa fin, et s’en nomme vainqueur,</l>
+            <l>Faisons un beau dessein, et sans vivre en langueur,</l>
+            <l>Ostons en tout d’un coup, et l’espine.</l>
+            <milestone unit="line"></milestone>
+            <l>Chassons tous ces desirs, esteignons tous ces feux,</l>
+            <l>Rompons tous ces liens, serrez de tant de nœuds,</l>
+            <l>Et prenons de nous-mesme un congé volontaire.</l>
+            <milestone unit="line"></milestone>
+            <l>Nous le vaincrons ainsi, cest Amour indompté,</l>
+            <l>Et ferons sagement de nostre volonté</l>
+            <l>Ce que le temps en fin nous forceroit de faire.</l>
+            <milestone unit="line"></milestone>
+          </lg>
+        </div>
+        <div type="text">
+          <p>
           Si ce berger fust venu en ce pays, en une saison moins
           fascheuse, il y eut trouvé sans doute plus d’amis, mais l’ennuy de Celadon, dont
           la perte estoit encores si nouvelle, rendoit si tristes tous ceux de ce
@@ -1048,7 +1092,7 @@
           perte de Celadon, dequoy Polemas fut marry, ayant tousjours
           aimé  ceus de sa famille.
         </p>
-        <p>
+          <p>
           D’autre coste, Lycidas qui se promenoit avec Phillis, apres avoir
           quelque temps demeure muet, enfin se tournant vers elle: Et bien,
           belle bergere, luy dit-il, que vous semble de l’humeur de vostre
@@ -1057,7 +1101,10 @@
           et qu’en un si grand ennuy, il luy devoit bien estre permis
           d’esloigner, et fuir toute compagnie; car Phillis pensoit qu’il se
           plaignoit, de ce qu’elle s’en estoit alle seule. Ouy certes,
-          répliqua [31/32] Lycidas, c’est le moindre, mais aussy croy-je
+          répliqua
+          <pb n="31/32"
+            ></pb>
+          Lycidas, c’est le moindre, mais aussy croy-je
           qu’en vérité c’est le plus grand, et faut dire que c’est
           bien la plus ingrate du monde, et la plus indigne d’estre aimée.
           Voyez, pour Dieu! quelle humeur est la sienne: mon frere n’a
@@ -1088,7 +1135,7 @@
           d’ores en là, je luy suis autant mortel ennemy, que mon frere
           luy a este fidele serviteur, et elle indigne d’en estre aimé.
         </p>
-        <p>
+          <p>
           Ainsi alloient discourant Lycidas et Phillis: luy, infiniment
           fasche de la mort de son frere, et infiniment offence contre
           Astrée; elle, marrie de Celadon, faschée de l’ennuy de Lycidas, et
@@ -1099,7 +1146,9 @@
           elle ne vouloit pas que la perte de Celadon luy coustast Lycidas, et elle
           consideroit bien, que si la haine continuoit entre luy et
           Astrée, il falloit qu’ellc rompit avec l’un des deux, et
-          toutesfois l’amour ne vouloit [32/33]
+          toutesfois l’amour ne vouloit
+          <pb n="32/33"
+            ></pb>
           point ceder à l’amitie, ny l’amitie à l’amour, et si l’un
           ne vouloit consentir à la mort de l’autre. D’autre costé
           Astrée remplie de tant d’occasions d’ennuis, comme je vous ay dit, lascha si
@@ -1107,13 +1156,14 @@
           sa douleur que, pour n’avoir assez de larmes pour
           laver son erreur, ny assez de paroles pour declarer son regret, ses yeux et sa bouche
           remirent leur office à son imagination, si longuement, qu’abatue
-          de trop d’ennuy, elle s’endormit sur telles pensées. [33/34]
-        </p>
+          de trop d’ennuy, elle s’endormit sur telles pensées.
+          <pb n="33/34"></pb> </p>
+        </div>
       </div>
     </body>
     <back>
       <div>
-        <p />
+        <p></p>
       </div>
     </back>
   </text>

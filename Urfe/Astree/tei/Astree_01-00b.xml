@@ -1,163 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="tei_clgs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title type="main">L'Astrée</title>
-                <title type="part">Première partie – L’AUTHEUR A LA BERGERGE</title>
-                <title type="partie">01</title>
-                <title type="livre">00</title>
-                <author>Honoré d'Urfé</author>
-                <respStmt>
-                <resp>Establishment of the text</resp>
-                <name xml:id="hv">Hugues Vaganay</name>
-                <resp>Digitization</resp>
-                <name xml:id="rk">Reinhard Krüger et al.</name>
-                <resp>TEI-Conversion</resp>
-                <name xml:id="cf">Christof Schöch</name>
-                </respStmt>
-            </titleStmt>
-            <publicationStmt>
-                <availability status="publicdomain">
-                </availability>
-                <date>2016</date>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
-                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
-            </sourceDesc>
-        </fileDesc>
-        <revisionDesc>
-            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
-        </revisionDesc>
-    </teiHeader>
-    <text>
-<front>
-<div>
-<p></p>
-</div>
-</front>
-<body>
-<div>
-		<head type="partie">L’AUTHEUR A LA BERGERE ASTRÉE</head>
-		<milestone type="space"/>
-
-		<p>Il n’y a donc rien, ma bergere, qui te puisse plus
-		longuement arrester pres de moy? Il te fasche, dis tu, de demeurer plus longtemps
-		prisonniere dans les recoins d’un solitaire Cabinet, et de passer ainsi
-		ton aage inutilement. Il ne sied pas bien, mon cher enfant, à
-		une fille bien née de courre de ceste sorte, et seroit plus
-		à propos que te renfermant ou parmy des chastes Vestales et
-		Druydes, ou dans les murs privez des affaires domestiques, tu
-		laissasses doucement couler le reste de ta vie; car entre les filles
-		celle-là  doit estre la plus estimée dont l’on parle
-		le moins. Si tu sçavois quelles sont les peines et difficultez,
-		qui se rencontrent le long du chemin que tu entreprens, quels monstres
-		horribles y vont attendans les passants pour les devorer, et combien il
-		y en a eu peu, qui ayent rapporte du contentement de semblable voyage,
-		peut-estre t’arresterois-tu sagement, où tu as este si
-		longuement et doucement cherie. Mais ta jeunesse imprudente, qui n’a
-		point  d’experience de ce que je dis, te figure peut-estre des
-		gloires et des vanitez qui produisent en toy ce desir. Je voy bien
-		qu’elle te dit, que tu n’es pas si desagreable, ny d’un visage si
-		estrange, que tu ne puisses te faire aimer à ceux qui te
-		verront, et que tu ne seras pas plus mal receue du general, que tu l’as
-		esté des particuliers qui t’ont desja veue. Je le souhaitterois,
-		ma bergere, et avec autant de desir que toy; mais bien souvent l’amour
-		de nous mesme nous deçoit, et nous opposant ce verre devant les
-		yeux, nous fait voir à travers tout ce qui est en nous beaucoup plus
-		avantageux qu’il n’est pas. Toutesfois, puis que ta resolution est
-		telle, et que si je m’y oppose, tu me menaces d’une prompte
-		desobeissance, ressouviens toy pour le moins, que ce n’est point
-		par volonté, mais par souffrance que je te le permets.</p>
-		<p>Et pour te laisser à ton despart quelques arrhes de l’affection
-		paternelle que je te porte, mets bien en ta memoire ce que je te vay dire.</p>
-		<p>Si tu tombes entre les mains de ceux qui ne voyent rien d’autruy, que
-		pour y trouver sujet de s’y desplaire, et qu’ils te reprochent que tes
-		bergers sont ennuyeux, respons leur qu’il est à leur choix de
-		les voir ou ne les voir point: car encor que je n’aye pû leur
-		oster toute l’incivilite du village, si ont ils cette consideration de
-		ne se presenter jamais devant personne qui ne les appelle.</p>
-		<p>Si tu te trouves parmy ceux qui font profession d’interpreter les
-		songes, et descouvrir les pensées plus secrettes d’autruy, et
-		qu’ils asseurent que Celadon est un tel homme, et Astre une telle
-		femme, ne leur reponds rien, car ils sçavent assez qu’ils ne
-		sçavent pas ce qu’ils disent; mais supplie ceux qui pourroient estre abusez de
-		leurs fictions, de considerer que si ces choses ne m’importent point,
-		je n’eusse pas pris la peine de les cacher si diligemment, et si elles
-		m’importent, j’aurois eu bien peu d’esprit de les avoir voulu
-		dissimuler, et ne l’avoir sceu faire. Que si en ce qu’ils diront, il
-		n’y a guere d’apparence, il ne les faut pas croire, et s’il y en a
-		beaucoup, il faut penser que pour couvrir la chose que je voulois tenir
-		cachée et ensevelie, je l’eusse autrement
-		déguisée. Que s’ils y trouvent en effet des accidents
-		semblables à ceux qu’ils s’imaginent, qu’ils regardent les
-		paralleles, et comparaisons que Plutarque a faites en ses Vies des hommes illustres.</p>
-		<p>Que si quelqu’un me blasme de t’avoir choisi un Theatre, si peu
-		renommé en Europe, t’ayant esleu le Forests, petite
-		contrée, et peu conneue parmy les Gaules, responds leur, ma
-		bergere, que c’est le lieu de ta naissance, que ce nom de Forests sonne
-		je ne sçay quoy de champestre, et que le pays est tellement
-		composé, et mesme le long de la riviere de Lignon, qu’il semble
-		qu’il convie chacun à y vouloir passer une vie semblable. Mais
-		qu’outre toutes ces considerations encor j’ay juge qu’il valoit mieux
-		que j’honorasse ce pays où ceux dont je suis descendu, depuis
-		leur sortie de Suobe, ont vescu si honorablement par tant de siecles,
-		que non point une Arcadie comme le Sannazare. Car n’eust esté
-		Hesiode, Homere, Pindare, et ces autres grands personnages de la Grece,
-		le mont de Parnasse, ny l’eau d’Hippocrene, ne seroient pas plus
-		estimez maintenant, que notre Mont d’Isoure, ou l’onde de Lignon. Nous
-		devons cela au lieu de nostre naissance et de nostre demeure, de le
-		rendre le plus honore et renomme qu’il nous est possible.</p>
-		<p>Que si l’on te reproche que tu ne parles pas le langage des villageois,
-		et que toy ny ta trouppe ne sentez gueres les brebis ny les chevres,
-		responds leur, ma bergere, que pour peu qu’ils ayent cognoissance de
-		toy, ils sçauront que tu n’es pas, ny celles aussi qui te
-		suivent, de ces bergeres necessiteuses, qui pour gagner leur vie conduisent les
-		trouppeaux aux pastufages, mais que vous n’avez toutes pris cette
-		condition, que pour vivre plus doucement et sans contrainte. Que si vos
-		conceptions et paroles estoient veritablement telles que celles des
-		bergers ordinaires, ils auroient aussi peu de plaisir de vous escouter,
-		que vous auriez beaucoup de honte à les redire. Et qu’outre
-		cela, la pluspart de la trouppe est remplie d’Amour, qui dans l’Aminte
-		fait bien paroistre qu’il change et le langage et ]es conceptions, quand il dit:</p>
-	</div>
-	<div class="contentc">
-		<milestone type="space"/>
-		<p>Queste selve hoggi raggionar d’Amore</p>
-		<p>Sudranno in nova guisa, e ben parrassi</p>
-		<p>Che la mia deità sia qui presente</p>
-		<milestone type="space"/>
-		<p>In se medesma, non ne suoi ministri</p>
-		<p>Spireró nobil senzi à rozi petti</p>
-		<p>Radolciró de le lor lingue il suono.</p>
-		<milestone type="space"/>
-	</div>
-	<div class="contentl">
-		<p>Mais ce qui m’a fortifié d’avantage en l’opinion
-		que j’ay, que mes bergers et bergeres pouvoient parler de cette façon sans
-		sortir de la bien-seance des bergers, c’a esté, que j’ay veu ceux qui en
-		representent sur les theatres, ne leur faire pas porter des habits de
-		bureau, des sabots ny des accoustremens malfaits, comme les gens de
-		village les portent ordinairement. Au contraire, s’ils leur donnent une
-		houlette en la main, elle est peinte et dorée, leurs juppes sont
-		de taffetas, leur pannetiere bien troussée, et quelque fois
-		faite de toile d’or ou d’argent, et se contentent, pourveu que l’on
-		puisse reconnoistre que la forme de l’habit a quelque chose de berger.
-		Car s’il est permis de déguiser ainsi ces personnages à
-		ceux qui particulierement font profession de representer chasque chose
-		le plus au naturel que faire se peut, pourquoy ne m’en sera t’il permis
-		autant, puis que je ne represente rien à l’œil, mais à
-		l’ouye seulement; qui n’est pas un seps qui touche si vivement l’ame?</p>
-		<p>Voilà, ma bergere, dequoy je te veux advertir pour ce coup, afin
-		que s’il est possible, tu rapportes quelque contentement de ton voyage. Le Ciel telle
-		rende heureux, et te donne un si bon Genie, que tu me survives autant de siecles que le sujet
-		qui t’a fait naistre me survivra en m’accompagnant au cercueil.</p>
-	</div>
-
-</body><back>
-<div>
-<p/>
-</div>
-</back></text></TEI>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">L'Astrée</title>
+        <title type="part">Première partie – L’AUTHEUR A LA BERGERGE</title>
+        <title type="partie">01</title>
+        <title type="livre">00b</title>
+        <author>Honoré d'Urfé</author>
+        <principal> <name>Christof Schöch</name> </principal>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CLiGS</publisher>
+        <availability status="free">
+          <p>Text is in the public domain.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digital-source">
+          Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010.
+          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>
+          .
+        </bibl>
+        <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p></p>
+      </div>
+    </front>
+    <body>
+      <div>
+        <head>L’AUTHEUR A LA BERGERE ASTRÉE</head>
+        <milestone unit="line"></milestone>
+        <p>
+          Il n’y a donc rien, ma bergere, qui te puisse plus
+          longuement arrester pres de moy? Il te fasche, dis tu, de demeurer plus longtemps
+          prisonniere dans les recoins d’un solitaire Cabinet, et de passer ainsi
+          ton aage inutilement. Il ne sied pas bien, mon cher enfant, à
+          une fille bien née de courre de ceste sorte, et seroit plus
+          à propos que te renfermant ou parmy des chastes Vestales et
+          Druydes, ou dans les murs privez des affaires domestiques, tu
+          laissasses doucement couler le reste de ta vie; car entre les filles
+          celle-là  doit estre la plus estimée dont l’on parle
+          le moins. Si tu sçavois quelles sont les peines et difficultez,
+          qui se rencontrent le long du chemin que tu entreprens, quels monstres
+          horribles y vont attendans les passants pour les devorer, et combien il
+          y en a eu peu, qui ayent rapporte du contentement de semblable voyage,
+          peut-estre t’arresterois-tu sagement, où tu as este si
+          longuement et doucement cherie. Mais ta jeunesse imprudente, qui n’a
+          point  d’experience de ce que je dis, te figure peut-estre des
+          gloires et des vanitez qui produisent en toy ce desir. Je voy bien
+          qu’elle te dit, que tu n’es pas si desagreable, ny d’un visage si
+          estrange, que tu ne puisses te faire aimer à ceux qui te
+          verront, et que tu ne seras pas plus mal receue du general, que tu l’as
+          esté des particuliers qui t’ont desja veue. Je le souhaitterois,
+          ma bergere, et avec autant de desir que toy; mais bien souvent l’amour
+          de nous mesme nous deçoit, et nous opposant ce verre devant les
+          yeux, nous fait voir à travers tout ce qui est en nous beaucoup plus
+          avantageux qu’il n’est pas. Toutesfois, puis que ta resolution est
+          telle, et que si je m’y oppose, tu me menaces d’une prompte
+          desobeissance, ressouviens toy pour le moins, que ce n’est point
+          par volonté, mais par souffrance que je te le permets.
+        </p>
+        <p>
+          Et pour te laisser à ton despart quelques arrhes de l’affection
+          paternelle que je te porte, mets bien en ta memoire ce que je te vay dire.
+        </p>
+        <p>
+          Si tu tombes entre les mains de ceux qui ne voyent rien d’autruy, que
+          pour y trouver sujet de s’y desplaire, et qu’ils te reprochent que tes
+          bergers sont ennuyeux, respons leur qu’il est à leur choix de
+          les voir ou ne les voir point: car encor que je n’aye pû leur
+          oster toute l’incivilite du village, si ont ils cette consideration de
+          ne se presenter jamais devant personne qui ne les appelle.
+        </p>
+        <p>
+          Si tu te trouves parmy ceux qui font profession d’interpreter les
+          songes, et descouvrir les pensées plus secrettes d’autruy, et
+          qu’ils asseurent que Celadon est un tel homme, et Astre une telle
+          femme, ne leur reponds rien, car ils sçavent assez qu’ils ne
+          sçavent pas ce qu’ils disent; mais supplie ceux qui pourroient estre abusez de
+          leurs fictions, de considerer que si ces choses ne m’importent point,
+          je n’eusse pas pris la peine de les cacher si diligemment, et si elles
+          m’importent, j’aurois eu bien peu d’esprit de les avoir voulu
+          dissimuler, et ne l’avoir sceu faire. Que si en ce qu’ils diront, il
+          n’y a guere d’apparence, il ne les faut pas croire, et s’il y en a
+          beaucoup, il faut penser que pour couvrir la chose que je voulois tenir
+          cachée et ensevelie, je l’eusse autrement
+          déguisée. Que s’ils y trouvent en effet des accidents
+          semblables à ceux qu’ils s’imaginent, qu’ils regardent les
+          paralleles, et comparaisons que Plutarque a faites en ses Vies des hommes illustres.
+        </p>
+        <p>
+          Que si quelqu’un me blasme de t’avoir choisi un Theatre, si peu
+          renommé en Europe, t’ayant esleu le Forests, petite
+          contrée, et peu conneue parmy les Gaules, responds leur, ma
+          bergere, que c’est le lieu de ta naissance, que ce nom de Forests sonne
+          je ne sçay quoy de champestre, et que le pays est tellement
+          composé, et mesme le long de la riviere de Lignon, qu’il semble
+          qu’il convie chacun à y vouloir passer une vie semblable. Mais
+          qu’outre toutes ces considerations encor j’ay juge qu’il valoit mieux
+          que j’honorasse ce pays où ceux dont je suis descendu, depuis
+          leur sortie de Suobe, ont vescu si honorablement par tant de siecles,
+          que non point une Arcadie comme le Sannazare. Car n’eust esté
+          Hesiode, Homere, Pindare, et ces autres grands personnages de la Grece,
+          le mont de Parnasse, ny l’eau d’Hippocrene, ne seroient pas plus
+          estimez maintenant, que notre Mont d’Isoure, ou l’onde de Lignon. Nous
+          devons cela au lieu de nostre naissance et de nostre demeure, de le
+          rendre le plus honore et renomme qu’il nous est possible.
+        </p>
+        <p>
+          Que si l’on te reproche que tu ne parles pas le langage des villageois,
+          et que toy ny ta trouppe ne sentez gueres les brebis ny les chevres,
+          responds leur, ma bergere, que pour peu qu’ils ayent cognoissance de
+          toy, ils sçauront que tu n’es pas, ny celles aussi qui te
+          suivent, de ces bergeres necessiteuses, qui pour gagner leur vie conduisent les
+          trouppeaux aux pastufages, mais que vous n’avez toutes pris cette
+          condition, que pour vivre plus doucement et sans contrainte. Que si vos
+          conceptions et paroles estoient veritablement telles que celles des
+          bergers ordinaires, ils auroient aussi peu de plaisir de vous escouter,
+          que vous auriez beaucoup de honte à les redire. Et qu’outre
+          cela, la pluspart de la trouppe est remplie d’Amour, qui dans l’Aminte
+          fait bien paroistre qu’il change et le langage et ]es conceptions, quand il dit:
+        </p>
+        <lg>
+          <milestone unit="line"></milestone>
+          <lg>
+            <l>Queste selve hoggi raggionar d’Amore</l>
+            <l>Sudranno in nova guisa, e ben parrassi</l>
+            <l>Che la mia deità sia qui presente</l>
+          </lg>
+          <milestone unit="line"></milestone>
+          <lg>
+            <l>In se medesma, non ne suoi ministri</l>
+            <l>Spireró nobil senzi à rozi petti</l>
+            <l>Radolciró de le lor lingue il suono.</l>
+          </lg>
+          <milestone unit="line"></milestone>
+        </lg>
+        <p>
+          Mais ce qui m’a fortifié d’avantage en l’opinion
+          que j’ay, que mes bergers et bergeres pouvoient parler de cette façon sans
+          sortir de la bien-seance des bergers, c’a esté, que j’ay veu ceux qui en
+          representent sur les theatres, ne leur faire pas porter des habits de
+          bureau, des sabots ny des accoustremens malfaits, comme les gens de
+          village les portent ordinairement. Au contraire, s’ils leur donnent une
+          houlette en la main, elle est peinte et dorée, leurs juppes sont
+          de taffetas, leur pannetiere bien troussée, et quelque fois
+          faite de toile d’or ou d’argent, et se contentent, pourveu que l’on
+          puisse reconnoistre que la forme de l’habit a quelque chose de berger.
+          Car s’il est permis de déguiser ainsi ces personnages à
+          ceux qui particulierement font profession de representer chasque chose
+          le plus au naturel que faire se peut, pourquoy ne m’en sera t’il permis
+          autant, puis que je ne represente rien à l’œil, mais à
+          l’ouye seulement; qui n’est pas un seps qui touche si vivement l’ame?
+        </p>
+        <p>
+          Voilà, ma bergere, dequoy je te veux advertir pour ce coup, afin
+          que s’il est possible, tu rapportes quelque contentement de ton voyage. Le Ciel telle
+          rende heureux, et te donne un si bon Genie, que tu me survives autant de siecles que le sujet
+          qui t’a fait naistre me survivra en m’accompagnant au cercueil.
+        </p>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p></p>
+      </div>
+    </back>
+  </text>
+</TEI>
