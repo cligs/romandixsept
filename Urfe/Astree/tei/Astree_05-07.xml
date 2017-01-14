@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE SEPTIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et de fait Ligonias se hasta si bien que n’ayant cessé de
         marcher durant la plus grande partie de la nuict, il arriva le
         lendemain à Marcilly devant qu’Amasis fust levée. Il s’en
@@ -74,10 +74,10 @@
         il me soit si facile d’obeyr. Disant cela, il ouvrit la lettre que le
         Roy luy escrivoit, et vid qu’elle estoit telle.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE GONDEBAUT A SIGISMOND</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La pitié, qui fait tomber la foudre de la main des dieux, est
         celle qui me desarme de tous les traits que ma colere avoit assemblez
         four vous destruire; vostre repentir Va fait naistre en moy, et vostre
@@ -1946,12 +1946,12 @@
         estoit sur le poinct. de le saisir, il s’arresta pour ouyr ces vers que
         Silvandre recita, regardant le peril où il s’exposoit.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ODE</head>
-        <h3>Il veut mourir puisqu’il a perdu</h3>
-        <h3>l’esperance de posseder Diane.</h3>
-        <milestone type="space"/>
+        <p>Il veut mourir puisqu’il a perdu</p>
+        <p>l’esperance de posseder Diane.</p>
+        <milestone unit="line"/>
         <p>Effroyables deserts, montagnes que la rage</p>
         <p>Des vents impetueux bat eternellement,</p>
         <p>Un cœur desesperé que la fortune outrage,</p>
@@ -1962,7 +1962,7 @@
         <p>Estouffez-moy dans vos entrailles,</p>
         <p>Et que les serpents et les ours</p>
         <p>Y celebrent mes funerailles.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous torrents qui roulez parmy ces precipices,</p>
         <p>D’où le bruit et Veffroy ne s’esloignent jamais,</p>
         <p>Soyez de mon trespas les funestes complices,</p>
@@ -1973,7 +1973,7 @@
         <p>Disent qu’au temps de mes allarmes</p>
         <p>Lignon n’a jamais eu de vous</p>
         <p>Autre eau que celle de mes larmes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et toy, divin object, ma Diane que j’ayme,</p>
         <p>Et qu’une tyrannie esloigne de mes yeux,</p>
         <p>Croy, si tu me cheris,</p>
@@ -1985,7 +1985,7 @@
         <p>Qu’ils ne pouvoient, qu’avecque honte,</p>
         <p>Souffrir qu’un berger just vainqueur</p>
         <p>D’une beauté qui les surmonte.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ah! dieux! que mon malheur anima de la sorte,</p>
         <p>Pour nourrir la fureur du tourment qui m’espoingt,</p>
         <p>Puis-je bien repensant aux maux que je supporte,</p>
@@ -1996,7 +1996,7 @@
         <p>Je diray, malgré les supplices,</p>
         <p>Que les malheurs que j’ay soufferts</p>
         <p>Sont tesmoings de vos injustices.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour le moins, si les coups dont mon ame est attainte</p>
         <p>Pouvoient estre guéris par la longueur du temps,</p>
         <p>J’accuserois l’humeur qui me pousse à la plainte,</p>
@@ -2007,7 +2007,7 @@
         <p>Vous treuverent inexorables;</p>
         <p>Mon amour et mes desplaisirs</p>
         <p>Firent vœu d’estre inseparables,<pb n="328"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais Vestrange transport où mon ame demeure,</p>
         <p>Les vents perdent en l’air tous les cris que je fais;</p>
         <p>Donc puisque ma raison ordonne que je meure,</p>
@@ -2018,7 +2018,7 @@
         <p>Je contente aussi mon envie,</p>
         <p>Et que je ne donne ma mort</p>
         <p>Qu’aux dieux qui. m’ont donné la vie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Voicy d’un grand rocher les pointes toutes nues,</p>
         <p>D’où je descouvre à plain la campagne et les eaux,</p>
         <p>Que je suis eslevé, je marche sur les nues,</p>
@@ -2029,7 +2029,7 @@
         <p>Que cherches-tu pour t’y resoudre?</p>
         <p>Voylà des abysmes beants,</p>
         <p>Qui sont presis de te mettre en poudre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Adieu beaux yeux, adieu soleils du Soleil mesme,</p>
         <p>Je ne reverray plus vos aymables appas,</p>
         <p>Car le Ciel qui me hayt autant que je vous ayme,</p>
@@ -2040,7 +2040,7 @@
         <p>Que le feu secret qui m’enflame,</p>
         <p>Malgré luy ne mourra jamais,</p>
         <p>Si l’on ne fait morir mon ame.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cependant s’il advient que la pitié te touche,</p>
         <p>l’estrange recit de mes jours effacez,</p>
         <p>Permets qu’un seul souspir eschappe de ta bouche,</p>
@@ -2051,9 +2051,9 @@
         <p>Que l’honneur ne te peut defendre:</p>
         <p>Je ne demande que de l’eau</p>
         <p>Pour le sang que je vay respandre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A ce mot il se voulut eslancèr, mais Alexis le saisissant: Tout
         beau, luy dit-elle, Silvandre, le Ciel ne veut pas que vous vous
         perdiez. Le berger alors se tournant à moitié
@@ -2140,7 +2140,7 @@
         vous ayez droit de vous obstiner sur ce, poinct, ny de me disputer un
         advantage, qu’autre que moy sans doute ne sçauroit jamais obtenir. – </p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Pour le moins, dit Silvandre, permettez-moy de joindre ma</p>
         <p>fortune à la vostre, et treuvez bon que desormais</p>
         <p>nos jours ayent un mesme sort. Alexis</p>

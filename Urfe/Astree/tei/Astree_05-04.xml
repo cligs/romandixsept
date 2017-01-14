@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE QUATRIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Aussi-tost que le jour parut, Ligonias partit, et Astrée
         s’esveilla; cette belle fille avoit encore couché ce
         soir-là dans la maison d’Adamas, par ce que, sans se faire une
@@ -489,10 +489,10 @@
         sçachiez de qui c’est qu’elles le doivent attendre, je vous
         rediray l’oracle de mesme qu’il leur a esté rendu. Il est tel.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le mal de toutes trois en Forests guerira,</p>
         <p>Le mort qui sera vif un medecin sera,</p>
         <p><pb n="161"/> L’autre à qui l’on rendra, quoy qu’elle le rejette,</p>
@@ -500,9 +500,9 @@
         <p>Mais qui, sans que de vous l’ouverture en soit faite,</p>
         <p>L’Oracle vous dira tenez pour resolu</p>
         <p>Ce qu’elle ordonnera, car c’est mon interprette.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Or, mon pere, continua Phillis, je ne sçay si c’est par
         inspiration, ou comment, tant y a qu’ayant sceu cet oracle, il y a une lune ou environ
         que je le leur recitày, et les suppliay en mesme temps de me raconter
@@ -552,11 +552,11 @@
         qu’apres qu’Adamas eut prié toute la compagnie de s’asseoir,
         elle regarda doucement Phillis, et puis commença son discours en cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>DE CIRCÉNE, DE PALINICE ET DE FLORICE</h3>
-        <milestone type="space"/>
+        <p>DE CIRCÉNE, DE PALINICE ET DE FLORICE</p>
+        <milestone unit="line"/>
 
         <p>Je voudrois bien, belle et discrette Phillis, pouvoir demesler
         sans desordre le discours qu’il faut que je fasse, pour ne paroistre pas
@@ -582,45 +582,45 @@
         petite figure. Disant cela, elle prit la plume, dont Adamas avoit
         escrit leurs noms, et marqua cecy sur du papier.</p>
     </div>
-    <div class="cls"></div>
-    <div class="content3col">
-        <div class="content3coll">
+    <div type="cls"></div>
+    <div type="content3col">
+        <div type="content3coll">
             <head type="chapitre">Freres</head>
-            <h3>SILEINE</h3>
-            <h3>LUCINDOR</h3>
-            <h3> </h3>
-            <h3>CLORIAN</h3>
-            <h3>CERINTE</h3>
-            <h3> </h3>
-            <h3>ALCANDRE</h3>
-            <h3>AMILCAR</h3>
+            <p>SILEINE</p>
+            <p>LUCINDOR</p>
+            <p> </p>
+            <p>CLORIAN</p>
+            <p>CERINTE</p>
+            <p> </p>
+            <p>ALCANDRE</p>
+            <p>AMILCAR</p>
         </div>
-        <div class="content3colc">
+        <div type="content3colc">
             <head type="chapitre"> </head>
-            <h3>de</h3>
-            <h3>CIRCÉNE</h3>
-            <h3> </h3>
-            <h3>de</h3>
-            <h3>PALINICE</h3>
-            <h3> </h3>
-            <h3>de</h3>
-            <h3>FLORICE</h3>
+            <p>de</p>
+            <p>CIRCÉNE</p>
+            <p> </p>
+            <p>de</p>
+            <p>PALINICE</p>
+            <p> </p>
+            <p>de</p>
+            <p>FLORICE</p>
         </div>
-        <div class="content3colr">
+        <div type="content3colr">
             <head type="chapitre">Serviteurs</head>
-            <h3>CLORIAN</h3>
-            <h3>ALCANDRE</h3>
-            <h3> </h3>
-            <h3>SILEINE</h3>
-            <h3>AMILCAR</h3>
-            <h3> </h3>
-            <h3>LUCINDOR</h3>
-            <h3>CERINTE</h3>
+            <p>CLORIAN</p>
+            <p>ALCANDRE</p>
+            <p> </p>
+            <p>SILEINE</p>
+            <p>AMILCAR</p>
+            <p> </p>
+            <p>LUCINDOR</p>
+            <p>CERINTE</p>
         </div>
     </div>
-    <div class="cls"></div>
+    <div type="cls"></div>
 
-    <div class="contentl">
+    <div type="contentl">
         <p>Apres, elle poursuivit de cette sorte: Or, dans ce desordre,
         nostre interest est si meslé, que Circéne ne peut rendre
         aupres de moy, de bons offices à Lucindor, sans desobliger Cerinte, qui est
@@ -635,17 +635,17 @@
         confusion seroit enfin capable de nous separer d’amitié, nous
         recourusmes tous ensemble à l’oracle, qui respondit premièrement cecy.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Les six demeureront sans partir de ce lieu,</p>
         <p>Que le devoir ou l’honneur ne l’ordonne,</p>
         <p>Et -pour les autres trois, l’oracle de ce dieu</p>
         <p>Ne respondra qu’à leur seule personne. <pb n="164"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette responce nous fit juger que l’oracle reservoit encore
         quelque chose pour nous, et cela fut cause que l’ayant consulté en
         particulier, nous apprismes celuy que les dieux vous ont communiqué
@@ -729,33 +729,33 @@
         il partit, et je pense que je pourray me souvenir d’une chanson qu’il fit
         en ce mesme temps. Les vers en sont tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Toy pour qui je fay des autels,</p>
         <p>Jeune beauté, que les mortels</p>
         <p>Considerent comme un miracle,</p>
         <p>Pardonne à mon esloignement,</p>
         <p>Et ne t’offense pas, s’il faut que cet obstacle</p>
         <p>Trouble mon esperance, et ton contentement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>J’ose espérer dans mes malheurs</p>
         <p>Que le Ciel touché de nos pleurs</p>
         <p>Aura pitié de mon supplice,</p>
         <p>Et qu’enfin le Temps et l’Amour,</p>
         <p>Pour ne se rendre pas autheurs d’une, injustice,</p>
         <p>M’accorderont bien-tost la mort ou mon retour.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cependant, permettent les dieux</p>
         <p>Que les traits qui sont dans tes yeux</p>
         <p>Mettent toutie monde en servage.</p>
         <p>Mes rivaux me plairont alors,</p>
         <p>Pourveu que tes désirs soient à mon avantage</p>
         <p>Et que ton amour croisse aussi bien que ton corps.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Durant le temps que Clorian demeura esloigné, il acquit une
         tres-grande, reputation, et Circéne devint si parfaitte
         qu’à son retour il se rangea tout à fait dans l’esclavage, et commença de
@@ -891,11 +891,11 @@
         bouché une petite ouverture qui estait à l’orange. Je pris incontinent ce billet,
         et l’ayant ouvert, je vis qu’il disoit ainsi.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">BILLET DE SILEINE</head>
-        <h3>A PALINICE</h3>
-        <milestone type="space"/>
+        <p>A PALINICE</p>
+        <milestone unit="line"/>
         <p>Pardonnez-moy, bette Palinice, si je me suis servy
         de cette invention pour decevoir vostre cruauté, et ne faites pas un mauvais
         jugement de mon amour, bien que le premier tesmoignage que je vous en donne, soit
@@ -903,9 +903,9 @@
         l’artifice dont ma passion m’a fait user, mais avecque serment de ne m’en servir
         jamais en ce qui regardera la volonté que je vous offre, et que
         vous ne sçauriez refuser, sans me rendre le plus malheureux de tous les hommes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je n’eus pas plustost leu ce papier que je fis dessein de vous le
         montrer et de ne tesmoigner pas à Sileine que je l’eusse veu,
         jusqu’à ce que vous m’eussiez conseillé de quelle façon j’en
@@ -936,9 +936,9 @@
         de me croire luy fit premierement un brassellet tissu de ses cheveux et
         meslé de quelques filets d’or, qui disposez en lettres, y marquoient ces mesmes mots</p>
 
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <head type="chapitre">MIEUX LE CŒUR QUE LE BRAS;</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>puis l’ayant couvert d’une petite
         chaisne d’or, qui faisoit des las d’amour entre les mots, comme si ce
@@ -1263,11 +1263,11 @@
         hazarda donc de luy escrire, mais luy, au lieu de la nourrir de quelque
         esperance, luy fit cette response. <pb n="180"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE SILEINE</head>
-        <h3>A PALINICE</h3>
-        <milestone type="space"/>
+        <p>A PALINICE</p>
+        <milestone unit="line"/>
         <p>Vous croyez que la lettre que vous m’avez escritte
         est un tesmoignage de vostre amour, mais je la prends pour une assurance de vostre
         infidelité. Je m’imagine que vous avez imité ces
@@ -1282,9 +1282,9 @@
         puisque mesme vostre inconstance m’a desja donné tant de hayne pour les
         femmes que, si elles en avaient autant pour nous, je croy que le siecle
         où nous vivons serait le dernier aage de la nature.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette lettre mit Palinice en si mauvaise humeur contre luy que
         pour luy oster tout à fait l’esperance de pouvoir jamais pretendre
         quelque chose en elle, elle se donna à Rossiliandre, qui, l’ayant
@@ -1442,30 +1442,30 @@
         l’aymois assez pour le luy pardonner, resolut de trouver un moyen pour
         me voir, et en attendant il m’envoya ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Enfin ce long hyver a calmé ses orages,</p>
         <p>Les zephirs du prin-temps annoncent le retour,</p>
         <p>Les bergers amoureux dansent soubs les ombrages</p>
         <p>Au chant de mille oyseaux qui se parlent d’amour.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le froid et la pasleur ont quitté nos visages,</p>
         <p>Et mesme les poissons dans l’humide sejour</p>
         <p>Admirent les œillets, qui dessus nos rivages</p>
         <p>Naissent quand le soleil y fait naisire le jour. <pb n="185"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ainsi je vois qu’en l’air, sur la terre, et dans l’onde,</p>
         <p>Les oyseaux, les poissons et le reste du monde</p>
         <p>Tirent quelque plaisir d’un si doux changement:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Moy seul infortuné, je meurs loin g de Florice.</p>
         <p>Rendez-la moy, grands dieux! Est-ce un trait de justice</p>
         <p>Que ma seule douleur dure eternellement?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Bien-tost apres, la fortune favorisa son dessein, car ma tante
         ayant envoyé un jeune homme à mon pere, pour luy faire
         sçavoir qu’elle commençoit à recouvrer sa santé, Lucindor parla
@@ -1613,27 +1613,27 @@
         moy n’a encore ouyes. Disant cela, il’s’assit contre la table, et y
         appuyant le luth, il jetta les yeux sur moy, et puis chanta ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">CHANSON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cette ingratte beauté, quelque mal que je sente,</p>
         <p>N’a jamais pris le soing de guerir mon ennuy,</p>
         <p>Elle ayme mon rival et veut que je consente</p>
         <p>Que si je meurs pour elle, elle vive pour luy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il est vray, ce voleur, ce tyran la possede,</p>
         <p>Et lors qu’un desespoir afflige ma raison,</p>
         <p>Je voy que le cruel jouyt de mon remede,</p>
         <p>Et triomphe des yeux, où je suis en prison.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais, dieux! si cet affront blesse vostre justice,</p>
         <p>Vangez-vous, il est temps de finir ma douleur,</p>
         <p>Et de permettre enfin que ce couple perisse,</p>
         <p>Elle par mes desdains, et luy par ma valeur.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A ce mot il posa le luth sur la table, et cessa de chanter. Je
         rougis à la verité, mais Lucindor au contraire paslit, et je pris bien
         garde qu’il avoit envie de tirer quelque esclaircissement de ces paroles.
@@ -1656,30 +1656,30 @@
         souvenir seulement de me donner le bonsoir. Mais soudain qu’il fut arrivé
         en son logis, il fit ces vers que je receus le lendemain.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous, que mon desespoir accuse justement,</p>
         <p>Beaux yeux à mon dommage aussi douxqu’infidelles,</p>
         <p>Vous avez donc rendu vos flames criminelles,</p>
         <p>Par l’énorme peché de vostre changement!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Amour! il est donc vray que si legerement</p>
         <p>Leurs faveurs que ma foy devoit rendre eternelles,</p>
         <p>Ont cedé le triomphe à des ardeurs nouvelles,</p>
         <p>Et que leur trahison l’a fait impunément!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ah! d’un amant trompé, triste et cruel exemple!</p>
         <p>Qu’on ne me parle plus, ny de ciel ny de temple,</p>
         <p>J’abandonne les dieux, je quitte leurs autels.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je blaspheme desja sans crainte de supplice,</p>
         <p>Aussi-bien voudroient-ils condamner les mortels,</p>
         <p>Si ma déesse mesme a fait une injustice?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces vers me firent parfaitement cognoistfe son transport, mais
         ils ne me donnerent pas pour cela les moyens d’y remedier, car en effect mon
         pere me remit à Teombre, et ce chevalier m’ayant
@@ -1704,8 +1704,8 @@
         chacurt son opinion à Phillis, elle les vint retrouver, et
         s’estant assise, profera tout haut ces paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>Puis que les dieux ont voulu que vos differends me
         fussent exposez, et qu’ils ont ordonné que mon jugement vous serait une loy
         inviolable, apres l’advis de ceux qui ont assisté à cette
@@ -1719,9 +1719,9 @@
         sans qu’il soit permis à ceux que le malheur aura esloignez de
         cette possession, de murmurer ny contre moy, ni contre le Ciel, dont la
         volonté est telle que je la vous expose.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>En cet instant Phillis
         se leva, et ayant pris des mouchoirs, boucha premierement les yeux
         à Circéne, puis à Clorian et à Alcandre, et les
@@ -1761,8 +1761,8 @@
         qu’où elle anime? Que si cela est, pense un peu en combien de beautez je suis
         transformé, et tu verras que m’estant donné à toy, je ne t’ay</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>pas fait un moindre present que de cent belles filles que j’ay</p>
         <p>aymées, en eschange d’une seule, que le hazard a plustost,</p>
         <p>donnée à Lucindor qu’à toy. Chacun se mit à rire</p>
@@ -1776,13 +1776,13 @@
         <p>fit compagnie</p>
         <p>jusques à</p>
         <p>Marcilly.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>[BILD]</p>
         <head type="chapitre">LIVRE V</head>
         <p>[Adamas suivi de Bellinde pénètre dans le temple.]</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>[BILD]</p>
         <head type="chapitre">LIVRE V</head>
         <p>[Adamas et Bellinde.]</p>

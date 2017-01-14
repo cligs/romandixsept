@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE DE L’ASTRÉE</head>
         <head type="chapitre">LIVRE PREMIER</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le bruit que firent certains bergers lors qu’Astrée fut
         enlevée, parvint bien-tost jusqu’aux oreilles de Diane et de
         Phillis, qui s’estans achevées d’habiller, coururent promptement
@@ -465,11 +465,11 @@
         les autres papiers qui estoient attachez aux deux flesches qui luy
         avoient esté apportées, mais par tout il treuva ces mesmes mots:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE SILVANDRE</head>
-        <h3>A ADAMAS</h3>
-        <milestone type="space"/>
+        <p>A ADAMAS</p>
+        <milestone unit="line"/>
 
         <p>Mon pere, si vous avez encore quelques soings qui veillent pour
         le salut de vos bergers de Lignon, et si leur vie qu’ils viennent
@@ -488,9 +488,9 @@
         avantageuse, et de nous en faire advertir au mesme lieu d’où
         nous avons fait partir cette lettre qui est sous le chasteau, dans un
         pré qui separe Herdric et les rochers de Marcilly.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Le Druide recognut incontinent l’artifice de Silvandre, et se
         douta bien que cette quantité de flesches n’estoit autre chose
         qu’un effect de sa prevoyance, mais ne voulant pas les laisser languir
@@ -871,11 +871,11 @@
         Voyez, luy dit-il, ce que j’escris au roy. Ligonias alors l’ayant
         prise, jetta les yeux dessus, et vid qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE POLEMAS</head>
-        <h3>A GONDEBAUT, ROY DES BOURGUIGNONS</h3>
-        <milestone type="space"/>
+        <p>A GONDEBAUT, ROY DES BOURGUIGNONS</p>
+        <milestone unit="line"/>
         <p>Seigneur, ce chevalier que je vous envoye, et qui a pour moy
         une fidelité inviolable, vous parlera du miserable estat de mes
         affaires, et vous representera la necessité que j’ay du secours
@@ -893,7 +893,7 @@
         tousjours vos actions et feront treuver justes en Vostre Majesté
         les mesmes choses qui condamneroient un autre de tyrannie.</p>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>D’ailleurs Amasis s’est ouvertement declarée contre vous, et se
         mocque de vostre puissance, comme si vous n’en aviez pas assez pour la
         destruire quand il vous plaira: son offense qui n’est pas moins
@@ -904,7 +904,7 @@
         la gloire de tenir de vous un sceptre qui, se lassant de n’estre
         soutenu que par les mains d’une femme, merite mieux d’estre compagnon
         d’une lance que d’une quenouille.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Ligonias ayant achevé de lire cette lettre, la ferma et la
         cacheta des armes de Polemas, et luy ayant promis de faire la plus
@@ -1073,10 +1073,10 @@
         retiré en particulier, il ouvrit premierement la lettre
         d’Amasis, et vid qu’elle estoit telle:</p>
 
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’AMASIS</head>
-        <h3>A LINDAMOR</h3>
-        <milestone type="space"/>
+        <p>A LINDAMOR</p>
+        <milestone unit="line"/>
         <p>Vous n’avez point receu de mes nouvelles depuis la mort de
         Clidaman, et toutesfois je ne rempliray point cette lettre des ennuis
         où cette douleur m’a plongée. Je vous diray seulement que
@@ -1088,14 +1088,14 @@
         conjure donc par les larmes et par les souspirs que je donne à
         la memoire de Clidaman <pb n="35"/> de venir chercher icy les victoires, et
         donner à sa Princesse la liberté qu’un subject rebelle luy dispute.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Ah cruel! s’escria Lindamor, si le Ciel ne te punit, il se declare du party des coupables. A ce mot il ouvrit la lettre de Galathée, et y trouva ces mots.</p>
 
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE GALATHÉE</head>
-        <h3>A LINDAMOR</h3>
-        <milestone type="space"/>
+        <p>A LINDAMOR</p>
+        <milestone unit="line"/>
         <p>Quand la lettre d’Amasis n’auroit point de pouvoir sur vous, et
         que je serois descheue de l’autorité qu’autrefois vous m’avez
         donnée sur vos volontez, je m’assure que le plaisir que vous
@@ -1115,7 +1115,7 @@
         croyant pas les pouvoir trouver si rudes que la presence de Polemas ou
         la desobeïssance de Lindamor. Pensez y donc; mais
         que dis-je? Venez, et à Dieu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Lindamor leut cette lettre deux fois, puis ayant pensé
         quelque temps: Ouy, dit-il tout à coup, enfonçant
@@ -1290,30 +1290,30 @@
         s’estant esveillé le matin, ayant encore quelqu’une de ces
         pensées dans l’esprit, il souspira ces vers. <pb n="40"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quels tourments aujourd’huy sont aux miens comparables ?</p>
         <p>Les dieux deviennent impuissants,</p>
         <p>Et je ne trouve plus aux douleurs que je sens.</p>
         <p>Le repos que la nuict donne aux plus miserables.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Fantosmes importuns, songes espouvantables,</p>
         <p>Pourquoy vous plaisez-vous à travailler mes sens?</p>
         <p>Si vous traittez ainsi les esprits innocents,</p>
         <p>Quels bourreaux pour m’assister estes-vous dans l’ame des coupables?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Stelle, je n’en puis plus, un presage fatal</p>
         <p>Te presente á mes yeux dans les bras d’un brutal</p>
         <p>Qui triomphe de toy cependant que je songe:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Nos loix excuseroient ton infidelité,</p>
         <p>Mais sçachant que je meurs pensant à ce mensonge,</p>
         <p>Juge si j’en pourrois souffrir la verité!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Hylas n’eut pas plustost finy ces vers que, voyant qu’il estoit
         desja grand jour, il s’habilla, et ne croyant pas que Stelle fust
         encore en estat d’estre veue, il descendit dans le jardin de Clindor pour se divertir un peu.</p>
@@ -1817,18 +1817,18 @@
         Oracle: sa requeste ne fut nullement vaine, car un jour qu’elle
         le consulta, il luy fut respondu ces mesmes mots. <pb n="53"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dans un antre caché que ce bois te recelle,</p>
         <p>Une ombre doit servir à ton affliction.</p>
         <p>Si Laonice est ferme en son affection,</p>
         <p>Le Ciel promet par elle</p>
         <p>Un remede à sa passion.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cet oracle prononcé, et Laonice l’ayant escrit sur des
         tablettes pour ne l’oublier point, elle rendit graces aux dieux dequoy
         pour le moins ils luy donnoient quelque esperance de guerir de son
@@ -1856,47 +1856,47 @@
         tousjours sur le sujet de son berger. Cela estoit cause que bien
         souvent elle chantoit ces vers. <pb n="54"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Puis que tu m’y contrains, et que mon coeur desire</p>
         <p>De se voir allegé,</p>
         <p>Je cherche en ces deserts un remede au martyre</p>
         <p>Dont il est affligé:</p>
         <p>Car, Tircis, tout ce que j’y voy</p>
         <p>Est bien plus sensible que toy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si je dis aux rochers que ton humeur farouche</p>
         <p>Se plaist en mes douleurs,</p>
         <p>Touchez par les souspirs qui sortent de ma bouche,</p>
         <p>Ils me donnent des pleurs,</p>
         <p>Pour monstrer, à ce que je croy,</p>
         <p>Qu’ils sont plus sensibles que toy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ces eaux qui dans l’horreur de mille precipices</p>
         <p>Roulent incessamment,</p>
         <p>S’arrestent à ma voix pour ouyr les supplices</p>
         <p>Que je souffre en t’aymant,</p>
         <p>Voulans bien, à ce que je croy,</p>
         <p>Estre plus sensibles que toy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et ces bois en tout temps aymez de la nature</p>
         <p>Ne me refusent pas</p>
         <p>Quelques fruicts, d’où prenant un peu de nourriture</p>
         <p>J’esloigne mon trespas,</p>
         <p>Montrants bien, à ce que je voy,</p>
         <p>Qu’ils sont plus sensibles que toy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ainsi m’ayant reduitte en cette solitude</p>
         <p>Contre toute raison,</p>
         <p>Qui ne jugera pas que ton ingratitude</p>
         <p>Est sans comparaison?</p>
         <p>Ayant pu flechir à ma voix</p>
         <p>Les rochers, les eaux, et les bois. <pb n="55"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>C’estoit ainsi que cette bergere s’alloit divertissant pour trou-</p>
         <p>ver moins ennuyeuse l’attente du secours que les dieux</p>
         <p>luy avoient promis, dont l’esperance estoit veritable-</p>

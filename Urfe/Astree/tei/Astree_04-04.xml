@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE QUATRIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Diane et Phillis qui ce matin disnerent avec Astrée pour
         tenir compagnie à Alexis, estans sorties de table, les
         advertirent, lors qu’elles demandoient à quoy elles passeroient
@@ -145,10 +145,10 @@
         obeyssant, que de ne pas satisfaire à vostre volonté.</p>
         <p>Et lors, apres s’estre teue pour quelque temps, elle reprit la parole de cette sorte. <pb n="162"/></p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE DORINDE, DE PERIANDRE, DE MERINDOR, ET DE BELLIMARTE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>C’est avecque beaucoup de raison que les sçavans Mires ont
         accoustumé de dire que les maux interieurs sont les plus
@@ -555,12 +555,12 @@
         tres-veritable, qui fut respondu à un amant qui demandoit ce
         qu’il avoit à faire pour vaincre la cruauté de sa Dame.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Ayme, ose, et continue.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Avec de semblables discours, Euphrosias divertit son amy du dessein
         qu’il avoit de rendre du desplaisir à Periandre, et le remplit
         tellement d’esperance, qu’il recommença de me rechercher avec
@@ -699,61 +699,61 @@
         sçavoit le changement de Piandre, je me souviens qu’un jour il
         fit chanter à la porte de ma chambre ces vers sur ce sujet.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">Stances</head>
-        <h3>Un Amant inconstant.</h3>
-        <milestone type="space"/>
+        <p>Un Amant inconstant.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ce jeune amant, ô Dieu! pourra-t’il bien</p>
         <p>Rompre le nœud qu’il disoit Gordien,</p>
         <p>Pour se rendre infidelle?</p>
         <p>S’il peut le faire, Amour, jamais son cœur</p>
         <p>Digne ne fut d’une flame si belle,</p>
         <p>Ny d’un si beau vainqueur.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pourra-t’il bien le quitter, ce bel œil,</p>
         <p>Sans que mourrant incontinent de deuil,</p>
         <p>Il en paye l’amande? Ah! pour certain, s’il en a le pouvoir,</p>
         <p>Jamais ses yeux une beauté si grande</p>
         <p>N’ont merité de voir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pourra-t’il bien, apres l’avoir aymé,</p>
         <p>S’en éloigner sans en estre blasmé</p>
         <p>Comme un perfide insigne?</p>
         <p>Amour, dy moy, s’il en esteint les feux,</p>
         <p>Ce cœur changeant n’estoit-il pas indigne</p>
         <p>D’estre bruslé par eux?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dés le moment qu’un cœur en est atteint</p>
         <p>Jamais depuis le feu ne s’en esteint,</p>
         <p>Il va bruslant sans cesse. <pb n="177"/></p>
         <p>Combien en sont icurables les coups,</p>
         <p>Vous le sçavez, quand ce bel œil vous blesse,</p>
         <p>O grands dieux! comme nous.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que pleust au Ciel que cet extreme bien</p>
         <p>Fust destiné quelquesfois d’estre mien,</p>
         <p>Par quelque Astre propice!</p>
         <p>Ah! je voudrois jusqu’à l’éternité</p>
         <p>Faire égaler l’amour et le service</p>
         <p>De ma fidelité.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et parce qu’il eut opinion que je ne les avois pu assez bien ouïr
         à cause de la quantité des voix, il me les fit presenter
         par une fille des miennes, qui estoit venue sur la porte de ma chambre
@@ -839,7 +839,7 @@
         mal, si est-ce que son humeur estoit si contraire à la mienne,
         qu’il m’estoit impossible de me contraindre à l’aymer.</p>
 
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Cependant je m’allois guerissant, non pas que je n’eusse le visage si
         gasté, que veritablement je n’estois plus cognoissable, et
@@ -1660,11 +1660,11 @@
         soigneusement pour le convaincre de sa perfidie.</p>
         <p>Et lors, mettant la main dans sa panetiere, elle en tira un papier où elle leut telles paroles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE MERINDOR</head>
-        <h3>A DORINDE</h3>
-        <milestone type="space"/>
+        <p>A DORINDE</p>
+        <milestone unit="line"/>
         <p>
         Pleust á Dieu, belle Dorinde, que je ne fusse plus au monde, ou
         bien que je ne fusse point fils de celle qui est ma pere, pour le moins
@@ -1673,9 +1673,9 @@
         ne me peut estre permis, estant celuy que je suis. L’offre que tant
         à regret je vous fait de luy, tesmoignera bien à chacun
         que veritablement les mariages sont ordonnez dans le Ciel.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>N’estes-vous point estonnées, reprit Dorinde, discrettes et
         bellles bergeres, d’ouir que Merindor m’ait escrit cette lettre, lors
         que par raison il le devoit moins faire; car s’il avoit à me
@@ -1699,11 +1699,11 @@
         disposé ailleurs. Et parce que son frere m’avoit escritte, par
         le congé de mon pere, je la luy fis. Elle estoit telle:<pb n="201"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE DE DORINDE</head>
-        <h3>A MERINDOR</h3>
-        <milestone type="space"/>
+        <p>A MERINDOR</p>
+        <milestone unit="line"/>
         <p>Pleust à Dieu, infidelle Merindor, que vous ne fussiez point en
         terre, ou que je n’eusse jamais eu des yeux pour vous voir, ou pour le
         moins que je fusse homme pour quelque temps, et non pas une fille!
@@ -1713,9 +1713,9 @@
         et que je refuse, tesmoignera à chacun, que le mariage de luy et
         de moy n’a point esté fait dans le Ciel; pour le moins je vous
         assure qu’il ne s’accomplira jamais en terre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Or, madame, ne voylà pas, continua-t’elle trois des plus
         insignes infidelitez, sans que parle des autres, qui ayent jamais
         esté faites contre une fille? et quand je n’eusse jamais eu
@@ -2167,7 +2167,7 @@
         perdre davantage de temps, apres que ces estrangers eurent dit adieu
         à Alexis, Diane, Astée et Phillis, et aux</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>autres bergeres qui s’y trouverent, ils se mirent tous en</p>
         <p>chemin. Les trois chevaliers, montez et armez comme</p>
         <p>ils estoient venus, demeuroient un peu esloignez</p>

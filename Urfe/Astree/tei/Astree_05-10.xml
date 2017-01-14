@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DIXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ces derniers accidents arriverent à Tircis, durant que le
         reste des bergers de Lignon estoit dans un extreme desordre, pour
         l’interest que chascun avoit aux personnes de Celadon, d’Astree, de
@@ -811,11 +811,11 @@
         ma compagne. Aussi-tost le berger la prit et la baisa, puis d’une main,
         toute tremblante l’ayant ouverte, il y leut ces mots.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DIANE</head>
-        <h3>A SILVANDRE</h3>
-        <milestone type="space"/>
+        <p>A SILVANDRE</p>
+        <milestone unit="line"/>
         <p>Si vous estes en peine de moy, cher Silvandre,
         sçachez que je vis seulement pour ce que vous n’estes pas mort;
         que si vostre curiosité s’estend jusqu’à vouloir
@@ -826,9 +826,9 @@
         nos destinies. Cependant aymez vostre conservation pour l’amour de moy,
         et croyez que si l’on me deffend d’’estre à Silvandre, pour le
         moins, je ne seray jamais a Paris. Vivez donc, et Adieu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p><pb n="433"/> Silvandre n’eut pas plustost achevé de lire cette
         lettre qu’il la baisa mille fois, et admirant dans son ame l’affection
         et la fidelité de cette bergere, il releut encore trois ou
@@ -904,13 +904,13 @@
         l’en ayant de nouveau fait prier par Adamas, tous ensemble s’assirent
         en rond asses pres de là, et Olicarsis voyant que toute la
         compagnie estoit en silence, prit la parole de cette sorte.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p><pb n="435"/></p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE D’OLICARSIS ET D’AZAHYDE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ce matin, quand cette bergere nous est venu interrompre (il
         entendoit parler de Phillis), j’estois sur le poinct de vous raconter
         une partie des choses qui sont arrivées, tant en l’Empire
@@ -1804,10 +1804,10 @@
         presque ny vivre ny mourir dans la rigueur d’une peine si
         extraordinaire, je fus inspire d’aller consulter un oracle, qui me respondit cecy.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Va, mais cherche un lieu que Neptune</p>
         <p>S’est veu contraint d’abandonner;</p>
         <p>C’est là qu’un estranger parlant de ta fortune</p>
@@ -1817,9 +1817,9 @@
         <p>Jamais ne se terminera,</p>
         <p>Ou celuy qui te rend coupable d’homicide,</p>
         <p>Te voyant te pardonnera.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cet oracle, où je ne pus rien comprendre, sinon que je ne
         guerirois jamais, jusqu’à ce que celuy que j’avois tué
         m’eust veu, et m’eust pardonné mon crime me mit dans une telle
@@ -1887,7 +1887,7 @@
         incontinent, bien qu’il eust changé de condition comme d’habit; et s’estant
         prosterné devant luy, il fut quelque temps sans faire autre</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>chose que donner des larmes au souvenir de ce qu’il avoit attenté contre</p>
         <p>sa personne. Enfin Silvandre ayant fait tout son effort pour le</p>
         <p>relever, 1’embrassa avecque respect, et luy remit si</p>

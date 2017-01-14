@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE CINQUIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Astrée eust bien plaisir au discours de Hylas, si
         c’eust esté en un autre saison; mais le desir extreme qu’elle
         avoit d’estre au lieu de Silvandre avoit trouvé la lettre de
@@ -189,17 +189,17 @@
         de bois, estoyent attachez au milieu d’un feston, qui faisoit le tour
         de la voute de la porte. Les vers estoient tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Loin, bien loin, profanes esprits:</p>
         <p>Qui n’est d’un sainct amour espris,</p>
         <p>En ce lieu sainct ne fasse entré</p>
         <p>Voicy le bois où chasque jour,</p>
         <p>Un cœur qui ne vit que d’amour,</p>
         <p>Adore la déesse Astrée. <pb n="177"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces bergers et bergeres demeurerent estonnez de voir ceste
         inscription, et se regardoient les uns les autres, comme se voulant demander si
         quelqu’un de la trouppe ne sçavoit point ce que c’estoit, et
@@ -358,137 +358,137 @@
         le prenant en la main, il leut ces parolles qui estoient
         escrites au bas. <pb n="181"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">VOICY LES DOUZE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>Tables des Loix d’Amour</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que sur peine d’encourir sa disgrace,</p>
         <p>il commande à tout amant d’observer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Premiere Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qui veut estre parfaict amant,</p>
         <p>Il faut qu’il ayme infiniment:</p>
         <p>L’extreme amour seule en est digne,</p>
         <p>Aussi la mediocrité,</p>
         <p>De trahision est plustost signe,</p>
         <p>Que non pas de fidelité.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Deuxiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il ayme jamais qu’en un lieu,</p>
         <p>Et que cest amour soit un dieu,</p>
         <p>Qu’il adore pour toute chose:</p>
         <p>Et n’ayant jamais qu’un objet,</p>
         <p>Tous les bon-heurs qu’il se propose,</p>
         <p>Soyent pour cet unique subjet.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Troisiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bornant en luy tous ses plaisirs,</p>
         <p>Qu’il arreste tous ses desirs</p>
         <p>Au service de cette belle,</p>
         <p>Voire qu’il cesse de s’aymer,</p>
         <p>Sinon que d’autant qu’aymé d’elle,</p>
         <p>Il se doit pour elle estimer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Quatriesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que s’il a le soin d’estre mieux,</p>
         <p>Ce ne soit que pour les beaux yeux</p>
         <p>Dont son amour a pris naissance.</p>
         <p>S’il souhaitte plus de bon-heurs,</p>
         <p>Ce ne soit que pour l’esperance</p>
         <p>Qu’elle en recevra plus d’honneur. <pb n="182"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Cinquiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Telle soit son affection,</p>
         <p>Que mesme la possession</p>
         <p>De ce qu’il desire en son ame,</p>
         <p>S’il doit l’achetter au mespris</p>
         <p>De son honneur ou de sa dame,</p>
         <p>Luy soit moins chere que ce pris.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Sixiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour subjet qui se vienne offrir,</p>
         <p>Qu’il ne puisse jamais souffrir</p>
         <p>La honte de la chose aimée:</p>
         <p>Et si devant luy par desdain</p>
         <p>D’un mesdisant elle est basmée,</p>
         <p>Qu’il meure ou la venge soudain.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Septiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que son amour fasse en effect</p>
         <p>Qu’il juge en elle tout parfaict,</p>
         <p>Et quoy que sans doute il l’estime</p>
         <p>Au pris de ce qu’il aymera,</p>
         <p>Qu’il condamne comme d’un crime</p>
         <p>Celuy qui moins l’estimera.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Huictiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’esprit d’un amour violant,</p>
         <p>Il aille sans cesse bruslant,</p>
         <p>Et qu’il languisse et qu’il souspire</p>
         <p>Entre le vie et le trespas,</p>
         <p>Sans toutesfois qu’il puisse dire</p>
         <p>Ce qu’il veut, ou qu’il ne veut pas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Neufiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mesprisant son propre sejour,</p>
         <p>Son ame aille vivre d’amour <pb n="183"/></p>
         <p>Au sein de celle qu’il adore,</p>
         <p>Et qu’en elle ainsi transformé</p>
         <p>Tout ce qu’elle aime et qu’elle honore,</p>
         <p>Soit aussi de luy bien aymé.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Dixiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il tienne les jours pour perdus</p>
         <p>Qui loin d’elle sont despendus.</p>
         <p>Toute peine soit embrassée</p>
         <p>Pour estre en ce lieu desiré.</p>
         <p>Et qu’il y soit de la pensée,</p>
         <p>Si le corps en est separé.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Unziesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que la perte de la raison,</p>
         <p>Que les liens et la prison,</p>
         <p>Pour elle en son ame il cherisse.</p>
         <p>Et se plaise à s’y renfermer</p>
         <p>Sans attendre de son service</p>
         <p>Que le seul honneur de l’aimer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Douziesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il ne puisse jamais penser</p>
         <p>Que son amour doive passer:</p>
         <p>Que d’autre sorte le conseille</p>
         <p>Soit pour ennemy reputé,</p>
         <p>Car c’est de luy prester l’aureille,</p>
         <p>Crime de leze Majesté.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Hylas qui escoutoit ce que Silvandre lisoit: Je ne croy
         point; dit-il, Silvandre, qu’une seule des parolles que tu as proferées soit
         escritte au tableau que tu tiens. Mais les ayant composées il y
@@ -513,10 +513,10 @@
         avoit au dessus de la voûte de la porte un feston où
         pendoit un tableau dans lequel ces vers estoient escrits.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le Temple d’amitié</p>
         <p>Ouvre sans plus d’entrée</p>
         <p>Du sainct temple d’Astrée,</p>
@@ -526,9 +526,9 @@
         <p>Veut qu’ores je luy donne</p>
         <p>Les tristes nuits</p>
         <p>De mes ennuis.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Astrée fut celle qui s’y arresta le plus: fust
         qu’à cause de son nom, il luy semblast qu’elle y eust le plus d’interest, ou
         qu’oyant parler de la vie des ennuis, elle pensast que cela se deust
@@ -566,12 +566,12 @@
         haut du tableau il y avoit: C’est la déesse Astrée, et
         au bas on voyoit ce vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Plus digne de nos vœux, que nos vœux ne sont d’elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Si tost que Diane jetta les yeux dessus, elle se tourna
         vers Phillis: N’avez-vous jamais veu (luy dit-elle), mon serviteur, personne à
         qui ce pourtrait ressemble? Phillis le considerant d’avantage:
@@ -608,14 +608,14 @@
         l’autel, et voyant plusieurs petits roulleaux de papiers espars dessus,
         elle en prit un, et le desliant toute tremblante, y trouva ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Privé de mon vray bien, ce bien faux me soulage.</p>
         <p>Passant, si tu t’enquiers qui, dedans ce boccage,</p>
         <p>M’a donné ce pourtraict,</p>
         <p>Sçache qu’Amour l’a faict,</p>
         <p>Qui privé du vray bien, d’un bien faux me soulage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pressé de la douleur je luy tiens ce langage,</p>
         <p>Banny de la moitié</p>
         <p>Permettez par pitié,</p>
@@ -636,9 +636,9 @@
         <p>Mais comme dieux tres grands,</p>
         <p>Car par effet j’apprends</p>
         <p>Que privé du vray bien, ce bien faux me soulage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Astrée estant retirée à part, lisoit et
         consideroit ces vers, et plus elle regardoit l’escriture, et plus il
         luy sembloit que c’estoit de celle de Celadon; de sorte, qu’apres un
@@ -655,10 +655,10 @@
         ouvrit quelques roulleaux de ceux qui estoient sur l’autel. Le premier
         qui luy tomba entre les mains, fut celuy-cy.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">DIALOGUE SUR LES YEUX D’UN POURTRAIT STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p> Sont-ce, peintre sçavant, des ames ou des flames,</p>
         <p>Qui naissant de ces yeux leur volent à l’entour?</p>
         <p>– Ce sont flames d’amour qui consument les ames,</p>
@@ -675,9 +675,9 @@
         <p>Doit de devotion, non d’amour s’allumer.</p>
         <p>– Les dieux ne veulent rien outre nostre puissance,</p>
         <p>Espreuve, si tu peux, les voir sans les aymer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant que Diane, pour amuser toute la compagnie,
         alloit lisant tout haut ces vers, et ceux-cy estans finis, en prenoit d’autres, dont
         l’autel estoit presque couvert, Phillis s’adressant à la bergere
@@ -695,30 +695,30 @@
         qu’il y a dans ce papier que je tiens en la main, et que j’ay pris au
         pieds de vostre image.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qui ne l’admireroit! et qui n’aymeroit mieux</p>
         <p>Errer en l’adorant plein d’amour et de crainte,</p>
         <p>Et rendre courroucez contre soy tous les dieux,</p>
         <p>Que n’idolatrer point une si belle Saincte? <pb n="189"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais qu’est-ce que je dis? en effet elle est peinte.</p>
         <p>La belle que voicy, ce ne sont pas des yeux,</p>
         <p>Comme nous les croyons, ce n’en est qu’une fainte,</p>
         <p>Dont nous deçoit la main du peintre ingenieux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ce ne sont pas des yeux? si ressens-je la playe,</p>
         <p>Quoy que le trait soit faint, toutesfois estre vraye,</p>
         <p>Fuyons donc, puis qu’ainsi les coups nous en sentons.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais pourquoy fuyrons-nous? La fuite en est bien vaine,</p>
         <p>Si desja bien avant dans le cœur nous portons,</p>
         <p>De ces yeux vrays ou faux, la blessure certaine.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ah! ma sœur, dit alors Astrée, n’en doutons plus,
         c’est bien Celadon qui a escrit ces vers, c’est bien luy sans doute, car il y a
         plus de trois ans qu’il les fit sur un pourtraict que mon pere avoit
@@ -887,10 +887,10 @@
         saule, elle s’y en alla pour voir ce que c’estoit, et le desployant
         trouva ces parolles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">ORAISON A LA DÉESSE ASTRÉE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Grande et toute-puissante
         déesse, encore que vos perfections ne
         puissent estre esgalées, il ne faut que nos sacrifices, ne
@@ -907,9 +907,9 @@
         par le nom de Celadon, de qui le memoire vous doit plaire, si celle du
         plus fidelle et affectionné de vos serviteurs, peut jamais avoir
         obtenu de vostre divinité ceste glorieuse satisfaction. <pb n="194"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Phillis faisant signe de la main, et appellant
         Astrée: Venez lire, luy dit-elle, ma sœur, ce que Celadon vous demande, et vous
         connoistrez que Tircis vous a dit vray. Et lors s’estant tous
@@ -943,132 +943,132 @@
         les lit: et incontinent, comme il avoit l’esprit prompt, les change de
         ceste sorte.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">TABLES D’AMOUR</head>
-        <h3>falsifiées par l’inconstant Hylas</h3>
-        <milestone type="space"/>
+        <p>falsifiées par l’inconstant Hylas</p>
+        <milestone unit="line"/>
         <h4>Premiere Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qui veut estre parfaict amant,</p>
         <p>Qu’il n’ayme point infiniment: <pb n="195"/></p>
         <p>Telle amitié n’en est pas digne.</p>
         <p>Puis qu’au rebours l’extremité</p>
         <p>De l’imprudence est plustost signe,</p>
         <p>Que non pas de fidelité.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Deuxiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il ayme et serve en divers lieux,</p>
         <p>Et qu’il tourne tousjours les yeux,</p>
         <p>dessus quelque nouvelle chose,</p>
         <p>Aymant ainsi divers objets,</p>
         <p>Que les bon-heurs qu’il se propose,</p>
         <p>Soient aussi pour divers sujets.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Troisiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ne bornant jamais ses desirs,</p>
         <p>Qu’il cherche par tout des plaisirs,</p>
         <p>Faisant tousjours amour nouvelle,</p>
         <p>Voire qu’il cesse de l’aymer</p>
         <p>Sinon que d’autant qu’aymé d’elle,</p>
         <p>Pour luy seul il doit l’estimer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Quatriesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que s’il a du soin d’estre mieux,</p>
         <p>Ce soit pour plaire à tous les yeux</p>
         <p>Des belles de sa cognoissance:</p>
         <p>S’il souhaitte quelque bon-heur,</p>
         <p>Ce ne soit que pour l’esperance</p>
         <p>D’estre plus absolu seigneur.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Cinquiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Telle soit son affection,</p>
         <p>Que mesme la possession <pb n="196"/></p>
         <p>De ce qu’il desire en son ame,</p>
         <p>S’il doit l’acheter au mespris</p>
         <p>De son honneur ou de sa dame,</p>
         <p>Il la vueille bien à ce prix.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Sixiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour subjet qui se vienne offrir,</p>
         <p>Qu’il ne puisse jamais souffrir</p>
         <p>Querelle pour la chose aymée:</p>
         <p>Que si devant luy par desdain,</p>
         <p>D’un mesdisant elle est blasmée,</p>
         <p>Qu’il y consente tout soudain.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Septiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que l’amour permette en effait</p>
         <p>Que son jugement soit parfait,</p>
         <p>Et que dans son ame il l’estime,</p>
         <p>Toute telle qu’elle sera,</p>
         <p>Condamnant comme d’un grand crime</p>
         <p>Celuy qui plus l’estimera.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Huictiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’espris d’un amour assez lent,</p>
         <p>Il n’aille sans cesse bruslant,</p>
         <p>Ny qu’il languisse ou qu’il souspire</p>
         <p>Entre la vie et le trespas:</p>
         <p>Mais que tousjours il puisse dire</p>
         <p>Ce qu’il veut, ou qu’il ne veut pas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Neufiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Estimant son propre sejour,</p>
         <p>Son ame en soy vive d’amour, <pb n="197"/></p>
         <p>Et non en celle qu’il adore,</p>
         <p>Sans qu’en elle estant transformé,</p>
         <p>Tout ce qu’elle ayme et qu’elle honore.</p>
         <p>Soit aussi de luy bien aymé.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Dixiesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il ne tienne pas pour perdus,</p>
         <p>Les jours loin d’elle despendus,</p>
         <p>Si la peine n’est surpassé</p>
         <p>Par le bien qu’il s’est figuré,</p>
         <p>Mais se contente en sa pensée,</p>
         <p>Si le corps en est separé.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Unziesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il se remette à la raison,</p>
         <p>Que ses liens et sa prison</p>
         <p>Pour elle bien-tost il finisse:</p>
         <p>Mesprisant de s’y renfermer,</p>
         <p>S’il n’attend rien de son service</p>
         <p>Que le vain honneur de l’aymer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>Douziesme Table.</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’il ne puisse jamais penser</p>
         <p>Que telle amour n’ait à passer:</p>
         <p>Qui d’autre sorte le conseille,</p>
         <p>Soit pour ennemy reputé,</p>
         <p>Car c’est de luy prester l’oreille</p>
         <p>Crime de leze Majesté.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Hylas se hasta le plus qu’il luy fut possible de changer
         de ceste sorte ces douze tables, et afin que ses rayeures fussent moins cognues, il
         les effaçoit avec la pointe d’un cousteau; et y ayant

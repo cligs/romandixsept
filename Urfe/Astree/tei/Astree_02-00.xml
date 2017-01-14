@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -41,7 +41,7 @@
 <body>
 <div>
         <head type="partie">L’AUTHEUR AU BERGER CELADON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>C’est une estrange humeur que la tienne, Celadon, de te
         cacher avec tant de peine et d’opinatreté à ta bergère, et de
         désirer avec tant de passion que toute l’Europe sçache

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -41,7 +41,7 @@
 <body>
 <div>
         <head type="partie">AU ROY</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>SIRE,</p>
         <p>Cette bergere qui s’oze presenter maintenant devant vos yeux
         est celle-là mesme qui autrefois prenant une semblable hardiesse,
@@ -84,10 +84,10 @@
         tous bons et fideles subjects les souhaittent, et moy, Sire, en cette
         qualité, j’en supplie Dieu, avec tous ceux qui desirent la grandeur de vostre couronne, le repos de vos
         peuples, et la gloire de vostre nom, comme celuy qui sera à jamais,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>SIRE,</p>
         <p>Tres-humble, tres-fidelle, et tres-obeyssant serviteur et sujet de vostre Majesté,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>HONORÉ D’URFÉ.</p>
     </div>
 

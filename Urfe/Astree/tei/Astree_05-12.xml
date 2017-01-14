@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DOUZIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Amasis ne communiqua point à Galatée ny à
         Rosanire la resolution de Dorinde pour ce qu’elle crut que devant
         qu’elles en pussent estre adverties, elle auroit eu le temps de l’en
@@ -185,19 +185,19 @@
         pas. Disant cela, il luy remit un petit papier, où elle trouva
         ces mots escrits avecque du sang. <pb n="511"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">BILLET DE SIGISMONDE</head>
-        <h3>A DORINDE</h3>
-        <milestone type="space"/>
+        <p>A DORINDE</p>
+        <milestone unit="line"/>
         <p>On dit que le sang figure la cruauté, mais
         je veux que celluy-cy vous soit une marque eternelle de mon amour et de
         ma foy; recevez-le comme vostre, chere Dorinde, et souvenez-vous que
         je n’en seray pas avare, s’il faut que j’acquiere vostre beauté
         par mes armes, comme j’ay desja triomphé de vostre cœur par mes services.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A la veue de cette lettre, Dorinde fut veritablement
         touchée, et Godomar qui s’en apperceut prit si bien son temps,
         qu’il acheva de la persuader; il luy jura tant de choses en faveur de
@@ -850,24 +850,24 @@
         jettants aussi des coronnes sur l’assemblée, joignaient leurs
         voix au son de quelques instruments et chantoient ces paroles.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>C’est assez, les dieux sont contents,</p>
         <p>Il est temps</p>
         <p>Qu’aux douleurs le plaisir succede,</p>
         <p>Et qu’apres de si longs travaux</p>
         <p>Le Ciel par un puissant remede</p>
         <p>Arreste desormais la suitte de vos maux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’on ne parle plus de malheurs,</p>
         <p>Que les pleurs</p>
         <p>Cessent de ternir vos visages,</p>
         <p>Puisqu’il est fatal qu’à son  tour</p>
         <p>Lignon marie en ses rivages</p>
         <p>Les douceurs de la paix aux charmes de l’amour.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p><pb n="528"/> Ce concert achevé, le nuage se dissipa tout à fait et
         tous ces petits Amours disparurent, mais Astrée n’en fut pas
         tesmoing, car cette belle bergere ne sceut pas plustost que Silvandre
@@ -1286,7 +1286,7 @@
         sceu que Gondebaut consentoit enfin que Sigismond l’espousast. Rosileon
         et Rosanire s’en retournerent aupres d’Argyre;</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Diane et Alcidon allerent revoir leurs maisons, et tous les bergers</p>
         <p>et bergeres revindrent raconter à Lignon les triomphes</p>
         <p>qu’ils avoient emportez en la jouyssance des faveurs</p>
@@ -1296,10 +1296,10 @@
         <p>elle ne parle d’autre chose que repos</p>
         <p>de Celadon et de la felicité</p>
         <p>d’ASTRÉE.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <head type="partie">FIN</head>
         <head type="partie">DE L’ASTRÉE.</head>
     </div>

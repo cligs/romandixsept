@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE SIXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ils n’eurent pas plustost achevé de disner, qu’Alcandre,
         Sileine et Lucindor resolurent de partir du Forests, et d’aller revoir
         les rives de l’Arar, pour leur apprendre quel estoit le contentement
@@ -354,16 +354,16 @@
         cause que haussant <pb n="235"/> la voix, afin qu’elle pust parvenir
         jusqu’au delà du rivage, il profera ces paroles.</p>
     </div>
-    <div class="cls"></div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="cls"></div>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">ODE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="cls"></div>
-    <div class="content2col">
-        <div class="content2coll">
-            <div class="contentli">
+    <div type="cls"></div>
+    <div type="content2col">
+        <div type="content2coll">
+            <div type="contentli">
                 <p>C’est trop observé le silence!</p>
                 <p>Le mal qui trouble ma raison</p>
                 <p>N’espere point de guerison</p>
@@ -376,16 +376,16 @@
                 <p>Je n’attends mon bien que de toy.</p>
             </div>
         </div>
-        <div class="content2colr">
-            <div class="contentli">
-                <milestone type="space"/>
+        <div type="content2colr">
+            <div type="contentli">
+                <milestone unit="line"/>
             </div>
         </div>
     </div>
-    <div class="cls"></div>
-    <div class="content2col">
-        <div class="content2coll">
-            <div class="contentli">
+    <div type="cls"></div>
+    <div type="content2col">
+        <div type="content2coll">
+            <div type="contentli">
                 <p>Echo</p>
                 <p>Diane me tient en servage,</p>
                 <p>Mais que faut-il pour l’asservir?</p>
@@ -410,37 +410,37 @@
                 <p><pb n="236"/></p>
             </div>
         </div>
-        <div class="content2colr">
-            <div class="contentli">
-                <milestone type="space"/>
-                <milestone type="space"/>
+        <div type="content2colr">
+            <div type="contentli">
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>servir.</p>
-                <milestone type="space"/>
+                <milestone unit="line"/>
                 <p>rage.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>tente.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>escris.</p>
-                <milestone type="space"/>
+                <milestone unit="line"/>
                 <p>voy la.</p>
-                <milestone type="space"/>
+                <milestone unit="line"/>
                 <p>ayde.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>hayne.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>je ments.</p>
-                <milestone type="space"/>
+                <milestone unit="line"/>
             </div>
         </div>
     </div>
-    <div class="cls"></div>
-    <div class="content2col">
-        <div class="content2coll">
-            <div class="contentli">
+    <div type="cls"></div>
+    <div type="content2col">
+        <div type="content2coll">
+            <div type="contentli">
                 <p>Echo, vis-tu jamais esclave</p>
                 <p>Plus amoureux de sa douleur?</p>
                 <p>Dy pourtant quell’est ma couleur,</p>
@@ -453,25 +453,25 @@
                 <p>Que faut-il pour l’y disposer?</p>
             </div>
         </div>
-        <div class="content2colr">
-            <div class="contentli">
-                <milestone type="space"/>
-                <milestone type="space"/>
-                <milestone type="space"/>
+        <div type="content2colr">
+            <div type="contentli">
+                <milestone unit="line"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>have.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>aise.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>oser.</p>
             </div>
         </div>
     </div>
-    <div class="cls"></div>
-    <div class="content2col">
-        <div class="content2coll">
-            <div class="contentli">
+    <div type="cls"></div>
+    <div type="content2col">
+        <div type="content2coll">
+            <div type="contentli">
                 <p>Responds, où se plaist mieux mon ame,</p>
                 <p>Depuis mes services offerts?</p>
                 <p>Et cette beauté que je sers,</p>
@@ -494,35 +494,35 @@
                 <p>Qui sçache mes flames celer?</p>
             </div>
         </div>
-        <div class="content2colr">
-            <div class="contentli">
-                <milestone type="space"/>
+        <div type="content2colr">
+            <div type="contentli">
+                <milestone unit="line"/>
                 <p>aux fers.</p>
-                <milestone type="space"/>
+                <milestone unit="line"/>
                 <p>l’ame.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>tienne.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>des fait.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>l’age.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>taire.</p>
-                <milestone type="space"/>
-                <milestone type="space"/>
+                <milestone unit="line"/>
+                <milestone unit="line"/>
                 <p>c’est l’air.</p>
             </div>
         </div>
     </div>
-    <div class="cls"></div>
-    <div class="content2col">
-        <div class="content2coll">
-            <div class="contentli">
+    <div type="cls"></div>
+    <div type="content2col">
+        <div type="content2coll">
+            <div type="contentli">
                 <p>Helas! que ma follie est grande,</p>
                 <p>Et que mon transport est puissant!</p>
                 <p>Je consulte un roc innocent,</p>
@@ -536,15 +536,15 @@
                 <p>Soit plus dure que ce rocher.</p>
             </div>
         </div>
-        <div class="content2colr">
-            <div class="contentli">
-                <milestone type="space"/>
+        <div type="content2colr">
+            <div type="contentli">
+                <milestone unit="line"/>
             </div>
         </div>
     </div>
-    <div class="cls"></div>
-    <div class="contentl">
-        <milestone type="space"/>
+    <div type="cls"></div>
+    <div type="contentl">
+        <milestone unit="line"/>
         <p>A ce mot, ce berger se teut pour quelque temps, puis reprenant la
         parole: Ouy certes, continua-t’il, il faut bien, Silvandre, que
         l’excés de ta passion t’ait troublé le jugement
@@ -731,17 +731,17 @@
         consultay en particulier l’Oracle de la Deité que je sers, qui
         acheva de m’y faire consentir, car elle me le commanda absolument par ces mots.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ne t’informe pas davantage,</p>
         <p>Bellinde, mais va de ce pas</p>
         <p>Donner ta fille en mariage</p>
         <p>A Paris, le fils d’Adamas.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ah dieux! s’escria Diane, qu’elle est insupportable cette
         necessité que les dieux m’imposent! et que j’auray de peine
         à souffrir <pb n="242"/> la tyrannie de ce mary! Disant cela, ses
@@ -1204,10 +1204,10 @@
         qu’insensiblement elle s’en approchoit, il leur fut impossible de
         s’empescher d’ouyr qu’elles disoient ainsi</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">VILLANNELLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Amour, que j’ayme les lys</p>
         <p>Qui sont au sein de Phillis!</p>
         <p>Quelques beautez que la Nature</p>
@@ -1216,30 +1216,30 @@
         <p>Dont elle imite la peinture,</p>
         <p>Rien n’est beau comme les lys</p>
         <p>Qui sont au sein de Phillis!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Zephire envieux de mon aise,</p>
         <p>Ne souspire plus que pour eux,</p>
         <p>Et dans son transport amoureux</p>
         <p>Il va disant, quand il les baise:</p>
         <p>Amour, que j’ayme les lys</p>
         <p>Qui sont au sein de Phillis!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Leur blancheur que rien ne surmonte,</p>
         <p>Reluit d’un esclat nompareil,</p>
         <p>Pour eux s’est caché le Soleil,</p>
         <p>Et la neige a pasli de honte.</p>
         <p>Amour, que j’ayme les lys</p>
         <p>Qui sont au sein de Phillis! <pb n="254"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais j’ay beau cognoistre leurs charmes,</p>
         <p>On les defend à mon desir,</p>
         <p>Et la mauvaise prend plaisir</p>
         <p>A les arrouser de mes larmes;</p>
         <p>Et pourtant j’ayme les lys</p>
         <p>Qui sont au sein de Phillis!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette bergere alloit chantant de cette sorte, ne croyant pas
         qu’elle eust tant de suject de s’affliger, pour l’interest qu’elle
         avoit en la douleur de ses compagnes. Et presque au mesme temps qu’elle

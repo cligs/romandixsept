@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE HUITIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quelque dessein que Leonide eust fait de n’avoir plus
         d’amour pour Celadon, si ne se pouvoit-elle deffaire entierement de la
         premiere affection qu’elle avoit eue pour luy, tant cette passion
@@ -231,19 +231,19 @@
         l’autel, et se levant sur le haut des pieds, les cheveux espars et herissez,
         elle profera d’une voix toute changée telles parolles. <pb n="314"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A vous, sage Adamàs, le Ciel l’a destiné,</p>
         <p>Surmontez par prudence</p>
         <p>Et l’amour et l’enfance.</p>
         <p>Vous le devez ainsi, puis qu’il est ordonné,</p>
         <p>Qu’obtenant sa maistresse,</p>
         <p>Contente pour jamais sera vostre vieillesse.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Adamas, apres avoir remercié Taramis et supplié qu’il luy
         fist bien entendre sa volonté, de peur que par ignorance il n’y
         contrevint, partit de ce lieu, tout resolu d’assister Cladon en tout ce
@@ -268,31 +268,31 @@
         larmes que ses pensees luy arrachoient du cœur, tomboient dedans, et se
         mesloient parmy son onde. Et lors qu’ils arriverent, il reprit ainsi la parole.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET II</head>
-        <h3>se compare à la riviere de Lignon.</h3>
-        <milestone type="space"/>
+        <p>se compare à la riviere de Lignon.</p>
+        <milestone unit="line"/>
         <p>Riviere que j’ accrois couche parmy ces fleurs,</p>
         <p>Je considere en toy ma triste ressemblance: <pb n="315"/></p>
         <p>De deux sources tu prens en mesme temps naissance</p>
         <p>Et mes yeux ne sont rien que deux sources de pleurs.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tu n’as point tant de flots que je sens de malheurs.</p>
         <p>Si tu cours sans dessein, je sers sans esperance.</p>
         <p>En des sommets hautains ta source se commence.</p>
         <p>D’orgueilleuses beautez procedent mes douleurs.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Combien de grands rochers te rompent le passage?</p>
         <p>De quels empeschements ne sens-je point l’outrage?</p>
         <p>Toutes fois. en un point nous differons tous deux:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>En toy Fonde s’accroit des neges qui se fondent,</p>
         <p>Plus on gele pour moy, plus mes larmes abondent,</p>
         <p>Quoy que tu sois si froide, et moy si plein de feux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ah! riviere, continua-t’il peu apres, qui es
         tesmoin que je suis le plus malheureux, comme autresfois tu m’as veu le plus heureux berger du
         monde, est-il possible que tu n’ayes point de regret de n’avoir voulu
@@ -1076,11 +1076,11 @@
         escrite de la mesme  main. Et lors la despliant, elle trouva
         qu’elle estoit telle. <pb n="335"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE CELADON</head>
-        <h3>A LA BERGERE ASTRÉE</h3>
-        <milestone type="space"/>
+        <p>A LA BERGERE ASTRÉE</p>
+        <milestone unit="line"/>
         <p>Si l’occasion de vostre venue en ce lieu, où le
         reste de Celadon est encore, puis que les dieux le veulent ainsi, n’est que pour voir
         combien vous avez peu, et pouvez sur luy, c’est trop de peine pour
@@ -1111,9 +1111,9 @@
         aimée bergere de l’univers, de mesme je me diray, puis que ma
         fortune et ma constance le veulent ainsi le plus infortuné comme
         le plus fidelle de vos serviteurs.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce fut bien alors que ces bergeres creurent que Celadon
         estoit mort, et que l’amour fit resoudre Astrée de luy rendre le Rentier devoir
         de son amitié. Et lors qu’elles se vouloient lever pour
@@ -1124,30 +1124,30 @@
         apres avoir esté quelque temps immobile, en fin il dit fort haut
         telles paroles.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La belle dont l’amour me prive de repos,</p>
         <p>Reposoit doucement sous l’ombre d’un boccage</p>
         <p>Là voloient les amours autour de son visage,</p>
         <p>Qui naissoient de ses yeux, encor qu’ils fussent clos.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Là les Zephirs changez en amoureux propos,</p>
         <p>Rendoient pour ses amours un amoureux hommage.</p>
         <p>Et les arbres chargez de tant d’amours esclos,</p>
         <p>N’en estoient garantis par les loix de leur aage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Hommes, faunes ny dieux, rien n’estoit à l’entour,</p>
         <p>Contemplant ce sommeil, qui ne bruslast d’amour,</p>
         <p>Et perdist le repos pendant qu’elle repose.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quelle estes-vous, beauté, quand veinere vous voulez,</p>
         <p>Puis que, sans ce dessein, tellement vous bruslez,</p>
         <p>Que vous voir, vous aymer, n’est qu’une mesme chose?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Il parloit ainsi haut, parce qu’il ne
         craignoit de l’esveilier, ayant
         eu commandement d’elle de le faire aussi tost mesme que la lune
@@ -1499,66 +1499,66 @@
         chanter ce que mes yeux ne cesseront jamais de pleurer. Et lors il
         souspira ces vers, ausquels pour luy deplaire elle respondit.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">DIALOGUE PALEMON, DORIS</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>PALEMON</h4>
         <p>Si fayme autre que vous, que je meure, et soudain</p>
         <p>D’éternelle douleur ceste mort soit suivie,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DORIS</h4>
         <p>Que je puisse mourir d’un tourment inhumain.</p>
         <p>Si d’aymer rien que moy je prens jamais envie.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>PALEMON</h4>
         <p>Aymez ou n’aymez point, tous jours  vous adorant,</p>
         <p>Vous verrez que ma foy se rendra plus extreme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DORIS</h4>
         <p>Aymez ou n aymez point’, il m’est indifferent,</p>
         <p>Mais vous ne verrez point que jamais je vous aime. <pb n="346"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>PALEMON</h4>
         <p>J’y vaincray vous aymant toute difficulté,</p>
         <p>Encor qu’à mon dessein le Ciel mesme s’oppose.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DORIS</h4>
         <p>Mon cœur est tellement de l’amour rebutté,</p>
         <p>Que pour ne vous aymer il vaincra, toute chose.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>PALEMON</h4>
         <p>Si le Ciel estoit juste, il puniroit en vous</p>
         <p>Cet orgueil qui vous fait mespriser tous les hommes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DORIS</h4>
         <p>Mais tant s’en faut: le Ciel estant tres, juste en nous,</p>
         <p> Nous detient l’un et l’autre au dessein où nous sommes.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>PALEMON</h4>
         <p>Quand il veut qu’on vous aime, il est juste en ce point,</p>
         <p>Mais injuste en ostant à l’amour l’esperance.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DORIS</h4>
         <p>S’il veut que vous aimiez, et que je naime point,</p>
         <p> Il venge mon amour et punit vostre offence.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Encor que Doris ne fist responce au berger, qui ne luy
         rendis! tesmoignage de mauvaise volonté, si ne laissoit-il de prendre
         quelque espece de contentement à la voir et à
@@ -1673,10 +1673,10 @@
         aupres de quelques bergeres qu’il rencontra en allant au temple de la
         déesse Astrée. Le tiltre que Silvandre escrivoit estoit tel.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <head type="chapitre">AUX.DIEUX.MANES.</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>ET.</p>
         <p>A.LA.MEMOIRE.ETERNELLE.</p>
         <p>DU.PLUS AYMABLE. BERGER.</p>
@@ -1696,9 +1696,9 @@
         <p>SUBJET.SI.AYMABLE.</p>
         <p>IL.NE.VEUT.NY.NE.DAIGNEROIT.PLUS.EMPLOYER.SES.</p>
         <p>TRAITS.NY.SES.FLAMMES.INUTILES.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Chascun loua l’esprit de Silvandre, mais plus ceux qui
         sçavoient le subjet de sa perte et sur tout Astrée et Diane, leur semblant
         que s’il eust sceu leur intention, il n’eut pas mieux escrit cest
@@ -1810,8 +1810,8 @@
         Lycidas, si la nymphe vouloit accorder tous ceux qui ont quelque
         differend en ceste trouppe, vous et moy ne serions pas hors du nombre.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>– II est vray, dit le berger rouge de cholere, mais pour bien faire,</p>
         <p>il faudroit que Silvandre en donnast le jugement. – Et</p>
         <p>pourquoy Silvandre? dit la bergere. – Parce, dit-il,</p>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">L'Astrée</title>
+        <title type="part">Première partie – AU ROY</title>
+        <title type="partie">01</title>
+        <title type="livre">00a</title>
+        <author>Honoré d'Urfé</author>
+        <principal> <name>Christof Schöch</name> </principal>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>CLiGS</publisher>
+        <availability status="free">
+          <p>Text is in the public domain.</p>
+        </availability>
+        <date>2016</date>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="digital-source">
+          Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010.
+          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>
+          .
+        </bibl>
+        <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc>
+      <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div>
+        <p></p>
+      </div>
+    </front>
+    <body>
+      <div>
+        <head type="partie">AU ROY</head>
+        <note>[Dédicace publiée pour la première fois dans la deuxième partie de l’Astrée en 1610.]</note>
+        <milestone unit="line"></milestone>
+        <p>SIRE,</p>
+        <p>
+          Ces Bergers oyans raconter tant de merveilles de
+          vostre grandeur n’eussent jamais eu la hardiesse de se presenter devant
+          Vostre Majesté, si je ne les eusse asseurez que ces grands Roys,
+          dont l’antiquité se vante le plus, ont esté Pasteurs, qui
+          ont porté la houlette et le Sceptre d’une mesme main. Ceste
+          consideration, et la connoissance que depuis ils ont euë, que les
+          plus grandes gloires de ces bons Roys ont esté celles de la paix
+          et de la justice, avec lesquelles ils ont heureusement conservé
+          leurs peuples, leur a fait esperer que comme vous les imitiez et les
+          surpassiez en ce soing paternel, vous ne mespriseriez non plus ces
+          houlettes, et ces troupeaux qu’ils vous viennent presenter comme
+          à leur Roy, et Pasteur souverain.
+        </p>
+        <p>
+          Et moy (SIRE) voyant que nos Peres, pour nommer leur
+          Roy avec plus d’honneur et de respect, ont emprunté des Perses
+          le mot de SIRE, qui signifie Dieu, pour faire entendre aux autres
+          nations combien naturellement le François ayme, honore, et
+          revere son Prince: j’ay pensé que ne leur cedant point en
+          céte naturelle devotion, puis que les Anciens offroient à
+          leurs Dieux en action de graces, les choses que les mesmes Dieux
+          avoient inventées ou produittes pour la conservation de l’estre
+          ou du bien-estre des hommes, j’estois obligé pour les imiter,
+          d’offrir ASTRÉE à ce grand Roy, la valeur et la prudence
+          duquel l’a rappellé du Ciel en terre pour le bon-heur des hommes.
+        </p>
+        <p>
+          Recevez la donc (SIRE) non pas comme une simple
+          Bergere, mais comme une œuvre de vos mains: car veritablement on vous
+          en peut dire l’Autheur, puis que c’est à V.M. à qui toute
+          l’Europe doit son repos, et sa tranquillité. Puissiez vous
+          à longues années jouir du bien que vous donnés
+          à chacun. Vostre regne soit à jamais aussi heureux, que
+          vous l’avez rendu admirable: Et Dieu vous remplisse d’autant de
+          contentemens et de gloire, que par vostre bonté vous obligez
+          tous les peuples qui sont à vous, de vous benir, aimer et
+          servir. Ce sont (SIRE) les souhaits que je fais pour V.M. attendant que
+          par l’honneur de vos commandemens je vous puisse rendre quelque
+          meilleur service, au prix de mon sang et de ma vie, ainsi que la nature
+          et la volonté m’y obligent, et le tiltre qu’en toute
+          humilité je prends,
+        </p>
+        <milestone unit="line"></milestone>
+        <p>SIRE,</p>
+        <p>De tres-humble, tres affectionné, et tres-fidelle sujet et serviteur de V.M.</p>
+        <milestone unit="line"></milestone>
+        <p>HONORÉ D’URFÉ.</p>
+        <milestone unit="line"></milestone>
+        <milestone unit="line"></milestone>
+      </div>
+    </body>
+    <back>
+      <div>
+        <p></p>
+      </div>
+    </back>
+  </text>
+</TEI>

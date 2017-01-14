@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE HUICTIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Lors que toute la trouppe demeurait plus attentive, et
         plus desireuse d’ouyr la fin de ce que Hylas leur racontoit, il se teut, et si
         à propos, qu’il sembloit que ce fust pour l’incommodité d’un
@@ -99,11 +99,11 @@
         fois que l’occasion s’en presentera.</p>
         <p>Et ayant asseuré qu’il le feroit, elle prit la parole de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE de l’Histoire</head>
-        <h3>de Cryseide, et d’Arimant.</h3>
-        <milestone type="space"/>
+        <p>de Cryseide, et d’Arimant.</p>
+        <milestone unit="line"/>
 
         <p>Sçachez donc, madame, que cette genereuse fille
         estant detenue dans Lyon, comme vous avez entendu, un matin allant au temple, elle
@@ -154,19 +154,19 @@
         marqua au mieux qu’elle put les lettres qu’elle trouva esparses dans le livre qui,
         estans rejointes ensemble, formerent telles paroles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE d’Arimant</head>
-        <h3>à Cryseide.</h3>
-        <milestone type="space"/>
+        <p>à Cryseide.</p>
+        <milestone unit="line"/>
         <p>Je vis encores, si c’est vivre que d’estre parmy les
         hommes, et ne vous voir point. Je l’envoyé ce fidette serviteur pour apprendre de
         vos nouvelles, et vous dire des miennes. 0 dieux! conservez-la, cette tant
         aymée Cryseide, s’il vous plaist qu’avec patience tous ses
         autres mal-heurs soient supportez par Arimant.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Jusques à ce dernier mot, elle ne sçavoit
         que penser, mais quand elle trouva le nom d’Arimant, et qu’elle cogneut qu’il estoit en vie, elle
         se laisse choir à genoux, joint les mains ensemble, et eslevant
@@ -963,7 +963,7 @@
         ce subject, que je vous veux faire voir. Et se faisant apporter un
         grand papier en façon de placard, il leut qu’il estoit tel.</p>
 
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Gondebaut, fils de Gondioch, roy des Bourguignons, seigneur des
         Sequanois, Lingones, Vellaunodonnois, Ambarres, Heduois, Catalauniques,
         Mauriciens, Matisques, Alexens, Allobroges, Basileens, Latobriges,
@@ -971,7 +971,7 @@
         Salasses, Centrons, Bramovices, Ebroduntiens, <pb n="452"/> Segovellaniens,
         Galloligures, dominateur des Alpes Semproniennes, Jouiennes, Pennines,
         Coties, Sebatiennes, Maritimes, etc.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A tous ceux à qui nostre present vouloir sera cogneu, salut.</p>
         <p>D’autant qu’il n’y a rien qui offence plus un courage genereux, ny qui
         luy donne un plus juste desir de vengeance que l’ingratitude, et la
@@ -996,7 +996,7 @@
         serment. Si ordonnons à tous nos Comtes et Officiers de faire
         publier ces dites lettres par toute l’estendue de nos estats.</p>
         <p>Donné en nostre royale ville de Lyon, aux Ides de Juillet. Et de nostre regne le deuxiesme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Arimant, oyant lire ceste declaration, entra en grande peur que
         Cryseide ne fust recogneue en entrant dans la ville, mesme que l’hoste
         en continuant son discours, luy dit que le roy avoit mandé par
@@ -1066,11 +1066,11 @@
         qu’il n’avoit jamais esté, il en fit de tels vers que depuis il
         faisoit souvent chanter par ceux de sa musique.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <h3>Chasse d’Amour.</h3>
-        <milestone type="space"/>
+        <p>Chasse d’Amour.</p>
+        <milestone unit="line"/>
         <p>Je m’en vay nuict et jour</p>
         <p>A la chasse d’Amour</p>
         <p>Mais chasse bien estrange</p>
@@ -1078,9 +1078,9 @@
         <p>En ce que je poursuis!</p>
         <p>Puis qu’ayant bien chassé, l’Amour veut que je soye</p>
         <p>Blessé, non le blesseur; chasseur, non, mais la proye.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Lors que Cryseide fut prise, Clarine se fust bien
         sauvée, si elle eust voulu, aussi bien que celuy qui leur servoit de guide, mais ne la
         voulant abandonner, elle la suivit volontairement. Et de cette sorte la
@@ -1141,18 +1141,18 @@
         Et Arimant le luy ayant promis, il partit incontinent avec le petit livre,
         dans lequel le chevalier avoit marqué telles paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE d’Arimant</head>
-        <h3>à Cryseide.</h3>
-        <milestone type="space"/>
+        <p>à Cryseide.</p>
+        <milestone unit="line"/>
         <p>Geste infortune aura-t’elle plus de pouvoir sur vous que
         toutes les autres? et pour l’ambition d’estre royne, serez-vous infidele? et
         moy, seray-je le plus trahy, et le plus malheureux de tous les hommes?
         Mandez-le moy afin que par ma mort je vous empesche d’estre parjure.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Bellaris ne pouvant trouver autre moyen de donner ce livre à
         Cryseide, que quand elle alloit au temple, se tint aupres du vaze de l’eau
         lustrale, comme il avoit fait l’autrefois. Et en mesme temps qu’elle
@@ -1175,17 +1175,17 @@
         de sa peine. Et puis prenant le livre, il adjousta les lettres qui se trouverent
         estre telles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE de Cryseide</head>
-        <h3>à Arimant.</h3>
-        <milestone type="space"/>
+        <p>à Arimant.</p>
+        <milestone unit="line"/>
         <p>Vous sçaurés plustost ma mort que mon
         changement. A ce coup je feray voir quelle resolution peut avoir une fille qui, vive ou morte, ne sera
         jamais qu’à vous. Faictes-en de mesme. </p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et bien! dit alors Arimant, me peux- tu conseiller,
         Bellaris, d’abandonner une personne qui prend une telle resolution pour moy? –
         J’avoue, respondit-il, que je l’admire, et que sa vertu a
@@ -1599,8 +1599,8 @@
         toutesfois vous me vouliez donner le contentement de vous veoir mariez avant que de
         partir, j’estimeray et mon royaume et mes jours tres-honorez et tres-heureux.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>A ce mot il commanda qu’Arimant fust destaché, qui à mesme</p>
         <p>temps se vint jetter à ses genoux, comme aussi la genereuse</p>
         <p>fille, et le fidele serviteur, ne se pouvant lasser, les uns,</p>

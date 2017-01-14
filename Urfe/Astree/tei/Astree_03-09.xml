@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE NEUFIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Florice finit de cette sorte les fortunes de la genereuse
         Cryseide et du gentil Arimant, laissant tous ceux qui l’avoient ouye pleins
         d’admiration de leur vertu. L’un estimoit Cryseide d’avoir
@@ -431,11 +431,11 @@
         rouleaux de papier, dont il y en avoit quantité sur <pb n="479"/>
         l’autel, et le desployant, elles trouverent qu’il y avoit de tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <h3>Enfer d’amour.</h3>
-        <milestone type="space"/>
+        <p>Enfer d’amour.</p>
+        <milestone unit="line"/>
         <p>Quel enfer plein de rigueur</p>
         <p>A des peines plus cruelles</p>
         <p>Que celles que dans le cœur</p>
@@ -446,9 +446,9 @@
         <p>Pour le tourment de là bas</p>
         <p>Si ce n’est que je n’ay pas</p>
         <p>Cette eau qui fait qu’on oublie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Diane qui tenoit le papier, et qui le laissoit lire
         à Phillis et Astrée: II me semble, ma sœur, luy dit-elle, que je cognois
         cette escriture. – Elle est de Celadon, respondit Phillis, et je vous
@@ -466,31 +466,31 @@
         escrits d’une autre main; et parce que le caractere estoit assez
         difficile, elle les remit à Diane, qui les leut tout haut. Ils estoient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Que nul ne se peut empescher d’aymer Celadon.</h3>
-        <milestone type="space"/>
+        <p>Que nul ne se peut empescher d’aymer Celadon.</p>
+        <milestone unit="line"/>
         <p>Attaint jusques au cœur d’outrage et de desdain,</p>
         <p>Pendant que Celadon alloit faisant la plainte <pb n="480"/></p>
         <p>Qu’il avait si long-temps en son ame contrainte,</p>
         <p>Une nymphe grava ces regrets de sa main.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si ce gentil berger arrousant son beau sein</p>
         <p>De ses pleurs les tesmoins d’une amitié non feinte,</p>
         <p>Celle dont il se deult de pitié n’est atteinte,</p>
         <p>Qu’Amour ses feux esteigne, il les allume en vain.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Celle qui le verra sans aymer ce visage,</p>
         <p>D’une tygre cruelle aura bien le courage;</p>
         <p>Mais s’il en est amant, sans qu’aussi tost apres</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle n’aille bruslant d’une seconde flame,</p>
         <p>Outre qu’elle a sans doubte un rocher pour une ame,</p>
         <p>II faut croire qu’Amour n’a ny flames ny traicts.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces vers avoient esté escrits par la nymphe
         Leonide, lors que ne pouvant persuader à Celadon de laisser la triste vie qu’il
         passoit en ce lieu, elle le venoit visiter presque tous les jours; et
@@ -510,56 +510,56 @@
         sont les mesmes caracteres que les premiers. Et lors elles leurent
         toutes ensemble telles paroles:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SOUSPIRS</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, enfans de ceste pensée qui sans cesse me tourmente,
         comment par vostre violence n’esteignez-vous le feu de mon ame,
         <pb n="481"/> ou comment ne l’allumez-vous de telle sorte qu’il me puisse
         consumer entierement?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, qui souliez estre le soulagement de celuy de
         qui la douleur vous conçoit, pourquoy à mon dommage changez-vous ceste
         coustume, rengregeant les cruels, desplaisirs qui me tourmentent?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, si vous sortez du profond de mon cœur avec une
         si grande peine, pourquoy ne l’emportez-vous plustost où vous allez, afin
         de me donner, ou la mort, en me la ravissant, ou la vie, en la portant
         au lieu où est la source de ma vie?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, puis que c’est mon cœur qui vous donne
         naissance, et que l’Amour est celuy qui vous envoye vers celle où vous allez,
         pourquoy ne m’en rapportez-vous des nouvelles, afin de conserver la vie
         de celuy de qui vous naissez?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, qui naissiez autrefois dans l’excez de mon
         contentement, comment prenez-vous à ceste heure naissance dans le plus fort
         accez de mes desplaisirs?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, les tesmoings d’une ame qui desire, comment
         sortez-vous de mon cœur, puis que tous mes espoirs estans perdus, tous mes desirs
         doivent estre estouffez!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mal aysément ces belles bergeres eussent peu
         laisser un seul de ces rouleaux qui estoient sur les autels, sans les desployer et les
         lire, si Adamas qui alloit declarant à Daphnide et à
@@ -601,17 +601,17 @@
         entre? ne voyez-vous ce qui est escrit sur ceste porte?</p>
         <p>Alors Alexis feignant de n’y avoir encore prins garde, elle y tourna les yeux, et vit en escrit.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Loing, bien loing, prophanes esprits,</p>
         <p>Qui n’est d’un sainct amour espris,</p>
         <p>En ce lieu sainct ne fasse entrée:</p>
         <p>Voicy le bois où chaque jour <pb n="483"/></p>
         <p>Un cœur qui ne vit que d’amour</p>
         <p>Adore la déesse Astrée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>– Et que voulez-vous dire par là? continua Alexis.
         – II veut dire, interrompit Silvandre, que, n’estant point espris d’un sainct
         amour, il n’ose mettre le pied en ce lieu sacré, de peur de le
@@ -882,14 +882,14 @@
         vostre langage, pour ne vous faire pas redire deux fois un mesme mot.</p>
         <p>Et ayans tous deux consenty, prenant la plume et le papier, <pb n="490"/> il s’assit en terre, et escrivit sur ses genoux les articles qui s’ensuivent, lors toutesfois que tous deux estoient bien d’accord.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>Les douze conditions</p>
         <p>avec lesquelles Stelle et Hylas</p>
         <p>promettent de s’aymer à l’advenir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>L’experience estant celle qui rend les personnes
         prudentes, et qui apprend à mettre les remedes necessaires pour eviter les
         inconveniens, où l’on a veu que les autres se sont auparavant
@@ -899,10 +899,10 @@
         veut exercer sur l’autre, nous, Stelle et Hylas, sommes tombez d’accord
         de ce qui s’ensuit.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">PREMIEREMENT</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que l’un n’usurpera point sur l’autre ceste souveraine authorité, que nous disons estre tyrannie.</p>
         <p>Que chacun de nous sera en mesme temps et l’amant et l’aymé, et l’aymée et l’amante.</p>
         <p>Que nostre amitié sera eternellement sans contrainte.</p>
@@ -915,7 +915,7 @@
         <p>Que nous pourrons tous deux, ou l’un sans l’autre, continuer, ou cesser de nous entre-aymer. <pb n="491"/></p>
         <p>Que si ceste amitié cesse, de l’un des costez, ou de tous les deux, nous pourrons la renouveller, quand bon nous semblera.</p>
         <p>Que pour nous adstraindre à une longue amour ou à une longue hayne, nous serons obligez d’oublier et les faveurs et les outrages.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Ces articles estans escrits de ceste sorte: Et bien! Hylas, luy dit
         Stelle, ces conditions vous sont-elles agreables? – Et à vous?
@@ -938,13 +938,13 @@
         sur moy, y ayant fort long-temps que l’une des principales maximes, que
         te tiens pour la conduite de ma vie est celle-cy:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Qui voit son bien, et ne le veut,</p>
         <p>A tort, puis apres, il se deult.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et quant à ce que vous dites que Silvandre est mon
         ennemy, je le vous avoue. Mais y a-t’il rien de pire qu’un serpent, et toutesfois
         ceux qui ont la cognoissance des proprietez de chaque chose, ne
@@ -1028,18 +1028,18 @@
         en attribuer l’honneur, et que d’autre costé Silvandre n’y veut
         pas estre nommé, j’ordonne qu’il sera escrit, mais de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">Treiziesme et dernier Article.</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Adjousté par advis et conseil, aux conditions avec lesquelles <pb n="494"/> Hylas et Stelle promettent de s’aymer à l’advenir, et lequel ils jurent d’observer le plus religieusement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que toutesfois nous, Stelle et Hylas, sommes si soigneux de nostre
         liberté, et tant ennemis de toutes sortes de contraintes, qu’il
         nous sera permis, quand bon nous semblera, de n’observer une seule de
         toutes les conditions cy-dessus escrites et accordées.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ainsi termina le different de ces gentils bergers, avec le contentement
         de tous, par le sage advis du druide, non point sans plusieurs plaisans
         discours sur ce propos et l’opinion que la plus-part eut que cette
@@ -1321,11 +1321,11 @@
         raisons par lesquelles vous devez avoir la victoire.</p>
         <p>Alors Phillis ayant fait une grande reverence à Diane et au reste de la compagnie, sans se r’asseoir, commenca de parler de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HARANGUE</head>
-        <h3>de la bergere Phillis</h3>
-        <milestone type="space"/>
+        <p>de la bergere Phillis</p>
+        <milestone unit="line"/>
 
         <p>Je n’eusse jamais pensé, ma maistresse, que parmy
         les bergers de cette contrée et particulierement entre ceux qui paissent leurs
@@ -1485,11 +1485,11 @@
         en sa place, et sans se r’asseoir, apres avoir quelque temps tenu les
         yeux sur toute la troupe, il commença à parler de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE</head>
-        <h3>du berger Silvandre.</h3>
-        <milestone type="space"/>
+        <p>du berger Silvandre.</p>
+        <milestone unit="line"/>
 
         <p>Si je n’estois devant le temple d’Astrée, et que
         ceux qui nous en ont donné la cognoissance nous ont faict entendre estre la
@@ -2064,11 +2064,11 @@
         avoit pieu. De sorte que Diane, apres avoir quelque temps
         consideré ce qu’elle avoit à dire, parla enfin de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">JUGEMENT</head>
-        <h3>de la bergere Diane</h3>
-        <milestone type="space"/>
+        <p>de la bergere Diane</p>
+        <milestone unit="line"/>
         <p>L’amour estant l’une de ces choses, desquelles les effets
         doivent rendre plus de tesmoignage que les paroles, et le different qui est
         entre Phillis et Silvandre estant de cette qualité, nous n’avons

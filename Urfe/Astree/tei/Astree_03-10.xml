@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DIXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La grande chaleur du jour estoit fort abatue, lors que
         Diane donna son jugement, de sorte qu'Adamas, desireux qu'Alcidon et Daphnide peussent
         estre à temps pour avoir le plaisir des divers exercices de ces
@@ -165,12 +165,12 @@
         de chose, car je sçay bien qu'il ne peut rien respondre qui vaille.</p>
         <p>Chacun se mit à rire des discours d'Hylas, et lors que chacun se fut teu, Silvandre reprit froidement la parole de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE</head>
-        <h3>du berger Silvandre</h3>
-        <h3>sur le jugement de Diane.</h3>
-        <milestone type="space"/>
+        <p>du berger Silvandre</p>
+        <p>sur le jugement de Diane.</p>
+        <milestone unit="line"/>
 
         <p>J'ay appris dans les escoles des Massiliens que
         Promethée fut d'un esprit si subtil qu'il monta au ciel, et desroba le feu des dieux avec
@@ -848,52 +848,52 @@
         Alcippe pere de Celadon, au retour de ses loingtains voyages. Elles
         dançoient aux chansons, et les paroles en estoient telles.<pb n="543"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">LES EGYPTIENNES</head>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>S'en trouvera-t'il point quelqu'une</p>
         <p>Parmy nous qui vueille sçavoir</p>
         <p>Quelle doit estre sa fortune?</p>
         <p>Nous la luy ferons bien tost voir;</p>
         <p>Mais nous voudrions avec vous</p>
         <p>La pouvoir rencontrer pour nous.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Venez vers nous, ô curieuses,</p>
         <p>Puis que le futur nous sçavons,</p>
         <p>Pour apprendre à vous rendre heureuses,</p>
         <p>Et vous verrez que nous pouvons</p>
         <p>Aussi bien vostre heur deviner</p>
         <p>Que vous le nostre nous donner.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Nous ne sommes pas infidelles,</p>
         <p>Quoy que d'Egypte nous soyons.</p>
         <p>Nous adorons toutes les belles,</p>
         <p>Et, les adorant, nous croyons</p>
         <p>Que le comble de nostre bien</p>
         <p>En elles nous trouverions bien.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Fuitives de nostre patrie,</p>
         <p>Attendant un heureux retour,</p>
         <p>Le larcin est nostre industrie,</p>
         <p>Mais qui ne sçait que de l'amour,</p>
         <p>Puis qu'ainsi veulent les destins,</p>
         <p>Les dons ne sont que des larcins? <pb n="544"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Apres que ces Egyptiennes eurent finy leur bal, elles se
         mirent parmy la trouppe, donnans la bonne fortune à ceux qui leur
         presentoient les mains, et cependant il y en avoit tousjours quelqu'une qui alloit
@@ -1133,31 +1133,31 @@
         faisant souspirer pour voir trop ce qu'autrefois il regrettoit de voir trop peu?</p>
         <p>Cette consideration arracha du profond du coeur à cette feinte druide ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu'absent et present, il est tourmenté.</h3>
-        <milestone type="space"/>
+        <p>Qu'absent et present, il est tourmenté.</p>
+        <milestone unit="line"/>
         <p>Mourir, absent de cette belle,</p>
         <p>Et remourir, estant aupres,</p>
         <p>Que faut-il esperer apres</p>
         <p>Une fortune si cruelle?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ma voix d'une plainte eternelle</p>
         <p>Loing d'elle estoit toute en regrets,</p>
         <p>Et semble que je sois expres</p>
         <p>Pres d'elle pour me plaindre d'elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Puis qu'egalement le malheur</p>
         <p>Dans le bien et dans la douleur</p>
         <p>Emporte sur nous la victoire,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mon c?ur, que sera-ce de nous?</p>
         <p>Et qui desormais pourra croire</p>
         <p>Que nous puissions souffrir ces coups? <pb n="551"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette pensée occupa de sorte Alexis que, sans y
         prendre garde, le soleil estoit desja fort haut, et n'eust esté que la bergere
         Astrée se tourna sans y penser d'un autre costé, et par ce moyen luy osta
@@ -1239,31 +1239,31 @@
         les autres carrées, font comme une couronne à l'entour du
         bassin qui recoit ceste belle source, elle ne peut s'empescher de souspirer tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Son coeur a plus d'ennuis, que les champs de moissons.</h3>
-        <milestone type="space"/>
+        <p>Son coeur a plus d'ennuis, que les champs de moissons.</p>
+        <milestone unit="line"/>
         <p>Déesse! dont la main, de son volant armée,</p>
         <p>Couppe de nos moissons les espics ramassez,</p>
         <p>Et puis en gerbe d'or en ton poing entassez,</p>
         <p>Fais voir ce qui te rend des mortels estimée;</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Déesse! dont la main est tant accoustumée</p>
         <p>Aux moissons dont nos champs richement tapissez</p>
         <p>Semblent du faix tres-grand estre presque oppressez,</p>
         <p>Peine du laboureur toutefois bien aymée:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Déesse! par pitié tourne sur moy les yeux,</p>
         <p>Et dy moy si jamais tu vis en quelques lieux</p>
         <p>De nos jeunes guerets les campagnes plus pleines,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que mon c?ur, de tourments en l'estat où je suis.</p>
         <p>Et puis raconte à tous qu'une moisson d'ennuis</p>
         <p>Se trouve dans mon c?ur aussi bien qu'en nos plaines.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Avec tels mots s'approchant de ceste fontaine, apres s'en
         estre lavé et les mains et le visage, ainsi qu'autrefois elle avoit
         accoustumé, et tournant les yeux tout à l'entour: C'est bien, disoit-elle, icy
@@ -1297,32 +1297,32 @@
         lieu, et qu'elle avoit remis dans le sein de sa bergere, avec tant de
         sermens receus de sa fidelité, elle ne peut s'empescher de souspirer ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Elle demande si sa maistresse ne s'est point</h3>
-        <h3>souvenue des sermens faicts en ce lieu.</h3>
-        <milestone type="space"/>
+        <p>Elle demande si sa maistresse ne s'est point</p>
+        <p>souvenue des sermens faicts en ce lieu.</p>
+        <milestone unit="line"/>
         <p>N'est-ce pas en vostre presence,</p>
         <p>Arbres fueillus, et bois heureux,</p>
         <p>Où tant de sermens amoureux</p>
         <p>Ont pris autrefois leur naissance?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dites moy si pendant l'absence</p>
         <p>L'on s'est jamais souvenu d'eux,</p>
         <p>Ou si les sermens de tous deux</p>
         <p>Ne sont plus en sa souvenance. <pb n="555"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais qu'est-ce que je veux scavoir?</p>
         <p>Puis-je bien me tant decevoir,</p>
         <p>Que d'estimer que la pensée</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu'elle en peut avoir eue icy,</p>
         <p>Ne l'ait pas autant oppressée,</p>
         <p>Qu'elle m'a laissé de soucy?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette pensée l'entretint longuement, mais non pas sans
         l'accompagner de souspirs, et de larmes. Et n'eust esté qu'en fin elle se
         conduisit sans y penser sur le bord de l'un des bras de Lignon qui environne ce
@@ -1339,31 +1339,31 @@
         qu'elle s'esveilla avec un grand souspir, s'estonnant elle-mesme de pouvoir
         vivre avec tant de passion, elle souspira assez bas tels vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Doutes d'amour.</h3>
-        <milestone type="space"/>
+        <p>Doutes d'amour.</p>
+        <milestone unit="line"/>
         <p>Peut-on mourir pour trop aymer?</p>
         <p>Si l'on mouroit, je serois morte,</p>
         <p>Car jamais une amour si forte</p>
         <p>N'a peu dans un c?ur s'allumer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dans son feu peut-on s'enflamer?</p>
         <p>Si l'on brusloit en quelque sorte,</p>
         <p>Je croy que le feu que je porte</p>
         <p>M'auroit desja fait consommer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais si l'on ne meurt point d'amour,</p>
         <p>Qui me donne cent fois le jour</p>
         <p>Tant et tant de morts que j'endure?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et si son feu n'a point d'ardeur,</p>
         <p>D'où vient que j'en ay la brusleure</p>
         <p>Si cuisante dedans le coeur</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ainsi s'entretenoit cette belle et feinte druide, et cette
         pensée la possedoit tellement toute, qu'elle ne se souvenoit plus que peut-estre
         Astrée seroit esveillée, et qu'elle et Leonide, ne la
@@ -1497,31 +1497,31 @@
         l'attendirent et cependant se teurent pour ouyr ce que le berger
         chantoit, qui, apres avoir jetté un grand souspir, chanta de cette sorte.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Si son mal finira point avant sa mort.</h3>
-        <milestone type="space"/>
+        <p>Si son mal finira point avant sa mort.</p>
+        <milestone unit="line"/>
         <p>Espoirs qui me trompez, et qui ne pouvez estre,</p>
         <p>Pensers qui tourmentez sans cesse mon repos,</p>
         <p>Desirs qui me bruslez jusqu'au profond des os,</p>
         <p>Travaux que sans pitié je vois tousjours accroistre,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souspirs, les messagers du c?ur qui vous fait naistre,</p>
         <p>Pleurs que desja mon?il ne peut plus tenir clos, <pb n="560"/></p>
         <p>Sermens qui vous changez à tous coups sans propos,</p>
         <p>Desseins dont un clin d'?il est bien souvent le maistre,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Espoirs, pensers, desirs, travaux, souspirs et pleurs,</p>
         <p>Vous serments, vous desseins, enfans de mes douleurs,</p>
         <p>Ne finirez-vous point quelque fois ma misere,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Avant que du trespas je ressente l'effort?</p>
         <p>Ou s'il faut que pour vous je semble à la vipere</p>
         <p>Qui donne vie à ceux qui, luy donnent la mort?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>- Que vous semble, madame, dit Phillis en arrivant, et
         apres avoir salué la druide et ses compagnes, de la voix de ce berger? – Qu'elle
         est tres-belle, luy respondit Alexis, et luy, fort gentil berger, et
@@ -1709,31 +1709,31 @@
         jouer, afin de leur faire tourner la teste, et quand il pensa estre assez pres
         pour estre ouy, il chanta tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Contraires effects d'amour.</h3>
-        <milestone type="space"/>
+        <p>Contraires effects d'amour.</p>
+        <milestone unit="line"/>
         <p>Faire vivre et mourir avec un mesme effort,</p>
         <p>Embraser tous les c?urs, et n'estre que de glace,</p>
         <p>S'armer en mesme temps de douceur et d'audace,</p>
         <p>Et porter dans les yeux et l'amour et la mort;</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Attirer tous les c?urs d'un extreme transport,</p>
         <p>Et les desesperer d'obtenir quelque grace,</p>
         <p>Du bon-heur au mal-heur ne mettre point d'espace,</p>
         <p>Et joindre en un subject ces contraires d'accord;</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais languir au rebours d'une amour trop extreme,</p>
         <p>Brusler sans que ce feu s'allume qu'en soy-mesme,</p>
         <p>Pour revivre en autruy vouloir mourir en soy,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et pour gage donner et son c?ur et son ame,</p>
         <p>Que je puisse mourir, si ce n'est vous, madame,</p>
         <p>Et remourir encor, si c'est autre que moy!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Alexis qui aimoit ce berger comme celuy que dés long temps elle
         avoit tenu pour l'un de ses meilleures amis: Et bien! Silvandre, luy
         dit-elle, ne m'estes-vous pas fort obligé de vous avoir

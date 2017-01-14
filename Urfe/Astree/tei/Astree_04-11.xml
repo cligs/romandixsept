@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">L’UNZIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le lendemain, le grand Pontife, accompagné de plusieurs Flamines, et de la plus grande partie du College des Augustales, se presenta à la Nymphe, pour luy faire entendre ce qui luy estoit necessaire à la publique action qu’elle desiroit que l’on fist. Et entr’autres choses, qu’il falloit qu’elle esleust un Souverain Magistrat, auquel elle remettroit la souveraine puissance, tant qu’il seroit retenu en cette charge: Parce, disoit-il, que cette ceremonie estoit venue de Numa Pompilius, et qu’en ce temps-là les Rois qui commandoient dans Rome estoient souverains, c’estoient aussi eux qui plantoient ce cloud; mais depuis qu’ils en avoient esté dechassez, on avoit tousjours observé d’eslire un Dictateur, pour faire cette solemnelle action, n’appartenant à personne d’y mettre la main, qu’à celuy qui n’a point en ce lieu de superieur que les Dieux. Or, madame, continua-t’il, je vous represente ces choses, afin que s’il vous plaist de mettre en effet la bonne et saincte intention que vous avez pour Adraste et pour cet autre estranger, il vous plaise de faire auparavant l’eslection necessaire de celuy qui, eslevé à ce Magistrat souverain, la puisse executer avec les conditions necessaires; car, encore que vous soyez Dame souveraine de toutes ces belles contrées, si ne pouvez-vous, selon nos coustumes, mettre la main, d’autant qu’aux sacrifices de Jupiter, les hommes seuls peuvent estre admis pour ministres.</p>
         <p>La Nymphe qui avoit desja esté advertie de la necessité de cette eslection, et qui mesme avoit jugé qu’elle luy estoit advantageuse pour ses autres affaires, feignant toutesfois de n’avoir autre, dessein que celuy de la guerison de ces deux personnes: Mon pere, <pb n="648"/> luy respondit-elle, je desire si fort que vous obteniez cette grace des dieux, que je suis resolue non seulement à eslire celuy que vous dites, mais à toute autre chose que vous y jugerez necessaire. Et d’autant que nous avons si peu accoustumé de faire ces actions solemnelles, dites-moy par le menu tout ce qu’il faut que je fasse. – Deux choses, reprit le Pontife, y sont necessaires: l’une, le sacrifice, et l’autre l’eslection de ce souverain magistrat; car, apres le sacrifice fait à Jupiter Capotas, et à Minerve Peone, il faut que celuy que vous eslirez plante un cloud d’airain, que nous aurons sacré et rendu pur et net avec l’eau lustrale, dans la muraille du Temple de Jupiter, qui a son aspect à l’endroit du Sanctuaire de Minerve, et cela, apres avoir trois fois touché les temples du malade. Or, pour le sacrifice, nous y mettrons l’ordre tel que, demain, à telle heure qu’il vous plaira, il pourra estre fait. Mais pour l’eslection de ce Souverain, il faut, Madame, que vous la fassiez dés aujourd’huy publiquement, et que vous luy donniez les faisseaux et les masses, comme ils avoient autrefois à Rome. Et d’autant que c’estoit une Republique, et que chacun y avoit part, il falloit que ce Dictateur fust esleu par les vœux et par les suffrages de tous; mais, en ce lieu où vous seule avez interest, il faut aussi que cette eslection se fasse de vous seule, pourveu que ce soit en public, afin que chacun sçache vostre intention.</p>
         <p>Adamas alors prenant la parole: Madame, dit-il, ayant apris que cette ceremonie se devoit faire de cette sorte, et sçachant que c’estoit vostre volonté de l’observer, j’ay mis ordre à tout ce qui estoit necessaire pour l’eslection, si bien que desja on travaille aux eschafaux, et je m’assure qu’incontinant apres vostre disner, toutes choses seront prestes. A ce mot la Nymphe ayant donné charge au grand Pontife de mettre l’ordre qu’il sçavoit estre necessaire pour le sacrifice du lendemain, remit le soin de tout le reste au Druide, afin qu’incontinant apres disner on pust faire cette ceremonie, à laquelle le prince Godomar, Alcidon, Damon et Adamas furent d’avis d’appeller Polemas au nom de la Nymphe, afin qu’il ne pust point avoir de pretexte en la prise des armes, à laquelle sourdement on disoit qu’il se preparoit. Car il avoit esté impossible que de tant de personnes ausquelles il avoit esté contraint d’en parler, il n’y en eust quelqu’une de moins secrette, qu’il ne luy eust esté necessaire; et encore que la Nymphe sceut bien qu’il ne vien-<pb n="649"/>droit point, elle ne laissa d’approuver leur opinion, et y depescher Clindor.</p>
@@ -121,10 +121,10 @@
         <p>Cet advertissement fut cause que Ligdamon, luy faisant une grande reverence, s’en retourna vers Galathée, mais si transporté de contentement d’avoir devant ses yeux cette beauté qui luy estoit si chere, qu’à peine les pouvoit-il retirer. Ce que considerant Damon: Je m’asseure, dit-il, se tournant vers Galathée, que ce sera une dure penitence à Ligdamon de satisfaire à vostre commandement, devant qu’il ait un peu entretenu cette belle nymphe; et je cognois bien à ses yeux qu’il en voudroit estre dispensé. – Si est-ce, respondit la Nymphe, que ma curiosité est bien grande. – Madame, reprit Ligdamon, ce desir me commande trop absolument de n’y point manquer; seulement je vous supplie d’avoir agreable que je vous raconte ce que vous voulez prendre la peine d’entendre, le plus briefvement qu’il me sera possible.</p>
         <p>Et lors, apres s’estre teu quelque temps, il reprit la parole de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE DE LIGDAMON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Celuy, madame, qui dit quelque chose qui n’est pas vraye, ne peut pas estre dit menteur, s’il pense toutesfois dire vray, car j’ay tousjours ouy dire que, pour encourir ce blasme, il faut non seulement dire un mensonge, mais sçavoir bien encore qu’on ment. Que si ces considerations sont necessaires pour former le menteur, assurement Egide, en rapportant ma mort, ne peut point estre dit tel, parce qu’il croyoit aussi bien que moy que je fusse mort, et je dis aussi bien que moy, car veritablement c’estoit <pb n="679"/> mon intention de mourir; que si le Ciel ne l’a pas vonlu, je croy que ç’a esté pour faire voir combien les dieux veulent avoir absoluement nostre vie en leur disposition.</p>
         <p>Silvie cependant qui prenoit garde qu’à toutes les paroles de Ligdamon, presqne chacun tournoit les yeux sur elle, ne le pouvant supporter, se glissa parmy ses compagnes et le mieux qu’elle put gaigna la porte, sans estre apperceue de Galathée, ny de Ligdamon, qu’elle ne fut desjà dans sa chambre, ou fermant la porte apres elle, elle se resolut de ne se laisser voir que ce discours ne fust achevé. Cependant Ligdamon continuoit ainsi:</p>
@@ -137,71 +137,71 @@
         <p>Ce petit mal me rapporta un grand contentement, car il me donna le loisir de penser à ce que j’avois à faire. Les parens d’Amerine s’estimoient grandement offencez que j’eusse plustost choisi la mort, que de vouloir vivre avec leur parente, leur semblant que ce mespris ne pouvoit proceder que de quelque mauvaise opinion que j’avois d’Amerine, si bien que s’adressant à elle, ils luy demanderent quelle occasion elle me pouvoit avoir donnée pour la hair si fort. Quenlos conditions estoient esgales, qu’elle m’avoit obligé de la vie, qu’autre fois je l’avois aymée avec tant de passion qu’ils ne pouvoient penser que le changement de ma volonté peust proceder d’ailleurs que de quelque deffaut que j’eusse remarqué en elle, et que ce manquement ne pouvoit estre que de chose qui touchoit à l’honneur. Que si cela estoit, et qu’ils vinssent à le recognoistre, elle ne pouvoit moins esperer que le chastiment de la honte qu’elle auroit faite à une si honorable famille.</p>
         <p>Ils adjousterent plusieurs autres semblables menaces, ausquelles Amerine respondit plus en pleurant qu’en parlant, s’excusant  toutesfois le mieux qu’elle pouvoit du blasme qu’on luy imputoit, son innocence estant telle qu’elle s’assuroit d’estre deffendue contre toute sorte d’imposture; si est-ce que le lendemain elle <pb n="682"/> s’efforça de me venir voir pour me representer les reproches que ses parens luy faisoient. Et de fortune, la pensée que j’avois ordinairement de Silvie, et le regret de ne la voir point me faisoient parler si haut, qu’elle ouyt ma voix, et, pensant que je parlois à quelqu’un, s’en vint au petit pas jusques à la porte de ma chambre qui se trouva entr’ouverte, d’où elle put ouyr telles paroles.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Il s’ennuye de ne voir celle qu’il ayme.</h3>
-        <milestone type="space"/>
+        <p>Il s’ennuye de ne voir celle qu’il ayme.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais à quoy nous servent les yeux</p>
         <p>En ces lieux</p>
         <p>Où le beau soleil que j’adore,</p>
         <p>Cache d’une eternelle nuit,</p>
         <p>Ne reluit,</p>
         <p>Ny ne daigne suivre l’Aurore?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je hay l’Aurore et sa clarté,</p>
         <p>Despité Qu’elle soit du jour messagere,</p>
         <p>Et pour moy, seulement des nuits,</p>
         <p>Car je suis</p>
         <p>Tousjours privé de ma lumiere.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <p>Loin des bras de son vieux Titon,</p>
         <p>Ce diiton,</p>
         <p>Elle s’enfuit d’un soin extreme.</p>
         <p>Dy moy, belle nymphe, pourquoy,</p>
         <p>Comme toy</p>
         <p>Mon soleil n’en. fait-il de mesme? <pb n="683"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <p>En vain tu vas cueillant les fleurs,</p>
         <p>Que les pleurs Rendent belles à tout le monde,</p>
         <p>En sortant de ton beau sejour,</p>
         <p>Si mon jour Apres toy ne sort point de l’onde.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <p>Je veux que mes yeux desormais,</p>
         <p>Pour jamais,</p>
         <p>D’y voir plus perdent toute envie.</p>
         <p>Que verroient-ils d’oresnavant,</p>
         <p>Ne pouvant voir le beau Soleil de Silvie?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <p>Soyez doncques pour mon repos</p>
         <p>Tousjours clos:</p>
         <p>Mon regret se rend plus extréme,</p>
         <p>Quand quelqu’autre object j’apperçoy Prés de moy,</p>
         <p>N’y voyant pas celle que j’ayme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Amerine eut la patience de m’escouter sans presque oser respirer pour n’estre apperceue, tant elle desiroit de sçavoir le sujet du changement, qu’elle pensoit estre en moy. Et lors qu’elle m’ouyt regretter l’absence d’une dame, et nommer Silvie, elle jugea incontinent que c’estoit une nouvelle affection qui avoit effacé celle que je soulois avoir pour elle. Et ce changement l’offençant plus que tous les reproches de ses parens, elle ouvrit la porte avec violence, et entra dans la chambre, si troublée qu’à peine me put-elle donner le bonjour. Et toutesfois, la civilité le luy ayant fait faire plustost par coustume que de volonté, elle se reprit ainsi, sans attendre que je luy eusse rendu son salut:</p>
         <p>Mais, pourquoy, dit-elle, souhaitay-je le salut d’une personne qui est cause de tout mon mal, et qui le sera bien-tost de la fin <pb n="684"/> de ma vie? Cruel Lydias, Lydias, dis-je, si ce nom mesme t’est encore demeuré que tu soulois avoir quand tu ne vivois que pour m’aymer, cruel et inhumain, c’est ainsi qu’il faut que je te nomme, puis qu’au lieu de l’affection que tu me portois, il ne t’est resté que la cruauté et l’inhumanité, est-il possible que l’humeur volage qui te separe de moy t’ait d’un mesme coup osté et le jugement et la raison? Je ne te parle plus des recherches que tu m’as faites, je ne mets plus en conte les sermens si souvent jurez, ny les obligations que tu me peux avoir pour la vie que je t’ay sauvée, je sçay que cette nouvelle amour de Silvie t’aveugle, de sorte que tu n’y tournes pas seulement les yeux.</p>
         <p>Mais, dy-moy, insensé, et c’est veritablement le nom que tu merites le mieux, dy-moy, insensé, où as-tu le jugement, lors que tu ne veux m’espouser, puisque ce seul moyen te reste pour sauver ta vie, qu’autrement dans peu de jours il faudra que tu ailles laisser entre les ongles et les dents de ces farouches lyons, d’entre lesquels je t’ay desjà une fois retiré? As-tu opinion que ta valeur les puisse tous faire mourir? O Lydias, si tu sçavois le grand nombre qu’il y en a, et combien les autres que tu n’as pas encore veus, sont les plus farouches et plus cruels, la pensée seule te feroit fremir! J’y en ay veu, je te le dis les larmes aux yeux, j’y en ay veu, dis-je, de si grands et de si forts, que quelques mal-heureux qui y furent jettez, demeurerent en un instant demembrez, de telle sorte que, depuis le col, on les voyoit separez en deux pieces comme si des haches les eussent coupez par le milieu. On voyoit encore le cœur et les poulmons qui panteloient, et les entrailles qui traisnoient par la place, cependant que ces cruels animaux en beuvoient le sang, et l’alloient leschant sur le pavé.</p>
@@ -248,15 +248,15 @@
         <p>Cependant que la Nymphe estoit sur les remerciemens, et que la Royne continuoit les asseurances d’un prompt secours, an les vint advertir qu’un chevalier Boyen venoit vers la Reyne Argire de la part du roy Policandre. Aussi-tost que la reyne le vid: Et quelles nouvelles, luy dit-elle, m’apportez-vous du roy ? – Non pas si bonnes, respondit-il, que je desirerois. Toutesfois, madame, il desire passionnément de vous voir.</p>
         <p>Et à ce mot il luy presenta la lettre que Policandre luy escrivoit. La Reyne la receut toute troublée, et avec eine inquietude extréme la descacheta, et la leut, et incontinent, les larmes aux yeux, la fit voir à la Nymphe. Elle estoit telle:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DU ROY POLICANDRE</head>
-        <h3>A LA REYNE ARGIRE</h3>
-        <milestone type="space"/>
+        <p>A LA REYNE ARGIRE</p>
+        <milestone unit="line"/>
         <p>La mort est une chose si naturelle, que je ne m’en estonne point; mais mourir saus vous voir, me donne de la peine, parce que je voudrois m’acquiter de ce que je vous dois. Venez donc, madame, en la plus grande diligence que vous pourrez, si vous voulez que mon ame parte contente en vous laissant satisfaite. Vous sçaurez de ce porteur l’estat auquel il m’a laissé</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p><pb n="700"/> O dieux ! s’escria alors la Reyne, je voy bien qu’un grand contentement est d’ordinaire suivy d’un grand desplaisir ! Et puis, s’adressant à ce chevalier, elle s’enquit du mal du roy, et du jugement que les medecins en faisoient. Elle sceut qu’ils estoient tous en une grande doute de sa vie, et qu’il falloit user de diligence, si elle vouloit arriver à temps aupres de luy.</p>
         <p>Cette princesse, de qui le courage ne dementoit point sa naissance, r’appellant sa vertu et sa generosité, apres avoit jetté quelques larmes, fit une resolution veritablement digne d’elle, et s’adressant à la Nymphe: Madame, luy dit-elle, vous voyez que je suis contrainte de partir pour le bien de mes enfans, et pour l’entier contentement du reste de mes jours. Mais je vous promets de faire armer en vostre defence, non seulement les Boyens, Ambarres et Lemovices, mais les Pictes, les Santons, et les Bituriges. Et de plus, ou mes alliez me manqueront, ou les citez Armoriques, et les autres roys mes confederez en feront de mesme. Que si la santé du roy Policandre ne luy permet d’y venir en personne, mes deux enfans le feront, qui n’oseront pas refuser cette peine, lors qu’ils m’y verront venir. Et pour assurance de ce que je vous dis, je vous laisse Rosanire, que je vous supplie vouloir tenir avec Galathée jusqu’à ce que je revienne: ce gage vous demeurera, non seulement de ma promesse, mais aussi pour convier Celiodante comme frere, et Rosileon comme amant, à la venir secourir.</p>
         <p>Et à ce mot s’estant retirée, elle donna ordre à son départ, fit entendre à Rosileon la maladie du roy Policandre, combien il estoit necessaire d’y aller en diligence; que pour ce sujet elle estoit contrainte de laisser Rosanire entre les mains de la Nymphe, avec presque toutes leurs femmes, et qu’incontinent apres ils la reviendroient querir; mais qu’il estoit necessaire de ne point perdre le temps pour des raisons que par les chemins elle luy feroit entendre. Rosanire eust bien voulu suivre la reyne Argire, mais ayant appris que pour son contentement il falloit qu’elle demeurast avec la Nymphe Amasis, elle s’y resolut facilement pour la grande amitié qu’elle avoit desjà faite avec Galathée. Toutes choses estant donc en estat, la reyne Argire partit avec Rosileon, et n’emmena pour tout que vingt-cinq solduriers, laissant les autres à la princesse Rosanire, avec commandement à leur chef d’obeyr à tout ce que la Nymphe ou le prince Godomar luy ordonneroient. <pb n="701"/></p>
@@ -292,15 +292,15 @@
         <p>Alcidon et Adamas qui sçavoient que cet homme estoit un imposteur, ne pouvoient assez s’estonner de l’assurance de ces paroles, lors que l’un de ceux qui l’avoient pris le vint advertir des declarations qu’il leur avoit faites, et des offres avec lesquelles il avoit voulu les corrompre. A quoy il respondit avec une effronterie extreme que c’estoient des choses supposées, et ausquelles il n’avoit jamais pensé. Et contrefaisant un extreme estonnement, disoit: Que le juste estoit ainsi calomnié par les meschans. Dont le soldurier en colere: Seigneur, dit-il, se tournant vers Adamas, voylà bien le plus effronté de tous les imposteurs. Trois de mes compagnons estoient avec moy, quand il nous a tenu ce langage, et je m’assure qu’il y a quelque chose dans son sein qui le convaincra, car nous avons pris garde qu’il a essayé plusieurs fois d’y mettre la main, lors qu’il à pense n’estre pas veu. – Faites venir vos compagnons, dit Adamas, et cherchez y soigneusement.</p>
         <p>Ce fut bien à ce commandement que Climante perdit toute contenance, car encor qu’il fust bien assez fin et assez ruzé, pour ne porter rien qui luy pust nuire, si est-ce que, de fortune, ainsi qu’il estoit pres de la porte du jardin, de grand matin Polemas luy avoit envoyé une lettre qu’il s’estoit mise au sein pour n’avoir pas eu le loisir de la laisser avec le reste de ses autres papiers. Cela fut cause que, quand on le voulut fouiller, il resista tant qu’il luy fut possible, repoussant ceux qui s’approchoient de luy, et de bras et de teste, et se jettant en terre, comme s’il eust esté possedé de quelque mauvais demon. Cette grande resistance donnoit plus d’envie au Druide et à Alcidon de sçavoir ce que c’estoit, de sorte qu’ils y mirent tant de personnes, qu’en fin ils trouverent la lettre. Et d’autant qu’il faisoit trop obscur dans le cachot, ils en sortirent pour la lire plus aisément, et la trouverent telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE POLEMAS</head>
-        <h3>A CLIMANTE</h3>
-        <milestone type="space"/>
+        <p>A CLIMANTE</p>
+        <milestone unit="line"/>
         <p>Cher amy de mon coeur; l’impatience est tousjours compagne de l’amour; ne trouve donc estrange, si je t’esveille de si bon matin. A sept heures, je seray au droit du carrefour des Termes, heureux chasseur, si par ton moyen j’y rencontre ce que tu m’as promis. Te <pb n="713"/> jurant encore une fois, ô mon cher Climante, que Galathée ne sera point plustost mienne, que je te fais possesseur de ta chere Leonide, avec la part que tu voudras de cet Estat, duquel si je me vois un jour seigneur, je t’en auray toute l’obligation. La force, au pis aller, ne nous peut manquer, mais j’aymerois mieux que par ta prudence nous l’obtinssions avec douceur: la Premiere est plus asseurée, mais celle-cy plus honorable; toutesfois, au defaut de l’une, nous nous servirons de l’autre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Qu’est-ce, seigneur chevalier, dit alors Adamas, que nous voulons sçavoir davantage de ce meschant homme ? Voicy toute l’entreprise assez bien declarée. – Voyons seulement, adjousta Alcidon, si, à ce carrefour des Termes on pourroit prendre ce chasseur. – Quant à cela, reprit Adamas, on y a mis promptement l’ordre qui se pouvoit; car Leonide et Silvie y sont allées, la premiere avec les habits de Galathée, se voilant toutesfois le visage, et nous avons mis Lerinte avec trente hommes de cheval dans une grange assez prés de là, afin que, si Polemas y passe, qu’il soit pris au piege qu’il a tendu.</p>
         <p>Cependant qu’ils parloient ainsi, Climante qui vid sa conspiration entierement descouverte, n’en attendant qu’une honteuse mort, se laissa emporter au desespoir de telle sorte que, se voyant seul dans le cachot, il se heurta de la teste de si grande force, et tant de fois contre la muraille, à laquelle il estoit appuyé, qu’il se rompit le test. Et d’autant plus aisément, que, de fortune, il se rencontra à l’endroit où estoit une pierre pointue et tranchante, de façon que le sang luy en sortit par les yeux et par la bouche, si bien que, quand Adamas rentra pour luy faire quelques demandes sur cette lettre, il le trouva aux trances de la mort, ne faisant plus que grommeler, comme une personne que le caterre suffoque. On essaya bien de le faire revenir, mais ce fut en vain, car il s’estoit fait une telle ouverture, que le cerveau mesme en sortoit. Il mourut donc de cette miserable façon qui estant considerée du grand Druide: Il faut avouer, dit-il, que le grand Tautates est juste, puis que ce meschant, se feignant druide, et ayant assommé tant de bestes innocentes, il est bien juste qu’il en ait fait la vengeance sur sa teste coulpable.</p>
         <p>Avec semblables considerations, Alcidon et Adamas en allerent rendre compte à la Nymphe et au prince Godomar. Et à peine leur avoient-ils raconté tout ce qui s’estoit passe, et fait voir la <pb n="714"/> lettre, que l’on entendit un grand tumulte qui venoit de la porte de la ville, la plus proche du carrefour des Termes, d’autant que Leonide et Silvie s’y en estans allées, et Polemas passant par là en habit de chasseur, et pensant que Galathée y fust, les avoit enlevées et mises en trousse, devant que ceux qui estoient dansla maison prochaine y pussent arriver à temps, d’autant que la porte se trouvant un peu petite, et par malheur une barre qu’on y souloit autrefois tenir pour fermer la porte, estant tombée à travers, les avoit tellement retenus, que devant qu’ils pussent sortir, Polemas s’estoit grandement esloigné. Et incontinent apres avoient paru quatre gros de gens de cheval qui venoient au petit pas à sa rencontre, de sorte que ceux qu’Amasis y avoit envoyez, avoient esté contraints de se retirer un peu hastivement; dequoy le bruit n’estoit pas petit par toute la ville.</p>
@@ -365,27 +365,27 @@
         <p>Cependant Polemas disposoit en quelle sorte il vouloit que cet effort se fist, escrivant à chacun dans de petits billets en quel ordre ils devoient donner, et ce qu’ils avoient à faire. Et soudain que le jour parut, montant à cheval avec ses propres ambactes et solduriers, il alla gaigner la teste de l’armée, afin de donner à chacun le commandement qu’il avoit desseigné.</p>
         <p>Et parce qu’il avoit esté impossible que tant de gens fussent arrivez de tant de costez, sans qu’Adamas en fust adverty, dés le soir il en donna advis à la Nymphe, et au prince Godomar qui incontinent donna ordre à Alcidon de faire battre les chemins toute la nuict par quelque troupe de gens à cheval, et à Damon, d’avoir l’oeil aux gardes des murailles et des portes, et que les places et les lieux necessaires fussent bien garnis. Et de fortune, lors que les portes se fermoient, Leontidas arriva de Lyon, avec un extreme contentement de Godomar, lors qu’il le sceut; car il desiroit passionnément sçavoir des nouvelles du prince son frere. Il alla donc incontinent trouver la Nymphe, se doutant bien que Leontidas s’y en iroit, où il trouva Rosanire et Dorinde dans son cabinet, la Nymphe ayant jugé plus à propos d’ouyr les nouvelles qu’il rapporteroit, en particulier qu’en general.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’ HISTOIRE DE DORINDE; ET DU PRINCE SIGISMOND</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Soudain que Leontidas fut entré, et qu’il eut rendu l’honneur qu’il devoit à la Nymphe, à Godomar et à la princesse: Madame, dit-il, je vien d’un lieu où j’ay receu toute sorte d’honneur, et <pb n="735"/> toute sorte de discourtoisie; de l’honneur, du prince Sigismond, de la discourtoisie, du roy Gondebaut. Et afin que vous entendiez toute chose par ordre, sçachez, madame, que, suivant le commandement que j’avois receu du prince Godomar, j’entray dans Lyon, sans faire entendre de la part de qui j’y venois.</p>
         <p>Aussi-tost qu’il fut nuict, je fis sçavoir au prince Sigismond le subject de mon voyage, et le suppliay que je puisse parler à luy. Ce prince, à la verité, est retenu dans son logis par le commandement de Gondebaut, mais non pas si estroittement, que ceux qui veulent parler à luy ne le fassent, sans qu’on s’enquiere quelles personnes ce sont, et que presque toutes les nuicts il ne sorte, et n’aille voir la princesse Clotilde.</p>
         <p>Soudain qu’il sceut mon arrivée, il m’envoya l’un des siens, qui me conduisit par un degré secret dans son cabinet, où incontinent apres il arriva, et me receut avec un si bon visage, et avec tant de caresses, qu’il fit bien paroistre que ma veue luy estoit agreable. Et il faut que j’advoue que la premiere chose qu’il me manda, comme se portoit le prince son frere; mais la seconde, et sans s’arrester gueres à l’autre, fut des nouvelles de la belle Dorinde, me faisant sur ce poinct de si particulieres demandes, que je cogneus bien que sa bouche parloit de l’abondance de son coeur. Mais quelque temps apres, se reprenant: Seigneur chevalier, me dit-il, excusez ma passion; si je suis si curieux, car j’ayme cette fille plus que ma vie. Dorinde à ce mot rougit, et se mit la main sur les yeux. Non non, reprit Leontidas, ne rougissez point, belle dame, de ce que je dis, car veritablement il a plus d’amour pour vous, que les paroles ne sçauroient tesmoigner. Et puis continua: Le prince donc, s’estant excusé de cette sorte, me demanda, madame, comme vous vous portiez, et ensemble m’offrit de m’assister en tout ce qui seroit de vostre service, car, disoit-il, j’y suis obligé pour son merite, et plus estroitement,encore pour les faveurs qu’elle a faites à Dorinde, ainsi que j’ay sceu par l’un des archers de Clorante qui suivit le prince mon frere, feignant d’estre des siens jusques dans la ville de Marcilly, vid Dorinde, et l’honneur que la Nymphe luy faisoit, et incontinent, le plus viste qu’il put, le vint rapporter au roy qui, sur ces nouvelles, a depesché Alerante vers la Nymphe, avec la plus impertinente ambassade que jamais roy ait fait faire à une telle princesse.</p>
         <p>Sur ce discours, je luy presentay vos lettres, madame, et celles du prince. Et parce qu’il n’en voyoit point de Dorinde, je le vis <pb n="736"/> un peu estonné et froid, qui me fit luy dire en sousriant, et lui presentant celle qu’elle luy escrivoit: Je gardois, seigneur, celle­cy pour vous la presenter à loisir, m’asseurant qu’elle ne traitte point d’affaire d’Estat. Luy alors, la prenant et la recognoissant, il la baisa deux ou trois fois, et me dit: Tant s’en faut, celle-cy seule traitte du vray estat de mes affaires. Et l’ouvrant avec une curiosité extréme, il leut qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DORINDE</head>
-        <h3>AU PRINCE SIGISMOND</h3>
-        <milestone type="space"/>
+        <p>AU PRINCE SIGISMOND</p>
+        <milestone unit="line"/>
         <p>Aurez-vous agreable ce tesmoignage du souvenir que Dorinde a du prince Sigismond? Si je me remets devant les yeux d’avoir esté abandonnée seule à la mercy de toute sorte d’outrage, je croiray que non; si j’adjouste foy aux paroles du prince vostre frere, je croiray que si; mais si je me represente de quelle façon tous les hommes jusques icy m’ont traittée, ô que je perdray bien-tost cette creance</p>
         <p>Que faut-il donc que nous fassions, ô Dorinde, pour ne démentir le jugement que nous avons fait de ce grand prince? Croybns qu’il n’est point trompeur, et qu’il nous ayme, et continuons de mesme à l’honnorer, aymer et servir, afin que, s’il manque envers nous, il n’ait point d’excuse, ny envers les dieux, ny envers les hommes.</p>
         <p>C’est donc en cette resolution que je vous assure, seigneur, que je ne seray plus Dorinde, quand je ne seray plus à vous.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>O Dorinde, dit-il incontinent, apres qu’il l’eut leue, ô Dorinde ! que vous avez raison de vous douloir de moy, et que j’en ay de me plaindre de la Fortune. Et sur ce mot, se tournant vers moy: Seigneur chevalier, me dit-il, avez-vous jamais rien aymé ? Et me voyant sous-rire, sans luy respondre: Si vous avez aymé, continua-t’il, je ne vous fait point d’excuse des transports de mon affection, mais si jusques icy vous avez esté exempt de cette passion, je vous conjure d’attendre à faire jugement de ce que vous voyez en moy, jusqu’à ce que vous deveniez amant; et alors je vous donne congé d’en dire tout ce qu’il vous plaira. Je cognus bien à ces paroles, que, sans traiter d’autres affaires avec luy, il falloit vuider celles de Dorinde; c’est pourquoy je luy respondis: Je ne suis pas, seigneur, si ignorant de cette passion, que je ne sçache <pb n="737"/> bien qu’il n’y en a point une plus grande, ny une plus juste: plus juste, d’autant qu’il n’y a rien de plus equitable que d’aymer ce qui est aymable, et plus grand, parce que la nature et la volonté nous y portent entierement. Et c’est pourquoy non seulement je me suis chargé de la lettre de la belle Dorinde, que je vous ay rendue, mais de plus, d’un present que le prince vostre frere vous envoye, et qui, je m’assure, ne vous sera point desagreable. Et lors, m’approchant de la porte, je me fis donner le portrait de Dorinde, que j’avois commandé à un des miens d’apporter.</p>
         <p>Lors que je le luy despliay, c’est la verité, madame, qu’au. commencement, il demeura les yeux colez dessus, si ravy, qu’il sembloit qu’il ne se souvinst d’autre chose. En fin, revenant en luy-mesme, et considerant la peine que j’avois de tenir les bras haussez pour le luy faire voir, parce que nous estions seuls dans son cabinet, il entra en quelque consideration; et toutesfois, en faisant ses excuses, il ne pouvoit se lasser de la regarder et de la louer. Mais lors que, long-temps apres l’avoir contemplée, il jetta les yeux sur son habit de bergere: O, s’escria-t’il, que d’envie cette bergere donne aux autres bergeres die Lignon ! – Il est vray, interrompis-je, et c’est pourquoy, seigneur, je pense qu’elle y a demeuré si peu de temps, et qu’elle est venue parmy les nymphes d’Amasis, où, quoy que vestue en bergere, elle paroist comme une Diane parmy le choeur des autres nymphes.</p>
         <p>Sur ce poinct il me commanda de luy raconter par le menu toute la fortune de Dorinde, et par quel bon demon elle avoit esté conduitte et conseillée de se retirer vers Amasis; pour à quoy satisfaire, je luy dis tout ce que j’en avois appris par sa bouche mesme, et par celle de Merindor et de Periandre. Et je pris garde que, quand je luy racontois les frayeurs qu’elle avoit eues prés du pont où Darinée l’avoit laissée, il souspira diverses fois, comme regrettant de n’avoir pas esté auprés d’elle. Mais quand il ouyt la cruauté avec laquelle Clorante l’avoit fait prendre, et en quel estat elle estoit quand Merindor, Periandre et Bellimarte y survindrent: Ah ! cruel pere, s’escria-t’il, est-il possible que tu ayes des yeux, et les ayant, que tu ayes pu voir Dorinde, et ordonner qu’il luy fust fait un si grand outrage ? En fin, quand il sceut la mort de Bellimarte: Cher amy, dit-il, ne plains point la vie que tu as perdue, et assure-toy que nous te portons tous envie de l’avoir sibien employée. Bref, madame, ce prince ressentoit de sorte tout <pb n="738"/> ce qui touchoit cette belle dame, que je crois assurément que jamais personne n’a sceu bien aymer que luy.</p>
@@ -397,15 +397,15 @@
         <p>A ce mot, Leontidas se teut, et mettant à part les lettres du prince Sigismond, les presenta à la Nymphe, au prince Godomar et à Dorinde. Et parce que celle-cy ne desiroit pas tant de tesmoins en lisant sa lettre, elle se retira dans la chambre de Daphnide, cependant que, sur l’advis de Leontidas, on fut d’opinion d’envoyer vers Lindamor, pour luy faire entendre qu’il eust à se garder du roy Gondebaut, et à s’asseurer du prince Sigismond, comme aussi si, de fortune, son retour s’adressoit par les Pictes ou par les Boyens, il recueillist avec luy tous ceux que la reyne Argire et Rosileon luy donneroient. Et cherchant qui seroit propre à ce voyage, Galathée, se souvenant que Leonide luy avoit parlé depuis peu de Fleurial, elle le proposa comme celuy qui pouvoit aller par tout sans soupçon, et qui en avoit desjà fait autrefois le chemin. Et chacun l’ayant trouvé bon, sa despesche fut incontinent faite, et le soir mesme il partit, ayant esté bien instruit de tout ce qu’il avoit à faire, et sur tout qu’en revenant il cachast de sorte ses lettres que, si de fortune, il estoit pris par ceux de Polemas, elles ne fussent point trouvées.</p>
         <p>Cependant Dorinde, retirée en un coing de la chambre de Daphnide, avec une bougie en la main, pleine de contentement pour les nouvelles que Leontidas luy avoit apportées, s’en alloit descachetant la lettre que Sigismond luy escrivoit, et ne pouvoit assez s’asseurer en son ame de la mauvaise opinion qu’elle avoit eue de luy, puis qu’elle avoit tant de tesmoignages de la continuation de sa bonne volonté par le rapport de tant de personnes. Et cette pensée l’occupoit de sorte que, ne pensant point à ce qu’elle faisoit, elle plioit quelquefois la lettre au lieu de la desployer. En fin, revenant en elle-mesme, elle l’ouvrit, et leut qu’elle estoit telle. <pb n="741"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DU PRINCE SIGISMOND</head>
-        <h3>A DORINDE</h3>
-        <milestone type="space"/>
+        <p>A DORINDE</p>
+        <milestone unit="line"/>
         <p>J’advoue, ma belle fille, que Dorinde a eu des ennuis et des desplaisirs, mais je nie bien, qu’ils ayent esté plus grands ny plus sensibles que les miens. Je ne veux point d’excuse, ny envers les dieux, ny envers les hommes, pour avoir manqué à l’affection que je vous aÿ promise: les dieux sçavent qu’elle est en mon ame toute pure et sans tache, et les hommes voyent que la tyrannique violence d’un pere, auquel je ne donne ce nom qu’à regret, m’a empesché de vous tenir compagnie. Peut-estre la doute que vous avez eue de moy vous pourroit bien mieux accuser d’une amour imparfaite, mais le Ciel ne vueille que j’aye cette pensée, car je suis tres-assuré que la grandeur de mon affection vous obligera tousjours à m’aymer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Dorinde relut cette lettre diverses fois, et à chasque coup elle y remarquoit quelque nouveau. tesmoignage de l’amitié du prince Sigismond, ce qui la remplissoit de tant de contentement, qu’elle ne se pouvoit saouler de la lire. Et sans doute elle s’y fust amusée beaucoup plus longuement, si elle n’en eust esté divertie par Galathée qui venoit visiter Daphnide, pour luy raconter les nouvelles qu’elle avoit apprises par le retour de Leontidas, et aussi du soulevement et rebellion de Polemas, duquel on parloit alors tout ouvertement.</p>
         <p>Mais cependant, Adamas qui avoit advertissement de tous costez des grandes troupes de Polemas, et de la diligence avec laquelle il se hastoit pour venir attaquer la Nymphe, sceut par ses espies que les machines de guerre sortoient de l’arcenal de Surieu, et que son armée commençoit à marcher, dequoy advertissant le prince, Alcidon et Damon, ils furent d’advis de faire sortir quelques gens de cheval, pour descouvrir et battre les chemins, et cependant d’ordonner les endroits à chacun où il avoit à combatre. Et d’autant qu’ils jugerent bien que d’abord il voudroit essayer de faire un effort, ils preparerent tout ce qui estoit necessaire pour le soustenir.</p>
         <p>Mais Adamas qui ne se pouvoit imaginer que Polemas fust si outrecuidé de penser d’emporter cette place devant que d’y faire breche, si ce n’estoit sous l’esperance de quelque intelligence, le <pb n="742"/> leur fit entendre et en mesme temps proposa de changer tous les quartiers à ceux de la ville: Car, disoit-il, l’entreprise qu’il peut avoir, sera faite de longue main, et sur l’assurance que chacun defendra le quartier, qui de long-temps luy a esté donné en garde. Que si, sur la minuict, onles change, les traistres seront bien empeschez à seulement faire sçavoir à Polemas en quel endroit de la ville ils auront esté placez, et peut-estre, si nous y avons bien l’oeil, les recognoistrons-nous aussi-tost que luy. Chacun approuva ce conseil, et pour prevoir non seulement à cette fois, mais tant que le siege dureroit, à de semblables trahisons, il fut ordonné que, toutes les nuicts, les quartiers seroient changez de mesme. Et d’autant qu’on nese doutoit que de ceux de la ville, ils resolurent que les murailles et lesportes ne seroient gardées que par les trouppes estrangeres, et que ceux de la ville demeureroient en gros dans les places, pour secourir en cas de necessité les endroits qui en auroient besoin; ordre qui sauva à ce coup la ville, parce que Meronte, à qui la garde d’une porte avoit esté commise, avoit promis de la tenir ouverte quand Polemas feroit l’attaque generale.</p>
@@ -431,7 +431,7 @@
         <p>Astrée qui vid que Polemas se laissoit aller aux persuasions d’Alexis: Ah ! seigneur, interrompit-elle, se jettant à ses genoux, que les persuasions de cette fille ne vous fassent point faillir. Sçachez, seigneur, que, depuis la perte qu’elle a faitte de son pere et de sa mere, et qu’elle se laissa choir dans Lignon où elle faillit de se noyer, elle a tousjours eu le jugement mal rassis, si bien que quelquefois elle se figure d’estre non seulement une druide, comme maintenant elle fait, mais un berger, voire quelquefois un chevalier, et jure et fait des sermens extremes à ceux qui ne la veulent pas croire. Ayez pitié d’elle, seigneur, je vous supplie, et la renvoyez à son oncle Phocion qui, sans doute, la cherche partout, de peur qu’elle se soit allé jetter dans quelque estang, ou dans Lignon, comme elle eust fait, il y a longtemps, sans l’extreme soing qu’il a eu de la garder.</p>
         <p>Cette dispute eust bien duré plus longuement, si Polemas, ayant opinion que ce differend tournoit à sa confusion, ne l’eust interrompue: Or bien, leur dit-il, c’est assez, je vous vay mettre d’accord. Et alors s’addressant à Alexis: Estes-vous, luy dit-il, Alexis, fille d’Adamas, le plus meschant homme de tous les hommes ? – Chacun, respondit-elle, me tient pour fille d’Adamas le grand Druide. Et puis, se tournant vers Astrée: Et vous, continua Polemas, estes-vous fille de cet Adamas ? – Je la suis assurément, respondit-elle, et demandez-le à ces habits que je porte. – Puis donc, reprit-il, que vous estes toutes deux filles de ce meschant homme, j’ordonne que vous soyez toutes deux traittées comme telles. Et, à ce mot, ayant commandé qu’elles fussent attachées ensemble, il les fit mettre sous bonne garde jusqu’au matin,</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>non pas toutesfois sans suivre de l’œil Astrée jusques hors de</p>
         <p>sa chambre, et dire que c’estoit dommage qu’une si</p>
         <p>belle fille eust un si meschant et si detestable pere.</p>

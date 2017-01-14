@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">L’UNZIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le recit d’Olicarsis, et ce qui arriva à Celadon, à
         Silvandre, à la bergere, Astrée, et à Diane, tant
         à la fontaine de la verité d’Amour que depuis qu’ils
@@ -596,8 +596,8 @@
         et là s’estant mis à genoux, et à son exemple
         toute la compagnie en ayant fait de mesme, il fit cette priere à l’Amour:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>Fils de Venus, adorable divinité, de qui
         l’empire est au dessus de <pb n="475"/> toutes choses, ainsi les Vergers de
         Paphos, d’Erice et d’Amathonte ne produisent jamais de Pommes qui ne
@@ -610,9 +610,9 @@
         destiné en faveur de nos boccages, et comme la gloire de te
         plaire est le seul object que nous nous proposons, fay que nostre
         contentement soit aussi le suject de tes responces.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette priere achevée, Adamas revint où estoit toute
         la troupe, et alors un petit vent s’esleva, qui porta jusqu’à
         leurs oreilles le bruit que faisoient les bouillons dont la fontaine
@@ -635,20 +635,20 @@
         au dessoubs de la main gauche une grande table d’azur, où ces
         vers estoient escrits en lettres d’or:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Puis qu’enfin Alexis, cette fidelle amante,</p>
         <p>Que les dieux demandoient est morte en ta faveur,</p>
         <p>Celadon, reçoy le bon-heur</p>
         <p>Que le Ciel te presente:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Astrée, à les travaux est un prix ordonné,</p>
         <p>Et ce cœur si long-temps contre toy mutiné</p>
         <p>N’a plus de resistance,</p>
         <p>Pour opposer à ta constance. <pb n="476"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Adamas, et le reste de la compagnie n’eurent pas plustost
         achevé de lire ces vers, qu’on ouyt un murmure, suivy d’un
         battement de mains universel, c’estoit un effect de la joye que
@@ -672,10 +672,10 @@
         l’azur, dont l’autre costé estoit enrichy, ils virent qu’il y
         avoit escrit sur de l’argent, en caracteres de sable, ces mesmes mots.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais quoy, pour obeyr aux Arresis du Destin,</p>
         <p>Silvandre doit mourir, et laisser pour butin</p>
         <p>Diane à Paris qui l’adore;</p>
@@ -684,9 +684,9 @@
         <p>Et je commande encore</p>
         <p>Que ce Berger meure demain</p>
         <p>Immolé de ta main.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Aussi-tost le Ciel recommença ses tonnerres, et le nuage
         s’estant refermé, on vid tout d’un coup disparoitre la table,
         etles oracles qu’Amour y avoit escrits. Ce commandement estonna si fort
@@ -1102,11 +1102,11 @@
         verité. Disant cela il luy tendit une lettre qu’Amasis treceut,
         et l’ayant ouverte, elle y leut ces paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DORINDE</head>
-        <h3>A AMASIS</h3>
-        <milestone type="space"/>
+        <p>A AMASIS</p>
+        <milestone unit="line"/>
         <p>Enfin la perfidie de Sigismond m’a
         retirée de la doute où j’estois, que l’on fust trouver de
         la fidelité parmy les hommes, et sa trahison m’ayant osté
@@ -1142,11 +1142,11 @@
         Madame, qu’en quelque lieu que je sois, et à quelque condition
         que je sois appellée, je ne seray jamais que vostre tres-humble
         servante.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>DORINDE.<pb n="488"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cependant qu’Amasis lisoit cette lettre, Merindor remarquoit de
         grands changements en son visage, et voyant peu à peu que ses
         yeux devenoient humides, il se douta bien qu’elle donneroit des larmes
@@ -1170,11 +1170,11 @@
         le plus couvert, et la s’estant assise, et ayant commandé au
         chevalier d’en faire de mesme, il commença son discours en cette sorte:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>DE DORINDE</h3>
-        <milestone type="space"/>
+        <p>DE DORINDE</p>
+        <milestone unit="line"/>
 
         <p>J’ay à vous raconter, Madame, une si grande trahison, que
         si vous ne sçavez parfaittement ce que peut Amour sur un esprit,
@@ -1592,11 +1592,11 @@
         s’il en vouloit contrefaire les caracteres, il obtint tout ce qu’il
         voulut, et luy-mesme luy dicta cette lettre. <pb n="499"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE SIGISMOND</head>
-        <h3>A DORINDE</h3>
-        <milestone type="space"/>
+        <p>A DORINDE</p>
+        <milestone unit="line"/>
         <p>C’est plustost la tyrannie de Gondebaut que ma
         volonté qui me donne pour mary à la fille du roy des
         Theutons; mon desespoir est si violent qu’il m’empesche de vous
@@ -1613,9 +1613,9 @@
         donnée, et si vous avez encore quelque inclination à
         m’obliger, cherchez entre les bras de Merindor le repos que nostre
         mauvaise fortune vous a refusé aupres de Sigismond.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant que le roy dictoit cette lettre, Squilindre l’escrivoit
         de son escriture ordinaire; mais aussi-tost qu’elle fut
         achevée, il mit devant soy celle qu’on luy avoit donnée
@@ -1865,7 +1865,7 @@
         Madame; et promets de ne rien espargner de ce qui dependra de
         moy, pour rendre à Dorinde le contentement que je luy ay desrobé.</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Disant cela ils entrerent dans la chambre d’Adamas, qu’Amasis</p>
         <p>trouva affligé outre-mesure, et apres avoir passé une partie</p>
         <p>de la journée avecque luy, elle fit venir Rosanire,</p>

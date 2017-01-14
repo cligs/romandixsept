@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -44,7 +44,7 @@
         <head type="partie">DE MESSIRE HONORÉ D’VRFÉ</head>
         <head type="chapitre">LE QUATRIESME LIVRE</head>
         <head type="chapitre">Par Mr DE GOMBERVILE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>VOYLA la tout ce qui se passoit à Marcilly. Polemas cependant qui
         estoit au desespoir, qu'en la presence d’Aleranthe il eust receu
         l’affront d’auoit esté repousé autant de fois qu’il auoit attaqué ses
@@ -811,14 +811,14 @@
         voix, il fut resolu qu’on le liroit, le Secretaire se leua, &amp; le
         chapeau hors de dessus la teste, apres auoir fait vne grande reuerence
         à la Nymphe, &amp; à Clidamant, demeura debout, &amp; leut ainsi.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p><pb n="370"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">CARTEL DE PERTINAX</head>
-        <h3>Comte, aux Cheualiers du Conseil d’Amasis.</h3>
-        <milestone type="space"/>
+        <p>Comte, aux Cheualiers du Conseil d’Amasis.</p>
+        <milestone unit="line"/>
         <p>S’il n’y auoit que des femmes qui se meslassent de gouverner
         les Segusiens, nous souffririons leurs iniustices, &amp; leurs
         violences sans nous plaindre, ou nous vouloir vanger: pource que la
@@ -840,13 +840,13 @@
         les gens de bien ont accoustumé de paroistre, ie te défie derechef,
         &amp; te donne ma foy, que, pourueu que de ton costé chacun demeure aux
         termes ordinaires, tu n’auras à te garder que de moy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>PERTINAX</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Comme le Secretaire eut acheué de lire, il se retint, &amp; la Nymphe
         par vne grandeur de courage, ne faisant paroistre aucune marque de la
         iuste colere, dont elle estoit pleine, dit au Heraut cecy sans
@@ -959,14 +959,14 @@
         falloit pour escrire. Melandre qui auoit l’esprit extremément vif, ne
         songea pas beaucoup à ce qu’elle auoit à luy mander. Aussi prenant la
         plume, elle eut aussi-tost fait ces lignes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p><pb n="376"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">MELANDRE</head>
-        <h3>A Lipandas.</h3>
-        <milestone type="space"/>
+        <p>A Lipandas.</p>
+        <milestone unit="line"/>
         <p>LES Nymphes on creû, Cheualier, que ie pouuois adiouster quelque
         chose à la bonté de leur cause, &amp; à la grandeur de vostre courage.
         Ie sçay qu’elles ont en cela trop bonne opinion de moy: Mais puisque
@@ -982,9 +982,9 @@
         bonne main, qu’il faut que pour la defendre vous empruntiez de l’Amour
         autant de courage, que la iustice vous en donne pour vanger la colere
         de Tautates, d’Amasis &amp; de Galathée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p><pb n="377"/>Cette lettre plus obligeante en apparence qu’elle n’estoit en
         effect, rauit de telle sorte Lipandas quand il l’eut receuë, qu’il en
         baisa le papier, l’escriture, la cire, la soye, &amp; le cachet: mais
@@ -2290,11 +2290,11 @@
         lettre qu’il auoit tirée des doubleures du pourpoint qu’il auoit
         quitté. Adamas en fit l’ouuerture, &amp; y leut cecy.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ARGIRE REYNE,</head>
-        <h3>A la Nymphe Amasis.</h3>
-        <milestone type="space"/>
+        <p>A la Nymphe Amasis.</p>
+        <milestone unit="line"/>
         <p>Si i’ay differé iusques icy à vous enuoyer de mes nouuelles,
         c’est que i’auois enuie que Rosileon vous les portast luy-mesme, auec
         vne armée de trente mille hommes. Celuy que ie vous enuoye vous dira ce
@@ -2306,9 +2306,9 @@
         apprendra à viure plus sagement. Que vous puis-ie dire? Rien, sinon
         que vous adioustiez la mesme foy à celuy qui vous rendra
         cette lettre, que vous feriez à moy-mesme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette lettre n’estant que de creance, Amasis pria le Messager de parler
         librement, &amp; que les Cheualiers qu’il voyoit auec elle, estoient
         les seuls en lafoy desquels elle remettoit sa fortune, &amp; celle de
@@ -2325,11 +2325,11 @@
         rien qu’elle ne la vienne requerir. Amasis luy ayant promis
         que personne ne luy en parleroit, cét homme continua ainsi.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SVITTE DE L’HISTOIRE</head>
-        <h3>d’Argire, Policandre, Rosileon, &amp; Celiodante.</h3>
-        <milestone type="space"/>
+        <p>d’Argire, Policandre, Rosileon, &amp; Celiodante.</p>
+        <milestone unit="line"/>
         <p>IE ne sçay, Madame, si c’est par vne fatalité qui ne puisse estre
         surmontée, que la fortune de la Reyne Argire suit la vostre en quelque
         façon, &amp; qu’estans meslées ensemble, elles sont sujettes aux mesmes
@@ -2703,11 +2703,11 @@
         ne disoit pas ce que la Princesse pensoit. Elle ouurit les
         lettres, &amp; la premiere qu’elle leut fut celle de la Reyne. Il y auoit ainsi.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LA REYNE ARGIRE,</head>
-        <h3>A la Princesse Rosanire.</h3>
-        <milestone type="space"/>
+        <p>A la Princesse Rosanire.</p>
+        <milestone unit="line"/>
         <p>NE trouuez pas estrange que ie vous nomme ma
         fille. Le Roy me l’a commandé, &amp; lors que vous verrez qu’il vient
         d’adiouster la necessité au commandement, ie me figure que vous
@@ -2721,9 +2721,9 @@
         aymé Rosileon incognu pour son merite, vous ne diminuerez pas cette
         bonné volonté pour sçauoir qu’il est fils de Vicentix Roy de Sentons,
         &amp; d’Argire Reyne des Pictes, des Ambarres, &amp; des Boyens.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces qualitez nouuelles d’Argire mirent en l’esprit de la Princesse
         la curiosité de sçauoir comme cela s’estoit passé Le Roy, dit-elle au
         Messager, a donc espousé la Reyne Argire? Oüy, Madame, luy respondit-il,
@@ -2741,11 +2741,11 @@
         l’ayant prise, elle l’ouurit; &amp; à mesure que l’autre parloit,
         elle y lisoit ces paroles. <pb n="450"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">ROSILEON</head>
-        <h3>A la Princesse.</h3>
-        <milestone type="space"/>
+        <p>A la Princesse.</p>
+        <milestone unit="line"/>
         <p>IE ne sçay, Madame, comme vous receurez les nouuelles de mon
         bon-heur; mais si vous n’auez point oublié les promesses qu’autrefois
         vous auez trouué bon de me faire, ie croiray, s’il vous plaist,
@@ -2766,20 +2766,20 @@
         ostant de la prison où les meschans vous retiennent, ie ne me presente
         deuant vous que les lauriers sur la teste, pour auoir. dompté la
         Perfidie &amp; la Rebellion.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Aussi-tost que Rosanire eust acheué de lire cette lettre, transportée
         mais en soy-meyme de la joye de veoir son cher Rosileon absolument
         sien, demanda des tablettes pour escrire à la mere &amp; au fils. Elle
         satisfit à l’Amour premierement, &amp; apres au deuoir. Voicy la lettre
         qu’elle enuoya au Prince.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">ROSANIRE,</head>
-        <h3>A ROSILEON</h3>
-        <milestone type="space"/>
+        <p>A ROSILEON</p>
+        <milestone unit="line"/>
         <p>I’AVROIS enuie de me plaindre de vous, mais ie reserueray
         l’effect de ma colere au temps que vous viendrez vous-mesme apprendre si
         se suis contente de sçauoir que vous l’estes. I’aurois peur de vous
@@ -2792,9 +2792,9 @@
         pouuoir sur moy de mort &amp; de vie, a trouué bon de <pb n="452"/> s’en
         deffaire entre vos mains, &amp; par vne donation reciproque, me donner
         à celuy qu’il m’auoit autrefois donnée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>La lettre que la Princesse escriuoit à la Reyne ayant esté
         fermée auec celle-cy, on les donna à ce Messager, qui ayant pris congé
         de Rosanire, fut retrouuer la Nymphe. Elle le remit entre les mains
@@ -2855,11 +2855,11 @@
         l’ayant fait entrer. receut le cartel dont i’ay parlé, &amp; y leut ces
         paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">Vn Cheualier Estranger,</head>
-        <h3>A Ligdamon.</h3>
-        <milestone type="space"/>
+        <p>A Ligdamon.</p>
+        <milestone unit="line"/>
         <p>Si vous ne m’auiez offensé iusqu’à l’extremité, ie n’aurois pas
         pris la peine devenir si loin vous chercher pour en tirer raison. Vous
         auez diffamé par vostre perfidie toute vne race qui n’eust iamais eu
@@ -2870,9 +2870,9 @@
         le courage de <pb n="455"/> le soustenir. Si cela est, trouuez-vous dans
         deux heures entre la ville &amp; le camp, armé, &amp; monté comme les
         Cheualiers ont accoustumé de l’estre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ligdamon n’eut pas si tost commencé de lire ce billet, qu’en son
         ame il iugea qu’encore vn coup il estoit pris pour Lydias: mais estant
         bien ayse que l’occasion se presentast pour auoir les yeux de Syluie
@@ -3171,11 +3171,11 @@
         le champ, auec tant de promptitude qu’on admira son esprit aussi bien
         que son courage.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">ALCIMEDOR</head>
-        <h3>à Polemas.</h3>
-        <milestone type="space"/>
+        <p>à Polemas.</p>
+        <milestone unit="line"/>
         <p>IE pensois auoir subiet de me plaindre de la trahison d’vn
         Cheualier quand ie suis sorty de la Grand Bretagne, &amp; le temps m’a
         fait cognoistre que ie n’en aurois point eu de subiet, si ie n’auois
@@ -3186,9 +3186,9 @@
         supercherie, m’oster l’occasion de la publier par tout, &amp; monstrer
         au monde que si tu es assez meschant pour violer les loix, au moins que
         tu as le courage de defendre ta tyrannie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce billet fut aussi tost donné à vn Trompette, qui partit pour
         aller faire ce message: mais à peine estoit-il party, qu’on oüyt dans
         le camp de Polemas vn bruit de trompettes, de cornets, &amp; de tous
@@ -3292,11 +3292,11 @@
         les recommandations de son maistre, luy presenta vne lettre: Clidamant
         l’ouurit, &amp; y leut ces paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">SIGISMOND</head>
-        <h3>à Godomar</h3>
-        <milestone type="space"/>
+        <p>à Godomar</p>
+        <milestone unit="line"/>
         <p>IE suis au desespoir, mon chere frere, de m’acquitter
         si mal de ce que ie dois à vostre amitié, à la necessité de la Nymphe, &amp; à la
         violence <pb n="473"/> de mon amour. I’ay receu les lettres que vous m’auez
@@ -3306,9 +3306,9 @@
         puissance de vous eruir. Ie n’ose vous dire ce que Gondebaut m’a fait.
         Croyez tout ce que vous dira Melindor, il est tellement mon seruiteur
         qu’il ne vous desguisera rien.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Melindor, dit Clidamant à celuy qui luy venoit de donner cette
         lettre, dittes sans crainte ce que mon frere vous à commandé. Il n’y
         a personne icy deuant qui vous ne puissiez parler. Melindor obeyssant
@@ -3658,10 +3658,10 @@
         veuë de la terre, de peur qu’ils ne fussent contraints de veoir les
         massacres, les embrasemens, &amp; les desolations dont il estoit resolu
         de remplir la miserable ville de Marcilly.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <head type="partie">Fin du quatriesme Livre.</head>
     </div>
 

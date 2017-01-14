@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DEUXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le temple de la bonne Déesse, où presidoit la venerable
         Chrisante, estoit au pied d’une agreable colline, qu’un bras de la
         belle riviere de Lignon lavoit d’un costé de ses claires ondes,
@@ -141,12 +141,12 @@
         <p>A ce mot, elle se retira dans le temple, parce qu’une vestale estoit
         venue sur le sueil de la porte crier, selon leur coustume pour la troisiesme foi.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>Loing d’icy, loing profanes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cela fut cause qu’Hylas ne peut luy respondre comme il eust bien
         desiré: car aussi tost qu’elle fut entrée, les portes
         furent fermées de sorte que Paris et tous ces bergers furent
@@ -222,8 +222,8 @@
         sacrifices n’estoient pas aggreables à la déesse, et les
         faisoit recommencer. Les paroles estoient telles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>O redoutable déesse, fille de la grande Rhée, et du
         puissant Saturne, qui nourris et eslevas Jupiter en ton giron, lors que
         sa mere le tenoit caché! Vesta que les Thiereniens appellent
@@ -236,9 +236,9 @@
         au grand Jupiter d’estre tousjours vierge, ait aussi bien esté
         obtenue pour nous que pour toy, puis qu’estans toutes à toy,
         nous pouvons aussi avec raison estre estimtées une partie de toy mesme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Aux dernieres paroles de cette supplication, tout le chœur des vierges
         respondit: Qu’il soit ainsi. Et lors elle posa la Mole-sacrée
         sur l’autel, puis le panier de fleurs, et de fruicts que la vestale qui
@@ -451,78 +451,78 @@
         à genoux devant elle, et peu <pb n="53"/> apres us commencerent
         d’ouyr leurs paroles un peu plus distinctement. Elles estoient telles.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ALCIDON, DAPHNIDE</head>
-        <h3>Dialogue.</h3>
-        <milestone type="space"/>
+        <p>Dialogue.</p>
+        <milestone unit="line"/>
         <h4>ALC.</h4>
         <p>Vous verra-t’on jamais changer,</p>
         <p>Puisque vous estes si legere?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DAPH.</h4>
         <p>Alcidon n’est pas mon berger,</p>
         <p>Ny Daphnide vostre bergere.</p>
         <p>Le destin qui commande à tous</p>
         <p>Ne nous fit pas naistre pour nous.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>ALC.</h4>
         <p>Jamais le destin n’accusez</p>
         <p>D’une chose si volontaire.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DAPHN.</h4>
         <p>Vous aussi ne vous abusez</p>
         <p>De rien obtenir au contraire:</p>
         <p>Car soit destin, soit volonté,</p>
         <p>En fin le sort en est jetté.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>ALC.</h4>
         <p>Vueillez ou ne me vueillez point,</p>
         <p>Me donnant à vous, je suis vostre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DAPHN.</h4>
         <p>Si nostre vouloir ne s’y joint,</p>
         <p>Ce qu’on nous donne n’est pas nostre:</p>
         <p>Et je refuse franchement</p>
         <p>De vous recevoir pour amant.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>ALC.</h4>
         <p>Recevez-moy pour serviteur,</p>
         <p>Si vostre amant je ne puis estre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DAPHN.</h4>
         <p>Non, non, je ne vous veux, Pasteur,</p>
         <p>Ny pour serviteur, ny pour maistre:</p>
         <p>Et si vous voulez vostre bien,</p>
         <p>De moy n’esperez jamais rien.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>ALC.</h4>
         <p>Quoy que fasse vostre rigueur,</p>
         <p>Mon feu sera tousjours extreme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DAPHN.</h4>
         <p>C’est bien avoir faute de cœur</p>
         <p>D’aymer si fort qui ne vous ayme,</p>
         <p>Car un bon cœur devroit chasser</p>
         <p>Par le mepris un tel penser <pb n="54"/>.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>ALC.</h4>
         <p>Mais pourquoy ne se changera.</p>
         <p>En fin ce farouche courage?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>DAPHN.</h4>
         <p>S’il’ peut changer, ce ne sera</p>
         <p>Que pour vostre desavantage,</p>
         <p>Mais que je vous ayme, berger,</p>
         <p>Vous n’y devez jamais songer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A peine la bergere eut finy ces dernieres paroles, que cessant de
         chanter, et voyant que le berger vouloit continuer, elle luy dit:
         C’est assez, Alcidon. Si vous voulez que je m’arreste ici plus
@@ -1087,11 +1087,11 @@
         <pb n="68"/> coustume, aux Bacchanales, nous nous déguisions pour
         dancer. Et lors s’approchant de Phillis, il dit tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">AMOUR AUX DAMES,</head>
-        <h3>Conduisant les vents pour dancer</h3>
-        <milestone type="space"/>
+        <p>Conduisant les vents pour dancer</p>
+        <milestone unit="line"/>
         <p>Je suis Amour, cet enfant</p>
         <p>Qui commande à toute chose,</p>
         <p>Et qui de tous triomphant,</p>
@@ -1100,7 +1100,7 @@
         <p>Et les ames sans malices,</p>
         <p>Le ris, le jeu, les esbas,</p>
         <p>Sont mes plus cheres delices.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Enfant, j’ayme les enfans,</p>
         <p>Chacun ayme ses semblables,</p>
         <p>Et des vieux je me deffens,</p>
@@ -1109,7 +1109,7 @@
         <p>Où sont mes flammes esprises,</p>
         <p>Qu’entre les enfans mignards,</p>
         <p>Et leurs jeunes mignardises?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Aussi j’ayme la beauté</p>
         <p>Qui comme nouvelle rose,</p>
         <p>Sous les rayons de l’Esté,</p>
@@ -1118,7 +1118,7 @@
         <p>D’aymer long-temps une belle;</p>
         <p>Car plus que la vieille fleur,</p>
         <p>J’ayme l’espine nouvelle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qui veut donc suivre l’Amour,</p>
         <p>Ayme une tendre jeunesse,</p>
         <p>Qu’il change de jour en jour,</p>
@@ -1127,7 +1127,7 @@
         <p>Que mes loix veulent qui meure: <pb n="69"/></p>
         <p>Amour est vieux et grison</p>
         <p>Quand il dure plus d’une heure.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais je ne sais toutesfois</p>
         <p>Quelle est l’erreur estrangere,</p>
         <p>Qui meslant parmy mes loix</p>
@@ -1136,7 +1136,7 @@
         <p>Une nouvelle science,</p>
         <p>Que’ quelques-uns vont nommant</p>
         <p>Du faux titre de constance.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle dit qu’il faui aymer</p>
         <p>Jusques dans la sepulture,</p>
         <p>Et qu’on doit mesestimer</p>
@@ -1145,7 +1145,7 @@
         <p>Chacun ne devoit pas suivre.</p>
         <p>A quoy serviroient les yeux,</p>
         <p>Et pourquoy faudroit-il vivre?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Or pour deffendre les miens</p>
         <p>D’une si grande folie,</p>
         <p>A ceste heure je m’en viens</p>
@@ -1154,7 +1154,7 @@
         <p>Pres du centre de la terre,</p>
         <p>Les vents qu’on y tient enclos,</p>
         <p>Sans cesse se font la guerre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je les ameine avec moy,</p>
         <p>Ces vents legers, ô mes dames,</p>
         <p>Pour vous inspirer ma loy,</p>
@@ -1163,7 +1163,7 @@
         <p>Qu’ils ont eue en leur naissance,</p>
         <p>Ceste opiniastreté</p>
         <p>Que vous appellez constance. <pb n="70"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Venez donc, troupeau leger,</p>
         <p>Venez, je vous en supplie,</p>
         <p>Dedans ces cœurs vous loger</p>
@@ -1172,7 +1172,7 @@
         <p>A bien aymer on s’appreste,</p>
         <p>Mais qu’Amour comme le vent</p>
         <p>Meure soudain qu’il s’arreste.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Esloignez, esloignez-vous,</p>
         <p>O vous ames trop austeres,</p>
         <p>De mes autels et de nous,</p>
@@ -1181,19 +1181,19 @@
         <p>D’avoir part à nostre gloire</p>
         <p>Contentez-vous du trespas</p>
         <p>Dont nous aurons la victoire.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Si vous voulez donc, continua Hylas, que je revienne vers vous, ne me
         parlez plus de ces anciennes amitiez, car je tiens pour ma devise</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Une heure aymer, c’est longuement,</p>
         <p>C’est assez d’aymer un moment.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et ne pensez que l’estime que vous dites faire de raoy me puisse
         attirer, car on ne se soucie guere d’estre estimé des personnes
         de qui on a quitté l’amitié et qui nous sont indifferentes.</p>

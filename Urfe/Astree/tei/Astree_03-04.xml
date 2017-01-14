@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE QUATRIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Alcidon, pressé du cruel souvenir de ses peines
         passées et de l’outrage qu’il luy sembloit avoir receu en cette occasion, et de
         son maistre, et de sa maistresse, perdit la parole, de sorte que quand
@@ -82,11 +82,11 @@
         l’advantage de sa cause.</p>
         <p>Et lors, apres estre demeurée muette quelque temps, elle reprit ainsi le discours:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>de Daphnide et d’Alcidon.</h3>
-        <milestone type="space"/>
+        <p>de Daphnide et d’Alcidon.</p>
+        <milestone unit="line"/>
 
         <p>C’est avec beaucoup de raison qu’on a tousjours dit que
         ceux qui sont interessez ou preoccupez de quelque passion, ne peuvent estre juges
@@ -532,11 +532,11 @@
         favoriser en tout ce qu’il a voulu aimer, ne luy eust elle-mesme
         osté les plus grands empeschemens par la rencontre que je vous vay dire.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE</head>
-        <h3>de l’artifice d’Alcyre.</h3>
-        <milestone type="space"/>
+        <p>de l’artifice d’Alcyre.</p>
+        <milestone unit="line"/>
 
         <p>II est aisé à juger que Clarinte, estant
         belle et telle que je la vous ay dite, et nourrie dans une Cour remplie de chevaliers
@@ -817,11 +817,11 @@
         des mains afin d’en comprendre mieux le subject, apres y avoir un peu
         songé, il escrivit telles paroles: <pb n="179"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE d’Amintor</head>
-        <h3>au nom du Roy Euric.</h3>
-        <milestone type="space"/>
+        <p>au nom du Roy Euric.</p>
+        <milestone unit="line"/>
         <p>C’est à la grandeur de mon affection, et non
         plus de mon merite, que vous avez voulu mesurer la faveur que j’ay receue de vous. Mais
         à quoy faut-il que j’esgale le remerciement que je vous en dois
@@ -831,9 +831,9 @@
         est la volonté que j’ay de vous faire service, laquelle je vous
         supplie de recevoir, comme celle de la personne du monde qui vous ayme
         le plus, et qui y est aussi la plus obligée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce qu’Alcyre desiroit sur toutes choses, c’estoit
         qu’Amintor escrivist cette lettre sur ce subject, non pas pour la donner au roy, ainsi qu’il
         en faisoit le semblant, mais pour un autre effect, qu’il avoit desseing
@@ -1168,12 +1168,12 @@
         penserois le pouvoir nommer asseurément.</p>
         <p>Et lors, les despliant il trouva qu’ils estoient tels: <pb n="188"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <h3>Sur un bouquet de fleurs,</h3>
-        <h3>aupres de Clarinte, dans le lict.</h3>
-        <milestone type="space"/>
+        <p>Sur un bouquet de fleurs,</p>
+        <p>aupres de Clarinte, dans le lict.</p>
+        <milestone unit="line"/>
         <p>Pres d’elle, sur son lict, un bouquet j’apperceus.</p>
         <p>Que d’envie aussi tost contre luy je conceus!</p>
         <p>O fleurs! au prix de moy, que vous estes heureuses!</p>
@@ -1186,9 +1186,9 @@
         <p>Que je n’ay point de mal, sinon parce que j’aime:</p>
         <p>Je te dis, ô bouquet! mille fois plus heureux,</p>
         <p>N’estant point amoureux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Amintor, ayant leu ces premiers vers, s’arresta pour
         considerer la lettre, et, apres y avoir quelque temps songé: Et bien! luy
         dit Clarinte, qu’en pensez-vous? – Jusques icy, respondit-il, je n’y
@@ -1201,60 +1201,60 @@
         de l’opinion où vous estes.</p>
         <p>Lors Amintor continua de cette sorte:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>sur le mesme sujet.</h3>
-        <milestone type="space"/>
+        <p>sur le mesme sujet.</p>
+        <milestone unit="line"/>
         <p>Amour cueillit ces fleurs où prend la belle Aurore</p>
         <p>Ses roses, ses œillets et ses lys tour à tour;</p>
         <p>Qu’apres, ouvrant le ciel et les portes du jour,</p>
         <p>En tombant de ses mains, tout l’Orient adore. <pb n="189"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Belles fleurs, que le Ciel de tant de grace honore,</p>
         <p>Qu’heureuses vous seres en un si beau sejour!</p>
         <p>Vous mourrez, il est vray, mais sur l’autel d’amour,</p>
         <p>Autel où tous les cœurs voudroient mourir encore.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que vous vinstes, ô fleurs, sous un heureux destin!</p>
         <p>Vous naquistes jadis dedans un beau jardin,</p>
         <p>Et de mourir icy vous estes destinées.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>D’avoir changé de lieu, qu’il ne vous fasche pas,</p>
         <p>Car vous mourrez bien mieux que vous n’estes pas nées.</p>
         <p>O Dieu! qui n’esliroit avec vous ce trespas?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je ne sçay, continua Amintor, si les vers qui suivent me feront perdre la creance
         que j’ay; mais jusques icy, je la tiens encores tres-asseurée.</p>
         <p>Et, reprenant le papier, il leut les autres, qui estoient tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>sur le mesme sujet.</h3>
-        <milestone type="space"/>
+        <p>sur le mesme sujet.</p>
+        <milestone unit="line"/>
         <p>Je la vis dans le lict, un bouquet aupres d’elle.</p>
         <p>Oh! combien en ses dons le Ciel est envieux!</p>
         <p>Si j’estois, comme vous, aupres de ceste belle,</p>
         <p>Quel plus heureux sejour voudrois-je entre les dieux?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>O fleurs! si vous l’aimiez comme j’aime ses yeux,</p>
         <p>La place où je vous vois, à quelqu’autre nouvelle</p>
         <p>Vous ne changeriez pas sous l’espoir d’estre mieux;</p>
         <p>Mais la fortune en nous n’est-elle pas cruelle?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le bien qui me defaut, vous l’avez vainement;</p>
         <p>Le bien qui vous defaut, je l’ay pour mon tourment;</p>
         <p>Sur nous elle use ainsi de double tyrannie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Comme le Ciel se rit des choses de ca-bas!</p>
         <p>II offre ses presens à qui ne les void pas,</p>
         <p>Mais à qui les void bien, le cruel, il les nie! <pb n="190"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Amintor, ayant achevé de lire ces vers, demeura
         fort empesché à juger qui en estoit l’autheur, car, au
         commencement, il pensoit que ce fust Alcyre, mais la conclusion de ces
@@ -1742,31 +1742,31 @@
         remede, toutesfois il me semble que, de se plaindre de son mal, cela
         donne quelque espece d’allegement. Ils sont tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Sur la mort du grand Euric.</h3>
-        <milestone type="space"/>
+        <p>Sur la mort du grand Euric.</p>
+        <milestone unit="line"/>
         <p>Quand enfin des guerriers celuy qui tout dispose</p>
         <p>Voulut qu’en son midi se couchast le soleil,</p>
         <p>Et que jamais depuis l’on n’en vist le resveil,</p>
         <p>(Ainsi disoit Daphnide au cercueil qu’elle arrose),</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Puisqu’icy, mon soleil, ta lumiere est enclose,</p>
         <p>Puisque c’est pour tousjours qu’on se cache à mon œil,</p>
         <p>Reçois ces tristes vœux que, tesmoins de mon dueil,</p>
         <p>Je ne rompray jamais qu’en toy je ne repose;</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Les pleurs qui de mes yeux voileront le flambeau,</p>
         <p>Les plaisirs que j’enterre en ton mesme tombeau,</p>
         <p>Les desirs estouffez dont fut mon ame atteinte,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’amour qu’en un regret je change pour tousjours,</p>
         <p>Tesmoigneront en moy, de nos pures amours,</p>
         <p>L’ardeur vive à jamais, estant la flame esteinte. <pb n="203"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Or, mon pere, continua Daphnide, pour laisser ces tristes
         ressouvenirs qui ne peuvent que vous estre ennuyeux, et pour reprendre le sujet que
         j’avois commencé, je vous diray que, cependant que j’estois
@@ -1842,15 +1842,15 @@
         verité, je resistay de sorte qu’en fin nous resolusmes de
         recourir à l’oracle. II nous respondit ainsi:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Pour sortir de tant de peine,</p>
         <p>Dedans les forests, un jour,</p>
         <p>Vous pourrez voir la fontaine</p>
         <p>De la Verité d’Amour. <pb n="205"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette response, assez obscure pour nous, qui n’avions
         guere de cognoissance de cette contrée, et point du tout de la fontaine
         de la Verité d’Amour, nous mit en peine. Et parce qu’Alcidon
@@ -2196,101 +2196,101 @@
         la recherchois avec trop d’importunité.</p>
         <p>Ils sont tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">PLAINTE DE DAPHNIDE</head>
         <head type="chapitre">SUR LA MORT D’EURIC</head>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que te sert-il, Amour, de resveiller mon ame?</p>
         <p>Ne croy point que mon cœur puisse estre reschauffé;</p>
         <p>Le feu de ses desirs fut alors estouffé,</p>
         <p>Quand la mort insensible en esteignit la flamme <pb n="214"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Insensible fut-elle aux excez de ma plainte,</p>
         <p>Trop insensible, helas! aux traicts de la pitié,</p>
         <p>Puis que, pour me ravir à mon cœur sa moitié,</p>
         <p>Elle ne peut jamais de mes pleurs estre atteinte.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle voulut montrer contre Amour sa puissance,</p>
         <p>Luy ravissant d’un coup ce qu’il eut de meilleur.</p>
         <p>Amour, comme un enfant, pleura bien mon mal-heur,</p>
         <p>Mais que petite, hélas! me fut cette allegeance!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je vis clorre ses yeux, mais je vis à mesme heure</p>
         <p>Clorre de mon bonheur le desir et l’espoir.</p>
         <p>Que puis-je desirer, ne le pouvant plus voir?</p>
         <p>Et quoy plus esperer, si ce n’est que je meure?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ma levre r’assembloit les reliques aimées,</p>
         <p>O cruel souvenir! de l’esprit ondoyant,</p>
         <p>Quand la mort les ravit, de vaincre ne croyant,</p>
         <p>Si ses mains de deux morts ne restoient diffamées.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Sa perte de la mienne à l’instant fut suivie;</p>
         <p>Le fer qui le frappa m’atteignit dans le cœr.</p>
         <p>Ceste cruelle ainsi, d’un coup plein de rigueur,</p>
         <p>Me fit mourir en luy, car il estoit ma vie.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Aussi, puisque mon cœur a receu tel outrage,</p>
         <p>Que ces myrtes d’amour soyent changez en cypres,</p>
         <p>En cendres ses ardeurs, ses plaisirs en regrets;</p>
         <p>Qui le peut convier de vivre davantage? <pb n="215"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Toute flame soit donc à jamais estouffée,</p>
         <p>Et tous les fers rompus, desquels Amour se sert;</p>
         <p>Et, dessus ce tombeau, soit à jamais offert</p>
         <p>Mon cœur privé d’amour en signe de trophée.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IX</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Grand roy, de qui la mort a peu seule, en ton ame,</p>
         <p>Esteindre le beau feu qui pour moy t’enflamma,</p>
         <p>Ce fut de ton amour que le mien s’alluma;</p>
         <p>J’enferme aussi mes feux où s’enferme ta flame.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>X</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Comme la terre esteint le feu de la chimere,</p>
         <p>Le mien s’est estouffé des cendres d’un cercueil.</p>
         <p>Et le phenix et moy ne bruslons qu’au soleil;</p>
         <p>Mon soleil n’estant plus, rien ne le peut plus faire.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Donc je t’appends, ô Mort! ce cœur que tu despouilles</p>
         <p>De l’objet qu’en vivant il a jugé si beau;</p>
         <p>Je ne veux plus aimer que ce fatal tombeau,</p>
         <p>Ny desirer que toy riche de mes despouilles.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je m’asseure, cher Adamas, continua Alcidon, que vous
         jugerez aisément, par ces vers pleins d’une affection si extréme
         et d’une resolution de ne plus rien aimer, et lesquels elle ne
@@ -2397,15 +2397,15 @@
         cet amour est recogneu, plus aussi le devons-nous aimer.</p>
         <p>L’oracle qui vous a esté rendu sur le differend qui estoit entre vous, vous reconfirme ce que je dis, car il est tel:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Pour sortir de tant de peine,</p>
         <p>Dedans les Forests, un jour,</p>
         <p>Vous pourrez voir la fontaine</p>
         <p>De la Verité d’Amour.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>C’est-à-dire: en Forests en fin, vous
         recognoistrez que veritablement vous vous aimez l’un l’autre, et lors vous sortirez de la
         peine où vous estes. Car le grand Tautates, qui vous a rendu cet
@@ -2435,8 +2435,8 @@
         Mais la modestie et, l’honnesteté avec laquelle elle luy
         respondoit tesmoignoient assez la vertu de la sagesse qui estoit en elle.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>Stiliane, Carlis et Hermante, qui estoient presens, reçurent un</p>
         <p>extréme contentement de celuy d’Alcidon, car il avoit ce</p>
         <p>bonheur, qui l’accompagnoit partout, d’estre aimé</p>

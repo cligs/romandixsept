@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -44,7 +44,7 @@
         <head type="partie">DE MESSIRE HONORÉ D’VRFÉ</head>
         <head type="chapitre">LE SIXIESME LIVRE</head>
         <head type="chapitre">Par Mr DE GOMBERVILE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>AVssi tost que Syluandre &amp; Hylas furent arriuez dans leur
         hameau, ils se separerent bons amis, comme ils auoient
         accoustumé d’estre, &amp; allerent rendre compte de leur voyage
@@ -348,41 +348,41 @@
         desrobant d’aupres de Licidas, fut à la porte de la chambre de
         sa Maistresse, où il chanta ces vers. <pb n="144"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>QVi iamais fut bruslé d’vn feu comme le mien?</p>
         <p>A qui donna iamais l’assurance d’vn bien,</p>
         <p>Les trauaux que me donne vne attente incertaine?</p>
         <p>Et qui, sans renoncer à son propre desir,</p>
         <p>A souffert la douleur, &amp; supporté la peine</p>
         <p>Que ma fidelité gouste auecque plaisir?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ie sçay qu’en mes amours tesmoigner moins d’ardeur,</p>
         <p>C’est de leur cause illustre ignorer la grandeur,</p>
         <p>Ou vouloir sans combattre emporter la victoire:</p>
         <p>Et qu’il faut que l’honneur ait mis au rang des Dieux,</p>
         <p>Quiconque le destin esleue pour la gloire,</p>
         <p>De posseder vn iour ce miracle des Cieux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ie voy bien cependant qu’un tas d’esceruelez,</p>
         <p>Qui nouueaux Phaetons veulent estre bruslez,</p>
         <p>Osent impudemment chercher cette fortune.</p>
         <p>Ils n’ont iamais senty, ny les vents, ny les flots, <pb n="145"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et veulent toutesfois voguer sur vn Neptune,</p>
         <p>Qui fait perdre la charte aux meilleurs Mattelots.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Gent folle que l’audace esbloüit aisément,</p>
         <p>Despoüille ton esprit de cet enchantement,</p>
         <p>Sur qui, mal à propos, ta vanité se fonde:</p>
         <p>Et cognoissant ta faute, empesche desormais,</p>
         <p>Que par des attentats si decriez au monde,</p>
         <p>Le siecle des Tytans ne reuienne iamais.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Licidas surprit Syluandre, comme il alloit continuer, &amp; luy
         reprochoit qu’il luy auoit fait supercherie, vouloit chanter à
         son tour: mais les Bergeres qui s’estoient vn peu esueillees au chant
@@ -397,30 +397,30 @@
         faict contre Pâris, ayant demander la permission à sa
         Maistresse de le dire, le chanta. Il estoit ainsi. <pb n="146"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>De quels traits de douleur fut mon ame percee,</p>
         <p>Quand son fascheux discours me surprit ma raison?</p>
         <p>Il le faut aduouer, vne froide poison</p>
         <p>Me glaça tout le sang d’vne crainte insensee.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p> L’objet de ce mal-heur se tint en ma pensee,</p>
         <p>Ie crû qu’vn estranger entroit en ma prison,</p>
         <p>Que le iour de ma mort estoit sur l’Orizon,</p>
         <p>Et que iamais ma foy ne seroit exaucee.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p> Diane &amp; ses vertus ne pûrent empescher,</p>
         <p>Que ce maudit soupçon ne me vint arracher</p>
         <p>De l’extreme assurance où ie viuois pour elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ce crime, sans mentir, ne peut trop se blâmer:</p>
         <p>Mais n’estre point ialoux d’vne chose si belle,</p>
         <p>C’est ne la point aymer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Syluandre acheua de chanter en souspirant &amp; par sympathie
         attirant du cœur de sa Bergere les souspirs qu’elle y vouloit
         estouffer, luy fit aduouër qu’vne veritable amour n’est iamais
@@ -442,31 +442,31 @@
         paroles, fit ouyr des vers qu’au plus fort de sa ialousie, il auoit
         faits contre son amour.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Desembarassons-nous, rendons-nous à nous mesme,</p>
         <p>Ne nous tourmentons plus d’Amour, ny de beauté,</p>
         <p>Et sans d’vne inconstante aymer la cruauté,</p>
         <p>Prenons dessus nos sens vn empire suprême.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>N’ayons plus l’esprit creux, ny le visage blesme,</p>
         <p>Ne faisons cas de rien que de la liberté. <pb n="148"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Monstrons qu’on vient à bout de la necessité,</p>
         <p>Et qu’on guerit tous maux par vn remede extreme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cherchons d’autres repos, goustons d’autres plaisirs,</p>
         <p>Surmontons nostre foy par de nouueaux desirs,</p>
         <p>Et ne nous tuons point pour vn bien impossible.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais, ô lasche conseil! Laschement escouté,</p>
         <p>Auons-nous pas au cœur ce miracle visible</p>
         <p>Mis si profondement, qu’il n’en peut estre osté?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Lydias ayant finy ces vers, Phillis dit en riant à Diane:
         Il faut aduoüer, ma compagne, que si les Bergers sont constans,
         ils le sont par force, plustost que par affection. Voyez-vous pas que
@@ -498,19 +498,19 @@
         Cleontine estant l’organe de l’esprit
         celeste, fit ceste responce au vieillard.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ergaste ne doute de rien,</p>
         <p>Desia la moitié de ton bien</p>
         <p>Est dans ceste saincte demeure.</p>
         <p>Bien-tost l’autre doit t’arriuer,</p>
         <p>Mais il faudra que Paris meure,</p>
         <p>Le iour que tu dois la trouuer. <pb n="150"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce Berger ayant receu ceste response, trouuoit estrange la
         condition auec laquelle les Dieux vouloient qu’il rencontrast le bien
         qu’il auoit perdu, pource qu’il ne cognoissoit point d’autre
@@ -533,19 +533,19 @@
         elle iusques à l’entree de la grotte sans lumiere, &amp;
         là receuant l’Esprit celeste, luy dit ces six vers: <pb n="151"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Diane, viuez en repos,</p>
         <p>Vous vous troublez mal à propos,</p>
         <p>Bellenus sera vostre guide:</p>
         <p>Et pour le bien de vos amours,</p>
         <p>Vous espouserez dans vingt iours</p>
         <p>Pâris, le fils du grand Druide.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Diane ne fut pas plustost de retour aupres de sa compagne, &amp;
         des deux Bergers, qu’elle se prit à pleurer, &amp; confesser
         qu’elle estoit née la plus infortunee fille du monde. Phillis
@@ -561,25 +561,25 @@
         de Syluandre. Vous trouerez, Phillis, le commencement de l’Oracle fort
         aduantageux pour moy. Voicy comme il est. <pb n="152"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Diane, viuez en repos,</p>
         <p>Vous vous troublez mal à propos,</p>
         <p>Bellenus sera vostre guide.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Que voudriez-vous de plus fauorable que ces promesses, &amp; que pourriez-vous craindre apres auoir ouy ceste suitte.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Et pour le bien de vos Amours,</p>
         <p>Vous espouserez dans vingt iours.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>I’aduouë qu’oyant ces grandes asseurances ie tressaillis
         d’aise, mais comme si la Druïde eust oublié, ou plustost
         apprehendé de me dire le reste, elle demeura court, &amp; ayant
@@ -587,12 +587,12 @@
         faire quand on prononce vne S. en fin pour me rendre la plus affligee
         Bergere de Forests, elle finit ainsi:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Pâris le fils du grand Druïde.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Phillis voyant combien clairement l’Oracle designoit ce
         Pâris qui estoit si fort incompatible à l’humeur de sa
         compagne: elle se mit en l’esprit qu’il falloit qu’il y eust quelque
@@ -663,42 +663,42 @@
         voulut plus parler, il chanta auec la plus belle voix, &amp; sur vn air
         le plus pitoyable du monde, ces paroles passionnees.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">CHANSON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il est vray, mon amour extreme,</p>
         <p>Mon respect &amp; ma loyauté,</p>
         <p>Ne touchent point ceste ingrate beauté:</p>
         <p>Rien ne la touche qu’elle mesme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pource qu’elle est froide &amp; cruelle,</p>
         <p>Et que rien ne la peut charmer,</p>
         <p>Elle se rit quand on parle d’aymer,</p>
         <p>Et croit que chacun fait comme elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quand ie l’entretiens de ma flame</p>
         <p>Elle m’entend sans s’esmouuoir, <pb n="156"/></p>
         <p>Et sans mentir on diroit à la voir</p>
         <p>Que c’est vn corps qui n’a point d’ame.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cent fois i’ay tenté son courage,</p>
         <p>Mais ie l’ay vainement tenté:</p>
         <p>Qu’attendons-nous? Faisons sa volonté:</p>
         <p>Cherchons le port dans le naufrage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Inuentons vn nouueau supplice,</p>
         <p>Soyons à nous-mesmes inhumains,</p>
         <p>Pour nous punir seruons-nous de nos mains:</p>
         <p>Rendons luy ce dernier seruice.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle le veut, c’est son enuie</p>
         <p>Que pour nous tesmoigner constans,</p>
         <p>Ayans perdu l’esperance &amp; le temps,</p>
         <p>Nous perdions l’esprit &amp; la vie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Comme ceste belle voix eut chanté ces vers, elle se
         tût, &amp; apres quelques souspirs qui apprenoient aux Bergers
         combien triste estoit celuy qui venoit de chanter, ils oüyrent que
@@ -1006,30 +1006,30 @@
         tout court ayant pris ceste resolution, &amp; se leuant passa deuant
         Syluandre sans le veoir, &amp; s’en retourna en chantant ces vers. <pb n="169"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il le faut aduoüer, elle est incomparable.</p>
         <p>Sa beauté sans pareille est son moindre ornement,</p>
         <p>Et quiconque a l’esprit de iuger sainement,</p>
         <p>Ne s’y peut arrester sans la croire adorable.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Possible aux vœux d’amour est elle inexorable?</p>
         <p>Possible ses captifs esperent vainement,</p>
         <p>Et possible qu’vn Dieu seroit sans iugement,</p>
         <p>S’il s’attendoit vn iour la rendre fauorable?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais qu’importe cela, qu’en veux-ie preiuger?</p>
         <p>Que sa cruelle humour se mocque d’obliger</p>
         <p>Vn cœur qui sans relasche, est tourmenté pour elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A la bonne heure, Amour, pour ta gloire, &amp; pour moy.</p>
         <p>Que Daphnis à son choix, soit humaine ou cruelle:</p>
         <p>L’honneur de la seruir est l’objet de ma foy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Syluandre par ces vers ne doutant ny du mal, ny de la cause, se
         retira par vne bresche qui estoit à la haye de son iardin, &amp;
         fut chez luy, auant qu’Alcidor eust trouué sa cabanne. Il ne
@@ -1264,7 +1264,7 @@
         auoir autre diuertissement que celuy qu’elles recevoient de l’excellent
         esprit de Syluandre, &amp; de la belle humeur de Licidas. Le terme
         expiroit, lorsque les Herauts <pb n="178"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>
         Le terme expiroit, lors que les Herauts <pb n="179"/> de la Nymphe vinrent
         faire vn commandement general par tous les hameaux, que l’on eust
@@ -1473,11 +1473,11 @@
         qu’il a acquis d’honneur dans les armees. Ie vous veux parler des seuls
         tesmoignages de son amitié &amp; de ses autres vertus.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">Suitte de l’Histoire</head>
-        <h3>de Clidamant &amp; de Lindamor.</h3>
-        <milestone type="space"/>
+        <p>de Clidamant &amp; de Lindamor.</p>
+        <milestone unit="line"/>
         <p>Vous auez sceu, mon pere, comme en cette grande &amp; prodigieuse
         reuolte des Parisiens contre leur Roy Childeric, ie fus laissé
         pour mort dans le Chasteau, &amp; Lindamor la nuit suiuante,
@@ -1696,7 +1696,7 @@
         dont il mourut deux heures apres, &amp; Lindamor estoit percé
         d’outre en outre, &amp; à demy noyé dans son sang. Que
         deuins-je, mon Pere, quand ie veis ce spectacle, figurez-le-vous, s’il vous plaist?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Car <pb n="196"/> i’aduouë que de ma vie ie ne fus si hors de moy.
         I’allay droict à Lindamor, &amp; le voyant sans parole &amp;
         sans mouuement, le fis emporter pour mort dans le camp, &amp; allant
@@ -2361,11 +2361,11 @@
         desquelles le grand Druide leuant ses mains vers le Ciel, soustenuës
         par deux Vacies, profera ceste puissante &amp; espouuentable priere.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORAISON</head>
-        <h3>Au Dieu Hesus, Bellenus, Taramis le grand Tautates.</h3>
-        <milestone type="space"/>
+        <p>Au Dieu Hesus, Bellenus, Taramis le grand Tautates.</p>
+        <milestone unit="line"/>
         <p>Source infinie de sagesse &amp; de bonté,
         substance sans commencement &amp; sans fin, Hesus qui par ta force
         engendre Bellenus, dont la misericorde ne se faisant qu’vne auec ta
@@ -2390,9 +2390,9 @@
         puissions nous affermir les ames chancelantes, &amp; au Ciel auec toy
         receuoir la recompense laquelle est promise à tous ceux qui
         meurent en effect ou de volonté, pour la defence de ta parole.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Aussi-tost que ceste priere fut finie, tout le peuple cria, ainsi
         soit-il, &amp; la Musique le reïtera iusques à ce qu’on
         voulut commencer les sacrifices. Cent taureaux blancs qui n’auoient
@@ -3213,10 +3213,10 @@
         &amp; de Diane, continuerent leur chemin comme ils l’auoient
         commencé, &amp; n’arriuerent chez
         eux que bien auant dans la nuict. <pb n="256"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <head type="partie">Fin de la sixiesme partie</head>
     </div>
 

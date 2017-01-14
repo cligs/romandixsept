@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DEUXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Diane cependant, qui estoit dans le buisson prochain, oyoit tous
         ces discours, et passant la veue à travers les feuilles, pour
         voir ces bergers et ces bergeres, elle les recognut presque tous,
@@ -289,10 +289,10 @@
         l’oublier. Et à ce mot, mettant la main à sa panetiere,
         elle en tira un papier, où elle leut tout haut ces paroles:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le mal de toutes trois en Forests guerira,</p>
         <p>Le mort qui sera vif, un medecin sera,</p>
         <p>L’autre à qui l’on rendra, quoy qu’elle le rejette,</p>
@@ -300,9 +300,9 @@
         <p>Mais qui, sans que de vous, l’ouverture en soit faitte,</p>
         <p>L’Oracle vous dira, tenez pour resolu</p>
         <p>Ce qu’elle ordonnera, car c’est mon interprete.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Phillis, qui jusques en ce temps-là n’avoit pu
         sçavoir le subject du voyage de ces belles estrangeres, fut
         grandement aise de l’avoir apris, lors qu’elle y pensoit le moins,
@@ -355,63 +355,63 @@
         elle ne se fut pas si tost assise dans l’espaisseur d’un buisson,
         qu’elle ouyt une voix estrangere assez pres de là, chantant ces vers.<pb n="61"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Les hommes sont sans amitié.</h3>
-        <milestone type="space"/>
+        <p>Les hommes sont sans amitié.</p>
+        <milestone unit="line"/>
 
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quelle erreur insensée a seduit nos esprits,</p>
         <p>Quelle faute de cœur nous tient dans le mépris</p>
         <p>Où si longtemps nous sommes?</p>
         <p>Quel fut l’aveuglement qui les hommes deceut,</p>
         <p>En leur faisant chercher l’amour parmy les hommes</p>
         <p>Où jamais il ne fut?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quel siecle n’a point veu les dures cruautez,</p>
         <p>Les barbares effects, et les déloyautez</p>
         <p>De leurs cruelles ames?</p>
         <p>Quels sauvages deserts, quels lieux plus reculez,</p>
         <p>Et quels dieux n’ont ouy les cris de tant de femmes,</p>
         <p>Mais en vain appellez?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Thesée, où t’en fuis-tu? Paris, de quelle loy</p>
         <p>Te sers tu contre Enone? Et toy, Troyen, pourquoy</p>
         <p>T’en fuis-tu de Carthage?</p>
         <p>Une seule raison les deffend contre nous;</p>
         <p>Tout homme fait ainsi, ce n’est pas un outrage</p>
         <p>De faire comme tous.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Homme, non pas humain, mais farouche animal,</p>
         <p>Sexe au monde inventé pour nous faire du mal,</p>
         <p>Honte de la Nature,</p>
         <p>Qui ne faillit jamais, sinon te produisant;</p>
         <p>Dieux, pourquoy mistes-vous sous une loy si dure</p>
         <p>La femme en la faisant?  <pb n="62"/> </p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dure et severe loy, tu fais que nous vivons,</p>
         <p>Le serpent dans le sein, dire nous te pouvons</p>
         <p>Non loy, mais tyrannie.</p>
         <p>O combien durera nostre captivité?</p>
         <p>Encor que d’un moment elle eust esté finie,</p>
         <p>Trop longue elle eust esté.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Aussi tost que Diane ouyt cette voix, elle eut volonté de
         s’en aller, mais s’estant un peu arrestée, et voyant flatter sa
         passion, elle escouta attentivement le reste de ces vers, qui ne luy
@@ -1060,44 +1060,44 @@
         musette, et parce qu’il fut incontinent recogneu pour Silvandre, chacun
         se teut pour écouter ce qu’il disoit. Ces vers estoient tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Divers effects de son affection.</h3>
-        <milestone type="space"/>
+        <p>Divers effects de son affection.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous qui tenez pour une fable</p>
         <p>Qu’un mesme cœur vive en deux lieux,</p>
         <p>Voyez qu’Amour ingenieux</p>
         <p>En moy le veut rendre croyable</p>
         <p>Puis qu’en dépit de cette loy</p>
         <p>Je vis en Diane et en moy.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous, qui la Pyralide ardente</p>
         <p>Croyez l’estincelle d’un feu,</p>
         <p>Voyez; je vous supplie, un peu</p>
         <p>Quell’est l’amour qui me tourmente:</p>
         <p>Dans le feu sans cesse je suis</p>
         <p>Et si vivre ailleurs je ne puis.<pb n="79"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
 
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous qui vous faschez de n’entendre</p>
         <p>Le flux et reflux de la mer,</p>
         <p>Veuillez comme moy bien aymer:</p>
         <p>Amour vous le fera comprendre.</p>
         <p>Esperer et n’esperer Plus.</p>
         <p>N’est-ce le flux et le reflux?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous qu’Æthna de gorge beante</p>
         <p>Estonne en ses brasiers ardans,</p>
         <p>Voyez le feu que j’ay dedans</p>
@@ -1106,16 +1106,16 @@
         <p>Plus grand est cet embrasement.</p>
 
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si toutesfois vostre creance</p>
         <p>Est foible à tant de nouveautez,</p>
         <p>Voyez une fois les beautez</p>
         <p>D’où procede cette puissance.</p>
         <p>Vous direz, ravis de les voir:</p>
         <p>Plus grand encor est leur pouvoir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Toute la trouppe tourna incontinent les yeux sur Hylas, comme le
         voulant advertir qu’il auroit bien à faire avec un plus fort
         ennemy; et Stelle y prenant garde: Mon serviteur, luy dit-elle,
@@ -1877,7 +1877,7 @@
         promet, vous serez beaucoup plus coulpable, estant Silvandre, que si
         vous estiez un berger qui eust moins de cognoissance des dieux.</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Le berger la vouloit remercier, lors que sans attendre sa response,</p>
         <p>elle s’achemina au grand pas vers Astrée, qu’elle atteignit</p>
         <p>bien tost, par ce que de temps en temps elle tournoit</p>

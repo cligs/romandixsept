@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE SEPTIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Cependant que ces choses se passoient ainsi sur les rives de
         Lignon, Dorinde et ceux qui l’avoient accompagnée à
@@ -99,10 +99,10 @@
         meilleure commodité, apres s’estre teue quelque-temps, reprit la
         parole de cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE DORINDE, DU ROY GONDEBAUT, ET DU PRINCE SIGISMOND</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Il y a des personnes, ô mes cheres compagnes, qui sont tant
         aymées du Ciel que leurs bon-heurs surpassent leurs desirs, et
@@ -741,11 +741,11 @@
         cachetée, dequoy apres m’avoir grandement louée, elle
         l’ouvrit, et leut qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DU ROY GONDEBAUT</head>
-        <h3>A DORINDE</h3>
-        <milestone type="space"/>
+        <p>A DORINDE</p>
+        <milestone unit="line"/>
         <p>Vous ne trouverez pas estrange que quelqu’un vous
         ayme, puis <pb n="369"/> que vous l’avez desja tant esté, mais si
         ferez bien peut-estre, quand vous considererez que celuy que vous avez
@@ -754,9 +754,9 @@
         armes, ordonnerez-vous, ma belle fille, que la victoire que je souhaite
         avec plus de passion, me soit desniée par vous, à qui
         j’offre, avec ma couronne et mon sceptre, tous mes lauriers et mes triomphes?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Clotilde demeura longuement muette apres la lecture de cette lettre, et
         en fin reprenant la parole: Dorinde, me dit-elle, il ne falloit pas me
         prier avec tant d’instance que je ne parlasse à personne de
@@ -1754,31 +1754,31 @@
         me souviens qu’il me donna un esventail qui estoit fort beau, et
         ensemble tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Sur un esventail.</h3>
-        <milestone type="space"/>
+        <p>Sur un esventail.</p>
+        <milestone unit="line"/>
         <p>Trop heureux esventail, que je porte d’envie</p>
         <p>Quand je me considere, au bon-heur qui t’attend!</p>
         <p>Que je serois heureux si j’en avois autant!</p>
         <p>Et que j’estimerois la douceur de la vie!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tu baiseras la main qui m’a l’ame ravie,</p>
         <p>Et le feu de ses yeux quelquesfois esventant,</p>
         <p>De cent et cent baisers elle t’ira flattant,</p>
         <p>Comme pour payement de l’avoir bien servie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je te donne, esventail, à celle à qui je suis:</p>
         <p>Tu seras aupres d’elle, et moy je ne le puis,</p>
         <p>Tant est grand ton bon-heur et mon malheur extreme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que le cruel destin se mocque bien de moy</p>
         <p>Puis, heureux esventail, que je fay plus pour toy</p>
         <p>Qu’il ne m’est pas permis de faire pour moy-mesme</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>J’eus plusieurs autres semblables vers en diverses occasions, et
         des lettres aussi, selon le sujet des presens, ou des accidens qui nous
         arrivoient, mais tousjours avec tant de discretion, que jamais la
@@ -2008,17 +2008,17 @@
         retiré dans un petit cabinet, et de fortune avoit en ce temps
         achevé de m’escrire ces vers qu’il me donna depuis.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Voy, Dorinde, quels sont tes charmes:</p>
         <p>La neige se fond au soleil,</p>
         <p>Mais mon c œur se fond tout en larmes</p>
         <p>Quand je suis loing de ton bel œil.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Seigneur, luy dit-il, je viens le plus diligemment que je puis
         vous advertir d’une chose à laquelle il faut que vostre prudence
         pourvoye, autrement je crains qu’il ne vous en arrive quelque grand
@@ -2725,11 +2725,11 @@
         jusques icy vescu. Et lors le prince luy ayant donné le bon soir
         se retira en son logis, d’où il m’escrivit incontinent cette lettre.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DU PRINCE SIGISMOND</head>
-        <h3>A DORINDE</h3>
-        <milestone type="space"/>
+        <p>A DORINDE</p>
+        <milestone unit="line"/>
         <p>Je sçay bien qu’en la perte d’une personne
         si proche, la plainte est si naturelle que celuy seroit bien
         desnâturê qui la voudroit refuser à la belle
@@ -2742,9 +2742,9 @@
         Sigismond, qui est le <pb n="418"/> seul qui vous sçayt aymer
         infiniement [sic!], et qui, pour cette extrême affection,
         mérite que vous l’aymiez à mesme mesure.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je receus cette lettre par un jeune homme du prince, et je vous assure,
         mes compagnes, que j’espreuvay bien estre vray ce que l’on dit, que les
         remèdes font beaucoup plus d’effet pour la guerison, lors que le
@@ -3074,15 +3074,15 @@
         manquay point de me lever de si grand matin que le jour ne faisoit que
         de poindre quand je fis consulter l’oracle de la déesse Venus qui me respondit:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>En Forests se trouvera</p>
         <p>Ce qui ton mal guérira.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>J’avois oublié de vous dire que, devant que partir, j’avois
         escrit une lettre à la princesse Clotilde pour la descharger de
         ma fuitte envers ce tyran, et je la laissay sur la table de ma chambre
@@ -3472,7 +3472,7 @@
         après midy, pouvant dire d’avoir jamais trouvé homme de
         bien que celuy-là seul.</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Ainsi finit Dorinde, ne pouvant retenir ses pleurs par le souve-</p>
         <p>nir de ses cruelles avantures. Et parce que son discours</p>
         <p>avoit esté long, et qu’il estoit heure de sortir du lict,</p>
@@ -3482,8 +3482,8 @@
         <p>bonne volonté qu’elles luy portoient,</p>
         <p>chacune commença de s’habiller.[436]</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>[Godomar, suivi d’Heraste, se présente devant les portes de la ville de Marcilly.]</p>
         <p>BILDUNTERSCHRIFT</p>
         <p>[Ardilan voulut empêcher Godomar de sortir de la ville]</p>

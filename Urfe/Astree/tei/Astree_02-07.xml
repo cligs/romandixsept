@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE SEPTIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais il est temps de revenir à Celadon que nous
         avons si longuement laissé dans sa caverne, sans autre compagnie que
         celle de ses pensées qui n’ avoient autre sujet que son bonheur
@@ -111,7 +111,7 @@
         la rive, elle ne laissoit de s’y faire chemin pour le plaisir qu’elle
         prenoit de voir le poisson qui, dans la claire eau de la riviere, s’en
         alloit. à petites trouppes, se jouant ensemble le long du bord. <pb n="275"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et poursuivant ainsi son voyage, se trouva sans y penser prés de
         la fontaine, où Celadon souloit cueillir le cresson dont il se
         nourrissoit. Et de fortune le berger s’estant couché sur le
@@ -145,12 +145,12 @@
         et apres l’avoir contemplé quelque temps, il leut les paroles
         qu’il avoit autrefois escrites sur l’autre costé, qui estoient telles,</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Privé de mon vray bien, ce bien faux me soulage</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Helas! disoit-il, ô miserable: Celadon! que c’est
         bien maintenant que tu peux dire que, privé de ton vray bien, ce bien
         faux te soulage, puis que tu n’as plus que des biens imaginaires,
@@ -233,11 +233,11 @@
         secrets de cette bergere, elle s’assit sous un arbre, et les desployant
         toutes en son giron, la premiere qu’elle rencontra fut telle.<pb n="278"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ASTRÊE</head>
-        <h3>A CELADON.</h3>
-        <milestone type="space"/>
+        <p>A CELADON.</p>
+        <milestone unit="line"/>
         <p>Que vous m’aymiez, je le croy, et vous le pouvez cognoistre en ce
         que j’ay agreable que vous m’en asseuriez. Que si vous aviez autant de
         cognoissance que de ressentiment d’amour, par la permission que je vous
@@ -246,9 +246,9 @@
         semble que vous souhaittez seulement pour estre bien-heureux. Si apres
         ceste declaration vous n’estes content, je diray que vous n’aymez point
         Astrée, puis que l’amitié ne doit rien desirer que l’amitié.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quand Leonide, lisant ceste lettre, rencontra le nom
         d’Astrée, elle s’arresta tout court, et approchant le papier de ses yeux, releut
         deux ou trois fois ce mot. En fin se ressouvenant de la jalousie qui
@@ -258,11 +258,11 @@
         ce, la repliant, la mit en son sein, et en prit une autre qu’elle
         trouva telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ASTRÉE</head>
-        <h3>A CELADON</h3>
-        <milestone type="space"/>
+        <p>A CELADON</p>
+        <milestone unit="line"/>
         <p>N’advouerez-vous pas à ce coup, mon fils, que je vous ayme plus
         que vous ne m’aymez, puis que je vous envoye mon pourtraict, n’ayant
         jamais peu obtenir le vostre par toutes mes prieres? Mais Amour est
@@ -277,9 +277,9 @@
         feray paroistre d’avoir memoire de vous, que ce ne soit un gage
         tres-asseuré de l’estat que je fay d’estre veritablement
         aymée de mon fils. <pb n="279"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Seroit-ce point, disoit Leonide toute estonnée, que
         Lycidas ayant trouvé apres la perte de son frere ces lettres entre ses
         meubles plus chers, les eust gardées pour l’amitié qu’il
@@ -288,11 +288,11 @@
         sur luy, de crainte de les perdre. Que seroit-ce donc, et comment les auroit-il eues?</p>
         <p>Et lors jettant la main sur la premiere qui se presenta, elle la trouva telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ASTRÉE</head>
-        <h3>A CELADON</h3>
-        <milestone type="space"/>
+        <p>A CELADON</p>
+        <milestone unit="line"/>
         <p>Il vous sied bien, mon fils, d’avoir moins de courage que moy! Vous
         dites que c’est un signe que j’ayme moins que vous, mais voyez comme je
         l’entends au contraire. Ce qui me fait supporter toutes les peines qui
@@ -305,9 +305,9 @@
         si vous voulez que je croye vostre amitié esgale à celle
         qui me fait non seulement surmonter, mais mespriser pour vous toutes
         sortes de peines et d’incommoditez.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Leonide leut ceste lettre, sans sçavoir presque ce
         qu’elle lisoit, parce que se representant le berger à qui elle avoit
         pris ce petit sac, et se ressouvenant d’en avoir ouy dire quelque chose
@@ -537,10 +537,10 @@
         celle d’Astrée, de laquelle estant privé, le discours que
         vous me voulez faire m’est sur tout agreable. Alors
         Leonide reprit la parole de ceste sorte:.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE GALATHÉE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous desires: donc sçavoir, Celadon, de quelle
         façon j’ay vescu depuis quinze ou seize nuicts en çà. Je veux bien
         vous le raconter, à condition que si je vous ennuye par un trop
@@ -1114,31 +1114,31 @@
         deviendroit, et nous estant approchez doucement de luy, nous ouysmes
         qu’apres quelques souspirs il parla de cette sorte:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’il est jaloux avec raison.</h3>
-        <milestone type="space"/>
+        <p>Qu’il est jaloux avec raison.</p>
+        <milestone unit="line"/>
         <p>Amour qui dans mon cœur vas lisant mes pensées,</p>
         <p>Dans mon cœur où ta main tous les jours les escrit, <pb n="300"/></p>
         <p>Ne voy-tu qu’un soupçon maugré toy les aigrit,</p>
         <p>Quoy qu’avec tes douceurs elles soient commencées?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tant de serments jurez, tant de preuves passées</p>
         <p>Ne sçuroient r’asseurer à ce coup mon esprit,</p>
         <p>Puis qu’autresfois, Amour, elle-mesme m’aprit</p>
         <p>Que les voix d’un amant sont en fin exaucées.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dieux! s’il est vray qu’en fin l’on exauce un amant,</p>
         <p>Ne suis-je point jaloux avecques jugement?</p>
         <p>Qui ne le seroit point, ce seroit une souche.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je l’ay veu de mes yeux devant elle à genoux,</p>
         <p>La voilà qui ne pend que de sa seulle bouche,</p>
         <p>Et qui seroit l’amant qui n’en seroit jaloux?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A peine avoit-il parachevé ces vers, que nous le vismes tout
         à coup se relever, et se haussant sur le bout des pieds regarder
         ce que faisoit Phillis, et peu apres au petit pas s’approcher d’elle,
@@ -1149,109 +1149,109 @@
         <p>cacha aupres de Phillis, nous en fismes de mesme pour ouyr</p>
         <p>Silvandre qui chantoit ces vers quand nous y arrivasmes.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>MONDE D’AMOUR</h3>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <p>MONDE D’AMOUR</p>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Amour, grand artisan, a fait un autre monde:</p>
         <p>La terre, c’est ma foy, qui n’a nul mouvement,</p>
         <p>Et comme l’univers sur la terre se fonde,</p>
         <p>Ma foy de ce beau monde est le seur fondement.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que si quelques soupçons d’une jalouse guerre</p>
         <p>Esbranlent en mon cœur ceste constante foy, <pb n="301"/></p>
         <p>C’est comme quand les vents sont enclos dans la terre,</p>
         <p>Qui par des tremblemens la remplissent d’effroy.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mes pleurs sont l’ocean, aussi tarir mes larmes</p>
         <p>N’est un moindre dessein que d’espuiser la mer:</p>
         <p>La peur de n’estre aymé cause de tant d’allarmes,</p>
         <p>C’est l’orage qui fait cette mer escumer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cette mer est amere, encores que ses ondes</p>
         <p>Ne soient qu’un grand amas de fleuves qui sont doux:</p>
         <p>Plus amers sont mes pleurs, et leurs sources fecondes,</p>
         <p>Plus douces de mon cœur comme venant de vous.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’air, c’est ma volonté qui libre en sa puissance,</p>
         <p>A l’entour de ma foy va tousjours se mouvant,</p>
         <p>Les vents sont mes desirs, ardents dés leur naissance,</p>
         <p>Dont s’esmeut mon vouloir comme l’air par le vent.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Aussi comme les vents diversement fremissent</p>
         <p>Sous des rochers affreux, dont ils n’osent partir,</p>
         <p>De mesmes mes desirs au respect obeissent,</p>
         <p>Et dans mon cœur enclos n’en oseroient sortir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cest invisible feu qui les airs environne,</p>
         <p>C’est la flame secrette oh je me vay bruslant.</p>
         <p>Et comme ce grand feu ne se voit de personne,</p>
         <p>A chascun mon ardeur je vay dissimulant. <pb n="302"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Comme l’on voit qu’au feu tout est reduit en flame,</p>
         <p>Et que source de vie il ne peut rien nourrir,</p>
         <p>De mesme les pensers qui sont dedans mon ame,</p>
         <p>S’ils ne bruslent soudain, doivent soudain mourir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IX</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La lune, c’est l’espoir qui croist et diminue,</p>
         <p>De vous seulle empruntant les rais dont il reluit,</p>
         <p>Mais lorsque sans lumiere elle erre dans la nue,</p>
         <p>C’est mon vague penser, qui sans raison vous suit.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>X</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le soleil, c’est vostre œil, lumiere sans seconde,</p>
         <p>Bel œil, soleil d’amour, qui nous esclaire à tous;</p>
         <p>Que si l’autre soleil donne la vie au monde,</p>
         <p>Quel amant peut nier de la tenir de vous?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Puis, de tant de beautez Amour vous a pourveue,</p>
         <p>Que son jour, c’est vous voir, sa nuict, ne vous voir pas,</p>
         <p>Si ce n’est que d’avoir le bien de vostre veue,</p>
         <p>Nous soit plustost la vie, et l’autre le trespas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’esté, c’est le transport dont le sang me bouillonne,</p>
         <p>Et l’hyver, c’est la peur qui me gelle en tout temps.</p>
         <p>Mais que me vaut cela, si tousjours mon automne</p>
         <p>Est sans fruicts aussi bien que sans fleurs mon printemps?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Silvandre paracheva bien ce qu’il chantoit de ceste sorte,
         mais non pas ses pensées; au contraire, s’arrestant sur le dernier
         couplet: Helas! disoit-il, Amour, puis que tu ordonnes que l’automne
@@ -1278,31 +1278,31 @@
         la considerant, me firent avoir cette opinion. Cependant Silvandre
         recommença de chanter ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Que d’adorer seullement Diane, il est trop heureux.</h3>
-        <milestone type="space"/>
+        <p>Que d’adorer seullement Diane, il est trop heureux.</p>
+        <milestone unit="line"/>
         <p>Silvandre, qui te plains comme d’une injustice</p>
         <p>Qu’à si belle maistresse Amour t’a destiné,</p>
         <p>Rends luy grace plustost de t’avoir ordonné</p>
         <p>De servir de victime en si beau sacrifice.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Depuis que ce grand Dieu d’un puissant artifice</p>
         <p>Separant le cahos, le monde a façonné,</p>
         <p>Jamais dedans le ciel ne fut imaginé</p>
         <p>Rien plus beau que la belle à qui tu fais service. <pb n="304"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cesse donc de te plaindre ou tu plaindras à tort.</p>
         <p>Que si tu meurs pour elle, est-il plus belle mort?</p>
         <p>C’est lors que l’ame vit quand elle en est meurtrie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que si l’amour te fait idolatrer ses yeux,</p>
         <p>Adore-les, Silvandre, ainsi comme des dieux:</p>
         <p>Qui jamais a commis plus belle idolatrie?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce berger eut peut-estre continué d’avantage, et
         Paris et moy estions resolu de suivre les bergeres, mais Driopé,
         le chien de Diane, s’eschappant d’entre ses mains, s’en courut vers
@@ -1462,8 +1462,8 @@
         voyez en mon visage, n’est qu’une
         marque d’un prochain repos.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>Il seroit ennuyeux de raconter par le menu tous leurs discours;</p>
         <p>tant y a que quelques persuasions dont elle peut user pour</p>
         <p>luy faire changer ceste austere façon de vivre, elle</p>

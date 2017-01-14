@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE TROISIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La galerie où le sage Adamas conduisit Daphnide et Alcidon
         estoit plus considerable pour les curiositez qui s’y trouvoient, que
         pour la magnificence de sa structure, parce qu’encores que les marbres
@@ -145,10 +145,10 @@
         sienne. Lors Daphnide, s’asseant aupres d’Adamas, et le reste de la
         compagnie, elle prit la parole de cette sorte:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE D’EURIC, DAPHNIDE ET ALCIDON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je sçay bien, mon pere, que le grand Tautates fait toutes choses
         <pb n="84"/> pour nostre mieux, car nous aymant comme l’œuvre de ses mains,
         il n’y a pas apparence qu’il deffaille d’amitié envers nous.
@@ -354,11 +354,11 @@
         à sçavoir de ses nouvelles, et quel estat je pouvois
         faire de luy. Je rompis donc le cachet, et leus telles paroles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ALCIDON</head>
-        <h3>A DAPHNIDE.</h3>
-        <milestone type="space"/>
+        <p>A DAPHNIDE.</p>
+        <milestone unit="line"/>
         <p>Je ne sçay, madame, si vous ne recognoistrez plus cette
         escriture, ou si vous aurez encores memoire du nom d’Alcidon, tant des
         malheurs m’ont longuement esloigné de vous et empesché de
@@ -378,9 +378,9 @@
         fidelement conservez jusques en cette saison, que vous le trouverez
         moins incapable de vous faire service qu’en ce temps que vous luy
         fistes l’honneur de le recevoir pour vostre serviteur tres-humble.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Que c’est, sage Adamas, que des flatteries dont Amour abuse la jeunesse
         ! Je ne leus pas si tost cette lettre, qu’encore que je sceusse bien le
         contraire de ce qu’il m’escrivoit, toutesfois je ne consentisse
@@ -404,19 +404,19 @@
         bien embarqué à m’aymer. En cette resolution, je luy
         escrivis telles paroles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE DE DAPHNIDE</head>
-        <h3>A ALCIDON.</h3>
-        <milestone type="space"/>
+        <p>A ALCIDON.</p>
+        <milestone unit="line"/>
         <p>Ce n’est pas l’amour, mais la curiosité, qui me conseille de
         vous permettre de me voir. Ne prenez donc point le congé que je
         vous en donne à vostre avantage, mais soyez meilleur menager de
         la faveur que vous recevez d’elle, que vous n’avez esté de
         celles que vostre enfance vous a fait avoir de moy. Et adieu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>L’armée pour lors estoit autour d’Arles, et le grand Euric,
         ayant pris la ville des Massiliens, faisoit dessein de forcer celle-cy,
         etde se rendre maistre de toute la province des Romains, et de ruiner
@@ -1451,41 +1451,41 @@
         choses qui se forment en l’air. Je me ressouviens des vers de celle qui
         representoit le foudre; ils estoient tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mortels, je ne suis pas ce foudre espouventable,</p>
         <p>Dont s’arme Jupiter et se rend redoutable,</p>
         <p>Lorsque tout en colere il tonne dans les cieux;</p>
         <p>Mais ce foudre d’Amour, plein d’esclairs et de flammes,</p>
         <p>Qui ne suis eslancé que par le clin des yeux,</p>
         <p>Dont Amour va bruslant les genereuses ames.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je ne fais mes efforts sur un rocher sauvage,</p>
         <p>Ny dessus un escueil, l’horreur de quelque plage,</p>
         <p>Ny sur un corps humain, acte plein de rigueur;</p>
         <p>La butte de mes coups n’est chose si petite;</p>
         <p>Sans point toucher le corps, je sçay blesser le cœur,</p>
         <p>Et, parmy tous les cœurs, celuy qui le merite. <pb n="117"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et voyez, ô mortels! de combien je devance</p>
         <p>Du foudre accoustumé l’ordinaire puissance:</p>
         <p>II ne s’ose approcher des superbes lauriers,</p>
         <p>Et moy, tout au rebours, je ne frappe personne</p>
         <p>Qui n’ait dessus le front, par ses effects guerriers,</p>
         <p>Des lauriers meritez la superbe couronne.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mais, ô sage Adamas! ce que je vous raconte est hors de propos,
         et suffit seulement que je vous die qu’encore que ce qui estoit
         representé fust veritablement tres-beau et tres-bien
@@ -2094,31 +2094,31 @@
         entretenues, en fin je me mis à chanter tels vers, considerant
         combien l’absence estoit l’ennemie de l’amour:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Des contentemens d’amour peu asseurez.</h3>
-        <milestone type="space"/>
+        <p>Des contentemens d’amour peu asseurez.</p>
+        <milestone unit="line"/>
         <p>Quand on y songe bien, que l’amour est penible!</p>
         <p>Que d’une grande peine on tire peu de fruict!<pb n="133"/></p>
         <p>Et qu’aux effects d’amour celuy n’est guere instruict,</p>
         <p>Qui pense qu’un bon-heur y puisse estre paisible!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dès le commencement, un desir invincible</p>
         <p>Ne nous laisse en repos ny le jour ny la nuict;</p>
         <p>Incontinent, l’espoir, qui pas à pas le suit,</p>
         <p>Apres un vain travail, se trouve estre impossible.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Toutesfois, cet espoir, pour un plus grand tourment,</p>
         <p>N’abandonne jamais ny n’esloigne l’amant</p>
         <p>Qui s’aide à se tromper, et qui s’y fortifie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que si, par un hazard, ce bien nous atteignons,</p>
         <p>Par une absence, helas! soudain nous l’esloignons.</p>
         <p>Or, ayme, pauvre amant, et sur l’amour te fie!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A peine avois-je finy ces dernieres paroles, qu’il me sembla que le
         temps s’estoit esclarcy, et que la lune, ayant percé les nuages
         plus espais, esclaira plus belle que je ne l’avois jamais veue. Cela me
@@ -2276,82 +2276,82 @@
         que c’estoit d’autant plus augmenter mes desirs, je me souvins qu’un
         jour je souspiray tels vers sur ce subject:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Sur une absence.</h3>
-        <milestone type="space"/>
+        <p>Sur une absence.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>He! pourquoy, ma memoire,</p>
         <p>Maintenant de ma gloire</p>
         <p>Te veux-tu souvenir?</p>
         <p>Puisque par ceste absence</p>
         <p>J’ai perdu l’esperance</p>
         <p>D’y pouvoir revenir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dis-tu pas que madame</p>
         <p>Conserve dans son ame</p>
         <p>L’espoir de mon retour.</p>
         <p>Et qu’il faut que de mesme,</p>
         <p>J’espere, si je l’ayme,</p>
         <p>De la revoir un jour?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que, comme la, pensée</p>
         <p>D’une peine passée <pb n="138"/></p>
         <p>Plaist quand elle revient,</p>
         <p>Une gloire obtenue</p>
         <p>De mesme continue</p>
         <p>Quand on s’en ressouvient?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tay-toy, tay-toy, flatteuse;</p>
         <p>En ma fortune heureuse,</p>
         <p>Autrefois je me pleus;</p>
         <p>Mais ores l’ayant eue,</p>
         <p>Le souvenir me tue</p>
         <p>Du bien que je n’ay plus.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et que l’espoir encore</p>
         <p>De voir ce que j’adore</p>
         <p>M’apporte guerison,</p>
         <p>C’est une flatterie</p>
         <p>Pleine de tromperie,</p>
         <p>Mais vuide de raison.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Helas! que l’esperance</p>
         <p>Sert de peu d’allegeance</p>
         <p>Contre le mal presant,</p>
         <p>Et que le mal excede</p>
         <p>De beaucoup le remede</p>
         <p>Qu’elle va, produisant!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cesse donc, ô memoire,</p>
         <p>De r’appeller la gloire</p>
         <p>Que je regrette icy;</p>
         <p>Tu reblesses mes playes,</p>
         <p>Alors que tu t’essayes</p>
         <p>De les guerir ainsi. <pb n="139"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Le grand Euric n’ayant plus rien à faire autour de ceste ville,
         qui, apres un si long siege, s’estoit rendue à luy, voulut pour
         quelques jours rafraischir son armée, qui avait esté
@@ -2716,11 +2716,11 @@
         celuy des miens qui, la premiere fois, luy avoit porté de mes
         lettres, et, en l’extremité de mon mal, je luy escrivis ce peu de mots:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ALCIDON</head>
-        <h3>A DAPHNIDE</h3>
-        <milestone type="space"/>
+        <p>A DAPHNIDE</p>
+        <milestone unit="line"/>
         <p>J’ay bien, à ce coup, occasion de me plaindre de ma fortune, me
         voyant delaissé en mesme temps de mon maistre et de ma
         maistresse. (Je ne sçay, madame, s’il m’est encor permis de vous
@@ -2728,9 +2728,9 @@
         que c’est à tort que l’un et l’autre me traitte de cette sorte,
         ne me veut laisser plus long temps en vie, pour me faire souffrir cet
         injuste supplice plus longuement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Or, voyez, sage Adamas, comme Amour se plaist quelquefois de blesser et
         de guerir ceux qui sont à luy presque en mesme temps! Alizan,
         ayant esté envoyé en l’armée pour sçavoir
@@ -2741,17 +2741,17 @@
         envoyois arriva vers elle, Alizan me vint trouver, qui m’apporta les
         siennes; elles estoient telles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DAPHNIDE</head>
-        <h3>A ALCIDON</h3>
-        <milestone type="space"/>
+        <p>A ALCIDON</p>
+        <milestone unit="line"/>
         <p>Ce porteur, qui vous est allé chercher bien loin, vous trouvera
         plus <pb n="149"/> pres, à mon grand regret. Que je sçache
         l’estat de votre santé, et si la mienne vous est chere.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quand je receus ce message, et qu’apres je sceus de bouche que le
         suject pourquoy elle ne m’escrivoit que si peu de mots n’estoit
         seulement que pour la croyance qu’elle avoit qu’estant si malade, comme
@@ -2764,19 +2764,19 @@
         repris un peu de force, et pour ne manquer au commandement que je
         recevois de Daphnide, je le renvoyay le lendemain au matin avec une telle response:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE D’ALCIDON</head>
-        <h3>A DAPHNIDE</h3>
-        <milestone type="space"/>
+        <p>A DAPHNIDE</p>
+        <milestone unit="line"/>
         <p>C’est à vous, madame, à qui il faut demander des
         nouvelles de la santé d’Alcidon, puisqu’elle sera tousjours
         toute telle qu’il vous plaira. Si vous luy continuez l’honneur de vos
         bonnes graces, il se porte bien; autrement, il n’est pas seulement
         mort, mais il ne veut pas mesme avoir vescu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>D’autre costé, Daphnide, voyant l’opinion, ou plutost la
         jalousie, où j’estois, fut bien aise qu’Alizan m’en peust oster,
         parce qu’elle sçavoit fort bien que j’avois une grande creance
@@ -2785,11 +2785,11 @@
         tant de bonnes paroles et tant d’asseurance de ne point changer de
         volonté, que je fus contraint de la croire. Sa response fut telle:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE DE DAPHNIDE</head>
-        <h3>A ALCIDON</h3>
-        <milestone type="space"/>
+        <p>A ALCIDON</p>
+        <milestone unit="line"/>
         <p>S’il est vray qu’on juge autruy par soy-mesme, j’ay grande occasion de
         douter de la foy que vous m’avez promise, puisque vous faites un si
         mauvais jugement de la mienne. N’est-ce point que, si vous estiez en ma
@@ -2799,9 +2799,9 @@
         Ne me faites non plus ce tort, si vous ne voulez que je croye que, de
         vostre costé, vous commencez de diminuer l’affecfion que vous
         m’avez jurée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Nous continuasmes plusieurs jours à nous escrire de cette sorte,
         avec tant de contentement, de mon costé, que le mal fut
         contraint de me quitter, et lorsque je commençois de reprendre
@@ -2811,18 +2811,18 @@
         plus de tesmoignage de la franchise dont elle y usoit, elles estoient
         encores cachetées, et accompagnées de ce mot de lettre:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DAPHNIDE</head>
-        <h3>A ALCIDON</h3>
-        <milestone type="space"/>
+        <p>A ALCIDON</p>
+        <milestone unit="line"/>
         <p>Nous commençons de faire la guerre. J’envoye deux coureurs en
         vos prisons. Personne n’a encore parlé à eux. Ils sont
         prisonniers à discretion. Traittez-les comme il vous plaira: je
         les vous donne comme je feray tous les autres qui me tomberont entre les mains.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je receus en mesme temps un grand plaisir et un grand desplaisir. Je ne
         sçaurois representer combien j’eus de contentement de voir que
         Daphnide me tinst si bien ce qu’elle m’avoit promis, mais je receus un
@@ -2843,18 +2843,18 @@
         <pb n="151"/> faict de donner ce qu’on ne peut vendre, je luy fis une telle
         response:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE D’ALCIDON</head>
-        <h3>A DAPHNIDE</h3>
-        <milestone type="space"/>
+        <p>A DAPHNIDE</p>
+        <milestone unit="line"/>
         <p>Ces deux prisonniers ne sont pas de qualité de demeurer
         longuement en mes prisons; je les vous renvoye tous deux. Mais prenez
         garde que, si vous en escoutez d’autres, on ne die que forteresse qui
         parlemente se veut rendre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je serois trop ennuyeux à vous raconter toutes les lettres qu’en
         ce temps-là nous nous escrivismes. Car, n’estant qu’à six
         ou sept lieues l’un de l’autre, nous avions presque tous les jours de
@@ -3019,11 +3019,11 @@
         veut donner les remedes necessaires? Je les diroy donc, non pas pour
         ma consolation, mais pour vous faire entendre comme je fus traicté.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DAPHNIDE</head>
-        <h3>A ALCIDON</h3>
-        <milestone type="space"/>
+        <p>A ALCIDON</p>
+        <milestone unit="line"/>
         <p>N’auray-je jamais autre nouvelle, sinon qu’Alcidon se porte mal? Ne le
         reverray-je jamais tel qu’il estoit quand il entra dans l’aventure de
         la parfaite amour? Et mes vœux ne seront-ils jamais exaucez, ou si les
@@ -3032,18 +3032,18 @@
         abregez mes jours pour abreger ma peine, ou changez-moi le cœur, afin
         qu’il ne soit pas si sensible pour luy. Et vous, Alcidon, ou
         resolvez-vous à vous guerir, ou à me faire mourir de douleur.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Voilà pas, ô mon pere, la plus cruelle lettre que je
         puisse recevoir, apres avoir descouvert la trahison dont elle usoit
         envers moy? Tout transporté de colere, je luy fis cette response:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE D’ALCIDON</head>
-        <h3>A DAPHNIDE</h3>
-        <milestone type="space"/>
+        <p>A DAPHNIDE</p>
+        <milestone unit="line"/>
         <p>La guerison d’Alcidon ne dépend plus que de la mort. Aussi,
         n’ayant trouvé fidelité ny en son maistre, ny en sa
         maistresse, à quoy <pb n="156"/> voudroit-il vivre plus longuement
@@ -3056,9 +3056,9 @@
         autre, qui peut-estre fera un jour la vengeance de tant de perfidies et
         de trahison. Et tenez cet augure pour veritable, car les dieux sont
         trop justes pour ne me vanger, et vous punir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je donnay ceste lettre à celuy des miens qui luy avoit
         porté la premiere que je luy avois escrite, et luy commanday de
         s’en revenir sans apporter aucune response. Ce desplaisir me fut si

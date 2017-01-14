@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Cinquième partie – Livre VIII</title>
+                <title type="partie">05</title>
+                <title type="livre">08</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="free">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+        <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
+        <head type="chapitre">LE HUICTIESME LIVRE</head>
+        <milestone unit="line"/>
+        <p>Astrée n’ouyt pas plustost dire à Lycidas que la
+        grotte qui la receloit, estoit la mesme où Celadon avoit fait
+        autrefois du sejour, qu’elle en demeura toute surprise, et deslors il
+        luy sembla que ce rocher mesme luy parloit de l’amour de ce berger.
+        Tous les objects qui se presentoient à ses sens, la traittoient
+        de mesme sorte; car fust qu’elle ouyst le doux murmure de Lignon, ou
+        celuy que les Zephirs faisoient à l’entrée de sa caverne,
+        elle croyoit tousjours qu’ils n’estoient composez d’autre chose que des
+        amoureux souspirs dont Celadon avoit accompagné la rigueur de
+        son volontaire banissement. Diane s’apperceut bien de cet estonnement,
+        mais ne pouvant s’imaginer qu’il procedast d’un autre suject que de la
+        crainte qu’elle devoit avoir que Phillis les surprist, elle ne luy en
+        parla point, et seulement elle attendit, bien qu’avec un peu
+        d’impatience, ce qui arriveroit du dessein, que Phillis avoit de visiter cette grotte.</p>
+        <p>Mais quand cette bergere fut sortie, apres avoir treuvé ce lieu
+        plus remply d’effroy, qu’il n’eust esté necessaire pour receler
+        les flames d’un amant, et qu’elle eut dit adieu à Lycidas, pour
+        se remettre en queste de celles qu’elle venoit de quitter, Diane voyant
+        que sa compagne continuoit encore dans la mesme frayeur où elle
+        avoit esté, ne put s’empescher de luy en demander la cause;
+        à quoy Astrée respondit: Ah! ma sœur, n’avez-vous point
+        ouy, quand Lycidas a dit que la grotte où nous sommes, est le
+        lieu mesme où Celadon se vint plaindre, de mon inconstance, lors
+        que son pere par un artifice estrange luy mit dans l’esprit que Corebe
+        me devoit espouser? – Je l’ay vrayment ouy, repliqua Diane, <pb n="334"/>
+        mais je n’eusse pas creu que cela eust esté capable de vous
+        mettre dans la peine où vous estes. – Je n’en suis pas, reprit
+        Astrée, dans une peine qui me soit importune, mais j’avoue que,
+        repensant aux accidents qui m’arriverent en ce temps-là, et
+        faisant comparaison de l’estat present de ma vie, à celuy dans
+        lequel je respirois alors, je ne puis que je ne m’afflige dequoy le
+        sort n’a jamais cessé de me persecuter, et a tousjours mis des
+        obstacles à quelque felicité que je me sois promise. – Il
+        s’en trouve peu, adjousta Diane, qui n’ayent le mesme suject d’accuser
+        la fortune; vous vous en plaignez, je m’en plains aussi, et je croy
+        que tout le monde en fait de mesme, puis qu’il est impossible que nous
+        recevions jamais aucune joye, qui ne soit meslée de mille
+        sujects de douleur. – Je croy bien, respondit Astrée, ce que
+        vous dites, mais je soustiens, que de tous ceux qui ont eu quelque
+        suject de s’en plaindre, personne n’en a jamais tant eu que moy, car si
+        je regarde les succez de ma vie, je n’en trouveray pas un qui n’ait
+        esté accompagné de quelque funeste evenement. – Ma sœur,
+        reprit Diane, nous n’eusmes jamais moins de raison de nous plaindre que
+        nous en avons maintenant, maintenant, dis-je que nos maux touchent
+        presque leur remede, et que nous sommes sur le poinct de nous voir
+        guerir de tous les desplaisirs que nous avons soufferts. Amour nous les
+        a presque tous causez, c’est à luy desormais à nous en
+        delivrer, afin que la mesme main qui a fait la playe en donne la
+        guerison. – Ma compagne, respondit Astrée, nous sommes vrayment
+        à la veille de nostre repos, mais quelque proche que soit ce
+        moment, qui verra finir toutes nos miseres, il n’empesche pas que la
+        memoire de mes douleurs ne tourmente ma pensee, et ne me fasse juger,
+        qu’il n’eust pas esté difficile de les guerir par un plus doux
+        remede, s’il eust plu au Ciel d’en prendre le soing.</p>
+        <p>Disant cela, elle porta les yeux un peu plus curieusement que
+        decoustume, sur tout ce qui estoit dans cette grotte; et voyant
+        à sa main droite qu’on avoit gravé quelque chose contre
+        le rocher, elle s’en approcha, et recogneut son chiffre, que Celadon
+        avoit marqué presque en tous les endroits de cette caverne. Un
+        peu à costé, elle vid quelques vers, et la
+        curiosité l’ayant portée à les lire, elle vid
+        qu’ils estaient tels.</p>
+    </div>
+    <div type="contentci">
+        <milestone unit="line"/>
+        <milestone unit="line"/>
+        <p>Juge, Astrée, à quel poinct le destin m’a reduit!</p>
+        <p>Je sçay bien que la mort où je me vois conduit,</p>
+        <p>Doit servir de remede aux travaux, que j’endure <pb n="335"/></p>
+        <p>Et pourtant, obstiné, je resiste au trespas,</p>
+        <p>Non point que j’apprehende une chose si dure,</p>
+        <p>Mais de peur qu’estant mort je ne t’aymasse pas.</p>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>Ces paroles luy firent juger qu’il avoit eu en ce temps-là
+        quelque volonté de se perdre, mais qu’il en avoit esté
+        diverty par quelque bon Genie, qui luy avoit mis cette consideration
+        dans l’esprit. Tous ces objets l’alloient affligeant de telle sorte,
+        qu’ils deroboient à tous momens quelques larmes à ses
+        yeux; mais quelques regrets qu’ils luy missent dans l’ame, elle ne
+        pouvoit pourtant se lasser de regarder ces tesmoignages de l’amour
+        inviolable de son berger. En fin apres avoir tourné de tous
+        costez, et n’avoiririen laissé qu’elle n’eust visité
+        curieusement, elle trouva dans l’un des coings une petite bouteille,
+        où Celadon tenoit de l’ancre, et ayant veu auprez d’elle une
+        plume, qui avoit pour estuit une des fentes du rocher: Helas!
+        s’escria-t’elle en souspirant, voylà sans doute la mesme plume
+        qui luy servoit à marquer sur le papier ses sentiments et ses
+        passions amoureuses! La voylà, cette fidelle plume, qui a receu
+        si souvent le secret de ses pensées, et qui fut cause en partie
+        que j’appris la fuite et le desespoir de mon berger! Sans toy, chere
+        plume (et cecy elle le disoit en la baisant) sans toy je n’eusse jamais
+        sceu quelle partie du monde le retenoit, et dans l’ignorance où
+        j’eusse esté de son sejour, si je n’eusse jamais
+        rencontré les moyens dont il falloit que je me servisse pour le
+        r’appeler! Mais chere plume, adjoutoit-elle, que ne puis-je en
+        eschange du bon office que tu me rendis, te donner quelques preuves de
+        ma recognoissance? tes baisers et ces larmes dont je te mouille ne te
+        sçauroient plaire, car tu n’as point de sentiment. Toutefois je
+        me trompe, il est à presumer qu’elles te doivent estre
+        agreables, puis que je les verse pour celuy qui fut autrefois ton
+        maistre, et qui par un privilege de son extreme amour, te priva
+        peut-estre de ton insensibilité.</p>
+        <p>A ce mot elle se teut, et Diane regardant contre terre: Ma sœur, luy
+        dit-elle, je voy quelque chose à vos pieds. Alors Astrée
+        s’estant un peu reculée, Diane se baissa, et vid que c’estoit
+        une feuille de papier pliée en quatre, où l’on avoit
+        commencé d’escrire quelque chose; aussi-tost elle la releva, et
+        prit garde qu’il y avoit escrit en gros caracteres, comme en forme de
+        tiltre, Regrets d’un Berger trahy, et un peu plus bas ces mots: <pb n="336"/></p>
+    </div>
+    <div type="contentli">
+        <milestone unit="line"/>
+        <p>J’ay creu durant quelque temps, belle
+        Astrée, que le cours de mes larmes pourroit laver le crime de
+        vostre infidélité. Mais à ce coup, pensant aux
+        jours que mes yeux ont employez en ce misérable office, j’en
+        perds entierement l’esperance, et recognois bien que c’est la mort
+        seulement qui peut apporter quelque remède à mon
+        desplaisir; aussi c’est elle seule que j’appelle pour me guérir
+        des blessures que vostre inconstance m’a faites, c’est elle à
+        qui tous les souspirs que mon malheur arrache de mon ame sont
+        addressez, et c’est elle encore, qui, plus pitoyable mille fois que
+        vous-mesme, reçoit les vœux que je luy presente, pour sortir de
+        la peine où je suis. Ainsi je rencontre du secours aupres de
+        celle que la nature m’enseignoit de fuyr, et ma perte dans la
+        cruauté de celle que la raison me commandôit d’aymer
+        parfaittement; estrange effect de vostre ingratitude, Astrée,
+        puis qu’en eschange de tant de services rendus, pour m’exempter
+        desormais de vos perfidies, il faut que je recoure à la
+        pitié de mes ennemis! et bien, si vous n’attendiez de ma
+        disgrace que là ruine de…</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>Ce sens qui n’estoit pas achevé, fit juger à Diane
+        que Celadon avoit dessein de remplir toute la feuille de semblables
+        plaintes; mais qu’en ayant esté diverty, peut-estre, par le
+        commandement que Lycidas luy fit de la part d’Astrée, il n’avoit
+        eu le temps d’escrire que ce qu’elle venoit de voir. Astrée qui
+        en fit aussi la lecture, fut bien marrie dequoy ce discours n’estoit
+        pas plus long, car il luy estoit extremement agreable; toutefois,
+        mettant le papier dans son sein: Cette plainte que tu fis, pauvre
+        Celadon, dit-elle, pour un crime dont je n’estois pas coupable, servira
+        pour me convaincre de celuy que j’ay commis au dernier arrest que j’ay
+        prononcé contre toy. Et afin qu’il reste en ma mort quelque
+        tesmoignage qui puisse publier mon injustice, je supplie les dieux que
+        ce papier me survive, et qu’il ait autant de pouvoir pour resister aux
+        injures du temps que j’en ay pour me punir de celle que j’ay faite
+        à la fidelité de Celadon.</p>
+        <p>A ce mot elle sentit une grande foiblesse, et Diane qui la vid paslir,
+        craignant qu’elle esvanouyst, courut au bord de la riviere pour en
+        apporter de l’eau. Elle eut bien moins de peine à sortir de la
+        caverne qu’elle n’en avoit eu pour y entrer, car Lycidas en avoit un
+        peu facilité le passage. S’estant donc hastée, elle en
+        puisa un peu, mais ne pouvant s’en revenir si viste, de peur de la
+        respandre, elle eut le loisir de voir. Lycidas qui estoit couché
+        au pied <pb n="337"/> d’un saule. Cette veue Festonna extremement,
+        toutefois ayant pris garde qu’il dormoit, elle r’entra dans la grotte
+        avec le plus de diligence qu’elle put; et trouvant Astrée un
+        peu remise: Ma sœur, luy dit-elle, je vous prie fuyons, si nous ne
+        voulons que Lycidas nous rencontre. – Pourquoy? respondit
+        Astrée. – Pour ce, reprit Diane, qu’il est encore au mesme lieu
+        où nous l’avons ouy parler à Phillis, et je crains qu’il
+        ait entendu nos discours, ou pour le moins qu’il vienne où nous
+        sommes, pour y passer, peut-estre, ce qui reste de la journée. –
+        Est-il possible, dit Astrée, que ce berger soit encore là? – Il
+        y est sans doute, respondit Diane, et si vous avez envie de le
+        voir, vous n’avez qu’à jetter les yeux sur le bord de la
+        riviere, car dés l’entrée de la caverne vous pourrez le
+        remarquer facilement. – Je seray bien aise, dit
+        Astrée, de le revoir encore une fois.</p>
+        <p>Disant cela, elle s’en alla à l’ouverture de la grotte,
+        où elle ne fut pas plustost, qu’elle l’apperceut couché
+        de son long, la teste soustenue par un petit gazon, que la nature avoit
+        couvert d’un peu de mousse; soudain qu’elle l’eut veu, elle se voulut
+        retirer, car elle eut peur d’estre apperceue, mais enfin s’estant un
+        peu rassurée, elle recommença de le regarder, mais si
+        fixement, qu’elle fut pres d’un quart d’heure sans tourner les yeux, ny
+        d’un costé, ny d’autre..Diane qui de temps en , ternps le
+        regardoit aussi, tout à coup, tirant Astrée par sa juppe: Ma
+        compagne, dit-elle, je pense que vous estes ravie en considerant
+        ce berger? – Il est tres-vray, respondit Astrée, que son
+        innocence me fait une extreme compassion, et que j’ay un regret
+        nompareil dequoy les maux de Celadon luy ont esté, si sensibles; car
+        sçachant que j’en suis coupable, il me fasche de voir
+        qu’il ait tant de suject de se plaindre de moy. Toutefois,
+        continua-t’elle, j’essayeray de vaincre sa pitié; et s’il luy
+        reste quelque bonne qualité dans l’ame, je m’assure qu’il aura
+        de la peine à me refuser le pardon que je luy demanderay. Disant
+        cela elle rentra tout au fonds de la grotte, et prenant la plume
+        qu’elle y avoit trouvée, elle la mouilla dans la petite
+        bouteille qui estoit encore à moitié pleine –d’ancre, et
+        rompant une partie du papier qu’elle avoit mis dans son sein, elle fit
+        une lettre à Lycidas, qui ne fut pas plustost achevée,
+        que voyant bien que le jour finiroit bien-tost, elle resolut
+        d’abandonner cette grotte, pour ne perdre la commodité de
+        remettre ce papier entre, les mains du berger. A quoy Diane ayant
+        consenty, elles sortirent, avec le moins de bruit qu’elles purent, et
+        s’estant approchées de Lycidas, <pb n="338"/> Astrée mit un
+        genouil en terre, et d’une main mettant la lettre sur l’endroit
+        où le pourpoinct laissoit voir un peu de l’estomac du berger,
+        sans estre pliée, afin qu’elle se perdist moins facilement
+        Amour, dit-elle, par pitié, donne un bon succez à cette
+        lettre, ne souffre pas qu’elle se perde inutilement, et s’il est
+        impossible qu’elle touche l’ame de Lycidas, permets qu’elle luy touche
+        la main. Alors elle se leva, et après avoir regardé de
+        tous costez, elles continuerent leur voyage.</p>
+        <p>Phillis estoit desja de retour chez Adamas bien affligée de
+        quoy, quelque diligence qu’elle eust faite, elle n’avoit pu apprendre
+        aucunes nouvelles de ses compagnes. Leonide y estoit aussi
+        arrivée, et fort peu de temps apres elle, tous les bergers et
+        bergeres qui estoient chez Adamas; de sorte qu’ayants tous rendu
+        compte au druide et à Bellinde de l’exacte recherche qu’ils
+        avoient faite de Diane et d’Astrée, ils commencerent alors
+        à croire veritablement que leur fuite ne pourroit avoir qu’une
+        dangereuse fin. Adamas estoit bien en peine de ces bergeres, mais parmy
+        tout cela il ne pouvoit oublier l’interest qu’il avoit pour Celadon.
+        S’estant donc enquis si personne n’avoit rien appris de luy, Phillis
+        dit librement qu’elle croyoit qu’il fust mort, puis que Lycidas luy
+        avoit juré qu’il n’y avoit endroit dans la plaine où il
+        ne l’eust curieusement cherché. Le Druide alors, montrant
+        d’estre bien fasché de cette responce: Mais, dit-il, ne
+        scandons-nous sauver au moins Lycidas, et empescher que ce nouveau
+        malheur ne luy soit encore funeste? – Mon pere, dit Phillis, je l’ay
+        laissé assez loing d’icy, fort proche toutefois de Lignon, et
+        pour aller au lieu où je l’ay veu, on n’auroit qu’à
+        suivre contremont la riviere. – Peut-estre, reprit Adamas, il se sera
+        endormy en quelque lieu, et si cela est, il ne sera pas difficile de le
+        ramener. – Je le croy, repliqua Phillis, mais il faudroit que ce fust
+        par le commandement de quelqu’un, à qui il eust peur de
+        desobeyr. – Paris, adjouta le Druide, y employera ses prieres.</p>
+        <p>A ce mot, luy ayant commande d’y aller, ce nouveau berger se mit en
+        chemin, et trouva Lycidas un peu devant que le soleil fust
+        couché. Presque en mesme temps il s’esveilla, et recognoissant
+        Paris, il se leva si promptement, que sans y prendre garde il laissa
+        tomber la lettre qu’Astrée luy avoit remise. Paris voyant que
+        Lycidas ne s’en apercevoit point, se baissa pour la relever, et l’ayant
+        prise: Voicy sans doute, luy dit-il, quelque, tesmoignage de l’amour
+        de Lycidas! – Je ne sçay ce que c’est, respondit le <pb n="339"/>
+        berger, mais difficilement sera-ce une preuve de mon affection, si
+        Phillis ne vous l’a donnée. – Au contraire, reprit Paris, d’est
+        moy qui la veux donner à Phillis, et qui veux estre le messager
+        de cette lettre, puisque vous l’avez escrite. – Moy, respondit Lycidas,
+        je vous jure qu’il y. a plus de deux jours que je n’ay veu ny papier ny
+        ancre. – Vous avez pourtant laissé cheoir cette lettre, dit
+        Paris, car vous l’aviez aupres de vostre sein. – Peut-estre est-ce
+        vous, repliqua le berger, car je suis bien assuré que
+        d’aujourd’huy je n’ay eu aucun papier. – Nous en serons bientost
+        esclaircis, reprit Paris, car je ne pense pas que vous mescognoissiez
+        vostre escriture. Disant cela il le presenta à Lycidas, et le
+        berger portant ses yeux dessus, puis tout à coup les retirant:
+        Helas, dit-il, ces caracteres ne sont pas plus contraires aux miens,
+        que la cruauté de celle qui les a peints est contraire à
+        mon contentement. Paris ne sçachant pas bien ce qu’il vouloit
+        dire: C’est, continua Lycidas, que cette lettre vient d’Astrée,
+        mais je ne puis comprendre de quelle façon elle m’est
+        tombée entre les mains. – Il y a peut-estre long temps que vous
+        l’avez? dit Paris. – Nulle­ment, respondit le berger, je ne la vis
+        jamais qu’à cette heure, et je croy bien qu’elle n’a esté
+        escrite que depuis peu, car je la cognois à l’ancre qui est
+        encore toute fraische. Alors il commença de lire ce qui estoit
+        dans ce papier, et y trouva ces mots.</p>
+    </div>
+    <div type="contentli">
+        <milestone unit="line"/>
+        <head type="chapitre">LETTRE D’ASTRÉ</head>
+        <p>A LYCIDAS</h3>
+        <milestone unit="line"/>
+        <p>Je trouve legitime, cher Lycidas, la colere
+        où vous estes contre moy, d’aidant mieux que n’ayant pas ouy une
+        seule des raisons qui me peuvent justifier, il seroit difficile que
+        vostre esprit ne se fust laissé emporter aux interests de vostre
+        frere. J’excuse vostre ressentiment, comme je blasme sa tromperie, et
+        pour ne vous laisser pas long-temps sans recevoir quelque satisfaction
+        du crime dont vous m’accusez, je vay mourir, puis qu’aussi bien les
+        artifices de Celadon sont cause que je ne sçaurois plus vivre
+        dans. le monde avec assez d’honneur. Je veux bien croire que dans la
+        violence de mon transport j’ay usé d’une rigueur un peu trop
+        grande; mais, quel supplice luy pouvoy-je imposer qui ne fust petit,
+        m’imaginant que sa faute estoit hors de toute comparaison? Toutefois,
+        puis que voies voulez que j’aye failly, je le veux de mesme et confesse
+        que ma faute ne merite pas un <pb n="340"/> moindre chastiment que la mort.
+        Je vous dis donc encor un coup, Lycidas, que je vay mourir, et que
+        vostre courroux sera punissable, s’il n’est assez vangé par mon
+        trespas. Que s’il faut, pour le repos de mon ame, que j’obtienne un
+        pardon de vous, accordez-le moy, berger, mes larmes vous le demandent,
+        et l’amour qu’autrefois Celadon m’a porté vous deffend de me le
+        refuser. Adieu, Lycidas, je n’ay plus qu’un moment à vivre,
+        faites que Phillis le prenne pour un tesmoignage de mon souvenir. Adieu.</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>A la lecture de ces dernieres paroles, Lycidas ne put. retenir ses
+        larmes, et tirant son mouchoir pour le porter à ses yeux:
+        Helas, dit-il,qu’elle a bien raison de confesser qu’elle est coupable,
+        car tous les malheurs dont nous avons esté poursuivis ont eu
+        leur commencement d’une petite jalousie qu’elle conceut, il y a quelque
+        temps, mais sur les plus foibles apparences du monde. – Je m’estonne,
+        dit Paris, dequoy elle ne parle point du tout de Diane, puis qu’on
+        croit qu’elles sont ensemble? – Je ne sçay, respondit Lycidas,
+        quelle en peut estre la cause, mais je ne doute point qu’il ne soit
+        vray qu’elles sont l’une avecque l’autre, par ce que si Diane n’eust
+        point esté avec Astrée, dans la fin de sa lettre elle
+        auroit. aussi bien parlé d’elle que de Phillis, à qui
+        elle envoye, comme vous avez veu, un tesmoignage de son souvenir. –
+        Quoy que c’en soit, reprit Paris, je croy que nous ne sçaurions
+        mieux faire que d’en aller promptement advertir Adamas, afin que nous
+        voyons ce qu’il jugera de ce dernier accident. – Voylà, repliqua
+        Lycidas, la lettre d’Astrée, vous pouvez la luy communiquer, et
+        s’il vous plaist, j’attendray icy vostre commandement. Lycidas disoit
+        cela pour le peu d’envie qu’il avoit de retourner en la maison du
+        Druide, mais Paris le sceut si bien persuader qu’enfin il l’emmena.</p>
+        <p>Il estoit desja nuict quand ils arriverent chez Adamas; de sorte que
+        Bellinde, n’esperant plus d’avoir aucunes nouvelles de Diane, avoit de
+        beaucoup augmenté son despiaisir, et quelques consolations que
+        le Druide pust inventer pour flatter son ennuy, elles ne servoient
+        qu’à le luy faire trouver plus sensible. Elle estoit en cet
+        estat, quand on la vint advertir que Paris et Lycidas estoient de
+        retour,, si bien qu’elle courut à eux comme à son dernier
+        refuge; mais n’ayant rien appris qui luy donnast quelque suject
+        d’esperer, elle retomba dans sa premiere affliction Adamas se fit
+        inconti. nent montrer la lettre que Paris luy dit que Lycidas avoit
+        eue; et n’y voyant rien gui parîast de Diane, il fit cognoistre
+        à Bellinde, <pb n="341"/> que dans cette incertitude, elle ne devoit
+        rien desesperer; qu’il n’estoit pas croyable qu’elle eust esté
+        si peu sensée que de s’aller exposer à la mort, puisque,
+        de quelque œil qu’on la regarde, elle a tousjours d’extremes horreurs,
+        et que Diane n’estant qu’une fille, il n’y avoit pas apparence qu’elle
+        ne la deust craindre, quelque resolue qu’elle fust; qu’il se pouvoit
+        bien faire qu’Astrée luy eut inspiré le desir de
+        l’entreprendre, mais que ny l’une ny l’autre n’auroient assez de
+        courage pour l’executer. Adamas luy dit encore plusieurs raisons, que
+        Bellinde ne receut pas absolument comme bonnes, mais qu’elle n’osa pas
+        aussi condamner entierement, et le Druide l’ayant accompagnée
+        dans sa chambre, se retira apres dans la sienne, où ayant fait
+        venir tous les bergers et toutes les bergeres, il les pria de
+        recommencer le lendemain la mesme recherche qu’ils avoient desja faite; à
+        quoy ayants promis d’obeyr, ils luy donnerent le bonsoir, et
+        s’allerent mettre au lict.</p>
+        <p>Astrée et Diane avoient cependant fait un peu de chemin depuis
+        qu’elles s’estoient separées de Lycidas, mais quand la nuict fut
+        arrivée, et qu’elles virent que l’air estoit tout chargé
+        de brouillards, et que le Ciel, parmy l’obscurité, leur envoyoit
+        de temps en temps des esclairs, qui sembloient promettre autant de
+        foudres, alors une grande frayeur les saisit, et ce courage qu’elles
+        avoient fait paroistre, se perdit au mesme temps qu’elles vindrent
+        à se souvenir qu’elles estoient filles. La foiblesse de leur
+        sexe leur fit entrer mille considerations dans l’aine, dont la moins
+        puissante estoit assez forte pour les empescher de passer plus outre;.
+        elles resolurent donc de retourner sur leur pas, et pour trouver
+        où se mettre à couvert de la pluye qui commençoit
+        à tomber, elles revindrent dans la mesme grotte d’où
+        elles estoient parties. Elles n’y furent pas plustost que l’air se
+        deschargea, mais par une si grande abondance de pluye, et par de si
+        grands esclats de tonnerre, qu’à peine crurent-elles que le
+        rocher qui les tenoit enfermées pust conserver leur vie contre
+        l’injure du mauvais temps.</p>
+        <p>Lignon, qui n’est jamais plus orgueilleux que lorsqu’il a reçeu,
+        comme en depost, des montagnes voisines, toutes les marques qu’elles
+        ont eue de la colere de l’air, s’enfla si fort en moins de deux heures,
+        parie moyen des nuées qui se fondirent en eau, que tenant en
+        cela de la nature des torrents, il’sembla qu’il fust plustost
+        destiné pour noyer les campagnes, que pour les arrouser. Dans
+        cette gloire, par laquelle il pretendoit se faire craindre à
+        Loire mesme, qui le reçoit tous les jours dans son sein pour le
+        <pb n="342"/> rendre à la mer, qui est sa mere, il ouvrit ses bras,
+        et portant ses bords en des lieux qu’il n’avoit jamais mouillez, il
+        enferma dans son humide lict toutes les fleurs qui
+        auparavant estoient nées sur ses rivages.</p>
+        <p>A ce coup la grotte, qui avoit receu les firmes de Celadon, fut
+        contrainte de recevoir les froideurs de cet élément, et
+        comme si le demon de cette riviere eust pris plaisir d’aller visiter
+        les tesmoignages d’amour que Celadon y avoit laissez, il y entra avec
+        tant de promptitude, que tout ce qu’Astrée et Diane purent
+        faire, ce fut d’empescher qu’il ne les y surprist. Elles en sortirent
+        donc et de bonne fortune la pluye estoi desja cessée; de sorte
+        que voyans que l’air s’estoit esclaircy, et que la lune
+        commençoit à laisser revoir l’argent, ou plustost la
+        neige de son teint, elles se remirent en chemin, et ne cesserent de
+        marcher, jusqu’à ce qu’elles furent arrivées à
+        trois cens pas prés de la fontaine, qu’elles avoient choisie
+        pour un dernier remede à tous leurs desplaisirs.</p>
+        <p>Là elles trouverent une forme d’autel, eslevé de terre
+        sur un petit perron, dont les degrez estoient marquez de sang en divers
+        endroits, et noircis par la fumée des victimes qu’on y avoit
+        immolées; d’abord elles jugerent bien qu’il avoit esté
+        consacré à quelque divinité, et s’imaginans que
+        peut-estre estoit-ce à la deïté mesme, qui presidoit
+        sur cet enchantement, elles se mirent à genoux sur le plus bas
+        de tous les degrez, et Astrée fit sa priere en cette sorte:
+        Puissant Amour qui conserves la nature, et qui me destruis, Dieu absolu
+        sur les ames, este je te prie le bandeau qui te couvre les yeux, et
+        regarde si ma fidelité n’est pas aussi grande que mon courage.
+        Voicy cette amante qui doit appaiser ton courroux, et qui dans la perte
+        de sa vie, doit emporter la gloire d’avoir fait perir ces lyons et ces
+        lycornes qui, rendans cette fontaine inaccessible, cachent aux amants
+        la verité de tes agreables mysteres. Reçoy, Fils et Pere
+        de l’Eternité, le sang qu’il faudra que je respande, et pour
+        empescher que ma mort ne soit suivie d’aucune honte, de grace prends un
+        peu de soing de ce corps que je vay volontairement exposer à la
+        barbarie de tes animaux impitoyables.</p>
+        <p>Disant cela, elle alla baiser le pied de l’autel, et Diane haussant les
+        yeux au Ciel: Grand dieu, dit-elle, ce qu’Astrée desire de ta
+        pitié, je le demande à ta hayne, ta rigueur n’a jamais
+        cessé de me persecuter, acheve aujourd’huy mes malheurs et tes
+        tyrannies: je ne te rends point de compte de ma fidelité, tu
+        lis dans les secrets de mon ame, et sçais bien, qu’elle a
+        tousjours esté inviolable. <pb n="343"/> Espargne, Amour, espargne
+        la beauté d’Astrée, ne souffre pas que tes lyons soient
+        insensibles, inspire dans leur ame farouche la crainte et le respect,
+        et fay, qu’au lieu d’approcher de ses membres delicats, il me
+        deschirent pour assouvir leur faim et ta cruauté.</p>
+        <p>A ce mot elle, se leva, et ayant baisé trois fois le pied de
+        l’autel, descendit où estoit Astrée; mais cette bergere
+        : Ah ma sœur! luy dit elle, vous m’avez fait tort, vostre priere
+        devoit plustost avoir pour object vostre conservation que la mienne, et
+        si les dieux accordoient ce que vous demandez, je le accuserois
+        d’injustice. C’est pourquoy, dit-elle, se remettant à genoux, je
+        te conjure, Amour, de punir par un refus, cette bergere injurieuse; ne
+        te montre pas sans ressentiment, et fay luy recognoistre que comme j’ay
+        plus de droict en ce que je recherche, je dois
+        avoir plus d’esperance de l’obtenir.</p>
+        <p>Alors Diane se voulut aussi remettre à genoux, mais
+        Astrée. l’en empeschant, et luy mettant une main devant la
+        bouche: Ma sœur, luy dit-elle, si vous m’aymez, ne continuez pas
+        à me desobliger, vostre requeste est entierement contraire
+        à mon repos et à mes desirs. Disant cela, les larmes luy
+        vindrent aux yeux, et Diane ne pouvant retenir les siennes, sans dire
+        seulement un mot, elles commencerent à s’embrasser, et s’estans
+        laissé aller contre terre, tassées du chemin, et dequoy
+        elles avoient esté un jour et deux nuicts sans reposer,
+        aydées à cela, par la force comme je croy de
+        l’enchantement, elles s’endormirent, demeurants toutefois
+        embrassées comme elles Festoient devant
+        que le sommeil les surprist.</p>
+        <p>A peine furent-elles endormies, que le jour parut, bien plus beau que
+        ne l’avoient promis les vents et les orages, qui avoient regné
+        durant une partie de la nuict. Alexis et Silvandre ne s’esveillerent
+        pas pourtant, mais Bellinde qui avoit à peine fermé les
+        yeux, à cause des grandes inquietudes dont elle avoit
+        esté travaillée, ne vid pas plustost paroistre les
+        premieres clairtez de l’aurore, qu’elle se jetta en bas du lict, et se
+        mettant une juppe dessus, courut à la chambre de Leonide pour la
+        prier de faire en sorte que Phillis prist encore la mesme peine qu’elle
+        avoit eue le jour devant, en la recherche de ses compagnes. Elle treuva
+        cette nymphe habillée, et Phillis aussi, car l’une ne se pouvant
+        desfaire de l’interest qu’elle avoit pris depuis quelques lunes pour
+        Alexis, et l’autre ne pouvant vivre dans le regret qu’elle souffroit
+        pouf l’absence de ses deux amies, elles
+        s’estoient levées fort matin.</p>
+        <p>Bellinde s’estonna de leur diligence, et comme elle voulut dire
+        <pb n="344"/> à Leonide le suject qui l’avoit amenée dans sa
+        chambre, elle se vid prevenue par Phillis, qui, s’adressant à
+        elle: Vous voyez, madame, luy dit-elle, quelle est la peine
+        qu’Astrée et Diane me donnent, mais ce qu’elles ont commis de
+        crime envers moy, ne demeurera pas impuny si je les treuve? – Helas!
+        belle bergere, respondit Bellinde, je crains bien que vous en soyez
+        desja assez vangée. – Madame, reprit Phillis, on ne me satisfait
+        pas si facilement, peut-estre, que vous vous l’imaginez, car en
+        l’humeur dont je suis, je ne croy jamais avoir bien tiré ma
+        raison de quelqu’un, si je n’en fay la vengeance moy-mesme. – Pleust au
+        Ciel, repliqua Bellinde, que cela fust en vostre pouvoir, le supplice
+        que vous leur ordonneriez seroit bien grand, s’il n’estoit moindre que
+        celuy que peut-estre elles se sont desja donné. – Madame, dit
+        Leonide, il est impossible que ce jour se passe sans que nous soyons
+        esclaircies de toutes nos doubtes; nous mettrons tant de gens en
+        campagne, que quand elles se seroient noyées dans Lignon, ce que
+        je n’ose pas croire, on treuvera pour le moins quelques marques de leur
+        trespas. – Veuillent les dieux, reprit Bellinde, que ma crainte soit
+        fausse, et que vous m’en puissiez donner de meilleures nouvelles que je
+        n’en attends! Disant cela, elle sortit, et avec elle Leonide et
+        Phillis, qui ayants treuvé Lycidas sur le degré, et avec
+        luy tous les bergers, s’en allerent querir les bergeres, et puis,
+        cependant que Bellinde se retira dans sa chambre, tous ensemble se
+        mirent en queste d’Alexis, d’Astrée et de Diane.</p>
+        <p>D’autre costé Galatée qui estoit dans une impatience
+        nompareille de pouvoir entretenir Astrée, et luy dire ce qu’elle
+        sçavoit de Celadon, dont elle ne croyoit pas que la bergere fust
+        si sçavante qu’elle estoit, esveilla Rosanire de bon matin, et
+        se fit apporter les habits de bergere qu’elle avoit fait faire
+        dés le jour auparavant. Dorinde, Daphnide, Madonte et Silvie
+        s’habillerent aussi comme elles, et soudain qu’elles furent au mesme
+        estât qu’elles vouloient estre veues dans la maison d’Adamas,
+        elles s’en allerent dansla chambre d’Amasis, qui apres avoir
+        admiré la grace de leur habillement, bien qu’elle fust de
+        beaucoup inesgalle à celle de leur visage, leur donna
+        congé de partir. Elles se mirent donc dans un chariot, et puis
+        le renvoyerent aussi-tost qu’il les eut menées jusqu’aupres de
+        la maison du Druide; car ayant mis pied à terre, Madonte et
+        Daphnide qui estoient desja sçavantes en ce mestier, leur
+        enseignerent de quelle façon il falloit tenir la houlette, et
+        par quel langage il se falloit faire entendre aux brebis. Apres cela
+        elles <pb n="345"/> entrerent dans la bassecour, sans avoir
+        rencontré personne, dequoy Galatée s’estonnant, et ne se
+        pouvant d’abord imaginer d’où pouvait proceder la grande
+        solitude, et le silence qu’elle rencontroit dans cette maison, enfin
+        elle creut que les bergers et les bergeres estoient allez dans le bois,
+        pour se divertir durant la chaleur du jour. Sur cette pensée
+        elle monta le degré, et Adamas qui fut adverty par celuy qui
+        avoit le soing de la porte, qu’il estoit entré quelques
+        bergeres, les vint recevoir sur le dernier repos de l’escalier.
+        Incontinent il recognut Madonte et Daphnide, car il les avoit desja
+        veues en cet habillement, puis ayant aussi recognu les autres: Mon
+        dieu I mesdames, dit-il, avec un visage assez content, et s’adressant
+        à Rosanire et à Galatée, quelle est la bonne
+        fortune qui me donne aujourd’huy le bien de vous voir ceans? – Mon
+        pere, respondit Galatée, en sousriant, il me semble que ce n’est
+        pas la coustume-de parler avecque tant de respect aux bergeres; je
+        vous diray pourtant que depuis le despart de Sigismond, de Rosileon, de
+        Godomar, de Damon et de tous nos chevaliers, nous avons fait dessein de
+        vous venir visiter, et sommes venues pour prendre nostre part des
+        plaisirs innocents que l’on gouste sous l’habit dont vous nous voyez
+        revestues. – Mais plustost, repliqua le Druide en souspirant, pour
+        estre tesmoings des malheurs dont l’innocence de cette vie est
+        aujourd’huy traversée, pour le moins dans la plaine du Forests!
+        Car sçachez, madame, qu’il n’est presque berger ny bergere dans
+        tous les hameaux voisins, qui ne soit en desordre, pour des accidents
+        qui nous sont arrivez seulement depuis deux jours. – Vrayment, reprit
+        Galatée, vous m’estonnez, et je ne croyois
+        pas les-treuver dans une si grande confusion.</p>
+        <p>Disant cela, elles entrerent dans une sale, par où on alloit en
+        la chambre d’Adamas. Et le Druide reprenant la parole: Pour vous faire
+        bien cognoistre nostre doule.ur, dit-il, je n’ay qu’à vous faire
+        voir le visage de Bellinde, qui est mere de Diane, car elle a perdu sa
+        fille depuis hyer, qu’elle se desroba de ceans avecque Astrée,
+        et tout cela, comme je pense, est provenu dequoy Alexis s’estoit desja
+        perdue le jour devant. – Comment, dit Galatée, Alexis n’est donc
+        plus icy? – Nous ne sçavons où elle est maintenant,
+        repliqua le Druide, mais peut-estre serez-vous bien aise d’apprendre sa
+        fortune, car vous y avez quelque interest. Galatée ne pouvant
+        comprendre ce qu’il youloit dire: Je ne puis qu’y en avoir un tres
+        grand, adjousté-t’elle; puisqu’elle vous appartient. <pb n="346"/></p>
+        <p>A ce mot elles entrerent dans la chambre du Druide, et là
+        Bellinde ayant esté appellée, et ayant sceu les noms de
+        ces nouvelles bergeres, elle leur rendit ce qu’elle devoit à
+        leur naissance et à leur qualité, mais paroissant aupres
+        d’elles, avec un visage qui tesmoignoit assez son desplaisir. Rosanire
+        apres l’avoir saluée: Nous pensions, luy dit-elle, estre venues
+        pour admirer les beautez et les perfections de vostre fille, mais
+        à ce que je voy, son esloignement ne nous laisse qu’une matiere
+        pour, vous consoler. – Madame, respondit Bellinde, j’eusse bien
+        desiré que sa faute ne vous eust pas esté cognue, car on
+        ne sçauroit assez cacher une si grande imprudence, mais puisque
+        vous le sçavez, je n’auray pas honte d’avouer devant vous que
+        son action me desplaist, jusqu’à un poinct qui me rend presque
+        incapable de consolation. – Vous estes mere, dit Galatée, et par
+        consequent tres-sensible à ce qui touche vostre sang, mais
+        j’espere que vostre douleur ne sera pas sans remede, si le Ciel vous
+        ayme autant que nous vous estimons. A ce mot Adamas les supplia de
+        s’asseoir, et ayant esté prié par Galatée de leur
+        dire tout ce qui concernoit la perte d’Alexis, et la fuitte
+        d’Astrée et de Diane, il leur en dit jusqu’aux moindres
+        particularitez, de sorte que Galatée ayant sceu qu’Alexis estoit
+        cette mesme Lucinde qui s’estoit sauvée du Palais d’Isoure: Je
+        ne m’estonne plus, dit-elle, toute surprise, si vous avez tousjours
+        empesché que je ne l’aye veue, car vous sçaviez bien sans
+        doubte, que je la recognoistrois, – Je le craignois pour le moins,
+        reprit le Druide, et je sçavois biçn que cette
+        cognoissance n’eust de rien servy à Celadon, car il estoit
+        encore alors si obstiné à ne paroistre point devant
+        Astrée, qu’il est certain qu’il fust desja mort cent fois si je
+        ne l’eusse conservé par l’artifice de ce desguisement.</p>
+        <p>Ce discours les traisna insensiblement jusqu’à l’heure du
+        disner, apres lequel Rosanire ayant voulu voir la gallerie, Adamas y
+        mena toute la compagnie, et à peine y eut-il esté environ
+        un quart d’heure, qu’on le vint advertir qu’il y avoit trois hommes
+        à la porte qui demandoient de parler à luy. Aussitost il
+        commanda qu’on les fist entrer, et le premier qui parut fut. Halladin,
+        qu’Adamas et les autres recognurent incontinent. Cet escuyer n’eut pas
+        plustost salué le Druide qu’il courut faire la reverence
+        à Madonte, et ayant sceu que Damon estoit à. Lyon, il luy
+        demanda la permission de l’y aller treuver, mais Madonte luy ayant dit
+        combien peu Damon devoit estre en ce voyage: J’ayme bien mieux,
+        continua-t’ellè, que vous nous rendiez compte de ce que
+        <pb n="347"/> vous avez fait, et de quelle façon Celidée a
+        esté guerie. Halladin alors: Madame, luy respondit-il, pour
+        vous bien redire tout cela, il faudroit que j’eusse plus d’esprit que
+        je n’ay pas; mais il est venu un homme avecque moy qui vous en dira
+        toutes les circonstances. A ce mot il leur dit que des deux qui
+        estoient entrez avecque luy, l’un estoit le grand Olicarsis Africain,
+        l’autheur mesme de la guerison de Celidée, l’autre Azahyde, et
+        qu’il croyoit que ce qu’elle desiroit apprendre, elle le
+        sçauroit mieux de luy que de personne du monde.</p>
+        <p>En cet instant toute cette compagnie qui avoit esté attentive
+        à caresser Halladin, tourna les yeux sur ces deux hommes, dont
+        Olicarsis estoit l’un, de qui l’habit, la taille, et le geste ne leur
+        fut* pas un petit suject d’estonnement. Adamas luy alla à la
+        rencontre, et sçachant par les discours que Damon luy avoit
+        tenus, combien ce vieillard estoit considerable, pour les rares
+        qu’alitez qui estoient en luy, il le receut avec toutes les
+        demonstrations de bonne volonté qu’il luy put faire; et
+        Olicarsis qui, bien que barbare de naissance, ne l’estoit pas d’humeur,
+        se sentit si obligé aux tesmoignages de courtoisie que le Druide
+        luy donna, que deslors il s’attacha à
+        luy d’une tres-particuliere affection.</p>
+        <p>Apres les premiers compliments, le Druide le pria de s’asseoir avec
+        toute cette bonne compagnie, et de fortune en ce mesme temps Olicarsis
+        leva les yeux pour voir les tableaux dont cette gallerie estoit
+        enrichie; cela fut cause qu’ayant recognu quelqu’un des portraicts:
+        Je pense, dit-il, un peu surpris, que voylà la peinture
+        d’Eudoxe, que Genseric emmena en Afrique, apres avoir triomphé
+        de Rome et de la Sicile? – Ce l’est vrayment, respondit Adamas, et les
+        principaux accidents qui sont arrivez à cette princesse depuis
+        sa naissance jusqu’alors nous ont esté racontez par des
+        personnes qui en ont esté tesmoings irreprochables; mais depuis
+        qu’Ursace et Olimbre partirent de chez les Massiliens pour s’en aller
+        en Afrique, nous n’en avons rien ouy dire du tout. – Helas! reprit
+        Olicarsis, il semble que la fortune ait pris plaisir à
+        persecuter cette sage princesse avecque opiniastreté, et si je
+        ne croyois vous importuner par un si fascheux recit, que seroit celuy
+        de ma vie, dont une partie a esté meslée dans les
+        accidents qui luy sont arrivez, je vous en raconterois les choses plus
+        remarquables. Toute la compagnie tesmoigna un extreme desir d’ouyr ce
+        qu’il pouvoit dire sur ce suject là, et Adamas luy en ayant
+        porté la parole, Olicarsis commença son discours en cette sorte. <pb n="348"/></p>
+
+        <milestone unit="line"/>
+        <milestone unit="line"/>
+        <head type="chapitre">SUITTE DE L’HISTOIRE</head>
+        <p>D’EUDOXE, D’URSACE ET D’OLIMBRE</h3>
+        <milestone unit="line"/>
+
+        <p>Genseric, chargé des despouilles de Rome, et glorieux de
+        tant de conquestes, n’arriva pas plustost à Carthage, que le
+        peuple pour honorer sa valeur, commença de chanter publiquement
+        ses triomphes; et luy mesme chatouillé de l’heureux succez qui
+        avoit suivy toutes ses entreprises (resolu de ne laisser non plus de
+        bornes à l’Afrique qu’à son ambition) se mit à
+        premediter un second armement, par lequel il pust donner de la terreur,
+        non pas à l’Italie seulement, mais à tout le reste du
+        monde. Toutefois, voulant donner quelque temps au repos qu’il croyoit
+        avoir merité, il fit des­sein de jouyr, en attendant un
+        second voyage, de tous les plaisirs où son desir se pourroit
+        porter; et le premier qu’il se proposa, fut de triompher de la
+        pudicité d’Eudoxe, comme il avoit desja triomphé de son
+        Empire. Le souvenir des obligations qu’il avoit à cette
+        princesse ne le toucha nullement, au contraire il luy inspira une
+        secrette crainte, que comme elle l’avoit appelé dans l’Italie
+        pour la delivrer de la tyrannie de Maxime, et pour la vanger du
+        parricide commis en la personne de Valentinian, elle n’attirast la
+        haine de quelqu’un sur luy, et ne fist quelques menées qui
+        pussent enfin reussir à la ruine de sa personne et de ses
+        Estats. Cette apprehension fut cause qu’il la fit soigneusement
+        enfermer dans un palais, où ne luy laissant que la compagnie de
+        ses deux filles, il ordonna une peine de mort à quiconque y
+        entrerait sans sa permission. Quelques eunuques seulement furent
+        commandez pour la servir, encore n’est oit ce qu’aux heures qui luy
+        estoient ordonnées pour le repas.</p>
+        <p>Le ressentiment que cette princesse eut de sa captivité, et
+        comme je le sceus depuis, le regret de la perte d’Ursace qu’elle aymoit
+        uniquement, la mirent dans peu de jours en un estat si miserable, que
+        ceux qui la servoiènt crurent estre obligez de le rapporter
+        à Genseric. Ce Roy barbare touché de cette nouvelle, mais
+        seulement pour se voir empesché par sa mort d’executer le
+        dessein qu’il avoit fait, m’envoya querir, et ayant joint mille grandes
+        promesses à autant de prieres et de commandements, m’ordonna de
+        l’aller visiter, et de ne rien espargner pour la guerison de son mal.
+        Il avoit desja sceu par plusieurs experiences; ce que je pouvois dans
+        <pb n="349"/> les maladies plus desesperées, et la vie que j’avois
+        comme rendue à Thrasimond, son fils, apres avoir esté
+        abandonné de tous les mires, luy estoit un tesmoignage evident
+        que je pouvois faire reussir tout ce qu’il me plairoit d’entreprendre.
+        Ainsi cette bonne opinion dont il avoit l’esprit preoccupé, fut
+        cause qu’il m’employa, et moy qui ne desirois rien avecque tant de
+        passion que de voir cette princesse, de qui les ancestres ne m’estoient
+        pas incognus, j’acceptay cette commission comme le plus grand avantage
+        que la fortune me pouvoit offrir.</p>
+        <p>Ayant donc esté introduit dans son palais, ou plustost dans sa
+        prison, je me fis conduire en sa chambre; mais, bons dieux! combien
+        me fut agreable et deplorable tout ensemble la premiere veue que j’en
+        eus. Elle s’estoit vestue ce jour-là d’une simarre de satin
+        incarnat, semée de fleurs nues, et rehaussée en quelques
+        endroits d’une broderie de perles; sa juppe et ses manches estoient
+        d’un satin blanc comme son teint, brodées d’or et de perles, et
+        enrichies presque par tout d’un nombre infiny de petits diamants. Elle
+        avoit les mains nues, et tenoit dans l’une un mouchoir qu’elle portoit
+        de temps en temps à ses yeux, ses cheveux estoient encore
+        couverts de l’habillement qu’elle avoit porté la nuict, et
+        toutefois, ’comme s’il y en eust eu qui eussent pris plaisir de
+        s’eschapper, j’en vis plusieurs, qui, frisez à petites ondes,
+        tumboient noncha­lamment le long de ses joues. Elle avoit un
+        mouchoir sur sa gorge, mais son collet qui s’abbatoit sur celuy de la
+        simarre, laissoit voir, un peu au dessus, un teint qui eust fait honte
+        à la blancheur la plus esclattante. Son visage seulement
+        paroissoit abbatu et amaigri, et comme il est difficile de conserver un
+        embonpoinct parmy des afflictions extremes. Cette princesse s’estoit
+        tellement relaschée à la douleur que ses yeux qui depuis
+        sa captivité n’avoient jamais esté fermez aux larmes en
+        avoient terni l’esclat, et comme bruslé une partie. Elle se
+        promenoit par la chambre, et tenant les yeux baissez, montroit de
+        resver profondement à quelque chose.</p>
+        <p>J’avoue que comme elle fut assez longtemps sans m’appercevoir, je fus
+        long-temps aussi sans faire autre chose que l’admirer, et comme si
+        j’eusse eu besoin de me remettre apres un si agreable ravissement, je
+        n’osay entrer, jusqu’à ce qu’ayant porté de fortune les
+        yeux du costé de la porte, elle prit garde que je n’estois pas là saris quelque dessein.</p>
+        <p>Elle avoit sceu l’estroitte defense qui avoit esté faite
+        à son occasion, de sorte que me voyant couvert d’un autre habit
+        que celuy <pb n="350"/> que le commun a accoustumé de porter, cela
+        la surprit, et je ne sçay si ce fut la crainte ou le desir de la
+        mort, tant y a qu’au mesme temps que je mis le pied dans sa chambre,
+        elle me vint à la rencontre, et me prevenant: Et bien,
+        dit-elle, qu’est-ce que Genseric ordonne de ma vie? Veut-il pour me
+        rendre infame à la posterité, que je la perde dans
+        quelque honteux supplice, et ne vous a-t’il point commandé de
+        m’en venir porter la nouvelle, afin que j’y prepare mon esprit?</p>
+        <p>Je pris garde alors qu’elle me regardoit fixement, et jugeant bien
+        qu’elle attendoit ma responce: Madame, luy dis-je, quand le roy aura
+        fait quelque dessein contre vous, je ne seray jamais celuy qui vous
+        fera un si funeste message. Il m’a tesmoigné n’avoir de
+        Tinterest qu’en vostre santé, et c’est pour cela qu’il m’a
+        commandé de vous voir, afin que j’y contribue tout ce qui pourra
+        dependre de moy. Ce peu de mots fit eognoistre à la princesse la
+        profession que je faisois, de sorte qu’ayant tout à coup perdu
+        la premiere opinion qu’elle avoit eue: Helas! me dit-elle, avec un
+        grand souspir, mon mal n’est pas de ceux que les mires peuvent guerir!
+        Si ce barbare qui me detient a quelque volonté de voir finir mes
+        miseres, qu’il se haste de m’oster une vie qui ne me peut estre
+        agreable, apres la perte de mon Estat et de ma liberté. Nous
+        sommes trois victimes, et je devrois dire quatre, que ce tyran peut
+        immoler à sa fureur. Bons dieux! qui le porte à nous
+        conserver apres avoir destruit les superbes temples de Rome?</p>
+        <p>A ce mot Eudoxe recommença de se promener, et les pleurs qu’elle
+        versa me firent aisément recognoistre que dans le ressentiment
+        où elle estoit; pour les pertes qu’elle avoit faites, son ame
+        avoit plus besoin de remedes que son corps. Et voyez combien peut la
+        compassion sur un esprit qui n’est pas entierement incapable de la
+        ressentir! je proteste qu’en ce moment je fus si fort touché de
+        sa disgrace, que je pense qu’il n’est rien au monde que je n’eusse
+        entrepris pour l’obliger et pour la servir. Je luy en donnay tous les
+        tesmoignages que je pus, mais je vis bien que la crainte de se voir
+        deceue fut cause qu’à ce commencement elle ne tint pas grand
+        conte de ce que je luy dis; elle m’en remercia pourtant, mais avec une
+        froideur qui me fit bien juger de la doubte où elle estoit de ma
+        fidelité. M’ayant donc commandé de rapporter au, roy
+        mille plaintes que la passion luy suggera, elle me donna congé
+        de me retirer, et Genseric qui attendoit avec impatience le rapport que
+        je luy ferois de la santé d’Eudoxe, apprit par moy plus de
+        <pb n="351"/> choses qu’il n’eus esté necessaire pour son repos. Je
+        ne luy dis pas ce que cette princesse m’avoit ordonné, mais je
+        luy racontay si fidellement Testat où je l’avois treuvée,
+        et luy parlay si bien des charmes que j’avois remarquez en elle, que
+        j’aiguisay innocemment les armes qui depuis faillirent à nous
+        faire tous mourir. Je croyois que comme je n’avois pu resister à
+        la pitié, la voyant en Testat où je Tavois
+        rencontrée, il auroit de la peine à s’en defendre, au
+        rapport que je luy en ferois; mais au lieu d’y estre sensible, il
+        laissa si fort allumer le feu dont il ayoit commencé de brasier,
+        qu’il desespera de le pouvoir jamais esteindre. Si j’eusse eu quelque
+        cognoissance de son dessein, je me fusse bien empesche de le nourrir,
+        puisqu’il n’estoit pas legitime, mais ne sçachant pas qu’il eust
+        eu contre l’honneur de cette princesse une pensée si
+        desadvantageuse que celle qu’il fit paroistre depuis, j’avoue que je
+        creus faire beaucoup pour elle, en luy parlant du
+        merite que j’y avois recognu.</p>
+        <p>Genseric donc ayant sceu que le plus grand mal d’Eudoxe estoit en
+        l’imagination, et jugeant bien que la solitude où il la detenoit
+        n’en seroit jamais le remede, me commanda de l’aller visiter souvent,
+        et deslors me donna la permission d’y aller toutes les fois que bon me
+        semblerait. Cela fut cause qu’apres plusieurs visites, ayant enfin fait
+        eognoistre à cette Princesse, l’extreme desir que j’avois de luy
+        rendre service, je l’obligeay à se fier entierement en moy, et
+        à me jurer qu’elle me communiquerait jusqu’à la moindre
+        de ses pensées. Il advint qu’un jour, l’ayant fait souvenir du
+        premier discours qu’elle m’avoit tenu, et luy ayant demandé,
+        pourquoy parlant de trois victimes, qu’on pouvoit immoler à la
+        fureur de Genseric, elle avoit dit qu’il y en avoit peut-estre quatre,
+        elle me fit asseoir à la ruelle de son lict, et là,
+        cependant que la jeune Eudoxe et sa sœur Placidie s’arnusoient à
+        se jouer dans un cabinet, elle me raconta tout ce que vous avez pu
+        sçavoir de l’amour d’Ursace. Elle me dit toutes les
+        circonstances qui estaient en la naissance de l’affection de ce
+        chevalier, ses regrets, lors qu’elle espousa Valentinian, les amours de
+        ce jeune Empereur pour Isidore, la violence qu’il luy fit, la vengeance
+        que Maxime en tira. En suitte elle me raconta le dessein qu’elle avoit
+        fait avec Ursace, de se refugier chez Marcian, qui commandoit alors
+        à l’Empire d’Orient, la promesse qu’elle fit à ce
+        chevalier de n’espouser jamais autre que luy; ses desespoirs, lors
+        qu’elle fut contrainte de se donner à Maxime, et enfin comme
+        elle appella Genseric <pb n="352"/> à Rome pour la delivrer de la
+        tyrannie de ce nouveau mary. Mais lors qu’elle vint à parler de
+        la resolution que fit Genseric d’en accroistre ses despouilles, et de
+        l’emmener en Afrique, comme la plus belle matiere de ses triomphes,
+        elle me raconta ce que fit Ursace pour l’enlever, et puis sa mort
+        qu’elle croyoit assurée, mais avec tant de larmes et de
+        sanglots, que j’eus peur une fois qu’ils l’eussent estouffée. En
+        effect elle tomba pasmée entre mes bras, et je vous jure que
+        j’eus de la peine à la faire revenir; enfin apres avoir un peu
+        repris de force, elle me raconta l’affection qu’Olimbre avoit conceue
+        pour Placidie, et me dit que c’estoit la quatriesme personne dont elle
+        avoit parlé, s’assurant bien, qu’il ne survivroit pas sa
+        maistresse, si par hazard quelque par ticuliere consideration l’avoit
+        conservé apres la perte d’Ursace.</p>
+        <p>Elle ne m’eut pas plustost achevé le recit de ses fortunes, que
+        je fis tout ce que je pus pour la consoler; je n’oubliay pas une seule
+        des raisons que je jugeai capables de luy persuader ce que je desirois,
+        et sur tout, je luy offris tout le service qu’elle pouvoit attendre
+        d’un homme de ma condition. Je luy representay que mon aage, et les
+        qualitez que le Ciel m’avoit données ne m’avoient pas mis en si
+        petite consideration aupres du Roy, que je n’eusse suject d’esperer
+        d’en obtenir quelque chose quand je la luy demanderais, qu’il estoit
+        vray que pour sa liberté, c’estoit un avantage auquel je n’osois
+        pas seulement penser, mais que pour tout ce qui regardoit le
+        soulagement des ennuis qu’elle pouvoit craindre en sa detention, je ne
+        pensois pas qu’il y en eust un seul qui me pust estre refusé.
+        Cette Princesse receut mes offres, mais avec une douceur si charmante,
+        que deslors je protestay de n’espargner pas mesmes ma vie en ce qui
+        toucheroit son contentement, et je ne sçay si mes paroles luy
+        donnerent quelque volonté d’esperer, tant y a qu’elle ne parut
+        plus si affligée, et qu’en peu de temps elle reprit ce qu’il luy
+        falloit d’embonpoinct pour paroistre aussi belle qu’elle fut jamais.</p>
+        <p>Genseric qui en fut bien tostadverty me, tesmoigna qu’il me
+        sçavoit gré du secours que j’avois donné à
+        cette Princesse, et comme le feu de son amour luy faisoit souhaiter
+        cette jouyssance par dessus toutes choses, il crut qu’il n’auroit que
+        la peine de la demander, puis qu’en Testat où Eudoxe estoit, il
+        n’y avoit pas apparence qu’elle se deust opposer au moindre de ses
+        desirs. Pour cet effect donc il se disposa de l’aller voir, et afin que
+        son dessein ne fist pas tant d’esclat, il ne prit avecque soy que
+        Thrasimond, pour entretenir, les deux filles, <pb n="353"/></p>
+        <p>J’ay tant d’horreur à me souvenir de cet accident, que je ne
+        vous diray point avec quelle importunité ce barbare pressa
+        Eudoxe; ce sera assez que vous sçachiez, qu’apres que ce tyran
+        luy eut dit toutes les plus belles paroles que sa passion luy suggera,
+        voyant qu’elle côntinuoit dans ses refus, il recourut enfin
+        à la violence, et jura qu’à quelque prix que ce fust il
+        la vaincroit. Cela fut cause que la Princesse redoutant la barbarie de
+        ce Roy courroucé, diminua un peu sa rigueur, et luy ayant
+        representé combien luy estoit sensible la perte d’un bien
+        qu’elle avoit jusqu’alors conservé si cherement, elle le supplia
+        de luy donner quelques jours pour s’y resoudre. Genseric qui s’imagina,
+        que moins il y auroit de force en cette victoire, et plus il y auroit
+        de plaisir pour luy, ne fit pas beaucoup de difficulté de luy
+        accorder ce qu’elle voulut, apres quoy il se retira, et emmena
+        Thrasimond, que les charmes de la jeune Eudoxe avoient desja tellement
+        embrasé, que jamais depuis il n’en put esteindre la flame. Et
+        certes, si jamais une beauté fut capable de donner de l’amour,
+        celle-là l’estoit, et sans la flatter, on pouvoit dire d’elle ce
+        que le Philosophe Leontius avoit dit autrefois d’Eudoxe sa fille, qui
+        depuis fut femme de Theodose, et grand-mere de celle-cy, car estant
+        enquis pourquoy ce peu qu’il avoit de bien il le laissoit par testament
+        à ses deux fils, et ne donnoit rien du tout à sa fille:
+        C’est assez; respondit-il, que je luy laisse ce que la fortune luy
+        promet. Voulant dire qu’il remarquoit tant de vertu, de beauté,
+        et de merite en elle, qu’il n’estoit
+        rien de grand, qu’elle ne pust avecque raison esperer.</p>
+        <p>Mais pour revenir à mon discours, Genseric n’eut pas plustost
+        laissé Eudoxe seule, que de fortune j’arrivay, et la voyant
+        toute en larmes, m’estonnay , d’un si soudain changement; mais j’avoue
+        qu’en ayant sceu la cause, je trouvay qu’elle n’en pouvoit jamais,
+        verser pour un suject plus legitime. Deslors je commençay de
+        voir clair dans le dessein de Genseric, qui m’avoit esté
+        auparavant incognu, et recognus bien que cette compassion qui luy avoit
+        fait desirer de voir cette princesse bien remise n’estoit qu’un effect
+        de la passion qu’il avoit desja conceue pour elle. Je sceus jusqu’au
+        moindre des discours qu’il luy avoit tenus, et quand elle m’eut dit que
+        le terme qu’elle avoit pris n’estoit que pour m’advertir de son
+        malheur, et me prier d’y chercher quelque remede: Madame, luy
+        respondis-je, demain j’auray l’honneur de Vous en entretenir plus
+        particulierement, et je vous promets que j’employeray toute la nuict
+        à y penser. Cependant faites bonne mine, et croyez que <pb n="354"/>
+        s’il ne falloit que mon sang pou vous delivrer des craintes qui vous
+        affigent, je ne serois pas un moment sans vous guerir</p>
+        <p>A ce mot je sortis de sa chambre, et me retiray chez moy, où,
+        comme je l’avois promis, j’employay toute la nuict à chercher
+        des moyens pour le salut de cette sage princesse; mais quelque soing
+        que j’y misse, je n’en trouvay pas un, dont l’exécution me
+        semblast possible; car si je pensois la retirer de cette
+        captivité par une fuitte, je voyois que nous n’avions pas assez
+        de temps pour gaigner ceux qui la gardoient, ny pour nous fournir de
+        tout ce qui nous estoit necessaire pour nous embarquer. De divertir le
+        roy de cette amoureuse fureur, je n’y voyois que fort peu d’apparence
+        car cognoissant son naturel assez vicieux, je sçavois que la
+        mort seule en pouvoit arrester les effects; de le tuer, outre
+        l’enormité du crime, et le peril inevitable que j’y prevoyois
+        pour moy, je voyois que peut-estre n’estoit-ce pas un moyen pour
+        delivrer Eudoxe, puis qu’il luy restoit deux fils, qui sans doute
+        succederoient aussi bien à son humeur qu’à son Empire.
+        Ainsi ne pouvant rien inventer qui luy fust utile, aussi-tost que la
+        nuict fut passée, et que le lendemain sa chambre fut ouverte, je
+        luy allay rendre compte de toutes les pensées que j’avois eues
+        pour son suject; et cette princesse qui vid par tout la mesme
+        difficulté que j’y avois rencontrée: Mais, Olicarsis, me
+        dit-elle, encore avez-vous oublié de penser à un remede,
+        qui sera sans doute bien facile. Luy ayant alors demandé quel il
+        estoit: Vous sçavez bien, reprit-elle, ce que fit autrefois
+        Cleopatre, pour ne tomber pas entre les mains de Cesar? Imaginez-vous,
+        que comme je rencontre quelque conformité entre ses malheurs et
+        les miens, il faut que je l’imite en sa fin violente. Elle ne voulut
+        pas survivre la perte de son Antoine, et qu’ay-je besoin de vivre apres
+        la perte d’Ursace, qui m’estoit si cher?</p>
+        <p>A ce mot Eudoxe se teut, montrant bien en son visage que cette
+        resolution luy plaisoit, et qu’elle ne manqueroit pas de courage pour
+        l’executer; cela fut cause que je luy dis que ce remede estoit
+        vrayment le plus assuré de tous, mais que je ne trouvois pas
+        à propos qu’elle y recourust qu’à l’extremité;
+        que, j’estois resolu de parler premierement à Genseric, et
+        d’essayer de le divertir d’un dessein si ruineux pour elle; qu’apres
+        cela je ne m’opposerois plus à l’expedient qu’elle m’avoit
+        proposé; et qu’au contraire je luy faciliterois les moyens de
+        le faire reussir; que, s’il en estoit besoin, je luy servirois de
+        guide en ce funeste passage, et qu’enfin <pb n="355"/> je ne trouvois pas
+        que la perte de la vie luy pust estre sensible, comme la perte de sa
+        reputation. Je recognus bien-tost que mon discours avoit flatté
+        son humeur; car en ce moment me sautant au col: Allez, me dit-elle,
+        cher Olicarsis, le plus genereux de tous les hommes, et digne de vivre
+        ailleurs que parmy les barbares, allez, et si vous ne pouvez fleschir
+        l’ame de ce tyran, souvenez-vous de ce que vous m’avez promis, et
+        croyez que je mourray en Princesse. A ce mot, la compassion me desroba
+        presque des larmes, et l’ayant laissée, je
+        m’en allay trouver Genseric.</p>
+        <p>A peine fus-je sorty, qu’un jeune homme, de qui je cognoissois le
+        visage et l’esprit, demanda de parler à Eudoxe de la. part de
+        Thrasimond, et soudain qu’il eust esté conduit dans sa chambre,
+        il mit un genouil en terre, et luy ayant dit, qu’il estoit-là de
+        la part de son maistre, pour luy demander la permission de dire quelque
+        chose à la jeune Eudoxe sa fille, la Princesse y consentit
+        incontinent, et pour luy en donner plus de commodité, se retira
+        dans son cabinet, ne laissant avecque elle que Placidie. Aussi-tost ce
+        jeune homme, à qui Thrasimond eust fié sa vie, tira de sa
+        pochette une lettre, et la luy tendant: Madame, luy dit-il, voicy un
+        gage des promesses que vous fit hyer mon maistre, par lequel vous
+        pourrez apprendre en quel estat est son ame
+        depuis que vous l’avez blessé.</p>
+        <p>A ce mot, cette jeune Princesse sousrit, et sans avoir osé
+        prendre la lettre: Thrasimond, dit-elle, m’excusera si je ne la
+        reçoy, qu’à condition de l’ouvrir en la presence de
+        Madame; que si vous jugez qu’il ne le desire pas de la sorte, vous
+        pourrez la luy rapporter, et luy dire que je le remercie
+        tres-humblement de l’honneur qu’il m’a fait de se souvenir de moy. –
+        Madame, repliqua le jeune homme, Thrasimond est trop vostre serviteur,
+        pour ne vouloir pas tout ce que vous trouverez à propos, et s’il
+        vous plaist, je ne m’en retourneray pas, sans sçavoir de vous ce
+        que vous ordonnerez de sa mort ou de sa vie. Disant cela, il luy tendit
+        la lettre une seconde fois, et la jeune Eudoxe l’ayant receue, s’en
+        alla avecque Placidie dans le cabinet de sa mere, où l’ayants
+        ouverte, elles y leurent ces mots. <pb n="356"/></p>
+    </div>
+    <div type="contentli">
+        <milestone unit="line"/>
+        <head type="chapitre">LETTRE DE THRASIMOND</head>
+        <p>A LA JEUNE EUDOXE</h3>
+        <milestone unit="line"/>
+        <p>Je suis amoureux de vous, belle Eudoxe, et si ma
+        passion n’est la plus legitime qui fut jamais, je veux que vostre
+        rigueur me rende le plus miserable de tous les hommes. Je sçay
+        bien que mon affection est un tesmoignage de ma temerité, mais
+        elle est aussi une marque de mon ressentiment et de vostre merite; que
+        si l’un vous semble digne de chastiment, avouez que l’autre n’est pas
+        moins digne de recompense. Ainsi dans l’incertitude où vous
+        pourrez estre de me punir ou de m’obliger, remettez-en la decision au
+        temps qui est le juste Juge, de toutes choses: punissez-moy, si je
+        suis menteur, pu si vous recognoissez que je vous ayme, ne faites point
+        de difficulté de m’aymer aussi. Je vous en conjure, chere
+        Eudoxe, et de croire que je ne manqueray pas de pitié pour
+        vostre fortune, puis que je suis esclave comme vous.</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>Cette cognoissance qu’eut Eudoxe de l’amour de Thrasimond, ne luy
+        donna pas une petite esperance, s’imaginant que si elle estait
+        veritable, elle pourroit luy faire entreprendre de grandes choses;
+        cela fut cause qu’elle vint elle-mesme avecque les deux jeunes
+        Princesses faire responce à cet agreable messager, et luy dire
+        qu’elle recevoit à tres grand honneur le tesmoignage qu’il leur
+        avoit apporté de l’affection de son maistre; que faute d’avoir
+        du papier, et de l’ancre, elles ne l’en pouvoient remercier que de vive
+        voix, et que s’il attendoit quelque autre responce d’elles, ce leur
+        seroit un grand contentement de la faire à luy-mesme, la
+        premiere fois qu’il prendroit la peine de les visiter. Ce jeune homme
+        leur dit qu’il estoit party pour aller à la chasse, et qu’il
+        estoit difficile qu’il revinst que sur le soir, mais qu’il ne seroit
+        pas plustost de retour qu’il obeyroit
+        à leur commandement apres cela, il sortit.</p>
+        <p>Cependant, comme je vous ay dit, j’estois allé trouver Genseric,
+        et l’ayant fait tomber insensiblement sur le suject dont j’avois resolu
+        de l’entretenir, je luy dis le miserable estat où j’avois
+        trouvé Eudoxe un peu apres qu’il l’eust quittée, les
+        inventions dont je <pb n="357"/> m’estois servy pour l’obliger à me
+        dire la cause de sa douleur, te enfin que l’ayant sceue, j’estois venu
+        exprez de sa part, pour le supplier encore une fois de ne vouloir rien
+        attenter contre elle. Je luy representay cent fois combien les dieux
+        estoient ennemis de l’ingratitude, et que c’estoit un crime dont il se
+        rendroit cou­pable, si apres les despouilles dont elle l’avoit fait
+        triompher, il entreprenoit encore de luy ravir l’honneur. Je luy parlay
+        des ancestres de cette Princesse, et des hommes à qui elle avoit
+        eu l’honneur d’appartenir, qu’il n’y avoit pas apparence, qu’estant
+        fille et femme d’Empereurs, elle fust traittée en esclave, puis
+        que mesme il n’eut jamais pensé à la conqueste de Rome,
+        si elle ne l’y eust appelle. Je luy dis encore, qu’il luy avoit
+        l’obligation d’une partie de la gloire, dont les histoires honoreroient
+        sa vie, et qu’il n’estoit pas juste qu’il en ternist l’esclat par une
+        action si sale et si honteuse; enfin, je pense que je n’oubliay rien
+        pour le persuader. Mais luy, au lieu d’accorder quelque chose à
+        la raison, s’alluma d’une colere enragée; et meslant la
+        jalousie à ce transport, commença, malheureusement pour
+        moy, de craindre que j’eusse jouy du bien, dont il avoit resolu de
+        triompher. Cette aveugle passion luy troubla de sorte le jugement, que
+        sans penser à la vertu d’Eudoxe, il soupçonna tous les
+        devoirs que je luy avois rendus, et m’accusa du crime d’où
+        j’avois envie de le retirer. Cela fut cause, qu’avecque une fureur qui
+        luy rendoit les yeux estincellants, il jura que la nuict mesme il
+        assouviroit sur elle sa vengeance ou son amour, et m’ayant deffendu de
+        la voir jamais, me commanda de me retirer chez moy, où il voulut
+        que ma chambre fust ma prison, sur peine de me faire endurer les plus
+        effroyables supplices que sa colere luy pourroit faire inventer.</p><p>
+        J’avoue que la crainte de la mort ne fut pas cause que je luy obeys;
+        mais ayant resolu de donner à cette sage Princesse le remede
+        qu’elle avoit fait dessein d’employer, lors que toutes choses seroient
+        desesperées, je m’y allay volontairement enfermer, esperant que
+        ma captivité ne seroit pas longue, puis qu’elle devoit finir par
+        le mort d’Eudoxe et de moy. Je ne fus pas plustost dans ma chambre, que
+        j’allay ouvrir mon cabinet, où depuis quarante ans j’ay
+        assemblé tout ce que j’ay pu trouver de merveilleux en là
+        nature. Et par ce qu’avecque une estude incroyable (et cecy soit dit
+        sans vanité) je me suis acquis la cognoissance de
+        quantité de tres-rares secrets, je ne fus pas long-temps, sans
+        avoir trouvé dequoy preparer un poison, aussi subtil qu’il le
+        falloit pour faire <pb n="358"/> reussir mon dessein. Je pris premierement
+        de l’Agaric noir, que j’avois mis en poudre, et l’ayant
+        incorporé dans le jus de Thapsis, j’y meslay d’une Essence
+        tirée du fruict et des feuilles du Texo, que les Gaulois
+        appellent If; apres, j’y mis quantité d’Aconit; et de tout
+        cela ensemble ayant fait un Extraict, je jettay dedans, un peu de
+        l’escume d’un aspic sourd. Et aussi-tost que j’en eus mis la
+        moitié dans une petite phiole, je pris du papier, et de l’ancre
+        et fis ce billet à Eudoxe.</p>
+    </div>
+    <div type="contentli">
+        <milestone unit="line"/>
+        <head type="chapitre">BILLET D’OLICARSlS</head>
+        <p>A EUDOXE</h3>
+        <milestone unit="line"/>
+        <p>Il est temps, Madame, de prendre le remede que
+        j’ay preparé à. vos malheurs; l’injustice de Genseric a
+        condamné mes raisons, et m’ayant enveloppé dans vos
+        infortunes, m’a inspiré le dessein de mourir avecque vous. Cette
+        nuici, qu’il a destinée à l’accomplissement de ses
+        mauvais desirs, rendra ses ombres compties de la perte de vostre
+        honneur, si vous ne la prevenez par la perte de vostre vie, Consultez
+        donc vostre courage sur ce poinct, et croyez que vous n’aurez jamais
+        une plus belle matière où l’employer.</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>Toutes choses estants au meilleur estat que j’eusse sceu desirer,
+        j’appellay un esclave qui me servoit, et qui avoit accoustumé de
+        me suivre quand j’allois visiter la princesse, je luy donnay d’une main
+        la petite phiole bien bouchée, luy disant que c’estoit un’
+        remede qu’elle m’avoit demandé, comme en effect je ne mentois
+        pas, et de l’autre je luy remis le billet, où je feignois
+        d’avoir escrit la façon dont elle devoit s’en servir; sur tout
+        je luy defendis de la descouvrir, et luy donnay charge de se haster le
+        plus qu’il luy seroit possible.</p>
+        <p>Vous remarquerez que pour m’esloigner du bruit et du tracas du peuple,
+        je m’estois logé en un lieu de la ville, le plus escarté
+        que j’avois pu choisir. Et parce qu’ordinairement ces
+        endroits-là sont aussi bien un refuge aux voleurs, qu’aux gens
+        d’es’tude, il arriva que trois ou quatre jeunes hommes, qui s’estoient
+        rendus rioirs de vols et de meurtres s’estoient depuis peu refugiez
+        aupres de mon logis. Ceux par qui la justice, estoit exercée en
+        furent bientost advertis, et pour cela ils firent dessein de les
+        surprendre sur <pb n="359"/> le commencement de la nuict. Ces voleurs
+        estoient vaillants et desesperez, et par conséquent dangereux et
+        redoutez presque de chacun; de sorte que pour les avoir, avecque moins
+        de hazard, on fut d’avis de leur dresser un piege, et à cet
+        effect on tendit dans la rue plusieurs cordes, eslevées de terre
+        d’un pied ou environ, et separées les unes des autres de quinze
+        ou seize pas seulement. Apres pela, tous les voysins furent commandez
+        de tenir leurs armes prestes, afin de leur courir dessus, apres que par
+        plusieurs cheutes, ils se seroient d’eux-mesmes mis hors de combat.</p>
+        <p>Ce dessein reussit bien, comme on l’avoit pensé, mais oyez, je
+        vous supplie ce qui advint auparavant: mon esclave, qui, comme je vous
+        ay dit, s’estoit mis en chemin, passa de fortune dans cette rue, et
+        n’eut pas fait vingt et cinq ou trente pas, que, comme il alloit fort
+        viste, rencontrant avecque force une des cordes qui avoient esté
+        tendues, il donna du nez en terre, et comme naturellement on avance les
+        mains en semblables accidents pour guarentir le visage, il rompit la
+        phiole en mille pieces, et peu s’en fallut qu’il ne se rompit aussi le
+        col. Au bruit et au cry qu’il fit en tombant, quelques voysins
+        ouvrirent leurs portes, qui, comme je vous ay dit ayants eu le
+        commandement de courir sur les voleurs, crurent qu’il estoit temps de
+        mettre la main aux armes; mais quand ils ne virent que ce pauvre
+        esclave, à qui le sang tomboit du nez à grosses gouttes,
+        ils s’approcherent doucement de luy, et sans s’informer où il
+        alloit, luy voulurent donner de la lumiere pour sortir de la rue
+        avecque plus, de seureté; mais luy qui voyoit que le suject de
+        son voyage estoit rompu, s’amusoit encore à faire quelques
+        plaintes, quand, par malheur, deux grands chiens, qu’un de ces voysins
+        faisoit quelquefois combattre contre des taureaux dans les spectacles
+        publics, vindrent en cet instant dans la rue, et comme ils estoient
+        avides de sang, se mirent incon­tinent à leischer celuy que
+        cet esclave avoit meslé innocemment au poison qu’il avoit
+        respandu. A peine y eurent-ils trempé la langue jusqu’ à
+        trois ou quatre fois, qu’ils cheurent, les pieds en l’air, et apres
+        s’estre un peu desbatus, moururent sur le champ; dequoy le maistre
+        entra en une telle fureur, que peu s’en fallut qu’en cet instant il ne
+        tuast mon esclave. Toutefois, pour sçavoir la cause d’une fin
+        si extraordinaire et si prompte, il s’en saisit, et le mena dans sa
+        maison, où le pauvre esclave luy ayant rendu compte de la
+        commission que je luy avois donnée, ne fit point de
+        difficulté de luy remettre le. papier qu’il avoit, s’assurant
+        qu’il <pb n="360"/> serviroit pour sa justification. Cet homme recognut
+        bien-tost mon dessein, et s’imaginant que l’affaire meritoit bien que
+        le roy en fust adverty, il luy en alla incontinent porter la nouvelle.</p>
+        <p>J’ay sceu depuis que Genseric faillit à tomber pasmé
+        à la veue de ma lettre; mais enfin s’estant remis, et tournant
+        toute sa furie contre moy, il commanda en ce moment à douze ou
+        quinze de ses gardes de me venir prendre chez moy, et de m’emmener dans
+        les cachots, où Ton enfermoit les criminels de
+        leze-majesté, à quoy ils obeyrent assez promptement; et
+        par ce qu’estant disposé à mourir, je n’attendôis
+        que le retour de mon esclave, ils trouverent les portes toutes
+        ouvertes, et un verre sur ma table plein du mesme poison, que je
+        croyois qu’Eudoxe eust recfeu. Je ne vous diray point en quel estat je
+        fus, lors que je vis cet obstacle à ma resolution, ce sera assez
+        que vous sçachiez, que m’imaginant que la princesse estoit
+        morte, je me resjouyssois, en pensant aux supplices
+        que je croyois m’estre preparez.</p>
+        <p>Un peu auparavant, Thrasimond estoit revenu de la chasse, et par ce
+        qu’il apprit bien-tost le succez de tout ce que je vous ay dit,
+        impatient déja de voir sa maistresse, pour sçavoir quel
+        effect sa lettre auroit produit, il courut au palais où Eudoxe
+        estoit enfermée, et luy racontant tout ce que vous avez ouy, il
+        fit bien juger à la princesse que sa resolution ne luy estoit
+        plus incogneue, non plus que le mauvais dessein de Genseric.</p>
+        <p>Eudoxe voyant que tout estoit descouvert, et craignant que durant les
+        horreurs de cette nuict, le roy executast ce dont elle avoit
+        esté menacée, pensa qu’il falloit se prevaloir de l’amour
+        de Thrasimond, esperant, que la passion legitime du fils arresteroit
+        l’impudicité du pere. A cet effect elle arma ses yeux de tout ce
+        qu’ils avoient jamais eu de plus charmant, et faisant descocher
+        à la pitié tous les traits qui en sortoient, elle prit
+        son mouchoir à la main, qu’elle porta deux ou trois fois sur son
+        visage, puis elle commença de parler en cette sorte: Puis que
+        vous sçavez, Seigneur, jusqu’où s’est portée la
+        volonté de Genseric, et je dirois l’impu­dence, si le
+        respect que j’ay pour vous ne me forçoit d’en avoir encore pour
+        luy, il est impossible que vous n’approuviez le dessein que j’ay eu de
+        prevenir par ma mort la honteuse tasche, par laquelle il a voulu
+        souiller ma reputation. Quand la nature ne. m’auroit pas fait naistre
+        fille de Theodose, et quand la fortune ne m’auroit pas sousfnis deux
+        fois l’Empire d’Occident, ce seroit assez que je recogmusse ce qu’une
+        femme doit à sa vertu; pour ne <pb n="361"/> consentir jamais
+        à la perte d’une chose, dont le prix ne peut souffrir de
+        comparaison. Et certes, quelque tyrannie dont Genseric ait resolu
+        d’user aupres de moy, sa passion y trouvera tousj ours une mesme
+        resistance; ce que sa violence empeschera que je n’exerce sur ma
+        personne, ma rage fera que je l’entreprendray sur la sienne, et
+        peut-estre il esprouvera, pour son malheur, ce que peut le desespoir
+        sur l’esprit d’une honneste femme. S’il est lassé de voir en vie
+        celle qu’il avoit entrepris de proteger, et s’il luy fasche que le
+        pouvant accuser d’avoir violé sa foy, je luy sois une eternelle
+        matiere de reproche, qu’il se haste de m’oster cette vie que je ne
+        traisne qu’à regret, et il verra, s’il me laisse mourir
+        glorieusement, combien peu j’auray de crainte des supplices et des
+        bourreaux! Par là, genereux Thrasimond, vous pouvez remarquer
+        que s’il n’y a point de remede à la fureur de Genseric, il n’y
+        doit point avoir d’esperance en ma vie, ny en celle de ces deux filles,
+        qu’il semble que le Ciel m’ait laissées seulement pour les
+        rendre tesmoings ou plustost compagnes de mes infortunes. Que si pour
+        nostre dernier refuge, les dieux avoient permis que cette amour que
+        vous avez fait paroistre à la jeune Eudoxe, fust fondée
+        sur l’honneur, seroit-il possible que vous ne voulussiez pas estre son
+        protecteur, et que vous n’eussiez quelque honte de l’espouser, apres
+        que sa mere auroit perdu la seule chose qui luy reste, pour vous faire
+        treuver de la gloire dans la volonté que vous avez de luy
+        appartenir? Quoy donc? ceux qui travaillent pour rendre presentes aux
+        siecles à venir les choses qui se font main-tenant, oseront
+        remarquer que Genseric aura voulu assouvir son appetit brutal sur une
+        Eudoxe captive, et que Thrasimond, l’honneur de son siecle, n’aural
+        point mis d’obstacle à un si funeste dessein? Ah! Seigneur,
+        pour Dieu! ne souffrez pas que ce blasme soit meslé aux belles
+        actions de vostre vie, et si la j eune Eudoxe peut quelque chose sur
+        vous, ou si vous estes sensible à la pitié qu’on doit
+        avoir pour les miserables, croyez-moi, Seigneur, executez ce
+        qu’Olicarsis avoit entrepris en ma faveur, et sur tout ne souffrez pas
+        que son innocence porte la peine d’un crime que j’ay seule, commis.
+        C’est moy qui l’ay forcé à me preparer ce poison, et la
+        seule crainte de me voir entreprendre sur la personne du Roy, a fait
+        qu’il y a consenty. Ou bien, Seigneur, si par quelque particulier
+        interest que vous pourriez avoir en ma vie, vous avez’ dessein de vous
+        oppo­ser à ma mort, changez, s’il se peut, la volonté
+        de Genseric, je vous en conjure, par Eudoxe si’vous l’aymez, par les
+        larmes que je <pb n="362"/> donne au souvenir de mes miseres, par
+        vous-mesme, et enfin par ces bras dont j’attache vos genoux, et que je
+        ne quitteray jamais que vous ne m’ayez promis ce que je vous demande.</p>
+        <p>Disant cela, elle se jetta aux pieds de Thrasimond, et luy embrassa les
+        jambes avecque tant de force, qu’il ne put la relever si. tost qu’il
+        eust voulu. En cet instant son courage fut tellement attendri, et ce
+        qu’employoit Eudoxe à la conservation de son honneur, luy plut
+        si fort, que son amour s’en augmenta, et luy fit j uger qu’il ne
+        pouvoit rien arriver de plus avantageux à sa fortune, que
+        d’espouser celle qu’une si vertueuse mere avoit pris soing d’eslever.
+        Outre cela, la gloire de voir à ses pieds une Princesse à
+        qui tant de peuples avoient obey, le flatta si doucement, que deslors
+        il resolut de ne rien espargner pour la delivrer de la peine où
+        cette crainte la retenoit. Cela fut cause que se desmeslant des bras
+        d’Eudoxe le mieux qu’il put, il mit incontinent un genouil en terre, et
+        l’aydant à relever: Madame, luy dit-il, esperez en la
+        bonté du Ciel et en mon amour, Genseric joindra ma mort à
+        la vostre, ou si sa pitié me conserve, je vous
+        jure que sa passion ne vous perdra pas.</p>
+        <p>A ce mot il la quitta pour aller voir le Roy, mais il ne le sceut
+        trouver dans le chasteau, car ce barbare n’ayant dans l’esprit que le
+        dessein de ruiner Eudoxe, et craignant par l’accident qui estoit desja
+        arrivé, que la mort de cette Princesse luy fust un obstacle
+        à ses desirs, il resolut de la prevenir, et pour cet effect,
+        quand la nuict fut un peu avancée, il prit dix ou douze eunuques
+        avecque soy, et par une secrette porte entra dans le palais où
+        Eudoxe estoit detenue, aussi-tost qu’il sceut que, Thrasimond en estoit
+        sorty. De fortune la Princesse avoit fermé la porte de sa
+        chambre, ce qui fut cause que Genseric fut contraint de heurter, et
+        Eudoxe l’ayant recognu à la voix, et ayant ouy murmurer ses
+        eunuques, se doubta d’abord du dessein qui l’amenoit. Se voyant donc
+        hors de moyen de se défendre, elle mit contre la porte la table
+        et tout ce qu’elle put rencontrer, espérant que peut-estre au
+        bruit qu’on feroit, Thrasimond viendrait au secours; mais quand elle
+        eut un peu soustenu ce siege, où la passion de Genseric
+        combattoit contre la vertu d’Eudoxe, voyant que la patience du roy se
+        lassoit de treuver quelque chose qui luy resistast, elle fit un dessein
+        bien genereux pour une femme. Elle prit donc avec l’ayde de ses deux
+        filles les paillasses et les mathelats qui estoient dans leurs licts,
+        et les ayant rangez l’un sur l’autre au milieu de la chambre, elle
+        <pb n="363"/> se saisit de deux flambeaux qui estoient allumez, puis y
+        mettant le feu: Cheres flames, s’escria-t’elle assez haut, soyez plus
+        pures que celle de Genseric, vangez-moy des pernicieux desseins de ce
+        barbare, et permettent les dieux que vous soyez pour luy aussi
+        impitoyables qu’il l’a esté pour moy!</p>
+        <p>Elle prononça ce peu de mots si distinctement que le roy n’en
+        perdit pas une seule parole, de sorte que jugeant par là de la
+        volonté de la princesse, et craignant le malheur qui en pouvoit
+        arriver, il fit redoubler les efforts de ses eunuques, et fit tant
+        qu’enfin la porte fut enfoncée; mais le feu qui s’estoit desja
+        vivement allumé, et qui pour avoir esté retenu dans cette
+        chambre où tout estoit clos, cherchoit où se faire un
+        passage, ne treuva pas plustost cette ouverture qu’il sortit, mais avec
+        une violence si grande, que trois de ceux qui se rencontrerent les plus
+        proches de la porte, en demeurerent estouffez. Genseric affligé
+        et surpris de cet accident se mit à fuyr, et sans penser aux
+        remedes qu’on pouvoit apporter à ce feu, ne songea qu’à
+        se sauver de l’embrazement; mais Thrasimond, apres avoir longuement
+        cherché le roy, voulant enfin s’en revenir où estoit
+        Eudoxe, ne vid pas plustost son palais en feu, qu’il se doubta bien que
+        c’estoit un effect du courage de la princesse, ou de la vengeance de
+        Genseric; et parce qu’il vid devorer à ces flames toutes les
+        douces esperances dont il s’estoit flatté en la possession de sa
+        maistresse, il fut deux ou trois fois sur le point de s’y aller
+        precipiter. Toutefois ne voulait rien entreprendre sans en avoir sceu
+        particulierement la verité, il commença de s’en informer
+        de tous ceux qu’il rencontrait, mais on ne luy en dit autre chose,
+        sinon qu’Eudoxe avoit recouru à cette extremité pour
+        mettre fin à sa servitude.</p>
+        <p>Cependant Ursace et Olimbre, à qui le conseil des six cents
+        avoit refusé le poison, s’estoient embarquez au port des
+        Massiliens, flattez, comme je le sceus depuis, de mille belles
+        esperances qu’un astrologue leur avoit fait concevoir. Mais comme si le
+        Ciel eust pris plaisir de mettre tous les jours de nouveaux obstacles
+        à leur prosperité, il permit enfin qu’ils tombassent
+        entre les mains d’un pyrate, qui faillit à leur oster avec la
+        liberté tous les contentements qu’ils s’estoient promis. Ce
+        corsaire se nommoit Clorohalante, et vulgairement on le surnommoit
+        I’Impiteux, parce qu’outre qu’il estoit barbare de nation, et que mille
+        crimes l’avoient banny d’Afrique, encore avoit-il fait un serment
+        solemnel, de ne pardon­ner jamais à ceux qu’une mauvaise
+        fortune rendoit ses esclaves. <pb n="364"/> Aux uns il faisoit arracher les
+        yeux, coupper le nez, les oreilles et la langue, et de cette sorte
+        prenoit plaisir à les voir mourir d’une mort lente, et
+        quelquefois enragée; aux autres il faisoit arracher le cœur, ou
+        s’il les laissoit en vie, c’estoit seulement pour quelques jours, car
+        il les envoyoit sur le rivage, où au lieu de taureaux on les
+        sacrifioit quelquefois à Neptune, et quelquefois à
+        Mercure, comme au dieu des larcins. Sa retraitte estoit ordinairement
+        dans les Isles de la grande Bretagne, où son humeur avoir
+        treuvé des complices, et par ce moyen un refuge bien
+        assuré. De cette sorte il alloit escuma’nt une partie de
+        l’Ocean, et bien souvent traversant le destroit de Gibraltar, autrement
+        dit terre eslevée, il se jettoit dans la Mer
+        mediterranée, et ravageoit insolemment toutes les costes d’Espagne.</p>
+        <p>Ce fut donc par ce barbare, que le vaisseau où Ursace et Olimbre
+        s’estoient mis, fut rencontré et dans peu de temps investi et
+        accroché, mais comme ces deux chevaliers n’avoient pas
+        accoustumé de redouter les perils, ils se saisirent chascun d’un
+        escu et d’un coutelas, et ayants inspiré à quelques
+        marchands la volonté de se defendre, s’avancerent sur la proue
+        pour empescher qu’on ne sautast dans leur vaisseau. Quelques mathelots
+        à qui le nom et l’humeur du corsaire estoient cognus, voyants de
+        tous costez la mort inevitable, choisirent la plus glorieuse, et de
+        cette sorte s’estants saisis de leurs armes, et s’estants joints
+        à Ursace et à Olimbre, commencerent un tres-aspre combat.
+        Au commencement Clorohalante ne faisoit qu’en rire, recognoissant
+        l’inesgalité des forces; mais quand par la valeur de ses
+        ennemis, il eut veu mourir quantité de ses hommes, ce fut alors
+        que la colere le saisit, et que se faisant armer il commença de
+        vouloir combattre. A la veue de ce chef tous ceux qui suivoient sa
+        fortune, prirent de nouvelles forces, et l’ayants pour guide, sauterent
+        dans le vaisseau, où Ursace et Olimbre disputoient leur vie si
+        genereusement que le moindre coup qui partoit de leur bras estoit
+        mortel à quiconque en estoit frappé.</p>
+        <p>Mais sans que je m’amuse icy à vous redire par le menu toutes
+        choses, il suffit que vous sçachiez que Clorohalante voyant le
+        peu d’avantage qu’il emportoit de ce costé-là, commanda
+        qu’au mesme temps on chargeast en pouppe, ce qui fut fait, mais si
+        rudement que ceux qui la defendoient ne pouvants resister au nombre de
+        leurs ennemis, leur laisserent enfin l’accez si libre, qu’en moins d’un
+        quart d’heure ils furent maistres du vaisseau; <pb n="365"/> d’autant
+        mieux qu’Ursace et Olimbre se voyants alors battus de tous costez,
+        apres une longue resistance, tomberent enfin l’un aupres de l’autre,
+        affoiblis par la perte du sang qui estoit sorty de leurs blessures.
+        Clorohalante plus glorieux de cette victoire, que d’aucun butin qu’il
+        eust jamais fait, oublia le prix dont il l’avoit achettée, mais
+        il ne perdit pas la memoire des grands efforts qu’il avoit veu faire
+        à Olimbre et à l’esclave qui avoit combattu aupres de
+        luy. Cela fut cause que les ayants fait emporter dans son vaisseau, il
+        les fit panser de leurs playes, resolu de les sacrifier solemnellement,
+        comme la plus glorieuse despouille qu’il eust jamais acquise, depuis
+        qu’il avoit tenté les perils des armes et de la mer. En ce
+        dessein il tourna ses voiles du costé de la grande Bretagne, et
+        voyant ses vaisseaux poussez par un vent assez favorable, il voulut
+        pour se divertir apprendre qui estoient ceux dont la valeur luy avoient
+        tant fait perdre d’hommes. Cela fut cause qu’aussi-tost qu’Ursace et
+        Olimbre commencerent à se r’avoir un peu, ils furent conduits
+        devant ce corsaire, qui s’addressant à Olimbre, comme à
+        celuy qui sembioit estre le maistre, luy demanda qui il estoit, et
+        d’où il venoit. Olimbre pour le satisfaire: Clorohalante, luy,
+        dit-il, avec un ton de voix qui tesmoignoit assez la generosité
+        qui estoit en luy, je suis chevalier et patrice Romain, mon nom est
+        Olimbre, et si tu veux sçavoir quelle est la fortune qui m’a
+        rendu ton captif, sçaches que pour sauver la vie à un
+        amy, je n’ay pas suivy Genseric, quand tout glorieux des despouilles de
+        Rome il est retourné en Affrique. Depuis, n’ayant pu treuver de
+        la douceur en la vie, plusieurs considerations m’obligerent à
+        rechercher la mort, et pour cela, j’allay demander le poison au Conseil
+        des six cents, qui me l’ayant refusé, me contraignit de
+        consulter un Oracle, dont la responce me fit entreprendre le voyage
+        d’Affrique. Ainsi je me mis dans le vaisseau, où tes armes ont
+        triomphé des miennes, et m’ont sousmis à tout ce que tu
+        voudras faire de moy. Pour cet esclave, je ne te sçaurois
+        apprendre sa fortune, car l’ayant achetté depuis peu, je n’ay
+        nulle cognoissance de luy, seulement je commence à juger par le
+        combat qu’il a rendu aupres de moy, que son courage et son affection
+        meritoient un sort plus heureux que celuy qui l’accompagne!</p>
+        <p>Ce fut-là tout ce qu’Olimbre luy dit, et Clorohalante qui se
+        ressouvint d’avoir autrefois ouy nommer ce nom, tout à coup
+        prenant la parole: Ne fut-ce pas toy, dit-il, qu’Eudoxe envoya
+        <pb n="366"/> chez le roy des Vandales pour le solliciter de la delivrer de
+        la tyrannie de Maxime &amp; Olimbre ayant respondu qu’ouy, ce corsaire
+        sousrit, et s’estant mordu la pointe du doigt: C’est assez, dit-il,
+        l’innocent souffrira our le coupable. Disant cela, il fit signe qu’on
+        les ramenast, et commanda qu’ils fussent soigneusement pansez de leurs
+        blessures. Deslors il fit dessein de se vanger en la personne de ce
+        chevalier, de toutes les injures qu’il avoit receues de Genseric, et
+        s’imaginant qu’il feroit un extreme desplaisir à ce roy barbare,
+        s’il faisoit esclatter sa hayne en cette occasion, il resolut de faire
+        souffrir à Olimbre toutes les infamies dont il se pourroit
+        souvenir; et pour l’affliger de bonne heure, il luy en fit porter la
+        nouvelle, qu’Olimbre receut sans s’esmouvoir. Mais parce qu’Ursace eut
+        peur de le survivre, il commença à faire des regrets, que
+        Clorohalante mesme, quelque barbare qu’il fust, n’eust pu ouyr sans en
+        avoir compassion. Il sçavoit que sans luy la vie de son amy
+        n’eut jamais esté exposée à tant d’infortunes, de
+        sorte que se trouvant coupable des maux qu’il souffroit, et de cuex
+        dont il estoit menacé, il ne pouvoit s’empescher de maudire le
+        jour qui l’avoit veu naistre. Olimbre disposé à souffrir
+        toutes choses, faisoit tout ce qui luy estoit possible pour le
+        consoler, et luy representoit que le moment de sa mort seroit le plus
+        glorieux de sa vie, puis qu’il luy donneroit le moyen de luy faire
+        paroistre en quel degré estoit son affection.</p>
+        <p>Ils furent ainsi quelques jours durant lesquels leurs blessures furent
+        entierement gueries, et comme si le Ciel eust esté lassé
+        de les voir si longtemps miserables, il permit qu’une tempeste
+        s’eleva; mais si forte, que les vaisseaux de Clorohalante, contraints de ceder
+        à la violence des orages, furent enfin portez parmy le reste des
+        vaisseaux, que Genseric avoit chargez des despouilles de Rome, et qui
+        attendoient à la rade un favorable vent pour se remettre en mer,
+        et là ayants esté mis à fonds, pris ou bruslez en
+        peu de temps, Clorohalante se tua soy-mesme, pour ne tomber entre les mains de Genseric.</p>
+        <p>Cette delivrance inopinée fut un persage de bon-heur à
+        Ursace et à Olimbre, qui se voyants deschargez de leurs fers,
+        mouroient d’envie de s’embrasser, mais ils en furent retenus par la
+        crainte qu’ils eurent, que leurs caresses fissent recognoistre leur
+        desguisement. Ils ne furent pas long.temps sans avoir le vent qu’ils
+        desiroient, et bien-tost apres, sans voir les tours de Carthage; et
+        par ce que celuy qui avoit la conduitte des vaisseaux, voulut <pb n="367"/>
+        envoyer à Genseric, outre la nouvelle de son arrivée, la
+        desfaitte de Clorohalante, Olimbre, comme en estant le plus
+        irreprochable tesmoing, se chargea de cette commission. Il fit donc
+        jetter un esquif dans la mer, où ayant fait descendre Ursace et
+        quelques autres, il partit sur l’entrée de la nuict, mais
+        à peine eut-il esté une heure ou deux en chemin, qu’il
+        commença de descouvrir le port, et peu à peu à
+        distinguer quelques petites lumieres semblables aux estoilles du
+        firmament, qui luy firent juger qu’il n’estoit pas beaucoup
+        esloigné de la ville.</p>
+        <p>L’ esperance de revoir Eudoxe et Placidie donnoit à Ursace et
+        à Olimbre une si grande joye qu’ils en estoient comme
+        transportez et cependant qu’ils s’amusoient à deliberer de
+        quelle façon ils avoient à se conduire en cette premiere
+        rencontre, tout à coup ils apperceurent une epaisse
+        fumée, meslée d’un nombre infini de grosses estincelles
+        de feu, et quelquefois de grandes flames, qui tesmoignoient partir d’un
+        furieux embbrazement. Cela leur fit arrester la veue sur cet objet
+        assez deplorable, mais à mesure qu’ils s’approchoient davantage,
+        ils voyoient le feu plus grand, et quelquefois il leur sembloit ouyr un
+        murmure confus de plusieurs voix assemblées, qui ne formoient
+        que des cris et des gemissements.</p>
+        <p>Il leur fut impossible de n’avoir compassion de voir devorer tant de
+        choses à cet insatiable element bien qu’ils ne sceussent pas
+        qu’ils avoient en ce malheur plus d’interest que personne; car
+        c’estoit le mesme feu qu’Eudoxe avoit allumé pour éviter
+        la violence de Genseric.Ils ne furent donc pas plustost arrivez au
+        port, qu’Olimbre s’estant fait cogoistre, on courut promptement pour en
+        advertir le roy, et cependant la curiosité l’ayant porté
+        à s’enquerir de la cause de cet embrazement, il sceut bien –tost
+        le bruit qui s’en estoit espandu par la ville, qui estoit que le feu
+        s’estant pris dans le Palais où Eudoxe et ses deux filles
+        estoient detenues, elles n’avoient pu eschapper, et par consequent
+        estoient mortes parmy les flancs; qu’il y en avoit d’autres qui
+        croyoient qu’Eudoxe mesme l’avoit allumé, pour finir tant
+        plustost sa captivité. A cette triste nouvelle Ursace tomba de
+        sa hauteur, et Olimbre demeura si confus, qu’il fut assez long-temps
+        sans pouvoir seulement ouvrir la bouche.</p>
+        <p>Mais sans que je perde du temps à vous reciter leurs regrets,
+        puis que vous pouvez bien vous les imaginer, cognoissant la cause qui
+        les faisoit naistre, je diray qu’apres avoir fait mille <pb n="368"/>
+        plaintes contre le Ciel dequoy il leur avoit fait surmonter tant de
+        peril, ils accuserent les dieux d’injustice, comme s’ils ne les eussent
+        onservez, que pour les accabler soubs le faix d’une plus pesante
+        douleur. Enfin s’estants empeschez l’un l’autre d’entreprendre sur
+        leurs personnes, ils firent dessein de s’an retourner chez les
+        Massiliens, s’assurants qu’alors ils avoient tant de suject de mourir,
+        qu’il estoit impossible que le poison leur fust refusé.</p>
+        <p>A peine eurent-ils fait cette derniere resolution, que Thrasimond
+        arriva où estoit Olimbre, d’autant que ceux qui estoient partis
+        pour en aller porter la nouvelle au roy, n’ayant pu parler au pere,
+        furent contraints de s’adresser au fils; et parce que depuis le voyage
+        qu’Olimbre avoit fait en Affrique, il s’estoit parfaitement acquis
+        l’amitié de ce Prince, Thrasimond arriva où estoit
+        Olimbre, d’autant que ceux qui estoient partis pour en aller porter la
+        nouvelle au roy, n’ayant pu parler au pere, furent contraints de
+        s’addresser au fils; et parce que depuis le voyage qu’Olimbre avoit
+        fait en Affrique,il s’estoit parfaitement acquis l’amitié de ce
+        Prince, Thrasimond fut bien-aise de l’aller recevoir.Ils ne se furent
+        pas plustost embrassez que Thrasimnod prenant la parole: Vous estes
+        arrivé, cher Olimbre, luy dit-il assez haut, em un temps
+        où vous trouverez nostre Cour bien en desordre. – Si je ne me
+        trompe, respondit tristement Olimbre, j’en ay sceu la principale cause,
+        et certes apres la perte de trois si belles Princesses, la joye seroit
+        bien hors de saison.Olimbre ne se put empescher alors de jetter un
+        grand souspir, et Thrasimond se faisant un peu de violence, pour ne
+        tesmoigner pas le contentement où il estoit, s’approchant de
+        l’oreille du chevalier: Ce mal-heur, luy dit-il fort bas, est
+        tres-grand en apparence, mais il est fort petit en effect.</p>
+        <p>A ce mot le prenant par le bras, il le ramena dans le batteau,où
+        personne n’estoit qu’Ursace, qui disputoit entre la mort et la vie; et
+        ayant fait esloigner les hommes et les flambeaux, lors qu’il crut ne
+        pouvoir estre ouy que d’Olimbre, il luy tint ce discours: Cher amy,
+        j’ay à vous faire icy deux onfessions bien particulieres, l’une
+        qui regarde ma temerité, et l’autre la honte du Roy mon pere. A
+        ce mot,il luy raconta comme il s’estoit rendu amoureux de la jeune
+        Eudoxe, et de quelle façon sa recherche avoit etsé receue
+        ; en suite de cela, il luy fit le recit de la violence dont Genseric
+        avoit voulu user contre Eudoxe, il luy parla de ma prison, à
+        cause du poison que je luy avois preparé, et enfin il luy dit de
+        mot à mot tout ce qui s’estoit passé au dernier effort
+        que le Roy avoit fait contre la chambre de la Princesse, et de quelle
+        façon elle y avoit mis le feu. Apres cela, cher Olimbre, dit-il
+        en continuant, il faut que vous sçachiez qu’Eudoxe n’a pas veu
+        plustost ce feu allumé, que non pas l’horreur de la mort, mais
+        le regret <pb n="369"/> d’estre cause de la perte de ses deux filles, luy
+        est entré si avant dans l’ame, qu’elle n’a pu s’empescher de se
+        retirer avec elles dans une autre chambre où couchoient les deux
+        jeunes Princesses, de laquelle ayant bien fermé la porte, et se
+        souvenant de l’affection que je luy ay vouée, elle a creu que
+        peut-estre, si elle eschappoit de ce peril, Genseric se lasseroit dans
+        ses poursuittes, ou que je trouverois quelque moyen de l’en guarentir.
+        Cette consideration l’a fait consentir à ne mourir point encore,
+        de sorte qu’ayant ouvert une fenestre qui regarde sur le jardin, dont
+        ce Palais estoit embelly, elle a de fortune recontré à
+        ses pieds deux linceuls qu’elle a joints ensemble, par l’ayde desquels
+        elle a fait premierment descendre Eudoxe, puis Placidie, et enfin elle
+        est descendue elle-mesme, ayant attaché contre la croisée
+        les draps qu’elle avoit noïez.</p>
+        <p>Alors Olimbre perdant patience: Eudoxe, dit-il, en l’interrompant,
+        n’est donc pas mort? – Elle ne l’est pas, respondit Thrasimond, car
+        aussi tost qu’elle a esté dans ce jardin, elle a couru à
+        une petite maison qui est en l’un des coings, et où se tient
+        ordinairement celuy qui a le soing des fleurs et des parterres, et
+        l’ayant esveillé, car, comme vous sçavez, ces
+        gens-là se couchent d’assez bonne heure, elle s’en est fait
+        ouvrir la porte, et soudain qu’elle a este entrée: Mon amy, luy
+        a-t’elle dit, tout le Palais est en feu. A ce mot, le jardinier, qui
+        à cause de l’obscurité ne recognoissoit pas Eudoxe, est
+        sorty jusques dans le jardin,et n’a pas esté long-temps sans
+        voir que le feu qui avoit desja gaigné la chambre, vomissoit de
+        grosses flames par la fenestre d’où les Princesses estoient
+        sorties. S’en retournant donc tout esmeu: Bons dieux! a-t’il dit, que
+        seront devenues ces belles prisonnieres? – Elles sont en lieu, a
+        respondu Eudoxe, où leur vie depend desormais de toy, et si tu
+        en veux prendre le soing que tu dois, je fay vœu de te rendre le plus
+        heureux homme de ta condition.Disant cela, elle luy a fait allumer de
+        la chandelle, et ce bon-homme tout confus,luy ayant demandé ce
+        qu’il avoit à fait: Tout ce que je veux de toy; a repris
+        Eudoxe, c’est qu’il faut que tu nous caches, de peur que quelqu’un nous
+        surprenne icy, et puis que tu coures promptement enseigner à
+        Thrasimond le lieu où tu nous auras enfermées, et sur
+        tout, que tu prennes garde qu’autre que luy n’arrache cette
+        verité de ta bouche. Le jardinier alors ne treuvant point de
+        lieu plus commode qu’une petite cave, les y a fait descendre, et puis
+        m’est venu rapporter ce qu’Eudoxe luy avoit <pb n="370"/> commandé.
+        Il n’a eu non plus de peine à m’aborder, que moy à me
+        demelser de tout le monde, car sçachez, Olimbre, qu’en cet
+        instant la Ville s’est truvée en une telle confusion,
+        qu’à peine se pouvoit-on recognoistre parmy ce desordre. Je l’ay
+        donc suivy dans sa petite maison, sur laquelle tomboient desja
+        quantité de grosses estincelles, qui me faisants craindre
+        qu’enfin elle bruslast, m’ont empesché de m’arrester à
+        donner aux Princesses des tesmoignages de ma joye; mais les ayant
+        emmenées le plus secretement que j’ay pu, chez un de mes
+        domestiques qui loge fort prés de là, j’ay donné
+        quelque argent qu jardinier, et luy aydeffendu sur peine de la vie, de
+        parler jarmais de ce qui estoit arrivé. Les ayant donc
+        laissées en seureté, je suis revenu au chasteau pour voir
+        le Roy, mais, si je ne me trompe, l’horreur de cet accident a
+        esté cause qu’il n’a voulu estre veu de personne; ainsi j’ay
+        esté le premier qui a sceu vostre retour, dont je viens me
+        resjouyr, et vous assurer, cher Olimbre, que je continue dans la
+        volonté de vous aymer et de vous servir.</p>
+        <p>Tel fut le discours de Thrasimond, dont Olimbre receut une extreme
+        joye, et j’eusse dit incomparable, si celle d’Ursace n’eust esté
+        en un mesme degré. Ce chevalier desguisé avoit ouy tout
+        ce que le Prince avoit raconté, parce que s’estant treuvé
+        dans le fonds du batteau, on n’avoit point pris garde à luy; et
+        le contentement de sçavoir sa maistresse en vie le toucha si
+        sensiblement, que peu s’en fallut que sa joye ne fist en luy ce que
+        n’avoient encore pu ses douleurs et ses disgraces. Toutefois le Cile
+        qui le reservoit pour la felicité d’Euxode, ne permit pas qu’il
+        mourust dans l’excez de ce plaisir,mais ayant suivy Olimbre que
+        Thrasimond emmena loger au chasteau, ils ne furent pas plustost seuls
+        qu’ils commencerent à s’embbrasser, et passerent presque tout le
+        reste de la nuict dans le recit de leurs avantures.</p>
+        <p>Le lendemain Genseruc sceut en mesme temps le retour de ses vaisseaux
+        et d’Olimbre, mais le souvenir de ce qui luy estoit arrivé
+        l’empescha d’en ressentir la joye qu’il en eust eue en une autre
+        saison. Il fit pourtant à ce chevalier le plus de caresses qu’il
+        put, et voulant cacher à la posterité la veritable cause
+        de la mort d’Eudoxe, il commença de bonne heure d’inventer des
+        excuses pour couvrir le crime qu’il avoit commis. Olimbre fit semblant
+        de croire tout ce que le roy voulut, et donnant à la perte de
+        ces trois Princesses mille souspirs feints, il prit garde que la
+        memoire d’une fin si tragique touchoit le roy de quelque sorte de
+        repen-<pb n="371"/>tir. En effect,il en receut un regret si sensible, qu’on
+        le lisoit dans ses yeux; et pour laisser quelque marque de l’estime
+        qu’il avoit faitte d’eudoxe, bien que captive, il en fit chercher le
+        corps parmy les repliques de l’embrazement. On treuva donc les trois
+        eunuques, que la flame avoit estouffez, mais comme ils estoient en
+        partie consommez, et qu’il ne restoit de chacun d’eux qu’une masse sans
+        forme, on creut facilement que c’estoient les corps de la Princesse et
+        de ses deux filles. Ainsi Genseric se disposa de leur faire dresser un
+        monument aussi uperbe que leur condition avoit esté
+        mal-heureuse, et les ayant fait enfermer dans un cercueuil d’argent,
+        commanda qu’ils fussent soigneusement gardez.</p>
+        <p>Cependant Thrasimond qui craignoit qu’Eudoxe ne fust pas en assez de
+        seurté dans la ville, l’avoit aux champs, fort peu
+        esloignée de Carthage. Aussi-tost qu’il le put, il y mena
+        Olimbre soubs pretexte de le divertir, mais soudain qu’Eudoxe le vid,
+        elle en demeura si surprise, qu’elle faillit à pasmer. Toutefois
+        enfin s’estant un peu remise, et ayant desiré de parler `aluy en
+        particulier, elle l’emmena dans une autre chambre, laissant Thrasimond
+        avecque la jeune Eudoxe et Placidie. Aussi-tost qu’elle se vid seule
+        avecque ce chevalier, elle rappela dans sa memoire tous les services
+        d’Ursace, et le souvenir de mort commença de l’affliger avec
+        tant de violence, que ses larmes et ses souspirs l’empescherent
+        long-temps de parler. Enfin, soudain qu’elle put ouvrir la bouche: Et
+        bien, Olimbre, luy dit-elle, que vous semble de ma destinée? Ne
+        suis-je pas malheureuse, d’estre contrainte de vivre apres lamperte de
+        vostre amy? Disant cela , sa voix se perdit parmy ses sanglots, et
+        Olimbre prenant la parole: Madame, luy respondit-il, ouis que le Cile
+        l’ordonne de la sorte, vous estes extremément louable de vous
+        sçavoir conformer à sa volonté,et peut-estre pour
+        vous en recompenser, il permettra quelque jour que vous soyez
+        delivrée d’un si fascheux souvenir. – Helas! reprit Eudoxe,
+        qu’au contraire, ce seroit bien me punir! car sçachez, Olimbre,
+        que quelque affliction, et quelque mal que cette memoire me rapporte,
+        j’aymerois mieux mourir, que ne la conserver pas. Mais,
+        continua-t’elle,puis que mes pleurs ne le sçauroient rappeller,
+        dittes-moy, Olimbre, quelque chose de vostre voyage, et je vous feray
+        part de mes mal-heurs? – Madame, dit le chevalier, le Prince
+        Thrasimond m’a conté une partie de vos affaires, et pour ce que
+        vous desirez sçavoir de moy, j’auray bien-tost satisfait
+        à vostre curiosité. <pb n="372"/> Alors il luy parla des
+        derniers devoirs qu’il faignoit avoir rendus à Ursace, et puis
+        luy raconta comme il avoit esté fait captif par Clorohalante,
+        apres que le Conseil des six cents luy eut refusé le poison, sa
+        delivrance, et enfin son arrivée à Carhage, sans autre
+        suitte que d’un esclave qu’il avoit achepté pour luy donner. A
+        ce mot, Eudoxe apres avoir seiché les larmes que ce discours luy
+        avoit fait verser: Quoy que ce soit, dit-elle, qui vienne de la main
+        d’Olimbre, me sera tousjours en particuliere consideration, mais si
+        vous me le donnez, ce sera à condition que je luy rendray la
+        liberté. – Madame, dit Olimbre en s’en allant, je ne pense pas
+        qu’il la veuille. A ce mot il sortit, et s’en alla querir Ursace, qui
+        dans l’Impatience de voir celle qui disposoit de sa vie, sentoit en son
+        ame des mouvements du tout extraordinaires. Enfin saisi d’amour, de
+        crainte, et de respect, il fut conduit en la presence d’Eudoxe et
+        soudain qu’il fut entré dans sa chambre il s’alla jetter
+        à ses pieds, et commença de luy embrasser les genoux le
+        plus fort qu’il put. Alors la Princesse luy mettant une main sur la
+        teste: Je vous reçoy pour mien, luy dit-elle, puis qu’Olimbre
+        le veut, et vous oste dés à cette heure le nom d’Esclave,
+        pour vous donner celuy d’Affranchy.</p>
+        <p>A ce mot, elle luy commanda de se lever, amis Ursace haussant la voix:
+        Madame, respondit-il, un autre vous redroit graces de cette bonne
+        volonté, mais pour moy je ne croy point de felicité
+        comparable à ma servitude. – Je l’avois bien dit, reprit
+        Olimbre, qu’il ne recevroit pas la liberté que vous luy vouliez
+        donner. Disant cela il jetta les yeux sur la Pincesse, et vid qu’elle
+        avoit changé de couleur. Et de fait, à la voix d’Ursace
+        se leva, et Eudoxe toute surprise: Bon dieu! dit-elle, n’est-ce pas
+        Ursace que je voy? – Ce l’est, Madame, respondit-il en
+        s’approchant,qui est venu chercher aupres de vous, la mort que les
+        dieux et les hommes luy ont refusée. – O douce tromperie!
+        s’escria Eudoxe, ô cher Ursace! A ce mot se jettant à son
+        col, elle demeura quelque temps pasmée entre ses bras.</p>
+        <p>Enfin, s’estant remise, Ursace luy rendit compte de tout ce qui luy
+        estoit arrivé, et Olimbre apres cela prenant la parole: Madame,
+        dit-il, outre que l’habit dont Ursace est revestu, convient
+        parfaittement à l’estat où est son ame aupres de vous,
+        encore ay-je creu qu’il ne s’en pouvoit trouver de plus favorable pour
+        le cacher à la cognoissance de Genseric. Vous sçavez,
+        madame, qu’il n’ignore <pb n="373"/> pas que ce fut ce chevalier qui tua
+        Maxime pour vous vanger, et qu’il est croyable qu’ayant fait presque la
+        mesme faute contre vous, il craindroit avecque raison une punition
+        semblable. C’est pour cela que je serois d’vis que vous fussiez un peu
+        retenue en vostre joye, afin que Thrasimond mesmes, qui pourroit avoir
+        quelque part aux sentiments de son pere, ne se puisse jamais apercevoir de ce desguisement.</p>
+        <p>Eudoxe treuva bon le conseil d’Olimbre, de sorte qu’apres avoir
+        remercié les dieux de la conversation d’Ursace et de son retour,
+        elle revint où estoit Thrasimond, qui apres quelques
+        tesmoignages receus de l’amitié de sa maistresse, fit signe
+        à Olimbre qu’Il estoit itemps de retourner à Carthage,
+        pour voir en quelle humeur seroit Genseric.</p>
+        <p> Ursace toutefois demeura aupres d’Eudoxe, mais je ne m’amuseray point
+        à vous parler de la douceur des entretiens qu’ils eurent
+        ensemble, parce qu’en mesme temps Genseric faillit à se vanger
+        sur moy de tous les desplaisirs qu’il avoit ressentis en la pretendue
+        mort d’Eudoxe; et n’eust esté que Thrasimond (à qui,
+        comme je vous ay dit, j’avois conservé la vie) luy representa
+        que le moins qu’il pouvoit faire pour moy, c’estoit de me rendre la
+        pareille, je ne pense pas qu’il ne m’eust
+        fait souffrir un tres-infame supplice.</p>
+        <p>Olimbre fut quelques jours à la Cour, sans avoir autre
+        contentement que celuy qu’il recevoit de l’amitié de Thrasimond
+        et de Placidie, qu’il voyoit quelquefois, soubs pretexte d’accompagner
+        le Prince à la chasse; car le roy, à qui le souvenir de
+        cet embrazement causoit un ennui perpetuel, sans se contraindre
+        infiniment, ne pouvoit faire bon visage à personne. Il est,
+        comme je vous ay dit, d’un naturel assez barbare, et pourtant il ne
+        laisse pas d’aymer l’honneur, de sorte que recognoissant bien que cette
+        dernier action luy estoit honteuse, il s’en affligeoit outre mesure, et
+        faisoit tout ce qui luy estoit possible pour en esteindre le souvenir.</p>
+        <p>Olimbre donc voyant qu’il n’avançoit rien là pour les
+        affaires d’Eudoxe, fit dessein de retourner chez Marcian, esperant que
+        l’authorité de cet Empereur pourroit quelque chose pour la
+        liberté de cette Princesse, mais Thrasimond, qui avoit une autre
+        pensée, lors qu’Olimbre luy eut communiqué son intention: Je
+        suis bien d’avis, luy dit-il, que vous fassiez semblant de prendre
+        congé du roy, afin que vous puissiez juger si affection pour
+        vous <pb n="374"/> est encore aussi grande qu’elle a esté, mais je
+        ne veux pas que vous m’abondonniez, car je me veux servir de vous;
+        s’il faut faire quelque effort à l’avantage d’Eudoxe. Olimbre
+        ayant promis d’obeyr à tout ce qu’il commanderoit, s’en alla
+        treuva Genseric, et luy propsa que ne luy pouvant rendre aucun
+        service,il ne voyoit pas quelsuject le pouroit obliger à estre
+        là davantage, que pour cela il le suppliloit tres-humblement de
+        luy donner la permission de s’en retourner, l’assurant qu’il luy seroit
+        tousjours tres-obligé, s’il luy vouloit faire l’honneur de luy
+        continuer l’amitié qu’il luy avoit si souvent
+        tesmoignée.Le roy, qui veritablement aymoit ce chevalier, et qui
+        sçavoit bien que la mort de Placidie qu’il aboit ouy dire luy
+        estre promise, le devoit avoir extremément offensé,
+        resolut en cet instant de ne le pria de ne penser point encore à
+        son despart de quelques jours, apres lesquels il seroit en
+        liberté de faire tout ce qu’il voudroit. Olimbre montra d’estre
+        content de demeurer autant de temps qu’il luy commanderoit, et le roy
+        ayant communiqué à Thrasimond le dessein d’Olimbre, luy
+        demanda c qu’il avoit à faire pour s’obliger entierement ce
+        chevalier. Le prince luy proposa plusieurs moyens, et fut bien-aise de
+        voir que l’affection du roy alloit encore au dessus de son esperance.
+        Cela fut cause qu’il en advertit Olimbre, et luy dit que s’il
+        sçavoit se prealoir de cette occasion, il pourroit disposer
+        Genseric à tout ce qu’il voudroit. Olimbre ravy de cette
+        assurrace, le supplia de faire en sorte que le roy se portat
+        jusqu’où estoit Eudoxe, et luy dit que le meilleur moyen estoit
+        de le disposer à se vouloir divertit aux champs, et d’aller
+        disner dans cette maison,puis que c’estoit le plus beau lieu qui fust
+        autour de Carthage. Thrasimond ne treuva pas de la difficulté
+        à faire reussir ce dessein, et de fait, à la premiere
+        proposition qu’il en fit au roy, ils prirent jour pour cela.</p>
+        <p>Le Chevalier cependant advertit Eudoxe de resolution, et bien qu’elle y
+        treuvast de la difficulté, elle ne laissa pas de l’approuver,
+        s’assurant sur la fidelité d’Olimbre. Le jour donc estant venu,
+        Genseric, Thrasimond, Olimbre et quantité des plus apparents de
+        Carthage, partirent assez matin, et apres avoir employé trois ou
+        quatre heures à la chasse, vindrent enfin descendre dans cette
+        maison, où le Prince avoit mis ordre que les tables fussent
+        dressées dans une grande sale, qui estoit tout contre la chambre
+        des <pb n="375"/> Princesses. Et là, soudain apres repas, Olimbre
+        s’adressant au Roy, le supplia de luy vouloir accorder le congé
+        qu’il luy avoit desja demandé, luy representant que l’aage
+        où il estoit, ne luy permettoit pas d’estre si long-temps
+        esloigné des occasions qui pouvoient ayder à la
+        reputation d’un homme. Genseric ors, avec un visage où e voyoit
+        peinte l’amitié qu’il avoit pour luy: Cher Olimbre, luy dit-il,
+        je treuve vostre dessein si legitime, que j’aurois honte de m’y opposer
+        plus longuement; il est vray que j’ay rencontre les occasions, recevez
+        la volonté que je vous presente, et souvenez-vous que je ne
+        pourray jamais rien pour voster contentement que je ne le fasse. –
+        Seigneur, reprit Olimbre, apres l’avoir remercié, vous pouvez en
+        un moment faire pour moy deux grandes choses, et si je ne craignois
+        d’estre refusé, je prendrois la hardiesse de vous les demander.</p>
+        <p>A ce mot le Roy ayant juré solemnellement de ne luy refuser
+        chose quelconque dont ille pust requerir, Olimbre mit un genouil en
+        terre, et luy ayant baisé la main: Seigneur, continua-t’il en
+        se releveant, puisque vous me le permettez, je vous demade la
+        liberté d’Eudoxe et d’Olocarsis. Disant cela, Thrasimond fit
+        ouvrir la chambre où cette princesse estoit, toute tremblante
+        avecque ses deux filles, et le Roy surpris d’un accident si peu
+        attendu, demeura quelque temps sans se r’avoir. Enfin touché des
+        öarmes d’Eudoxe, qui se vint incontinent jetter à ses
+        pieds, tenant d’une main Placidie et de l’autre sa sœorda la
+        supplication d’Olimbre, et promit deslors de la traitter en Princesse,
+        et non pas en esclave. Thrasimond qui se voulut servir du temps,
+        supplia Genseric de luy donner la jeune Eudoxe pour femme, et le Roy
+        recognoissant l’avantage que cette alliance luy pouvoit apporter, ne
+        fit nulle difficulté d’y consentir. Parmy cette commune joye je
+        ne fus pas oubié,car en cet instant Genseric commanda qu’on vint
+        me querir, mais moy qui sçavois que jamais on ne sortoit de la
+        prison où j’avois esté mis,que pour estre conduit au
+        supplice, j’avoue qu’estant tout disposé à mourir, j’eus
+        de la peine à croire que ce qu’on me disoit ne fust une
+        tromperie. Enfin mes yeux me guerirent de ce soupçon, car ayant
+        esté mené au Roy, je ne fus pas plustost dans la sale
+        où toute cette Cour estoit assemblée, que je recognus
+        Eudoxe et receus en mesme temps le pardon qui me
+        pouvoit assurer de la vie.<pb n="376"/></p>
+        <p>La nouvelle de cet accident fut bien-tost racontée dans la
+        ville, de sorte que tout le monde estant sorty à la rencontre du Roy et
+        de Thrasimond, les Princesses furent conduittes au Chasteau, avecque la
+        mesme ceremonie qu’on eust faite en quelque entrée magnifique.
+        Ursace seul ne s’en pouvoit bien consoler, à cause qu’ayant sceu
+        les premiers mouvements de Genseric, il en redoutoit la continuation;
+        toutefois luy estant permis sous l’habit dont il estoit revestu,
+        d’estre presque tousjours où estoit Eudoxe, il sceut bien tost
+        que dans les larmes de joye que le Roy versa à la rencontre de
+        la Princesse, il avoit noyé le feu de</p>
+    </div>
+    <div type="contentc">
+        <p>son impudicité; et de fait quelque temps apres il la renvoya</p>
+        <p>le plus honorablement qu’il pust à Constantinople, avec</p>
+        <p>Placidie sa fille, où elle ne fut pas plustost arrivée,</p>
+        <p>qu’Ursace l’ayant espousée avec solemnité,</p>
+        <p>receut le bien que la fortune luy avoit</p>
+        <p>fait achetter si cherement, et</p>
+        <p>qu’Olimbre par le commandement</p>
+        <p>de Marcian et le consentement</p>
+        <p>d’Eudoxe, gousta entre</p>
+        <p>les bras de Placidie le</p>
+        <p>repos qu’Amour</p>
+        <p>devoit à sa</p>
+        <p>fidelité.</p>
+        <p><pb n="377"/></p>
+    </div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

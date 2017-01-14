@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -43,7 +43,7 @@
         <head type="partie">LA SECONDE PARTIE DE L’ASTRÉE</head>
         <head type="partie">DE MESSIRE HONORÉ D’URFÉ</head>
         <head type="chapitre">LIVRE PREMIER</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La lune estoit desja por la deuxiesme fois sur le milieu
         de son cours depuis que Celadon eschappé des mains de Galathée, et
         n’osant se presenter devant les yeux de la bergere Astrée, pour
@@ -144,80 +144,80 @@
         plus certain que je puisse consulter?</p>
         <p>Et lors relevant la voix il luy parla de ceste sorte.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ECHO</head>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Fille del’air qui ne sçauras rien taire,</p>
         <p>De ces rochers hostesse solitaire, <pb n="10"/></p>
         <p>Où vont les crisque je vais esmourant?   Au vent.</p>
         <p>Et quel crois tu quece cruel martire,</p>
         <p>Que plein d’amour mon coeurva concevant,</p>
         <p>Devienne enfin aux maux que je souspire?   Pire.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que feroit donc cet oeil qui me desarme</p>
         <p>Par sa douceur de toute sorte d’arme,</p>
         <p>Et qui me promet m’aimer infiniment?   Il ment.</p>
         <p>    Mais, s’il est vray qu’il mente, quel remede</p>
         <p>Nous faudra-t-il pour sortir promptement</p>
         <p>De cet abus qui trompeur nous possede?   Cede.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Comment? ceder un tel bien à quelque autre,</p>
         <p>Qu’Amour ordonne en effet qu’il soit nostre!</p>
         <p>Qui plus que moy voit-elle volontiers?   Un tiers.</p>
         <p>Un tiers?Echo, c’est un cruel langage:</p>
         <p>Mais s’il est vray qu’elle ayme mieux un tiers,</p>
         <p>Au lieu d’amour qu’auroit un grand courage?   Rage.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Nymphe, qui sens dedans ces rochers creuses</p>
         <p>Quel est le mal des peines amoureuses,</p>
         <p>N’auray-je donc jamais allegements?   Je ments.</p>
         <p>Comment, Echo, n’est-ce pont un blaspheme</p>
         <p>De t’accuser et dire que tu ments?</p>
         <p>Ce que j’entends est-ce bien la voix mesme?   Ayme.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>C’est bien ta voix qui frappe mes oreilles:</p>
         <p>Mais ce secret, nymphe qui me conseilles,</p>
         <p>L’as-tu, dy moy, de ma Diane ouy?   Ouy.</p>
         <p>Mais de l’aymer, helas! c’est peu de chose,</p>
         <p>Si d’elle aymée, d’elle je ne jouy.</p>
         <p>Pour un tel heur  qu’est-ce qu’on me propose?  Ose. <pb n="11"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le Ciel noircy de tempeste et d’orage</p>
         <p>Ne peut d’effroy m’abattre le courage.</p>
         <p>Mon coeur ne craint tous ces estonnemens.   Ne mens.</p>
         <p>Je ne mens pointni ne suis temeraire</p>
         <p>J’apprens d’amour ces beaux enseignemens.</p>
         <p>Faut-il rien plus pour un grand mystere?   Taire.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je me tairay. Plustoist ma voix pressée,</p>
         <p>Souspirera ma mori que ma pensée,</p>
         <p>Amant secret comme amant valeureux.   Heureux.</p>
         <p>Heureux cent fois aymée de ceste belle:</p>
         <p>Mais d’où scais-tu que son coeur genereux</p>
         <p>Sera vaincu si je luy suis fidelle?   D’elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Encore que le berger n’ignorast point que c’estoit
         luy-mesme qui se respondoit, et que l’air frappé par sa voix rencontrant les
         concavitez de la roche, estoit respoussé à ses oreilles,
@@ -542,31 +542,31 @@
         qu’elle vouloit ouyr de que Phillis vouliot chantoit, car ils en
         estoient desja assez pr’s pour ouyr ses paroles, qui estoient telles:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>CONTRE LA JALOUSIE</h3>
-        <milestone type="space"/>
+        <p>CONTRE LA JALOUSIE</p>
+        <milestone unit="line"/>
         <p>Amour ne brusle plus, ou bien il brusle en vain,</p>
         <p>Son carquois est perdu, ses fleches sont froissées,</p>
         <p>Il a ses dards rompus, leurs pointes emoussées,</p>
         <p>Et son arc sans vertu demeure dans sa main.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ou sans plus estre archer, d’un mestier incertain</p>
         <p>Il se laisse emporter à  plus hautes pensées,</p>
         <p>Oou ses fleches ne sont en nos coeurs addressées,</p>
         <p>Ou bien au lieu d’amour nous blessent de desdain.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ou bien s’il fait aymer, aymer c’est autre chose,</p>
         <p>Que ce n’estoit jadis, et les loix qu’il propose</p>
         <p>Sont contraires aux loix qu’il donnoit à  tous:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Car aymer et hayr, c’est maintenant le mesme,</p>
         <p>Puis que pour bien aymer il faut estre jaloux:</p>
         <p>Que si l’on ayme ainsi, je ne veux plus qu’on m’ayme. <pb n="20"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Silvandre, qui avoit fait dessein de donner autant de
         jalousie à Lycidas qu’il seroit possible, voyant que Phyllis attentive à ce
         qu’elle chantoit, et Astrée aux pensées que ces paroles
@@ -875,11 +875,11 @@
         pourquoy chacun jettant les yeux sur Thamire, apres une grande
         reverence, il commença de parler ainsi:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE</head>
-        <h3>DE CELIDÉE, THAMIRE ET CALIDON</h3>
-        <milestone type="space"/>
+        <p>DE CELIDÉE, THAMIRE ET CALIDON</p>
+        <milestone unit="line"/>
         <p>Puis qu’il a pleu au grand Tautates, de m’eslire pour vous
         raconter les dissentions qui sont entre nous, je proteste qu’encores que ce soit la
         coustume des personnes intéresés de ne dire que ce qui
@@ -932,31 +932,31 @@
         d’aymer un enfant, se pouvant dire dés lors la plus belle fille
         du hameau. Je me souviens que sur ce sujet je fis ce vers: <pb n="29"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>D’une jeune beauté.</h3>
-        <milestone type="space"/>
+        <p>D’une jeune beauté.</p>
+        <milestone unit="line"/>
         <p>Quelle aurore jamais d’un beau jourdevanciere</p>
         <p>Eut le sein plus semé de roses et de lys?</p>
         <p>Ou quels nouveaux soleils, de rayons embellis,</p>
         <p>Furent jamais si beaux commençant leur carriere?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dès qu’on t’a veu paroistre, aux rais de ta lumiere,</p>
         <p>Tous les autres soleils soudain sont deffaillis,</p>
         <p>Ou pres d’euxpour le moins demeurent si pallis,</p>
         <p>Qu’ils ne retiennent rien de leur clarté premiere.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quel sera le Midi d’un si bel Orient?</p>
         <p>Je prevoy dès icy que le ciel tout riant,</p>
         <p>Et qui ne vit jamais une aurore si belle,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Se promet d’en brusler les hommes et les dieux.</p>
         <p>Amour, ou rends son coeur aussi doux que ses yeux,</p>
         <p>Ou nos yeux et nos coeur insensibles pour elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et parce que je prevoyois que cette beauté seroit
         veue de plusieurs, et que mon coeur ne seroit pas le seul qui en bruleroit de
         desir, je me resolus, d’occuper pour le moins le premier son ame,

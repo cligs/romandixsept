@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE HUICTIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Astrée n’ouyt pas plustost dire à Lycidas que la
         grotte qui la receloit, estoit la mesme où Celadon avoit fait
         autrefois du sejour, qu’elle en demeura toute surprise, et deslors il
@@ -106,19 +106,19 @@
         curiosité l’ayant portée à les lire, elle vid
         qu’ils estaient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <p>Juge, Astrée, à quel poinct le destin m’a reduit!</p>
         <p>Je sçay bien que la mort où je me vois conduit,</p>
         <p>Doit servir de remede aux travaux, que j’endure <pb n="335"/></p>
         <p>Et pourtant, obstiné, je resiste au trespas,</p>
         <p>Non point que j’apprehende une chose si dure,</p>
         <p>Mais de peur qu’estant mort je ne t’aymasse pas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces paroles luy firent juger qu’il avoit eu en ce temps-là
         quelque volonté de se perdre, mais qu’il en avoit esté
         diverty par quelque bon Genie, qui luy avoit mis cette consideration
@@ -156,8 +156,8 @@
         prit garde qu’il y avoit escrit en gros caracteres, comme en forme de
         tiltre, Regrets d’un Berger trahy, et un peu plus bas ces mots: <pb n="336"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>J’ay creu durant quelque temps, belle
         Astrée, que le cours de mes larmes pourroit laver le crime de
         vostre infidélité. Mais à ce coup, pensant aux
@@ -177,9 +177,9 @@
         desormais de vos perfidies, il faut que je recoure à la
         pitié de mes ennemis! et bien, si vous n’attendiez de ma
         disgrace que là ruine de…</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce sens qui n’estoit pas achevé, fit juger à Diane
         que Celadon avoit dessein de remplir toute la feuille de semblables
         plaintes; mais qu’en ayant esté diverty, peut-estre, par le
@@ -309,11 +309,11 @@
         encore toute fraische. Alors il commença de lire ce qui estoit
         dans ce papier, et y trouva ces mots.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ASTRÉ</head>
-        <h3>A LYCIDAS</h3>
-        <milestone type="space"/>
+        <p>A LYCIDAS</p>
+        <milestone unit="line"/>
         <p>Je trouve legitime, cher Lycidas, la colere
         où vous estes contre moy, d’aidant mieux que n’ayant pas ouy une
         seule des raisons qui me peuvent justifier, il seroit difficile que
@@ -335,9 +335,9 @@
         et l’amour qu’autrefois Celadon m’a porté vous deffend de me le
         refuser. Adieu, Lycidas, je n’ay plus qu’un moment à vivre,
         faites que Phillis le prenne pour un tesmoignage de mon souvenir. Adieu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A la lecture de ces dernieres paroles, Lycidas ne put. retenir ses
         larmes, et tirant son mouchoir pour le porter à ses yeux:
         Helas, dit-il,qu’elle a bien raison de confesser qu’elle est coupable,
@@ -662,11 +662,11 @@
         qu’il pouvoit dire sur ce suject là, et Adamas luy en ayant
         porté la parole, Olicarsis commença son discours en cette sorte. <pb n="348"/></p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>D’EUDOXE, D’URSACE ET D’OLIMBRE</h3>
-        <milestone type="space"/>
+        <p>D’EUDOXE, D’URSACE ET D’OLIMBRE</p>
+        <milestone unit="line"/>
 
         <p>Genseric, chargé des despouilles de Rome, et glorieux de
         tant de conquestes, n’arriva pas plustost à Carthage, que le
@@ -984,11 +984,11 @@
         alla avecque Placidie dans le cabinet de sa mere, où l’ayants
         ouverte, elles y leurent ces mots. <pb n="356"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE THRASIMOND</head>
-        <h3>A LA JEUNE EUDOXE</h3>
-        <milestone type="space"/>
+        <p>A LA JEUNE EUDOXE</p>
+        <milestone unit="line"/>
         <p>Je suis amoureux de vous, belle Eudoxe, et si ma
         passion n’est la plus legitime qui fut jamais, je veux que vostre
         rigueur me rende le plus miserable de tous les hommes. Je sçay
@@ -1002,9 +1002,9 @@
         de difficulté de m’aymer aussi. Je vous en conjure, chere
         Eudoxe, et de croire que je ne manqueray pas de pitié pour
         vostre fortune, puis que je suis esclave comme vous.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette cognoissance qu’eut Eudoxe de l’amour de Thrasimond, ne luy
         donna pas une petite esperance, s’imaginant que si elle estait
         veritable, elle pourroit luy faire entreprendre de grandes choses;
@@ -1074,11 +1074,11 @@
         moitié dans une petite phiole, je pris du papier, et de l’ancre
         et fis ce billet à Eudoxe.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">BILLET D’OLICARSlS</head>
-        <h3>A EUDOXE</h3>
-        <milestone type="space"/>
+        <p>A EUDOXE</p>
+        <milestone unit="line"/>
         <p>Il est temps, Madame, de prendre le remede que
         j’ay preparé à. vos malheurs; l’injustice de Genseric a
         condamné mes raisons, et m’ayant enveloppé dans vos
@@ -1088,9 +1088,9 @@
         honneur, si vous ne la prevenez par la perte de vostre vie, Consultez
         donc vostre courage sur ce poinct, et croyez que vous n’aurez jamais
         une plus belle matière où l’employer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Toutes choses estants au meilleur estat que j’eusse sceu desirer,
         j’appellay un esclave qui me servoit, et qui avoit accoustumé de
         me suivre quand j’allois visiter la princesse, je luy donnay d’une main
@@ -1803,7 +1803,7 @@
         que dans les larmes de joye que le Roy versa à la rencontre de
         la Princesse, il avoit noyé le feu de</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>son impudicité; et de fait quelque temps apres il la renvoya</p>
         <p>le plus honorablement qu’il pust à Constantinople, avec</p>
         <p>Placidie sa fille, où elle ne fut pas plustost arrivée,</p>

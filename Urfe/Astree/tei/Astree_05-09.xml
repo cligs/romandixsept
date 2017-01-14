@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE NEUFVIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A peine le grand Olicarsis eut achevé ce discours, que
         Phillis entra, mais si hors d’haleine, qu’elle estonna toute la
         compagnie, et particulierement Adamas et Bellinde, qui eurent peur
@@ -690,17 +690,17 @@
         virent qu’il avoit soubs l’une de ses mains, une table de marbre noir,
         où estoient escrittes ces paroles.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Sortez de cet estonnement</p>
         <p>Et ne murmurez nullement</p>
         <p>Contre l’ordre de mes mirdcles:</p>
         <p>Mais faites ces corps emporter,</p>
         <p>Et demain venez consulter</p>
         <p>La verité de mes Oracles.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ils n’eurent pas plustost appris la volonté d’Amour, que ce
         dieu se perdit sous la fontaine, sans laisser nulles marques de luy,
         sinon qu’en cet instant tous ces nuages acheverent de disparoitre, et
@@ -784,11 +784,11 @@
         de recevoir Rosanire, puisque c’estoit un assez beau lieu pour luy
         faire bien passer le temps.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITE DE L’HISTOIRE</head>
-        <h3>DE TIRCIS ET DE LAONICE</h3>
-        <milestone type="space"/>
+        <p>DE TIRCIS ET DE LAONICE</p>
+        <milestone unit="line"/>
 
         <p>Cependant Tircis, depuis le moment qu’il avoit quitté la
         maison d’Adamas , ou pour mieux dire tous les bergers et toutes les
@@ -1039,10 +1039,10 @@
         s’entretenir tousjours dans les sujects de sa
         melancolie, il chanta premierement ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Source d’eternelles douleurs,</p>
         <p>Funeste, mais chere memoire,</p>
         <p>En depit des saisons, conserve toy la gloire</p>
@@ -1051,9 +1051,9 @@
         <p>Mais il semble que tu ne l’oses,</p>
         <p>Helas! Cleon m’apprit en la fin de ses jours</p>
         <p>Que tu n’en veux qu’aux belles choses.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Apres cela il sortit une à une de sa pochette toutes les
         faveurs et toutes les lettres qu’autrefois il avoit eues de Cleon, et
         les relisant l’une apres l’autre, sa memoire luy representa si bien
@@ -1310,40 +1310,40 @@
         le voir paroistre. S’estant donc mise en son chemin, elle s’assist en terre, et
         soudain qu’elle jugea qu’il la pourroit entendre, se mit à chanter ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Beaux deserts, chere solitude,</p>
         <p>A qui je dois ma guerison,</p>
         <p>Et qui remettez ma raison</p>
         <p>Dans sa premiere quietude,</p>
         <p>Quelque horreur que je treuve en ces lieux obscurcis,</p>
         <p>Vous m’estes bien plus doux que les yeux de Tircis.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bois, que vous m’estes agreables!</p>
         <p>Mon cœur vous nomme son recours</p>
         <p>Contre un cruel, pour qui mes jours</p>
         <p>Ne sont pas assez miserables,</p>
         <p>Et qui voudroit aller mesmes jusqu’aux Enfers</p>
         <p>Adjouster d’autres maux à ceux que j’ay souffers.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tyran, arme toy de colere!</p>
         <p>Mon ame rid de tes desdains,</p>
         <p>C’est à ce coup que je ne crains,</p>
         <p>Quelque mal que tu puisses faire:</p>
         <p>Ces arbres eslevez, tesmoings de ma langueur,</p>
         <p>Me tiennent à couvert des coups de ta rigueur.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Beaux deserts, chere solitude,</p>
         <p>Par vostre secours seulement,</p>
         <p>Je m’esloigne si doucement</p>
         <p>Des traits de son ingratitude;</p>
         <p>Heureuse mille fois si vous pouviez, beaux lieux,</p>
         <p>L’oster à ma pensée aussi bien qu’à mes yeux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A cette voix Tircis demeura comme pasmé, admirant la pro-<pb n="410"/>vidence des dieux
         en la conduitte de cette affection, et se glissant d’arbre en arbre, il
         arriva aupres d’elle justement comme elle achevoit de chanter. Aussi-tost il se jetta
@@ -1398,7 +1398,7 @@
         que le berger attribuant à la joye qu’elle
         devoit avoir de le posseder, il luy fut impossible de se douter jamais de sa malice.</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Enfin, estants arrivez au Temple, Tircis supplia Laonice de consentir</p>
         <p>qu’un druide les mariast ensemble, à quoy s’estant accordée,</p>
         <p>ils furent en peu de temps espousez, et aussi-tost</p>

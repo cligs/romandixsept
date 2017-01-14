@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE SIXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Encores que la nuict fut des-ja bien fort avancée
         lors que ces bergeres se coucherent sur les juppes et sayes de leurs bergers, si est-ce
         qu’estant mal accoustumées de dormir sous le ciel seulement, et
@@ -84,10 +84,10 @@
         raisons que vous pourrez juger par la suitte de mon discours.</p>
         <p>Et lors elle commença de ceste sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE DAMON ET DE MADONTE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il est à propos, sage et discrette trouppe, que de
         nuict je vous raconte ma vie, afin que couverte des tenebres, j’aye moins de honte
         à vous dire mes folies, telles faut-il que je nomme les occasions qui me
@@ -216,11 +216,11 @@
         que par les paroles, apres une longue dispute en son
         esprit, il fit une telle lettre. <pb n="212"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DAMON</head>
-        <h3>A MADONTE</h3>
-        <milestone type="space"/>
+        <p>A MADONTE</p>
+        <milestone unit="line"/>
         <p>C’est bien temerité
         d’aymer tant de perfections, mais aussi c’est bien
         mon devoir de servir tant de merites. Et si vous voulez esteindre
@@ -230,9 +230,9 @@
         trouvez estrange que vous soyez desobeye; car la force excusera toujours ceux
         qui feront cette offence contre vostre volonté, puis que la
         necessité ne recognoist pas mesme la loy que les dieux nous imposent.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mais quand il me voulut faire voir cette lettre, il ne fut
         pas sans peine, parce qu’il sçavoit bien que je ne la recevrois pas sans
         artifice. En fin voyez quelles sont les inventions d’amour. Il me vint
@@ -408,30 +408,30 @@
         l’appellois mon frere, et il me nommoit <pb n="217"/> sa sœur. Je pense que je me
         souviendray encores des vers dont je vous parle. Il me semble qu’ils estoient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’envieux de mon bien il parle, ou qu’il blaspheme,</p>
         <p>Qu’il remarque à nos yeux, ce qu’il pense estre en nous,</p>
         <p>Qu’il cognoisse en effect que je ne suis moy-mesme,</p>
         <p>Sinon, ma sœur, en tant que je ne suis qu’à vous.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que d’un oeil importun il nous veille jaloux,</p>
         <p>Que sur nos actions la medisance il seme:</p>
         <p>Il peut bien m’esloigner de mon bien le plus doux,</p>
         <p>Mais non pas empescher qu’enfin je ne vous ayme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Malgré tous ces discours contre nous inventez,</p>
         <p>Malgré tous ces soupçons qui nous ont tourmentez,</p>
         <p>Mesme dans le cercueil, je fay voeu d’estre vostre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais ce fascheux Argus ne feroit-il pas mieux,</p>
         <p>Nous laissant en repos, d’employer tous ses yeux</p>
         <p>A garder la beauté qu’il paye pour un autre?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mais pour revenir à ce que je vous disois, depuis
         ce jour Damon se reigla de sorte à ma volonté que je ne puis nier que je
         n’eusse de l’amour pour luy. Aussi estoit-il tel qu’il estoit bien mal-aisé
@@ -674,11 +674,11 @@
         Et lors que je fus seule, je sors le papier, et le despliant, je trouve
         qu’il y avoit telles paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE TERSANDRE</head>
-        <h3>A MADONTE</h3>
-        <milestone type="space"/>
+        <p>A MADONTE</p>
+        <milestone unit="line"/>
         <p>Comme contraint, et non pas comme m’en estimant digne, je prends la
         hardiesse, madame, de me dire vostre tres-humble serviteur. S’il faloit
         que vous fussiez seulement servie de ceux qui sont dignes de vous, il
@@ -691,9 +691,9 @@
         servie. Car je sçay bien que jamais personne ne Parviendra
         à la grandeur de ma passion, encore que tous les cœurs se missent ensemble
         pour vous aymer, et adorer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Les flateries de ceste lettre me pleurent, mais venant de
         la part de Tersandre, j’en eus honte, ne voulant qu’une telle personne eust la
         hardiesse de tourner les yeux sur moy pour ce sujet. J’en fus
@@ -1214,11 +1214,11 @@
         à ses affaires le plus promptement qu’il peut, il m’escrivit une lettre qu’il
         mit en sa poche, et reprenant la plume, escrivit ces parolles à Tersandre:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">DEFFY DE DAMON</head>
-        <h3>A TERSANDRE</h3>
-        <milestone type="space"/>
+        <p>A TERSANDRE</p>
+        <milestone unit="line"/>
         <p>Si l’offence que j’ay
         receue de vous, n’estoit de celles qui ne peuvent
         estre effacées qu’avec le sang, je ne desirerois pas, Tersandre, de
@@ -1230,9 +1230,9 @@
         costé, vous promettant en foy de chevalier; que j’y suis seul, et que
         vous n’aurez à vous garder de Personne que de moy, qui suis</p>
         <p>DAMON.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Il commanda à un jeune homme des siens nommé
         Halladin, qu’il avoit nourry, et-qu’il aymoit sur tous ceux qui le servoient, fust pour son
         affection, fust pour l’entendement qu’il avoit, qu’en diligence il luy
@@ -1366,11 +1366,11 @@
         l’avoit donnée à Tersandre; en fin je leus la lettre, qu’il
         m’escrivoit, qui se trouva telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DAMON</head>
-        <h3>A MADONTE</h3>
-        <milestone type="space"/>
+        <p>A MADONTE</p>
+        <milestone unit="line"/>
         <p>Madame, Puis que la connoissance que vous eustes hyer de ma veritable
         affection, et de la malice de Leriane, ait lieu de m’estre favorable, a
         sans plus esté cause de vous faire favoriser d’avantage une personne
@@ -1387,9 +1387,9 @@
         moy, ne vous donnera jamais desir de vengeance pour vous avoir osté
         vostre cher Tersandre, ou le fer, l’eau et le leu ne seront pas
         capables de faire mourir un miserable.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces parolles qui n’estoient pleines que d’un
         extréme transport, me firent une estrange blesseure en Faine, car je fus saisie d’un si grand
         desplaisir, que je ne vous sçaurois dire ny ce que je dis; ny

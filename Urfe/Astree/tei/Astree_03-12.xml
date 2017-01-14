@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DOUZIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La nymphe Galathée et Damon, incontinent apres
         disner, partirent de Bonlieu pour aller trouver Amasis, qui, impatiente ou plustost
         pressée des nouvelles qu’elle avoit receues, leur avoit encores
@@ -716,17 +716,17 @@
         inopinément où j’estois, sinon qu’il me reste encore une
         doute en l’Oracle qu’il m’a rendu, car voicy quel il a esté: <pb n="646"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Et toy, parfaict amant,</p>
         <p>Lorsque tu parviendras, où parle un diamant,</p>
         <p>Tu seras r’appelé de la mort à la vie</p>
         <p>Par celuy des humains,</p>
         <p>A qui plus tu voudrois l’avoir desja ravie.</p>
         <p>Laisse donc contre luy desormais tes desdains.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Car je voy tout le reste avoir eu effect, hormis d’estre parvenu
         où un diamant parle, si ce n’est qu’il ait voulu entendre que
         vous soyez un diamant, en la constance, et en la fermeté de vostre amitié.</p>
@@ -865,10 +865,10 @@
         apres avoir fait une grande reverence à la Nymphe, prit avec un
         grand souspir la parole de ceste sorte pour luy obeyr.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE CHILDERIC, de SILVIANE et d’ANDRIMARTE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Je ne puis, madame, sinon avec un grand regret, vous
         redire ce que vous
@@ -912,20 +912,20 @@
         qui essayoit de monter sur une haute montaigne pour devorer un aigle
         qui y estoit au plus haut avec ce mot,</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>AVEC PEINE S’OBTIENT LA PROYE.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et l’autre, ayant un bouclier qui couvroit une couronne avec ce mot,</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>COUVERTE DE L’ESCU PLUS SEURE EST LA COURONNE.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et faisant trois tours par toutes les rues principales,
         suivis du
         peuple, et accompagnez de leurs acclamations et de celles des soldats.
@@ -1068,13 +1068,13 @@
         Merovée, que pour un oracle qui depuis peu avoit esté
         rendu au temple d’Isis, qui disoit.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Le Gaulois estranger en Gaule regnera,</p>
         <p>Lors que Paris le chef de la Gaule sera.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Parce que Merovée et ses Francs estimerent que leurs ayeuls ayans esté Gaulois, cet oracle eust voulu parler d’eux.</p>
         <p>Or ce beau fleuve de la Seine, comme je m’asseure, madame, vous avez
         bien ouy dire, sert de fossé à ceste belle ville, la
@@ -1492,31 +1492,31 @@
         que l’on pensast que Silviane n’avoit rien faict que par son
         consentement, il en fit des vers qu’il luy donna, et qui estoient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Que nul qu’Amour ne doit oser peindre sa Maistresse.</h3>
-        <milestone type="space"/>
+        <p>Que nul qu’Amour ne doit oser peindre sa Maistresse.</p>
+        <milestone unit="line"/>
         <p>Que tu fus temeraire, ô toy dont le pinceau</p>
         <p>Osa bien desseigner les traicts de ce visage!</p>
         <p>Ton art peut seulement en un hardy tableau</p>
         <p>Imiter la nature, et non pas davantage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais, peintre, ne vois-tu qu’un si parfait ouvrage</p>
         <p>Est mesme en la nature un miracle nouveau:</p>
         <p>Et comment penses-tu d’en bien faire l’image,</p>
         <p>Ne pouvant elle-mesme en refaire un si beau?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que ton art cede donc où cede la nature,</p>
         <p>Et ne te va plaignant que l’on t’ait fait injure,</p>
         <p>En bruslant ce crayon par trop ambitieux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour un si haut dessein foible est la main d’Apelle</p>
         <p>Nul ne le doit oser, et fut-il l’un des dieux,</p>
         <p>Qu’Amour qui dans le cœur me l’a peinte si belle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>i ce pourtraict ne servit à autre chose, il fut
         cause pour le moins que ce jeune prince fit sçavoir à la belle Silviane
         quelle estoit son affection envers elle; car ceste belle fille ne peut
@@ -1544,31 +1544,31 @@
         en risée, la voyant en colere, chanta sur ce suject ces vers
         pour essayer de l’adoucir.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’il luy veut rendre ce qu’il luy a desrobé.</h3>
-        <milestone type="space"/>
+        <p>Qu’il luy veut rendre ce qu’il luy a desrobé.</p>
+        <milestone unit="line"/>
         <p>Elle se plaint, Amour, qu’en l’aymant je l’offense,</p>
         <p>Et voudroit en effect que j’eusse moins de jeux:</p>
         <p>Pourquoy, s’il est ainsi, resserres-tu mes nœuds,</p>
         <p>Et d’en sortir jamais m’ostes-tu l’esperance?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si pressé, si vaincu d’extreme violence,</p>
         <p>Un baiser je desrobe, ou desrober je veux,</p>
         <p>Sans pitié de mon mal, et mesprisant mes vœux,</p>
         <p>Colere elle me dit: Quelle est ceste insolence?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A quelle estrange loy m’a le destin sousmis?</p>
         <p>Dans le regne d’Amour le larcin est permis,</p>
         <p>Et si vostre beauté ce larcin me commande.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais s’il vous desplaist tant, en fin je me resous</p>
         <p>Pour effacer l’erreur qui vous semble si grande,</p>
         <p>De rendre mon larcin, mais de le rendre à vous.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Silviane toutesfois ne pouvoit prendre en jeu la
         continuation de l’amour de Childeric, et Andrimarte, quelque mine qu’il en <pb n="667"/>
         fit, n’estoit pas sans peine de voir que son maistre estoit son rival
@@ -2097,117 +2097,117 @@
         la necessité les y contraignant, Andrimarte, avant que de
         partir, pour tesmoignage de sa passion, luy donna ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Sur un depart.</h3>
-        <milestone type="space"/>
+        <p>Sur un depart.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dieux! qui sçavez quelle peine</p>
         <p>Donne l’absence inhumaine,</p>
         <p>Accomplissez, s’il vous plaist,</p>
         <p>Mon souhait.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Faictes-moy, puis que l’absence</p>
         <p>Me doit ravir sa presence,</p>
         <p>Aussi tost qu’un souvenir,</p>
         <p>Revenir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Faictes, comme un androgine,</p>
         <p>D’une puissance divine,</p>
         <p>R’assembler par le dehors</p>
         <p>Nos deux corps.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ainsi ma fortune premiere</p>
         <p>Me seroit rendue entiere,</p>
         <p>Ayant par vostre pitié</p>
         <p>Ma moitié. <pb n="681"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Faites, comme le lierre</p>
         <p>L’ormeau de son bras enserre,</p>
         <p>Qu’elle soit jusqu’au trespas</p>
         <p>En mes bras.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour rompre la douce estrainte</p>
         <p>De ceste union si saincte,</p>
         <p>Le Ciel n’a rien, ny la mort</p>
         <p>D’assez fort.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Faictes, comme aux irondelles,</p>
         <p>Qu’il me soit donné des aisles,</p>
         <p>Afin de plustost pouvoir</p>
         <p>La revoir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si j’obtenois ceste grace,</p>
         <p>Pour loing que je m’esloignasse,</p>
         <p>J’y ferois cent fois retour</p>
         <p>Chaque jour.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IX</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que si cela ne peut estre,</p>
         <p>Vueillez mon retour permettre</p>
         <p>Tout aussi-tost en ce lieu</p>
         <p>Que l’adieu.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>X</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ma voix, où s’addresse-t’elle?</p>
         <p>Les dieux la voyant si belle,</p>
         <p>En sont amans et jaloux</p>
         <p>Comme nous. <pb n="682"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ayant donc l’ame saisie</p>
         <p>D’une froide jalousie,</p>
         <p>La pitié dans leur esprit</p>
         <p>S’assoupit.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vainement je les reclame,</p>
         <p>Puis qu’amoureux de ma dame,</p>
         <p>Ils m’en esloignent d’aupres</p>
         <p>Tout exprés.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais en vain, remplis d’envie,</p>
         <p>Vous nous troublez nostre vie:</p>
         <p>Nos nœuds sont, et nos liens,</p>
         <p>Gordiens.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ainsi s’en alla le gentil Andrimarte, plus desireux de revenir, que d’estre possesseur de la Gaule Armorique.</p>
         <p>Je ne vous raconteray point icy, madame, la reception qui luy fut
         faicte, tant par Semnon que par ses peuples, qui ayans sceu la
@@ -2974,14 +2974,14 @@
         <p>A peine avoit-il finy de parler ainsi, lors qu’on ouyt une trompette, qui s’estant un peu
         approché du pont-levis, apres avoir sonnré par trois fois, dit à haute voix ces paroles:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>Les druides, princes et chevaliers des Francs, et
         Gaulois assemblez et unis, declarent Gillon roy des Francs, et Childeric
         tyran, et incapable de porter la couronne de ses ayeux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A mesme temps Guyemants, qui estoit accouru, et Childeric
         mesme virent porter le long de la rue Gillon sur le pavois selon la coustume des
         Francs, avec des exclamations si grandes, qu’il cogneust bien que
@@ -3204,10 +3204,10 @@
         <p>s’achemina à Marcilly, vers Galathée, laissant la desguisée</p>
         <p>druide dans l’abondance des contentemens, si elle</p>
         <p>eust eu l’asseurance de s’en prevaloir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
-        <milestone type="space"/>
+    <div type="contentl">
+        <milestone unit="line"/>
         <head type="partie">FIN</head>
         <head type="partie">DE LA TROISIESME PARTIE</head>
         <head type="partie">D’ASTREE.</head>

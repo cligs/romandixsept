@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -41,7 +41,7 @@
 <body>
 <div>
         <head type="partie">ADVERTISSEMENT AU LECTEUR</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Voicy, cher Lecteur, la quatriesme partie de l’Astrée de
         Messire Honoré d’Urfé, qui est le dernier de ses
         ouvrages. Elle contient douze livres, comme la premiere, seconde et
@@ -113,7 +113,7 @@
         donneray dans peu de jours, treuve pour moy quelque indulgence en ton
         humeur, comme je desirerois avoir treuvé les occasions de te
         plaire et de te servir. Adieu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p class="contentr">BARO <pb n="8"/></p>
     </div>
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE NEUFIESEME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cependant que Leonide et la venerable Chrisante alloient
         cherchant quelque lieu commode pour s’asseoir, elles apperceurent à
         travers le bois des bergeres qui venoyent vers elles, car les arbres
@@ -67,31 +67,31 @@
         attendre, et Hylas qui ne demeuroit jamais muet, eslevant la voix, s’en
         venoit chantant ces vers, à haut de teste. <pb n="356"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’il ne faut point aymer sans estre aymé.</h3>
-        <milestone type="space"/>
+        <p>Qu’il ne faut point aymer sans estre aymé.</p>
+        <milestone unit="line"/>
         <p>Quand je vois un amant transi</p>
         <p> Qui languit d’une amour extreme,</p>
         <p>L’œil triste et le visage blesme,</p>
         <p>Portant cent plis sur le sourcy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quand je le vois plein de soucy,</p>
         <p>Qui meurt d’amour sans que l’on l’ayme,</p>
         <p>Je dis aussi tost en moy-mesme:</p>
         <p> C’est un grand sot d’aymer ainsi.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il faut aymer, mais que la belle</p>
         <p>Brusle pour qui brusle pour elle,</p>
         <p>Ou bien c’est pure lascheté.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’amour de l’amour est extraicte;</p>
         <p>La charge n’est jamais bien faite,</p>
         <p>Qui panche toute d’un costê.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A ces dernieres paroles, ces estrangeres furent si proches de
         Leonide et de Chrisante, qu’ayant sceu de Hylas qui estoit la nymphe,
         elles l’allerent saluer, et Chrisante aussi, apres que Leonide leur
@@ -127,10 +127,10 @@
         la nymphe ou la venerable druide leur puissent dire. En fin la bergere
         commença de parler en ceste sorte par le commandement qui luy en
         fut fait.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE DORIS, ET PALEMON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>J’ay tousjours eu ceste opinion, grande et sage nymphe, et
         vous, venerable Chrisante, que s’il y avoit quelque chose entre
         les hommes qui les peust obliger les uns aux autres, ce devoit estre
@@ -342,12 +342,12 @@
         sçavoir l’occasion de sa retraitte, et une de mes plus fidelles amies qui
         l’alla trouver de ma part ne me raporta autre responce de luy que ce mot: <pb n="362"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Amour chasse l’Amour comme un clou chasse l’autre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je jugay alors deux choses: la premiere, qu’estant
         devenu amoureux de quelque autre bergere, il avoit par ceste seconde amour chassé
         la premiere qu’il me portoit; et l’autre qu’avec mespris il me
@@ -435,10 +435,10 @@
         à dire quelque chose contre ce qu’elle leur avoit fait entendre.</p>
         <p>Alors, le berger se relevant, apres avoir salué la nymphe, luy parla de ceste sorte:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">RESPONCE DU BERGER PALEMON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Grande nymphe, je cognoy bien estre tres-veritable, ce
         que j’ay tousjours ouy dire de la divinité: que jamais les dieux et
         déesses n’entrent en un lieu sans y faire quelque bien, puis
@@ -766,10 +766,10 @@
         se preparoient de dire ce qui leur en sembloit, quand l’autre berger se hasta de leur
         faire entendre ses raisons de ceste sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DU BERGER ADRASTE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je vous conjure, grande et puissante nymphe, et vous
         sage et venerable Chrisante, de surseoir le jugement que vous voulez donner jusques
         à ce que vous m’ayez ouy, et vous fais ceste adjuration par la
@@ -985,10 +985,10 @@
         nymphe, s’en revenant avec toute sa troupe, ne les eust interrompus.
         Elle se remit donc en sa place, et chacun ayant repris la sienne, elle parla de ceste sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">JUGEMENT DE LA NYMPHE LEONIDE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Encores que nous remarquions en ces differents, qui sont
         entre nos mains, plusieurs accidents qui semblent estre contraires entre eux, si
         est-ce qu’il n’y a rien qui contrevienne à l’amour, car il
@@ -1490,7 +1490,7 @@
         Leonide voyant qu’il se faisoit tard, apres quelques discours communs,
         se retira en compagnie de la venerable</p>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Chrisante, et ses filles druides, au temple de la Bonne Déesse, et apres le</p>
         <p>disner, s’en alla trouver Adamas, sans que Paris la</p>
         <p>voulust suivre, parce que l’affection qu’il portoit</p>

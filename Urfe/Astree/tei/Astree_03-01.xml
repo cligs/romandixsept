@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -43,7 +43,7 @@
         <head type="partie">LA TROISIESME PARTIE DE L’ASTRÉE</head>
         <head type="partie">DE MESSIRE HONORÉ D’URFÉ</head>
         <head type="chapitre">LIVRE PREMIER</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Depuis que la deliberation fut faicte parmy les bergeres
         de Lignon, d’aller dans trois jours toutes ensemble visiter la
         déguisée Alexis, Amour qui se plaist à tourmenter
@@ -124,31 +124,31 @@
         commencement à ce jour bien-heureux, et si longuement attendu.
         Et parce que sa lumiere ne paroissoit point encore, il chanta dans le lict mesme tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Sur une attente.</h3>
-        <milestone type="space"/>
+        <p>Sur une attente.</p>
+        <milestone unit="line"/>
         <p>O Moments paresseux trainez si lentement!</p>
         <p>O jours longs à venir, longs à clorre vos heures,</p>
         <p>Qui vous’ tient endormis en vos tristes demeures?</p>
         <p>Vous souliez autresfois couler si vistement!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>O ciel qui traines tout avec ton roullement,</p>
         <p>Et qui des autres deux les cadences mesures,</p>
         <p>Dy moy, qu’ay-je commis, et par quelles injures</p>
         <p>T’ay-je faict allantir ton leger mouvement?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Moments, vous estes jours, jours, jours vous estes années,</p>
         <p>Qui de vos pas de plomb n’estes jamais bornées,</p>
         <p>Que des siecles plus longs vous n’alliez égalant.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Peneloppe de nuict deffaisoit sa journée,</p>
         <p>Je croy que le soleil va ses pas r’appellant</p>
         <p>Pour prolonger le jour, et ma peine obstinée <pb n="14"/>.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant que le berger se plaignoit de ceste sorte, le
         temps s’escouloit, et peu à peu faisoit approcher l’heure de la
         premiere clarté du jour, qui ne donna pas si tost par les vitres
@@ -313,31 +313,31 @@
         qu’elles fussent tout aupres de luy, si est-ce qu’il ne les appercevoit
         point. Les parolles qu’il disoit estoient telles</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’il ayme en lieu trop haut.</h3>
-        <milestone type="space"/>
+        <p>Qu’il ayme en lieu trop haut.</p>
+        <milestone unit="line"/>
         <p>Mon cœur qui t’eslevant d’un vol trop temeraire,</p>
         <p>Ne vois de ton desir la folle trahison,</p>
         <p>Ei qui sans y penser ovales le poison,</p>
         <p>Sous un succre trompeur, que penses-tu de faire?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mon cœur, ne vois-tu pas qu’il seroit necessaire,</p>
         <p>Pour trouver quelquesjois à ton mal guarison,</p>
         <p>De nous hausser plus haut que ne veut la raison,</p>
         <p>Ce garçon imitant, qui ne creut à son pere?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je vois bien que tu dis qu’en un suject si beau,</p>
         <p>II vaut mieux que la mer nous serve de tombeau,</p>
         <p>Et qu’amour dans la perte a mis la recompence.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>O mon cœur! il est vray, je ne t’en dédis pas;</p>
         <p>Mais pour n’estre deceus, n’ayons donc esperance.</p>
         <p>De nul autre bon-heur, que-de ce beau trespas.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Diane le voyant en cest estat, cogneut bien
         qu’Astrée et Phillis luy avoient dit la verité, et qu’il se
         preparoit un grand combat pour elle, parce que depuis la mort de Filandre, elle n’avoit
@@ -428,11 +428,11 @@
         la voix de celuy qui les chantoit, que pour mettre fin à leur
         discours avant que toute la trouppe fut arrivée.</p>
     </div>
-    <milestone type="space"/>
-    <div class="contentci">
+    <milestone unit="line"/>
+    <div type="contentci">
         <head type="chapitre">STANCES</head>
-        <h3>Contre une bergere inconstante.</h3>
-        <milestone type="space"/>
+        <p>Contre une bergere inconstante.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
         <p>Esprit plus dangereux que la mer n’est à craindre,</p>
         <p>Et de qui l’amitié m’apprend à desaimer;</p>
@@ -442,7 +442,7 @@
         <p>Qui battu de mesme orage,</p>
         <p>Contre le mesme rocher</p>
         <p>Se perd d’un second naufrage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>II</h4>
         <p>Vous estes plus glissant qu’un glacé precipice,</p>
         <p>Plus on vous veut serrer, et moins on vous estraint;</p>
@@ -452,7 +452,7 @@
         <p>Luy Sisiphe, et vous la roche</p>
         <p>Qui retombe incessamment,</p>
         <p>Quand du sommet elle approche.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>III</h4>
         <p>Vostre ame qui sans chois brusle de toute flame,</p>
         <p>Sous tant de divers feux estouffa man ardeur,</p>
@@ -462,7 +462,7 @@
         <p>On ouyt gronder le tonnerre,</p>
         <p>Qui devancé d’un esclair</p>
         <p>Fait trembler toute la terre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
         <p>Ce n’est donc sans raison, si dénouant mes chaisnes,</p>
         <p>Je sors de la prison où j’ay languy pour vous <pb n="22"/>;</p>
@@ -472,9 +472,9 @@
         <p>Je paindray pour mes trophées</p>
         <p>Des flames dessous un cœur,</p>
         <p>Mais des flames estouffées.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ce berger qui chantoit, fut bien tost recogneu pour estre
         Corilas, qui se souvenant encores des tromperies de Stelle, ne pouvoit cacher la
         haine que veritablement il avoit conceue contre elle. D’autre
@@ -487,31 +487,31 @@
         faicts aussi bien pour sa deffence, que pour celle de l’humeur du
         berger qui les chantoit.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>D’aymer en divers lieux.</h3>
-        <milestone type="space"/>
+        <p>D’aymer en divers lieux.</p>
+        <milestone unit="line"/>
         <p>Si l’amour est un bien comme on nous fait entendre,</p>
         <p>Le bien communiqué, ce me semble, vaut mieux;</p>
         <p>Qui sera le Timon severe et sourcilleux</p>
         <p>Qui reprendra le mien, plus je pourray l’estendre?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si c’est un mal aussi, qui me sçauroit deffendre</p>
         <p>De finir promptement ce qu’on dit vicieux?</p>
         <p>Soit donc ou bien ou mal d’aymer en divers lieux,</p>
         <p>Ou de cesser d’aymer, nul ne me peut reprendre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Les Cieux s’ayment entr’eux, et d’un lien d’aimant</p>
         <p>L’un avec l’autre amour estraint chasque element.</p>
         <p>Et n’aymeray-je pas, ne voyant rien qui n’ayme?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>La nature en changeant se rend belle çà bas.</p>
         <p>Rien n’est en l’univers, qui ne ’change de mesme:</p>
         <p>Et voyant tout changer, ne changeray-je pas? <pb n="23"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A ces dernieres paroles, cette trouppe se trouva si pres
         d’Astrée et de ses compagnes, qu’elles se vindrent saluer et
         donner le bon jour, et par ainsi l’on cessa de chanter pour se demander
@@ -747,12 +747,12 @@
         accoustumé de voir, et de plus, qu’il estoit amoureux, car il portoit
         d’argent à un tygre, qui se repaissoit d’un cœur humain, avec ce mot.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Tu me donnes la mort, et je soustiens ta vie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>II eust peut-estre regardé toutes ces choses plus
         longtemps et plus particulierement, s’il n’en eust esté empesché par
         les souspirs de ce chevalier, qui ayant tenu quelque temps les yeux
@@ -761,32 +761,32 @@
         arracher la vie. II vid que levant les yeux au ciel, il dit, assez haut
         à mots interrompus, telles paroles: <pb n="29"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>C’est faute de courage</h3>
-        <h3>que de supporter tant d’infortunes.</h3>
-        <milestone type="space"/>
+        <p>C’est faute de courage</p>
+        <p>que de supporter tant d’infortunes.</p>
+        <milestone unit="line"/>
         <p>Faut-il encor se flatter d’esperance,</p>
         <p>Faut-il encore escouter ses apas?</p>
         <p>Faut-il encor marcher dessus les pas</p>
         <p>De cette folle et trompeuse creance?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>N’avons-nous point encor la cognoissance</p>
         <p>Que nostre bien pend de nostre trespas,</p>
         <p>Et que l’honneur desormais ne veut pas</p>
         <p>Que nous ayons plus longue patience?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ces maux, ces morts, ces tourments infinis,</p>
         <p>Jamais de nous ne se verront bannis,</p>
         <p>Et seulement nous vivrons à l’outrage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Celuy qui peut tant d’offenses souffrir,</p>
         <p>Sans promptement se resoudre à mourir,</p>
         <p>A bien un cœur, mais n’a point de courage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces paroles furent suivies de plusieurs souspirs, qui en
         fin changez en sanglots, furent accompagnés d’un torrent de larmes, qui coulant
         le long de son visage s’alloient mesler avec l’eau de la fontaine.
@@ -1051,48 +1051,48 @@
         comme j’ay dit, pour tromper la longueur du chemin. Et de fortune quand
         Paris les apperceut, Hylas chantoit tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>De son humeur inconstante.</h3>
-        <milestone type="space"/>
+        <p>De son humeur inconstante.</p>
+        <milestone unit="line"/>
         <p>Je le confesse bien, Phillis est assez belle,</p>
         <p>Pour brusler qui le veut:</p>
         <p>Mais que pour tout cela je ne sois que pour elle,</p>
         <p>Certes il ne se peut.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Lors qu’elle me surprit, man humeur en fut cause,</p>
         <p>Et non pas sa beauté.</p>
         <p>Ores qu’eue me perd, ce n’est pour autre chose</p>
         <p>Que pour ma volonté.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>J’honore sa vertu, j’estime son merite,</p>
         <p>Et tout ce qu’elle fait:</p>
         <p>Mais veut-elle sçavoir d’où vient que je la quitte?</p>
         <p>C’est parce qu’il me plait.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Chacun doit preferer, au moins s’il est bien sage,</p>
         <p>Son propre bien à tous;</p>
         <p>Je vous ayme, il est vray, je m’ayme davantage:</p>
         <p>Si faites-vous bien vous.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bergers, si dans vos cœrs ne regnoit la feintise,</p>
         <p>Vous en diriez autant.</p>
         <p>Mais j’ayme beaucoup mieux conserver ma franchise.</p>
         <p>Et me dire inconstant <pb n="37"/>.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’elle n’accuse donc sa beauté d’impuissance.</p>
         <p>Ny moy d’estre leger:</p>
         <p>Je change, il est certain: mais c’est grande prudence</p>
         <p>De sçavoir bien changer.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour estre sage aussi, qu’elle en fasse de mesme,</p>
         <p>Esgale en soy la loy,</p>
         <p>Que s’il faut par destin que la pauvrette m’ayme,</p>
         <p>Qu’elle m’ayme sans moy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A ces dernieres paroles, Paris se trouva si pres, que
         Silvandre le recogneut. Et parce qu’il tenoit Diane sous le bras, il jugea bien
         qu’il deplairoit à sa maistresse, s’il ne quittoit à

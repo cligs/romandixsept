@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -44,7 +44,7 @@
         <head type="partie">DE MESSIRE HONORÉ D’URFÉE</head>
         <head type="partie">DE LA QUATRIESME PARTIE</head>
         <head type="chapitre">LIVRE PREMIER</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Depuis que Galathée, par la violence d’une extréme
         jalousie, avoit esloigné de sa presence la nymphe Leonide, elle
         avoit diverses fois desiré de la revoir encore auprés
@@ -1704,67 +1704,67 @@
         de chanter. Et, sans attendre sa réponce, d’autant qu’il
         avoit la voix assez bonne, il chanta ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dieu! qu’est-ce que de Moy? je voy cette cruelle,</p>
         <p>D’un plus aspre desdain s’armer de jour en jour;</p>
         <p>Et comment se peut-il que mon service en elle</p>
         <p>Soit pere de la hayne, estant fils de l’amour?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’orgueilleuse qu’elle est, regardant son visage</p>
         <p>Avoir plus de beautez qu’on ne peut estimer,</p>
         <p>Peut-estre contre moy s’offense en son courage</p>
         <p>De ne me voir qu’un cœur, et que je l’ose aymer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Delphire, avec raison vous estes en colere,</p>
         <p>Mais contre la nature armez vostre courroux,</p>
         <p>Car me faisant pour vous, devoit-elle pas faire</p>
         <p>Autant de cœurs en moy, que de beautez en vous? <pb n="51"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Toutesfois, si mon œil peut dire à ma pensée</p>
         <p>Tant de perfections qui vous font admirer,</p>
         <p>Glorieuse beauté, cessez d’estre offensée</p>
         <p>Que, n’ayant que ce cœur, j’ose vous adorer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Un soleil dans le ciel d’un eclat admirable</p>
         <p>Reluit plus que ne font tous les feux de çà bas;</p>
         <p>De vous aymer aussi mon cœur est plus capable</p>
         <p>Qu’un million de cœurs sans luy ne seroient pas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qui peut taxer les dieux? C’est leur pouvoir supreme</p>
         <p>Qui fait que je vous ayme outre ma volonté.</p>
         <p>N’est-ce pas commander à mon cœur que je l’ayme,</p>
         <p>Faisant voir à mes yeux vostre extreme beauté?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si toutesfois, poussé d’un excez de justice,</p>
         <p>Quelqu’un ma passion veut aller accusant,</p>
         <p>Qu’il s’en vienne vous voir, et puis qu’il me punisse,</p>
         <p>Si vous voyant, son cœur en peut bien estre exempt.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A peine ce berger eut achevé ces vers, que
         Delphire luy dit: II ne faut point un meilleur tesmoignage du changement que vous avez
         fait, que celuy que vous en donnez, en mesprisant rmes commandemens, ce
@@ -1793,19 +1793,19 @@
         Quant au juge, nous ne pouvons non plus y estre
         trompez, parce que l’oracle est tel.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A l’endroit qu’on dit que dans l’eau</p>
         <p>Celadon a faict son tombeau,</p>
         <p>Vous aurez un juge propice.</p>
         <p>Sans qu’on le voye il vous verra,</p>
         <p>Vostre different il orra,</p>
         <p>Et vous fera justice.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Voylà, reprit le mesme berger, un oracle assez obscur, car
         si vous ne voyez point celuy qui doit estre vostre juge, comment
         entendra-t’il qu’il le doive estre? – II l’est bien encore plus que
@@ -1816,7 +1816,7 @@
         qu’il sçaura qu’il est nostre juge, il ayt à nous en
         advertir. –</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Mais, interrompit encores ce berger, comment le sçaura-t’il,</p>
         <p>si vous ne le luy dites, et comment le luy direz-vous, si</p>
         <p>vous ne le cognoissez pas? – Pour demeler ces</p>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE CINQUIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Adamas avoit à faire si peu de chemin qu’il arriva dans
         Marcilly bien long-temps devant qu’Amasis ny Galathée fussent
         esveillées. Cela fut cause qu’il s’en alla droit dans la chambre de Lindamor qu’il treuva
@@ -429,11 +429,11 @@
         trouvant plus forte en luy que toute autre consideration, il la receut
         en fin, et l’ayant ouverte, il y leut ces mesmes mots.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE SIGISMOND</head>
-        <h3>A GONDEBAUT</h3>
-        <milestone type="space"/>
+        <p>A GONDEBAUT</p>
+        <milestone unit="line"/>
         <p>Monseigneur, si l’extreme colere où vous estes contre
         moy, n’a pas fait mourir dans vostre ame toute sorte de pitié,
         recevez-en pour ce peu de lignes, et croyez qu’elles ne sont pas, comme
@@ -465,9 +465,9 @@
         fait une faveur, s’il ne leur eust jamais donné de vie; puis
         qu’il estoit fatal qu’ils la perdissent
         hors de vostre service et de vostre amitié.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Durant que Gondebaut leut cette lettre, Ligonias prit garde
         <pb n="204"/> à tous ses mouvements, et les observa si bien qu’il en
         conceut une tres-bonne esperance pour le succez de son voyage. Il vid
@@ -538,11 +538,11 @@
         autour de luy, il tourna ses yeux languissans sur Doris, et puis il
         commença son discours en cette sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>D’ADRASTE</h3>
-        <milestone type="space"/>
+        <p>D’ADRASTE</p>
+        <milestone unit="line"/>
 
         <p>Belle bergere, si les funestes accidents qui ont troublé le
         repos de ma vie n’estoient aujourd’huy cogneus de tous ceux qui vivent
@@ -970,11 +970,11 @@
         Palemon luy escrivoit. Et cette belle bergere l’ayant receue, l’ouvrit
         au mesme instant, et vid qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE PALEMON</head>
-        <h3>A DORIS</h3>
-        <milestone type="space"/>
+        <p>A DORIS</p>
+        <milestone unit="line"/>
         <p>L’interest que j’ay en la conservation d’Adraste, me fait user
         des remedes qui peuvent estre utiles à sa guerison; Et parce que
         je sçay bien que vostre affection est le plus puissant de tous
@@ -987,9 +987,9 @@
         Disposez-vous donc à me donner ce contentement, et souvenez-vous
         qu’en ce moment vous conserverez deux choses qui vous doivent estre
         cheres, qui sont la vie d’Adraste, et le repos de Palemon.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Elle n’eut pas si-tost achevé de lire cette lettre, qu’elle
         changea de couleur; dequoy le druide s’estant apperceu: Comment, luy
         <pb n="217"/> dit-il, belle Doris, vous rougissez, il faut bien qu’il y ait
@@ -1324,7 +1324,7 @@
         chevalier le suject de son ressentiment, et de peur qu’on l’eust
         accusé de manquer de</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>civilité, si ayant sceu la venue de Bellinde, il ne luy fust allé</p>
         <p>rendre ce qu’il luy devoit, il resista aux pensées, qui</p>
         <p>luy persuadoient que, puisqu’elle n’estoit venue</p>

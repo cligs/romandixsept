@@ -1,0 +1,1416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">L'Astrée</title>
+                <title type="part">Cinquième partie – Livre IX</title>
+                <title type="partie">05</title>
+                <title type="livre">09</title>
+                <author>Honoré d'Urfé</author>
+                <respStmt>
+                <resp>Establishment of the text</resp>
+                <name xml:id="hv">Hugues Vaganay</name>
+                <resp>Digitization</resp>
+                <name xml:id="rk">Reinhard Krüger et al.</name>
+                <resp>TEI-Conversion</resp>
+                <name xml:id="cf">Christof Schöch</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <availability status="free">
+                </availability>
+                <date>2016</date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digital-source">Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010. <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>.</bibl>
+                <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-11-21" who="#cf">Initial TEI version.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+<front>
+<div>
+<p></p>
+</div>
+</front>
+<body>
+<div>
+        <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
+        <head type="chapitre">LE NEUFVIESME LIVRE</head>
+        <milestone unit="line"/>
+        <p>A peine le grand Olicarsis eut achevé ce discours, que
+        Phillis entra, mais si hors d’haleine, qu’elle estonna toute la
+        compagnie, et particulierement Adamas et Bellinde, qui eurent peur
+        qu’elle leur vinst donner quelques mauvaises nouvelles touchant les
+        affaires d’Astrée, de Diane et d’Alexis. Cela fut cause que le
+        Druide, qui jugea que s’il estoit arrivé quelque chose de
+        sinistre, il n’estoit pas à propos que Bellinde l’apprist si
+        promptement, se leva pour luy aller à la rencontre et cette
+        belle bergere ne fut pas plustost aupres de luy, qu’avec un estonnement
+        nompareil: Mon pere, luy dit-elle, j’ay à vous dire la plus
+        memorable chose qui sera jamais: Astrée et Diane sont
+        trouvées, elles sont endormies assez pres de la fontaine de la
+        verité d’Amour; quantité de bergers et de bergeres sont
+        arrestez à les considerer, mais il ne se treuve personne qui ait
+        assez de courage pour s’en approcher, car, et c’est ce que j’y ay veu
+        de plus estrange, les deux Licornes sont couchées aupres
+        d’elles, et tenants leur teste appuyée sur les genoux de mes
+        compagnes, elles lancent de si effroyables regards contre ceux qui les
+        veulent aborder, qu’il n’y a berger qui l’ose entreprendre.</p>
+        <p>Ce discours estonna extremément le Druide pource qu’il luy fit
+        voir clairement le dessein de ces deux bergeres; et ce qui le mit
+        davantage en peine, ce fut qu’il s’magina que peut-estre estoient-elles
+        desja mortes, et que personne n’ayant osé les approcher, il
+        estoit croyable qu’on avoit pris opinion qu’elles dormoient. Toutefois
+        ne voulant pas dire ouvertement à Bellinde ce qu’il en croyoit,
+        il s’approcha d’elle, et luy raconta ce que Phillis <pb n="378"/> avoit
+        veu. Aussi-tost Bellinde se leva, et dans l’excez de sa joye, oubliant
+        ce qu’elle devoit à Rosanire et à Galathée, elle
+        voulut sortir de la gallerie pour courir avecque plus de liberté
+        au lieu où elle croyoit treuver Diane. Mais Adamas l’en
+        empeschant: Ne vous hastez pas, luy dit-il, sage Bellinde, nous les
+        aurons bien ces fuytives, sans que vous preniez la peine d’aller apres
+        elles. – Pardonnez, respondit Bellinde, au ressentiment d’une mere qui
+        ne peut souffrir qu’on luy differe pour un seul moment le plaisir que
+        luy rapportera la rencontre de cette desobeyssante. Je ne
+        sçaurois vivre si je ne la vois, et puisque Phillis a dit ou je
+        la puis treuver, par pitié, permettez que je l’aille querir, et
+        que je la rameine. – Mon dessein n’est pas, reprit le Druide,
+        d’empescher que vous ne la revoyiez, au contraire je croy qu’à
+        cela ma diligence servira mieux que la vostre, mais puisque Phillis
+        sçait si bien le lieu où sont ces deux bergeres, je suis
+        d’avis qu’elle me serve de guide, et sans que vous en ayez
+        l’incommodité, je prends sur moy la charge de vous les amener. –
+        Pour le moins, mon pere, dit Galatée, ayant sceu cet accident,
+        vous ne refuserez pas nostre compagnie, car cette rencontre est si
+        belle, qu’il n’est personne de nous qui ne soit bien aise d’en pouvoir
+        estre tesmoing. – Comment? reprit Bellinde, voyant qu’Adamas estoit
+        prest d’y consentir, je serois donc celle qui auroit eu le plus
+        d’interest en ces filles, et qui auroit le moins contribué de
+        peine à les r’avoir? Je meure, continua-t’elle, si je ne
+        franchis toutes sortes de considerations, et si je n’ayme mieux me
+        rendre coupable de vous avoir desobey que manquer à les aller
+        voir en quelque lieu qu’elles puissent estre.</p>
+        <p>Adamas l’en voulut encore dissuader, croyant tousjours que ces belies
+        filles n’estoient plus en estat de luy donner aucun contentement, mais
+        ses raisons n’estants pas si fortes que l’amour, et l’impatience de
+        Bellinde, il fallut enfin qu’elle fust de la partie.</p>
+        <p>Ils se mirent donc tous ensemble en chemin, et le Druide ayant
+        demandé à Phillis par quelle rencontre Astrée et
+        Diane avoient esté treuvées, cette belle fille luy
+        respondit: Il faut que vous sçachiez, mon pere, que ce matin
+        nous estants separez comme nous avions fait hyer, et chacun ayant pris
+        pour soy un endroit particulier, afin de faire nostre recherche plus
+        exactement, il est arrivé que Lycidas a voulu aller du coste de
+        la fontaine; je luy ay dit aussi le lieu où j’allois, en cas
+        que l’un de nous apprist quelques nouvelles, nous avons pris nostre
+        rendez-vous sur le milieu du jour, au mesme lieu où nous nous
+        rencontrasmes hyer, qui est sur <pb n="379"/> le bord de Lignon. Je m’y
+        suis rendue plustost que luy, pource qu’à la verité je
+        commençois de ne plus rien esperer de mes soings ny de ma
+        recherche, et apres l’y avoir attendu quelque peu de temps, enfin je
+        l’ay veu venir assez viste, mais aussi affligé qu’il l’estoit
+        quand il m’avoit quittée le matin. Aussitost qu’il a esté
+        aupres de moy: Ma Phillis, m’a-t’il dit assez froidement, si vous
+        voulez voir Astrée et Diane, elles ne sont pas beaucoup
+        esloignées d’icy, je les ay veues l’une pres de l’autre, qui
+        dorment fort profondement. Alors en l’interrompant: Vous avez veu
+        Astrée? luy ay-je dit tout estonnée. Ah! mon Lycidas,
+        pour Dieu! conduisez-moy où elle est, et ne me tenez plus en
+        peine. – Je l’ay veue vrayment, m’a-t’il respondu, et bien-tost je vous
+        donneray la commodité de la voir aussi. Mais, a-t’il
+        continué, si vous m’aymez, ne m’obligez pas à parler
+        à elle, ny a m’en approcher, car son abord me sera desormais si
+        funeste, que je ne croy pas que la mort me pust faire tant d’horreur
+        que son visage. – Vous estes en colere, luy ay-je dit, mais il me
+        semble que vous devriez maintenant estre satisfait, puis qu’elle vous
+        à demandé pardon? – Ah dieux! a repliqué ce
+        berger, que les paroles sont foibles, pour reparer l’injure que j’ay
+        receue en la personne de mon frere!</p>
+        <p>Disant cela, nous allions tousjours nous approchant, et dés
+        qu’il a pu remarquer le lieu où sont mes compagnes, pour le
+        moins où je les ay laissees: Voyez-vous, m’a-t’il dit, ce vieil
+        autel, que les années ont en partie desmoly? elles sont
+        couchées au pied de quelques degrez sur lesquels il est
+        eslevé. Je voyois bien ce qu’il me marquoit avecque le doigt,
+        mais ne voulant pas qu’il me quittast, je l’allois tousjours traisnant
+        peu a peu, et feignois de ne pouvoir remarquer l’endroit qu’il me
+        designoit. Enfin, quand j’ay commencé d’appercevoir
+        Astrée et Diane: Il me semble, luy ay-je dit, que je voy a peu
+        prez ce que vous me marquez, mais c’est si confusement, que si vous n’y
+        venez avecque moy, je crains de ne le pouvoir trouver qu’avecque peine.
+        – Helas! m’a-t’il respondu, voulez-vous que je voye encore une fois la
+        cause de tous mes des plaisirs? A ce mot il a un peu levé le
+        yeux, et voyant que nous en estions plus proches qu’il ne croyoit:
+        Sans estre aveugle, a-t’il adjousté, vous ne sçauriez les
+        mescognoistre d’où nous sommes. Disant cela, j’ay pris garde
+        qu’il les regardoit fort attentivement, et tout à coup j’ay ouy
+        que prenant la parole: Mais, a-t’il continué, je voy quelque
+        chose aupres d’elles qui n’y estoit point, quand je les ay
+        rencontrées. – Helas! ay-je dit, seroit-ce point Alexis?
+        <pb n="380"/> Cette esperance nous a fait haster, mais lors que nous n’en
+        avons plus esté esloignez que de quarante ou cinquante pas, tout
+        d’un coup Lycidas s’arrestant: Ma maistresse, a-t’il dit, pour Dieu!
+        ne passez pas plus outre, je voy aupres d’elles deux animaux, dont les
+        regards nous menacent, et si je ne me trompe, ce sont les deux Licornes
+        qui gardent la fontaine de la verité d’Amour.</p>
+        <p>J’avoue la verité, mon pere, dés ce moment j’ay senti
+        qu’une secrette frayeur s’est glissée dans mes veines, et j’ay
+        esté bien aise dequoy en cet instant Hylas et Adraste ont paru
+        un peu à costé de nous, car soubs pretexte de les aller
+        advertir de cette nouveauté, je me suis esloignée de leur
+        furie. Mais pourtant ayant un peu repris de courage, je suis encore
+        revenue avec eux, et me sentant un peu plus forte en leur compagnie,
+        j’ay consideré à loisir la contenance de mes compagnes;
+        je les ay donc veues en l’estat que Lycidas n’avoit depeint, c’est
+        à dire couchées au pied des degrez de cet autel, et de
+        plus, j’ay remarqué qu’elles se tenoient embrassées, et
+        que les deux Licornes s’appuyoient sur leurs genoux. J’eusse bien
+        desiré que ces deux animaux eussent eu autant de peur de moy,
+        que j’en avois d’eux, afin de nous laisser plus libre l’accez de mes
+        compagnes, mais ils n’en ont jamais voulu partir, et pas un de ces
+        bergers n’a osé s’en approcher davantage. Voyant donc que je ne
+        gaignois rien à demeurer-là, j’ay jugé qu’il
+        estoit à propos de vous en venir donner advis, ce que j’ay fait,
+        et en venant, j’ay rencontre Celidée, Thamire, Stelle, Doris et
+        plusieurs autres, a qui j’ay enseigné le lieu où ils
+        pourroient estre tesmoins de cette avanture. – Pour rien du monde, dit
+        Adamas, je ne voudrois que cela ne fust ainsi. S’il est vray,
+        continua-t’il, pliant les espaules qu’il n’y ait rien de plus funeste
+        que ce que vous nous avez raconté; car Astrée, qui
+        craignoit si fort qu’on jugeast mal de sa vertu, à cause du
+        desguisement et de la feinte de Celadon, aura par la une preuve
+        irreprochable de sa pureté, d’autant que c’est le propre de ces
+        animaux de ne s’approcher jamais d’une chose qui aura quelquefois esté pollue.</p>
+        <p>Avec semblables discours toute cette compagnie s’alloit entretenant,
+        cependant qu’en ce mesme temps Alexis et Silvandre estoient en chemin,
+        pour aller mettre en execution l’entreprise qu’ils avoient faite le
+        jour auparavant. Ils s’estoient esveillez un peu plus tard qu’ils
+        n’eussent desiré, car ils craignoient que le soleil, pour estre
+        un peu trop haut, leur fist rencontrer quelque obstacle à leur
+        dessein; toutefois, estants bien resolus de passer <pb n="381"/> au dessus
+        de toutes sortes de considerations ils partirent, et sans penser
+        à autre chose qu’à ce dernier moment qui les devoit
+        affranchir des tyrannies de la fortune, ils marcherent avec tant de
+        diligence qu’ils arriverent en fort peu de temps aupres du mesme autel
+        où Astrée et Diane s’estoient endormies. Alexis fut la
+        premiere qui les apperceut, et pour ce que cette rencontre la surprit,
+        elle s’arresta tout à coup, et Silvandre qui remarqua son
+        estonnement, luy en ayant demandé la cause. Helas! cher amy,
+        respondit Alexis, ne seriez-vous pas l’homme du monde le plus surpris,
+        si, comme Astrée vient de se presenter maintenant à moy,
+        Diane vous donnoit encore une fois le plaisir de revoir son beau visage
+        ? – J’en serois vrayment estonné, dit Silvandre, car tant s’en
+        faut que ce soit un bien que je puisse attendre, que je tiens pour
+        impossible que cela soit jamais. – Et pourtant, reprit Alexis, si vous
+        jettez les yeux du costé de cet autel qui paroist un peu
+        eslevé dans la plaine, et qui n’est pas beaucoup esloigné
+        de nous, vous verrez aupres d’Astrée une
+        bergere à qui vous ne voulez point de mal.</p>
+        <p>Silvandre alors ayant porté sa veue jusques-là, et ayant
+        bien remarqué Diane, changea deux ou trois fois de couleur; et,
+        dans ce ravissement, pouvant à peine ouvrir la bouche: Ah dieux
+        ! s’escria-t’il, ah Diane! A ce mot, redoublants un peu le pas, ils
+        s’approcherent si fort de ces bergeres, qu’ils purent remarquer
+        jusqu’au moindre des traits de leur visage; et Alexis qui se jetta
+        d’abord aux pieds d’Astrée: Belle mauvaise, dit-elle tout bas,
+        avec un profond souspir, le Ciel n’est-il pas bien injuste de
+        t’accorder tant de repos, apres avoir avecque tant de haine cause la
+        perte du mien? Et Silvandre alors: Et toy Diane, dit-il, viens-tu sur
+        cet autel remercier les dieux dequoy ils t’ont accordé la
+        possession de Paris, ou si tu viens te plaindre à eux dequoy ils
+        t’ont ravie à l’amour inviolable de Silvandre?</p>
+        <p>A ce mot, se taisants pour un peu: Mais, belle Astrée, reprit
+        Alexis, qui m’es encore chere parmy la rigueur des supplices que tu me
+        fais souffrir, ne sçaurois-je lire dans tes yeux le suject qui
+        t’a fait entreprendre ce voyage? Ah! sommeil, ne m’es-tu pas aussi
+        cruel que tu es doux à cette inhumaine? Permets, dieu du repos
+        et du soulagement, qu’un seul de ses regards precede le dernier moment
+        de ma vie. Mais que j’ay peu de raison de l’invoquer, continua-t’elle
+        en se reprenant, la cruauté d’Astrée ne m’a-t-elle pas
+        appris que les divinitez sont quelquefois insensibles! – Belle Diane,
+        adjouta Silvandre, portant doucement la bouche sur l’une <pb n="382"/> de
+        ses mains, reçoy ce peu de larmes dont je mouille la blancheur
+        de tes lys, pour le dernier tesmoignage d’amour que tu dois obtenir de
+        ton berger; reçoy, belle bouche, ce funeste et deplorable adieu
+        ; et s’il est possible que ma passion inspire encore quelque chose dans
+        ton ame, ne souffre jamais que mon nom meure dans ton souvenir. Disant
+        cela il se hazarda de la baiser; et bien qu’il pressast un peu les
+        levres de cette bergere, elle ne s’esveilla pas pourtant, car le long
+        temps qu’elle avoit demeure sans dormir rendoit son sommeil si pesant,
+        qu’il eust esté bien difficile de le chasser. Alexis de son
+        costé desroba la mesme faveur sur la bouche d’Astrée, et
+        puis regardant Silvandre: Mais, berger, luy dit-il, à qui
+        devons-nous cette grace, si ce n’est à leur peu de sentiment?
+        Retirons-nous, Silvandre, et ne meslons pas ces douceurs parmy les
+        amertumes que nous goustons, laissons le repos à ces beautez
+        que, nous avons si respectueusement adorées, et n’attendons pas
+        que leur reveil condamne de temerité les dernieres actions de
+        nostre vie. – Allons, respondit Silvandre, où nous appelle
+        nostre destinée, allons, Alexis, allons mourir. Mais encor un
+        coup, continua-t’il, rebaisant la main de Diane, adieu, la plus aymable
+        de toutes les beautez que Lignon a veues sur ses rivages, adieu, Diane,
+        adieu l’object de mon amour, et la cause de mes supplices.</p>
+        <p>A ce mot il se leva, et ouyt qu’Alexis disoit: Et toy, la plus belle
+        et la plus inhumaine qui fut jamais, chere Astrée, s’il arrive
+        que la fureur des Lyons et des Licornes laisse quelques reliques de moy
+        qui te puissent apprendre ma deplorable et genereuse fin, souviens-toy
+        que mon amour l’a choisi, ce genre de mort, et que ta rigueur en a
+        esté la cause. Je ne demande pas au Ciel qu’il me vange de ta
+        cruauté, mais je conjure les dieux qu’ils te rendent mon
+        innocence et ma fidelite si cognues, que tu ne puisses jamais douter
+        que, comme j’ay esté le plus discret de tous les amants, tu
+        n’ayes esté la plus cruelle de toutes les maistresses. Disant
+        cela elle se leva aussi, et prenant Silvandre par la main, se mit
+        à suivre parmy quelques arbres le chemin qui
+        les pouvoit mener droit à la fontaine.</p>
+        <p>Cette rencontre se fit cependant que Lycidas estoit allé
+        advertir Phillis du lieu où il avoit desja trouvé ces
+        bergeres, et durant le temps qu’ils mirent à revenir, Alexis et
+        Silvandre s’approcherent si fort de la fontaine enchantée, que
+        les deux licornes qui les apperceurent les premieres, laisserent les
+        lyons en garde, et s’en vindrent droit à eux. Alexis qui n’avoit
+        autre volonté que de mourir, les <pb n="383"/> attendit de pied
+        ferme, et Silvandre qui n’estoit pas porté d’un moindre desir,
+        ouvrit les bras pour recevoir dans son estomac le coup mortel qui le
+        devoit oster du nombre des hommes. Mais les Licornes qui estoient
+        venues de front, et extremement serrées, ne furent pas plustost
+        à cinq ou six pas d’eux, qu’elles s’ouvrirent, et passerent
+        à leurs costez sans leur faire aucun dommage. Cet accident qui
+        trompa leur esperance les laissa grandement confus. Desirants toutefois
+        d’apprendre à quoy cela se termineroit, ils tournerent la teste,
+        et se mirent à les suivre de l’œil; ils virent donc qu’au petit
+        pas elles s’approcherent de Diane et d’Astrée, et qu’apres avoir
+        un peu mangé de l’herbe, qui estoit assez grande en cet
+        endroit-là, elles se coucherent en terre et appuyerent leur
+        teste sur le giron de ces bergeres. Au commencement ils eurent peur que
+        ces animaux leur fissent quelque injure, et s’vancerent pour les
+        secourir, mais ils ne les virent pas plustost couchez qu’ils
+        s’arresterent, bien estonnez de voir tant de douceur, où ils
+        avoient creu rencontrer tout ce que la nature a jamais fait de plus
+        farouche. Ils estoient encore dans cette consideration quand ils virent
+        venir Lycidas et Phillis; de sorte, que, de crainte d’estre apperceus,
+        ils s’assirent en terre, et s’estant cachez derriere une petite haye,
+        ils furent quelque temps a remarquer leurs actions et leur estonnement.
+        Enfin ils virent que Phillis quitta Lycidas, et un peu apres ils
+        apperceurent Hylas, Adraste, et les autres à qui cette bergere
+        avoit donné la nouvelle du recouvrement d’Astrée et de
+        Diane. Alexis, voyant donc qu’il s’assembloit la quantité de
+        personnes, se tournant froidement à Silvandre: Et vous, berger,
+        luy dit-elle, ne voulez-vous point aller trouver toute cette bonne
+        compagnie? Ne seriez-vous pas mieux aupres de ces bergers, qu’aupres
+        de moy, de qui la conversation est si contagieuse, qu’elle inspire le
+        dessein de mourir à tous ceux qui me rencontrent? – Vostre
+        presence, respondit Silvandre, n’a pas produit cet effect en moy, puis
+        qu’au contraire je puis dire qu’elle l’a empesché, ou pour le
+        moins differé, car il est certain, que si vous ne m’eussiez
+        point hyer diverty de la resolution que j’avois faite, je ne serois
+        desja plus, et me verrois quitté de ce tribut que je veux payer
+        à la nature. Mais vous, Celadon, continua-t’il, pourquoy
+        fuyez-vous avecque tant d’opiniastreté les regards de vostre
+        bergere? Si Astrée a paru en colere contre vous, n’est-il pas
+        aisé de juger que ce mouvement fut alors si prompt qu’elle n’y
+        put resister, et si violent qu’il n’aura point eu de durée?
+        Croyez-moy, allez guerir <pb n="384"/> l’esprit de cette belle bergere qui
+        se meurt sans doute dans l’impatience de sçavoir ce que vous
+        estes devenu. Vous obligerez en cela presque tout ce qu’il y a de
+        bergers et de bergeres en cette contrée, car je ne pense pas
+        qu’il s’en trouve un seul, qui n’ait un extreme interest pour vous, par
+        le devoir du sang ou de l’affection; mais moy chetif, à qui
+        puis-je plaire, quand je ne mourray pas? Diane, premierement, trouvera
+        dans mon trespas un suject de satisfaction nompareille, en ce qu’il
+        empeschera qu’elle ne revoye celuy de qui la presence l’accuseroit
+        eternellement, et la feroit paroistre coupable d’un peu de trahison.
+        Pour ce qui regarde le reste des bergers et des bergeres, helas!
+        pourquoy seroient-ils sensibles à mes maux, s’il n’en est pas un
+        à qui ma mort ne soit indifferente comme ma vie? d’autant mieux
+        que n’estant cognu de personne, et ne sçachant pas moy-mesme qui
+        je suis, il seroit difficile qu’il s’en trouvast quelqu’un qui eust
+        voulu avoir pour object de son amitié, un vagabond et un
+        miserable, qui a ressenty tout ce que les coups de la fortune ont
+        jamais eu de plus sensible et de plus pesant. – Vostre merite, reprit
+        Alexis, a suppleé à tous les deffauts que vous alleguez,
+        et vous a donné plus de pouvoir sur les volontez de tout ce
+        qu’il y a d’honnestes gens en cette contrée, que si vous estiez
+        ne de la plus illustre famille qui soit dans le Forests. Assurez-vous,
+        Silvandre, que les regrets dont vostre mort seroit accompagnée
+        vous toucheroient en l’autre vie, dont les Druides nous enseignent que
+        nous devons jouyr, et vous feroient en quelque sorte repentir d’avoir
+        osté à cette province la gloire de posseder un berger
+        parfait et accomply comme vous estes. Ainsi, je ne trouve nullement
+        legitime la volonté que vous avez devous exposera la fureur des
+        lyons, et de m’envier le contentement que cette mort me prepare, parce
+        que vous offenseriez non pas seulement les dieux, en defaisant l’un de
+        leurs plus parfaits ouvrages, mais les hommes, en leur ravissant le
+        plus parfait exemple de vertu qui leur pust jamais estre
+        proposé. Croyez moy, Silvandre, laissez moy mourir tout seul,
+        conservez ce qui reste de vos jours pour des actions qui vous seront
+        plus agreables, et redonnez à Diane celuy pour qui je
+        sçay bien que son ame à mille fois souspire d’amour. Quoy
+        que vous en croyiez, je ne sçaurois me persuader qu’elle n’ait
+        fait quelque violence pour s’empescher de tomber entre les mains de
+        Paris, et l’estat où elle est maintenant, est, ce me semble, une
+        preuve bien forte que ce mariage n’est point consommé; car
+        à quel propos seroit-<pb n="385"/>elle venue avec Astrée,
+        sans conduite, et sans trouppeau, en ce lieu qui a esté si peu
+        frequente depuis que la fontaine fut enchantée, si ce n’estoit
+        pour se derober de Bellinde pour quelques heures, et luy donner le
+        temps de considerer combien elle a peu d’inclination à cette
+        alliance? – Helas, dit Silvandre en l’interrompant, que ce petit
+        esloignement et ce sommeil, sont des marques bien puissantes pour me
+        confirmer dans la croyance que mon desespoir est juste, et que sa
+        trahison est vraye! Car, enfin, ne dois-je pas croire que cette
+        ingratte n’a fuy que pour allumer davantage les flames dont Paris est
+        consumé, et que le sommeil qui la tient occupée ne sert
+        qu’à luy rendre une partie du repos que les caresses et les
+        embrassements de mon rival luy ont desrobé durant cette premiere
+        nuict? Ah Dieu! continua-til, que je voy de sujects de jalousie, et
+        que cette passion me donne de furieux transports! Quoy! Celadon, vous
+        trouveriez donc juste que je vesquisse, pour estre tesmoing de tous les
+        baisers que ce mary cueillera sur les levres qui ont aydé
+        à prononcer l’Arrest de ma mort et de son contentement? Vous
+        croyez donc que les faveurs que cette volage luy accordera publiquement
+        ; quelques innocentes qu’elles soient, ne me paraistront pas aussi
+        noires que des crimes? Ah! que vous aymez peu, si vous vous imaginez
+        que ces faveurs soient de celles qui ne font point mourir!
+        Assurez-vous qu’un seul de leurs regards ne me seroit pas moins funeste
+        que le coup d’un poignard, dont quelque ennemy m’auroit traverse le
+        cœur. Non non, berger, il vaut mieux que je les laisse libres en la
+        jouyssance de leurs nouveaux plaisirs, afin que leurs passe-temps ne
+        soient point troublez par les obstacles que ma presence y pourroit
+        apporter. Il me semble que toutes choses m’appellent à ce
+        dessein bien plus legitimement que vous, qui n’avez pour authoriser la
+        resolution que vous avez prise, qu’une mauvaise humeur d’Astrée,
+        qui en a peut-estre desja pleuré mille fois, fait agréer
+        vos services. Donc, cher Celadon, s’il est possible que mes prieres
+        ayent quelque pouvoir aupres de vous, de grace, laissez moy seul mettre
+        fin à cette avanture; c’est un fidele amant qui doit mourir, ne
+        me disputez pas cet avantage, et pardonnez-moy si je dis, par la
+        cognoissance que j’ay de mon amour, et de mon humeur, qu’il est
+        impossible de trouver un horame au monde qui
+        l’emporte par dessus moy.<pb n="386"/></p>
+        <p>Disant cela, il se mit à embrasser Celadon, et à le
+        conjurer de nouveau qu’il luy octroyast la grace dont il le requeroit;
+        mais luy, feignant d’estre un peu mal satisfait de sa demande:
+        Vrayment, Silvandre, respondit-il, vous ne ressemblez pas mal à
+        celuy, qui apres avoir este receu pour compagnon au partage d’un
+        tresor, s’en voudroit enfin rendre maistre, et chasser celuy qui luy
+        auroit fait part de sa fortune; c’est moy qui vous ay prevenu au desir
+        de me perdre, pour rompre la force de cet enchantement, et maintenant
+        que je vous ay fait part de mon dessein, vous voulez empescher que je
+        ne l’execute, et voulez prendre pour vous seul, une gloire que les
+        dieux ne reservent qu’a moy. – Cher Celadon, luy dit Silvandre, en
+        l’interrompant, ne m’accusez pas de vous avoir voulu desrober cet
+        advantage, que pour vous en procurer un plus grand, qui est la
+        possession d’Astrée; j’oserois jurer que cette bergere ne
+        respire aujourd’huy que le contentement que vous luy pouvez redonner
+        par vostre presence. Croyez-moy, Celadon, voyez encore une fois son
+        visage, et s’il ne vous deffend de mourir, j’avoueray que j’ay eu tort
+        de vous conseiller de vivre. – Jamais, respondit Alexis, cette cruelle
+        n’aura le plaisir de me condamner une seconde fois; je sçay
+        assez bien ce que je dois à ses ordonnances, pour m’empescher de
+        luy donner la peine de les prononcer si souvent. Mais vous, Silvandre,
+        vivez pour Diane, puis que vous avez au moins un tesmoignage qu’elle le
+        desire, en ce qu’elle ne le vous a jamais deffendu; aussi bien,
+        quelques discours que vous me puissiez faire, et quelques raisons que
+        vous me sçachiez alleguer; jamais je ne demordray de la
+        resolution que j’ay prise de mourir sous les ongles crochus de ces
+        lyons, qui ne sçauroient estre si cruels, qu’ils ne me laissent
+        en me deschirant, un peu de temps, pour me souvenir
+        qu’Astrée est encore plus impitoyable.</p>
+        <p>Ces derniers mots desroberent quelques larmes aux yeux d’Alexis qui,
+        s’imaginant que sa fin estoit bien contraire aux douces esperances
+        qu’elle avoit conceues à la naissance de son affection, ne put
+        empescher que son cœur ne s’attendrist à la memoire des
+        favorables promesses dont Astrée l’avoit autrefois entretenue;
+        et Silvandre qui receut aussi les mesmes considerations, se laissant
+        aller entre les bras, d’Alexis, et l’embrassant, sentit que ses yeux
+        commençoient à devenir humides, et peu à peu
+        à s’ouvrir aux pleurs, que le souvenir des accidents de sa vie
+        luy desroboit insensiblement. Ils se tindrent assez long-temps
+        embrassez, et <pb n="387"/> peut-estre ne se fussent-ils pas quittez si
+        tost, si Alexis, qui avoit tousjours les yeux tournez du costez
+        où estoit Astrée, n’eust remarqué d’assez loing
+        une trouppe de personnes qui s’approchoient; aussi-tost il en advertit
+        Silvandre, et le berger ayant un peu attentivement regarde qui ce
+        pouvoit estre, ne fut pas long-temps sans voir que c’estoit Adamas,
+        Bellinde, et Phillis, mais il ne put jamais cognoistre Galatée,
+        Rosanire, ny les autres nymphes, à cause du changement de leur habit.</p>
+        <p>Craignants donc que si le Druide les surprenoit, il les troublast en
+        leur dessein: Ah! c’est trop, dit Alexis, se levant un peu en haste,
+        c’est trop, cher Silvandre, disputer sur un poinct, dont nous pouvons
+        estre si tost esclaircis; nous verrons à qui de nous les dieux
+        adjugeront le prix de la fidelité, et puis qu’ils peuvent seuls
+        decider nostre differend, n’est-ce pas une
+        imprudence d’estre si long-temps sans les consulter?</p>
+        <p>A ce mot, elle s’en alla du costé de la fontaine, et Silvandre
+        qui la suivit: Vous avez raison, luy respondit-il et s’il arrive que
+        nous y mourions tous deux, nous emporterons au moins cet advantage
+        d’avoir enfermé dans un mesme tombeau deux amis qui, ayants eu
+        presque un mesme sort en leur amour, ont voulu souffrir une mort toute
+        pareille. Disant cela, ils arriverent si pres des lyons qu’ils furent
+        ouys par ces animaux, dont le seul aspect estoit espouvantable; mais
+        les bergers, au lieu d’estre sensibles aux mouvements de la peur,
+        virent leur visage couvert d’une couleur vermeille, et comme si
+        l’object de ces ennemis eust esté celuy de leur joye et de leur
+        felicité, ils commencerent à sousrire, et à
+        montrer que leur courage n’estoit pas moindre que la ferocité de
+        ces gardiens impitoyables. Alexis qui n’estoit là que pour
+        mourir, et non pas pour combattre, se mit d’abord en estat de recevoir
+        dans le sein la violence de leurs coups, et deschira elle-mesme ce
+        qu’elle avoit devant l’estomac; de sorte que s’estant ainsi
+        preparée, cependant que les lyons, à la veue de cette
+        nouvelle proye, se battoient les flancs de leur queue, et cherchoient
+        de la colere pour devorer ces amants, elle mit un genouil en terre, et
+        regardant le ciel: Pitoyables dieux, dit-elle, qui m’avez
+        inspiré ce remede, pour empescher que la suitte de mes ennuys ne
+        fust infinie comme vostre puissance, recevez agreablement le sacrifice
+        que je vous fay de mon corps, et je dirois de mon ame, si vous ne
+        sçaviez bien qu’elle est encore captive dans les charmes de la
+        plus belle, mais plus ingratte bergere qui fut jamais. Souffrez par
+        pitie, puissantes <pb n="388"/> divinités, que ma seule mort vous
+        satisfasse pour toutes ses injures, et quelques grands que soient les
+        crimes qu’elle a commis contre Amour, despouillez vous en ma faveur de
+        ce ressentiment, et permettez que la cause qui luy fait desirer ma mort
+        vous soit un suject de prolonger son repos et sa vie.</p>
+        <p>A peine Alexis eut finy sa priere que Silvandre, prenant la parole, et
+        se jettant aussi à genoux: Et vous, s’escria-t’il, impitoyables
+        Destins, qui par des loix irrevocables, ordonnastes que je traisnerois
+        mes jours parmy tous les maux qu’une ame est capable de ressentir,
+        voyez enfin vos Arrests executez; et comme vous n’avez pas esté
+        menteurs aux malheurs qui ont menacé ma vie, soyez veritables au
+        bien que vous m’avez promis en mourant. Disant cela il descouvrit aussi
+        son estomac, et s’estant disposé à recevoir avec plaisir
+        les blessures par où son sang devoit sortir avec son ame, il vid
+        approcher les lyons, qui jettants le feu par les yeux, et ouvrants
+        leurs pattes, laissaient voir des griffes crochues, et dont les pointes
+        ne sembloient pas moins aigues que des aisguilles.</p>
+        <p>Cependant Adamas, et les autres s’estoient si fort approchez
+        d’Astrée et de Diane, qu’ils n’avoient plus que quatre-vingts ou
+        cent pas à faire pour les prendre; mais comme si le Ciel eust
+        voulu qu’ils ne fussent arrivez là, que pour mieux ressentir le
+        mal, dont ils devoient estre tesmoings, les deux bergeres
+        s’esveillerent presque en mesme temps, et furent si espouvantées
+        de voir les deux lycornes si pres d’elles que cela fut cause qu’elles
+        ne jetterent les yeux, ny du costé où estoit Lycidas avec
+        Thamire, Celidée, Doris, Adraste, et les autres, ny du
+        costé par où Galatée et Rosanire venoient avec
+        Adamas et Bellinde. Tout ce qu’elles purent faire dans cet estonnement,
+        ou plustost dans cette frayeur, ce fut de repousser ces animaux, et
+        puis de se lever pour s’ofrrir à eux, croyans bien qu’ils
+        n’estoient là que pour les desfaire; mais tout à coup
+        les ayant veu courir du costé la fontaine, elles penserent que
+        c’estoit-là seulement qu’elles devoient mourir, et que ces
+        lycornes n’avoient pris l’avantage que pour leur en montrer mieux le chemin.</p>
+        <p>Astrée et Diane se mirent donc à courir apres elles, et
+        ne furent pas plustost arrivées où Alexis et Silvandre
+        attendoient le coup de la mort, qu’elles virent ces deux bergers
+        à genoux et à dix pas d’eux, les lyons qui, la perruque
+        herissée et les yeux estincellants s’avançoient peu
+        à peu pour les mettre en pieces. Cette rencontre <pb n="389"/> les
+        surprit extremément, mais n’ayants pas du temps pour deliberer
+        sur ce qu’elles avoient à faire, elles suivirent le premier
+        mouvement de leur passion, et s’estants mises entre-deux: C’est
+        à nous à mourir, dirent-elles, non pas à ces
+        bergers qui ne sont coupables d’aucun crime.</p>
+        <p>Alexis et Silvandre ravis de ce spectacle, et mourants de peur que ces
+        bergeres receussent du mal, les retirerent le plus promptement qu’ils
+        purent, mais avec tant de force, qu’elles cheurent un peu en arriere,
+        et se jettans alors à corps perdu sur les lyons, ils
+        commencerent à combattre pour l’interest de leurs maistresses,
+        plustost que pour leur propre conservation; mais comme ils estoient
+        sans armes, aussi furent-ils bien-tost terrassez, et en cet instant les
+        deux lycornes, comme pour prendre leur party se jetterent sur les
+        lyons, et commencerent entre eux un tres-aspre combat. Adamas, Bellinde
+        et les autres qui avoient veu partir Astrée et Diane, se
+        hasterent bien pour les suivre, mais ils n’y purent jamais arriver
+        à temps, car le combat estoit desja presque achevé; et
+        tout à coup ils virent que le Ciel, qui un peu auparavant estoit
+        aussi beau et aussi serain qu’il eust jamais esté, se couvrit de
+        brouillards, et retira tellement a soy toute la lumiere du soleil,
+        qu’il sembla que la Terre deust perir dans l’effroy des tenebres qui
+        l’environnerent. Les champs qui par les fleurs dont ils estoient
+        couverts, avoient accoustumé de rendre une odeur tres-agreable,
+        perdirent alors cette qualité, et cederent à la puanteur
+        du soulphre; le jour mesme ne se laissoit plus voir que par esclairs,
+        et l’effroyable bruit des tonnerres se rendoit si frequent, qu’estant
+        une marque de la colere des dieux, il estoit facile de croire qu’ils
+        avoient resolu d’aneantir le monde, et de le
+        reduire à la confusion de son premier cahos.</p>
+        <p>Dans ce desordre, les plus assurez cognurent la peur, et Adamas mesme,
+        qui par la profession qu’il faisoit, avoit parfaittement appris
+        à se resigner à la volonté de ces supremes
+        intelligences, s’estonna quand il sentit que la terre n’estoit plus
+        ferme sous ses pieds; souvent il voulut parler, mais l’esclat des
+        foudres qui sembloient tumber de toutes parts luy ostoit l’esperance de
+        se pouvoir faire ouyr, et quand il vouloit regarder celles qu’il avoit
+        amenées en sa compagnie, il cognoissoit qu’en ce moment l’usage
+        de la veue ne luy estoit pas moins interdit que celuy de la parole.
+        Quelquefois il souhaittoit d’estre plus proche de sa maison pour se
+        mettre au moins à couvert des tempestes qui le menacoient,
+        <pb n="390"/> mais quand il consideroit que la force des orages qui
+        dominoient estoit capable de l’ensevelir sous les ruines des plus forts
+        et des plus superbes bastiments, il condamnoit son premier desir, et le
+        treuvoit injuste, en ce qu’il n’ignoroit pas que les lieux les plus
+        cachez sont ouverts a la cognoissance des dieux, et qu’il n’en est
+        point où leur colere ne treuve les mortels qui
+        doivent esprouver la rigueur de leur justice.</p>
+        <p>Rosanire et Galatée desirerent mille fois que leur voyage fust
+        à commencer, mais quelque grande que fust la frayeur qui les
+        possedoit, leur memoire conserva si forte l’impression de leur amour,
+        qu’au lieu de recourir à la misericorde du Ciel, elles ne
+        cessoient d’invoquer Rosileon et Lmdamor, comme les seules divinitez
+        qui pouvoient faire leurs destinées.</p>
+        <p>Bellinde qui, croyant Diane morte, ne s’imaginoit pas la pouvoir
+        survivre, ne sçavoit quel trespas luy estoit plus sensible, ou
+        le sien ou celuy de sa fille; mais enfin le souvenir de deux siecles
+        qu’elle avoit presque passez, luy faisant recognoistre qu’il estoit
+        temps qu’elle se lassast de vivre, fut cause que le regret de la perte
+        de Diane l’emporta pardessus celuy qu’elle devoit avoir de mourir.
+        S’estant donc tout à fait abandonnée à ce
+        ressentiment, elle s’aboucha de son long contre terre, et appuyant sa
+        teste sur ses deux bras qu’elle tenoit croisez, sans oser seulement
+        ouvrir les yeux pour les porter contre le Ciel, car elle le croyoit
+        estre son plus mortel ennemy: Ah! Diane, dit-elle en elle-mesme, que
+        ton imprudence nous couste cher, et qu’il faut bien que ta faute ait
+        grandement offensé les dieux, puisqu’ils en prennent une
+        vengeance si grande! Immortelles divinitez, continua-t’elle, de qui la
+        justice excede maintenant la pitié, s’il falloit que le
+        chastiment fust inseparable du crime que cette fille a commis, que ne
+        l’exerciez-vous sur moy seulement, sans ordonner pour le peché
+        d’une seule personne une punition si commune! Quoy! n’estois-je pas
+        une victime capable de vous appaiser, et n’avois-je pas assez de sang
+        pour laver cette offense? Ah cruels! vous l’avez mesprisé, ce
+        sang que j’eusse librement versé pour le salut de cette
+        coupable, et pour montrer desormais combien vous est odieuse la
+        desobeyssance d’un enfant, vous la punissez avec tant de rigueur, qu’on
+        void bien que vous avez envie de rendre vostre colere remarquable
+        à toute la posterité!</p>
+        <p>Sur cette pensée, Bellinde fondoit en larmes, et Adamas qui
+        avoit desja mis un genouil en terre, pour essayer par ses prieres
+        <pb n="391"/> d’arrester le courroux des dieux, ayant sans y penser
+        tourné l’œil du costé où elle estoit, un esclair
+        en cet instant fit un si grand jour, qu’il eut le temps de remarquer
+        l’estat auquel elle s’estoit mise. L’ayant donc veue abouchée de
+        son long, et croyant qu’elle fust morte de quelque coup de foudre, une
+        si grande douleur le saisit qu’il en faillit à perdre tout
+        sentiment. Il s’approcha d’elle le plus qu’il luy fut possible, et
+        comme s’il eust voulu se faire ouyr malgré le bruit des
+        tonnerres: Sage Bellinde, s’escria-t’il, helas! quel malheureux
+        accident est celuy qui nous separe, et pourquoy faut-il que vostre mort
+        ne soit pas accompagnée de la mienne? Bellinde ouyt bien la
+        voix du Druide, mais elle n’en put pas distinguer les paroles, et
+        Galatée qui n’en estoit pas beaucoup esloignée, ayant ouy
+        confusément ces mots de Bellinde, et de mort, s’imagina que tout
+        estoit perdu, puisqu’il y en avoit desja dans la trouppe qui avoient
+        receu la derniere marque de la vengeance des dieux. Rosanire qui la
+        tenoit embrassée, creut aussi la mesme chose, et leur opinion
+        ayant passé jusqu’à Dorinde, elle se glissa de l’un
+        à l’autre jusqu’à Hylas, qui ne pouvant comprendre
+        pourquoy il falloit qu’il portast la peine de la faute d’autruy, eust
+        bien souhaitté d’estre en Camargue, au prix de ne se soucier
+        jamais ny de Stelle, ny de pas une des bergeres pour qui il avoit eu de l’inclination.</p>
+        <p>Mais lors qu’ils estoient le plus avant dans la creance de perir, tout
+        a coup les esclairs et les tonnerres cesserent, mais non pas
+        l’obscurite, car elle demeura aussi grande qu’elle estoit auparavant,
+        et dans ce silence de toutes choses, personne n’osa prendre la parole,
+        car chacun croyant estre resté seul en vie, apprehendoit de
+        sçavoir le malheur qu’il pensoit que les autres eussent eu.
+        Enfin les tenebres commencerent peu à peu à se dissiper,
+        et le soleil redonnant le jour au monde, rendit l’esmail aux fleurs, et
+        aux arbres l’ombre et la couleur qu’il leur avoit ostées.</p>
+        <p>Adamas fut bien aise de voir l’otage cessé, et que les
+        brouillards qui s’estoient formez au milieu de l’air, eussent fait
+        place aux doux regards que le soleil nous envoye quand il est amoureux
+        de la terre; mais la joye de sçavoir Bellinde en vie, surpassa
+        tout autre contentement, et fut cause qu’il l’alla embrasser, luy
+        racontant la frayeur qu’il avoit eue. Bellinde toutefois, ne pouvant
+        esloigner de son souvenir la perte de Diane, et ne voyant qu’à
+        regret le jour qui se rendoit à chasque moment plus clair et
+        plus beau: Helas! mon pere, luy dit-elle, que le Ciel m’eust
+        obligée, <pb n="393"/> s’il n’eust tant de compassion pour moy! Sa
+        hayne en ce cas m’eust esté plus douce que sa pitié, et
+        la plus grande grace que j’eusse desirée de luy, c’eust
+        esté qu’il m’eust permis de suivre le sort de ma fille. La vie
+        qu’il m’a laissée, et pour laquelle vous tesmoignez tant de
+        contentement, m’est une charge presque insupportable, puisque mon
+        destin ne veut pas qu’elle soit accompagnée du soulagement que
+        j’attendois de la vertu de Diane.</p>
+        <p>A ce mot Bellinde recommença ses regrets, et Rosanire,
+        Galatée, Silvie et les autres s’estant approchées d’elle,
+        chacune essaya de luy donner quelque consolation; mais son mal estoit
+        trop grand pour estre gueri si-tost, et sur tout par un si foible
+        remede que la parole. Ne pouvant donc laisser aucun relasche à
+        ses pleurs ny à ses gemissements, on resolut de remettre au
+        temps la guerison de cette playe; et cependant on prit garde que les
+        nuages dont l’air avoit demeuré quelque temps obscurcy,
+        s’estoient comme amoncelez sur la fontaine d’ou procedoit tout cet
+        enchantement. Cette obscurité la rendoit inaccessible, et
+        Bellinde qui mouroit d’envie de pouvoir rendre l’ame sur les levres de
+        sa fille, quoy que froides et pasles, voyant encore cet obstacle
+        à son desir: Tu ne veux donc pas, dit-elle, Ciel impitoyable,
+        donner à mes malheurs ce foible soulagement, que je puisse au
+        moins voir dessus le corps de ma fille les marques de ta cruaute?
+        Destins dont la rigueur me l’a ravie, si vous n’estes plus sourds que
+        ces arbres et ces rochers, escoutez la priere que vous fait une mere
+        outragée, et rendez-moy pour une heure seulement, celle qui me
+        doibt toutes les heures de sa vie. Je ne vous demande que ce qui
+        m’appartient, l’ame de Diane venoit de la main des dieux, aussi
+        l’ont-ils bien sceu reprendre, mais son corps est absolument à
+        moy, je le veux, et sans une extreme injustice on ne sçauroit me
+        le refuser. Disant cela, elle avoit tousjours les yeux tournez du
+        costé de la fontaine, et Adamas et les autres ne pouvoient
+        à son exemple retirer la veue de dessus les tenebres qui la
+        couvroient, d’où de temps en temps on voyoit sortir une espaisse
+        fumée, qui comme si elle eust procede de quelque grand
+        embrazement, estoit accompagnée par fois d’une flame blanchastre
+        et bleue, telle qu’est celle du soulphre ou de l’eau de vie.</p>
+        <p>Apres avoir esté quelque temps à considerer ces prodiges,
+        on s’apperceut qu’avec la fumée quantité de brouillards
+        s’estoient dissipez, ce qui donna quelque bonne esperance au Druide;
+        et Bellinde qui s’magina qu’elle trouveroit assez de jour pour
+        ren-<pb n="393"/>contrer sa fille, ou les lyons qui l’avoient
+        devorée, s’avança le plus pres de la fontaine qu’elle
+        pust, mais Adamas l’ayant retirée pour luy faire prendre garde
+        à quelque chose qu’il venoit de remarquer, ils virent que ce qui
+        restoit de tenebres et de nuages, n’estoient plus eslevé de
+        terre que de sept ou huict coudées. Croyants donc que cela se
+        perdroit comme le reste, ils resolurent d’attendre encore un peu, et
+        tout à coup ils apperceurent au milieu de cette
+        obscurité, un Amour tout brillant de clairté qui,
+        s’eslevant peu à peu, parut enfin tout droit sur l’amortissement
+        d’un pyramide de porphyre. A la veue de ce dieu, tous se jetterent
+        à genoux, et lors qu’Adamas, Bellinde et les autres estoient le
+        plus avant en admiration, pour une nouveaute si peu attendue, ils
+        virent qu’il avoit soubs l’une de ses mains, une table de marbre noir,
+        où estoient escrittes ces paroles.</p>
+    </div>
+    <div type="contentci">
+        <milestone unit="line"/>
+        <p>Sortez de cet estonnement</p>
+        <p>Et ne murmurez nullement</p>
+        <p>Contre l’ordre de mes mirdcles:</p>
+        <p>Mais faites ces corps emporter,</p>
+        <p>Et demain venez consulter</p>
+        <p>La verité de mes Oracles.</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>Ils n’eurent pas plustost appris la volonté d’Amour, que ce
+        dieu se perdit sous la fontaine, sans laisser nulles marques de luy,
+        sinon qu’en cet instant tous ces nuages acheverent de disparoitre, et
+        n’y resta plus d’obscurité, que ce qu’il en falloit, pour faire
+        qu’on rie se pust mirer dans l’eau. Bellinde ravie de joye pour la
+        permission qui luy avoit este donnée, ne perdit pas un moment de
+        temps, mais s’eslancant à travers les lycornes et les lyons s’en
+        alla droit au lieu où Astrée et sa fille estendues sur
+        l’herbe, sembloient avoir rendu le dernier souspir. Adamas, apres avoir
+        dit à Paris d’aller querir un chariot, pour obeyr au
+        commandement qu’Amour avoit fait, suivit Bellinde, et fut tout
+        estonné de voir que ces quatre animaux n’avoient plus de
+        mouvement. Cela luy donna assez de hardiesse pour s’en approcher
+        davantage, mais il les treuva tousjours immobiles, et de fait, par la
+        puissance du sage enchanteur, qui le premier les avoit establis pour
+        gardes de la fontaine, ils avoient esté changez en quatre
+        figures de marbre, sans rien perdre toutefois de leur premiere couleur.
+        Aussi-tost tous ceux qui estoient en la troupe en furent advertis, et
+        s’estans <pb n="394"/> approchez pour estre tesmoigns de ce changement si
+        merveilleux, ils furnet saisis d’un estonnement presque incroyable;
+        mais pourtant il ceda bien’tost à celuy qu’ils eurent, quand au
+        lieu de deux corps qu’on pensoit rencontrer, on ne apperceut quatre,
+        parmy lesquels ceux d’Alexis et de Silvandre furent recognus. Adamas en
+        demeura comme ravy; et Lycidias en fut si surpris qu’il en faillait
+        mourir d’horreur. Cependant Bellinde embrassoit le corps de Diane, et
+        le treuvant sans poulx, et sans mouvement, elle faisoit de regrets
+        capables de toucher la mort mesme. Phillis tant appoché de son
+        frere, le Druide se mit à secourir Silvandre. On croyoit qu’ils
+        seroient tous chargez de blessures, et que les lyons les auroient
+        deschirez en mourceaux, mais on n’apperceut pas sur eux une seule
+        goutte e sang; ce qui fit juger qu’il falloit qu’ils eussent
+        esté estouffez soubs la pesanteur de ces bestes farouches.</p>
+        <p>Galatée en cet instant se ressouvint des flames qu’autrefois
+        Celadon avoir allumées dans son cœur, et ce ressentiment ne fut
+        pas si petit, qu’il ne l’obligeast à donner quelques larmes au
+        regret de le voir en un si miserable estat; Rosanire, et les autres
+        à son exemple; tesmoignoient un extreme desplaisir de voir les
+        affaires de ces bergers dans un si fascheux desordre; et certes il
+        eust fallu n’avoir point d’ame pour n’estre pas sensible aux regrets de
+        Bellinde; car cette mere affigée pouvant à peine
+        s’empescher de s’arracher les cheveux et de se deschirer le visage: Ma
+        Diane, disoit-elle, est-il possible que tu ne soit plus, et qu’en
+        eschange de la vie que je t’ay donnée; tu ne me rendes
+        ajourd’huy que l’image de tes membres froids et glacez? Quoy! ma
+        données à ta conservation, tu refuses d’ouvrir une fois
+        les yeux pour l’amour de moy? Ingratte fille, ou plustot ingrattes
+        destinées qui me la ravissez, n’estoit-ce point juste que mes
+        esperances eussent un succez plus heureux? Telle estoient les injures
+        dont il se pouvoit souvenir dans le ressentiment de sa douleur. Cent
+        fois il l’appela cruel, injuste et barbare, et laschant tousjours
+        quelque trait contre la rigueur d’Astrée, il sembloit condamner
+        l’assistance que Phillis donnoit à cette bergere; mais cela
+        n’empeschoit pas qu’elle ne continuast à chercher les moyens de
+        la secourir, ou d’arracher pour le moins de sa bouche le dernier adieu,
+        sans lequel elle ne croyoit pas quelle deust jamais abandonner la vie.
+        Mais voyant que toutes ses larmes estoient inutiles, et
+        qu’Astrée n’avoit plus pour elle ny d’oreilles ny d’yeux: Ah!
+        Lycidas, s’ecria-telle, que te voyla cruellement vangé! Disant
+        cela, une si grande douleur la saisit, que, se laissant aller contre
+        terre, elle demura comme esvanouye sur le corps de sa compagne. Cela ne
+        mit pas Lycidas dans une petite peine, car balançant alors,
+        entre l’amour et l’amitié, il ne sçavoit s’il devoit
+        abandonner son frere pour aller au secours de Phillis, et c’est sans
+        doute que s’il eust eu des armes pour se desfaire, il eust suivy son
+        premier mouvement, qui luy conseilloit de donner ce remede à sa
+        douleur dont il estoit accablé; mais n’ayant rien dequoy il se
+        pust outrager, il fallut malgré luy qu’il consentist à se
+        laisser vivre, et qu’il se rendist le principal tesmoign de tous les
+        accidents qui devoient arriver. Il estoit encore dans le regret de ne
+        pouvoir pas mourirm quand il ouyt qu’Adamas ayant veu veu venir de
+        loing le chariot qu’il avoit envoyé querir, commanda qu’on se
+        preparast pour y mettre Astrée, Diane, Alexis et Silvandre. Ce
+        qui fut fait en peu de temps par l’ayde de plusieurs bergers, qui
+        etsoient aussi accourus à ce spectacle. Et dès que toute
+        la troupe fut arrivée en la maison du Druide, on mit dans une
+        chambre Astrée et Diane; et Alexis et Silvandre furent mis dans
+        un autre departement. Aussitost la nouvelle de cet accident s’espandit
+        par tout le Forests, et dans peu de temps Amasis en fut advertie,
+        qui,l’ayant escrit à Rosileon et à Lindomar, quitta
+        Montbrison et s’en vint au Palais d’Isoure, où elle fit dessein
+        de recevoir Rosanire, puisque c’estoit un assez beau lieu pour luy
+        faire bien passer le temps.</p>
+
+        <milestone unit="line"/>
+        <milestone unit="line"/>
+        <head type="chapitre">SUITE DE L’HISTOIRE</head>
+        <p>DE TIRCIS ET DE LAONICE</h3>
+        <milestone unit="line"/>
+
+        <p>Cependant Tircis, depuis le moment qu’il avoit quitté la
+        maison d’Adamas , ou pour mieux dire tous les bergers et toutes les
+        bergeres de Lignon, avoit eu un sort bien estrange; car ce triste
+        <pb n="396"/> berger, qui comme nous avons desja dit, s’estoit
+        esparé de Silvandre, ne se vid pas plutost hors de la presence
+        du berger, que levant les yeux au Ciel: A cette heure, dit-il, garnd
+        dieux! je puis dire que je suis en liberté, et que je pourray
+        sans contrainte donner à ma Cleon les preuves d’amour qu’elle
+        doit attendre de moy. Mes larmes et mes souspirs n’auront plus
+        desormais de tesmoings qui les condamnet; au contraire, continua-t’il,
+        les Zephirs qui seront mes confidents, m’ayderont à plaindre les
+        malheurs qui me desroberent une si belle maitresse.</p>
+        <p>Disant cela, il alloit tousjours marchant, mais enfin estant
+        arrivé au Pont de la Bouteresse, il s’arresta au milieu, et de
+        là, il se mit à considerer les lieux dont il alloit pour
+        jamais quitter la demeure. Sur ce sujet, sa pensée luy presenta
+        mlle imaginations, dont les unes luy faisoient naistre un regret dans
+        l’ame, dequoy il s’alloit separer d’un sejour, où tant
+        d’aymables bergers passoient si doucement leur aage, et les autres le
+        consoloient, en luy representant que, depuis la perte de sa Cleon, il
+        estoit obligé de renoncer à tous les plaisirs de la vie.</p>
+        <p>Ainsi ces derniers considerations se treuvants plus fortes que les
+        premiers, il continua son voyage, et a peine fut-il à deux ou
+        à trois cens pas du Pont, que, comme s’ily eust eu quelque
+        secrette violence qui l’eust arresté, il demeura tout court, et
+        tournant encore une fois le visage vers le hammeau, où estoient
+        les cabanes d’Astrée, de Diane, et de Phillis: Je ne m’estonne
+        pas, dit-il en luy-mesme, si j’ay tant de pein à me separer de
+        ces bocages, où la jusitice de Silvandre et l’eloquence de
+        Phillis m’ont delivre des importunitez de Laonice. Ce que je doibs
+        à l’un et à l’autre seroit bien assez puissant pour
+        m’obliger à ne m’esloigner jamais de leur personne si les ennuis
+        qui me rendent desagreable à tout le monde, ne me persuadoient
+        que je leur rends un fort bon office, quand je leur oste la presence
+        d’un affligé, dont la conversation est insupportable. Mais,
+        adjousta-t’il, je ne regarde pas que, pensant ne me separer que d’eux,
+        je m’esloigne encore davantage du lieu où reposent les os de
+        celle qui fut autrefois ma vie. Ah Tircis! le plus miserable de tous
+        ceux qui ont quelquefois aymé, puisque tu es obligé de
+        faire tes plaisirs de cela mesme qui sert de supplice aux autres, helas
+        ! ne ferois-tu pas mieux d’aller revoir encore une fois ces reliques
+        sacrées, et verser tant de larmes sur la sculpture de Cleon,
+        que, noyant tes malheurs et ta vie, tu pusses obtenir la gloire d’estre
+        enfermé dans un mesme tombeau? <pb n="397"/> A peine eut-il
+        achevé ce peu de mots, que faissant resolution de retourner sur
+        les rives de l’Arar, il revint sur ses pas, mais quand il fut encore
+        uen fois sur le Pont de la Bouteresse: Toutefois, dit-il, pourquoy
+        vouloir aller chercher le corps de Cleon, si je porte son ame aveque
+        moy? Pourquoy vouloir aller revoir ses cendres, si j’ay dans mon cœur
+        les veritables flames dont autrefois elle brusla pour moy? Non non,
+        continua-t’il, executons nostre premier dessein! Allons, Tircis, allons
+        nous perdre dans les horreurs de quelque effroyable desert, où
+        l’air, la terre, la solitude et les ombres achevent de m’oster une vie
+        que mes ennuis rendent odieuse à chacun, et insupportable à moy-mesme.</p>
+        <p>Sur cette dernier resolution, il jetta sa veue du costé de
+        Montverdun, et tout à coup perdant l’envie de retourner à
+        Lyon, il se disposa, voyant les bois et les forests qio convroient la
+        montagne d’Isoure, à ne chercher plus d’autre lieu pour
+        contenter son humeur. Il ne sçavoit pas que desja Laonice s’y
+        estoit retrirée, car c’est san doute que, s’il en eust eu la
+        moindre opinion, il n’y fust jamais allé, mais se figurant que
+        parmy les horreurs que luy promettoient ces arbres eslevez, il
+        treuveroit la mesme liberté de vivre que dans les deserts qu’il
+        avoit resolu d’aller chercher plus loin, il arresta là ses
+        desseins, et sans disputer davantage, s’en alla d’abord etablir sa
+        retraitte presque tout au sommet de la montagne. Là se voyant
+        plus proche du ciel, il creut estre plus proche de Cleon, et ne
+        s’imaginant pas qu’il pust jamais estre diverty dans cette solitude,
+        qui luy semblot desja si douce et si agreable, il resolut d’y passer
+        paisiblement le peu de temps qu’il avoit encore à vivre. Durant
+        le premier et deuxiesme jour qu’il y fut, il n’employa ses heures
+        à autre chose qu’au souvenir de Cleon, dont sa memoire n’estoit
+        jamais libre, et n’ayant personne avec qui conferer de sa douleur, les
+        rochers et les arbres devindrent ses secretaires. Aux uns il racontoit
+        juaqu’au moindre des accidentrs qui luy estoient arrivez depuis qu’il
+        avoit pris de l’amour pour elle, et sur l’escore des autres il gravoit
+        le nom de Cleon, mais se figurant que sans crime il ne pouvoit le
+        separer de celuy de Tricis, il y gravoit aussi le sien, et de tous deux
+        en faisoit un agreable chiffre. Quelquefois chargé des fruicts
+        qu’il avoit amassez, il s’en aloit sur le bord d’un petit ruisseau, qui
+        tumbant à grands sauts jusques dans la plaine, en arrouse enfin
+        quelques prairies, et puis se jette dans Lignon; et là
+        considerant la cheute de ses eaux: Voyla; disoit-il en luy-mesme, qui
+        ne ressemble pas <pb n="398"/> mal à ma fortune. Jamais le Ciel ne
+        m’a laissé gouster de repos, et si j’en dois attendre, c’est
+        quand je seray prest d’entrer dans le cercueuil, comme ce ruisseau
+        n’est paisible que lors qu’il est prest de
+        se perdre dans Lignon, qui est son tombeau.</p>
+        <p>C’estoient là ses plus douces occupations, et dans ce seul
+        entretienil passoit le jour, apres lequel il s’alloit remettre dans sa
+        demeure, et n’en partoit point que le soleil n’eust seiché les
+        premieres larmes de l’aurore; il avoit rencontré un autre qui
+        n’estoit guiere different de celuy de Laonnice, comme il n’en estoit
+        pas beaucoup esloigné; et il est croyable qu’ayants esté
+        faots d’une autre main que de celle de la nature, personne n’en avoit
+        pris le soing que les druides, qui en leur evenement ne conversants pas
+        familierement parmy les hommes, s’estoient faits de petites retraites
+        assez proches les unes des autres, pour avoir plus de commodité
+        de sacrifier, et de communiquer entr’eux des principaux poincts qui
+        regardoient leur relligion presque naissante.</p>
+        <p>Il advint que le troisiesme jour que Tircis y fut, il recommença
+        son exercice ordinaire, et sortit de son antre presque aussi-tost que
+        le soleil y eut fait entrer le jour; mais sans retourner à ce
+        petit ruisseau,qui sembloit avoir appris desja à former parmy le
+        bruit de ses ondes, les noms de Tircis et de Cleon, il passa presque
+        toute la journée à contempler les beautez du lieu qu’il
+        avoit choisi pour sa derniere demeure. D’un costé il voyoit tout
+        le Forests, et presque jusqu’aux plus reculez Sebusiens, et de l’autre
+        sa veue s’estendoit jusqu’à cette superbe cité, que le
+        Rhosne et l’Arar mouillent de leurs claires eaux. Quelquefois il
+        admiroit la hauteur des arbres, dont le feuillage le cachoit au soleil,
+        et quelqu’autrefois regardant la terre, dans, laquellel ils jettoient
+        leurs profondes hracines, il s’estonnoit de la voir si belle, et si
+        nette qu’il n’y avoit pas seulement un buisson qui l’empeschast de se
+        promener où bon luy sembloit. Se laissant ainsi emporter
+        à ces petits ravissemnets, il ne prit pas garde que la nuict le
+        surprit, ce qui fut cause que s’estant desja assez esloigné de
+        son antre, et ne sçachant pas encore bien les endroits de la
+        montagne, outre que la nuict devint en peu de temps extremément
+        obscure, il ne sceut jamais retrouver le chemin de sa retraitte; il se
+        coucha donc sous le premier arbre qui se trouva proche de luy,
+        où le sommeil ne le vint chercher de long-temps, car Tircis
+        n’ayant pas beaucoup d’envie de dormir, ne le sollicita point de se
+        venir enfermer dans ses yeux. Neantmoins, apres avoir passé une
+        partie de la nuict dans ses ordinaires <pb n="399"/> resveries, ses membres
+        appesantis receurent enfin cet agreable soulagement.</p>
+        <p>Laonice d’autre costé, à qui le secours que les dieux luy
+        avoient promis sembloit un peu trop lent, s’esveilla de fort bon matin,
+        pour aller, à son accoustumée, parler de sa douleur qux
+        fleurs et aux zephirs, qui estoient les ordinaires tesmoins de son
+        inquietude; mais elle ne marcha pas long-temps, sans remarquer
+        quelques couppures sur l’escorce des arbres, qui pour estre fraisches
+        se descouvroient facilement. Aussi-tost elle s’en approcha,et comme sa
+        pensée n’estoit jamais loing de Tircis, non plus que celle de
+        jugement luy fit bientost cognoistre qu’ils estoient là tous
+        deux ensemble. Cette cogoissance l’estonna extremément, ne
+        pouvant s’imaginer quel demon luy auroit voulu rendre encore ce mauvais
+        office, mais ce qui faillit à la ravir entierement, ce fut quand
+        elle l’apperceut luy-mesme couché de son long sous un chesne
+        à dix ou douze pas du lieu où elle estoit. Parmy la joye
+        qu’elle eut de le revoir, elle fut saisie d’une extreme crainte de
+        paroistre devant luy, par ce qu’en cet instant tous les refus de ce
+        berger, et toutes les rigueurs dont il avoit usé contre elle,
+        luy revindrent en la memoire. Se souvenant donc principalement de ses
+        dernieres paroles, comme estant les plus injuieuses que sa bouche eust
+        jamais proferées pour la condamner: Mais, disoit-elle en
+        elle-mesme, ce berger mesure sa haine à mon amour, et prend
+        plaisir de voir que l’une et l’autre soient extremes; il croit m’avoir
+        bannie du Forests, et peut-estre me chasseroit-il du monde s’il me
+        revoyoit, il faut donc bien m’empescher d’estre si hardie que de me
+        montrer à luy! Mais, adjoutoit-elle tout à coup,
+        pourquoy les dieux auroient-ils promis de me guerir, si Tircis n’en
+        devoit estre le remede? Peut-estre ces deitez favorables ont desja
+        preparé son esprit à me pardonner, et disposé son
+        ame à me recevoir, en la place de celle pour l’amour de qui sa
+        pitié m’a tousjours esté interditte?</p>
+        <p>Sur cette consideration, d’un pas chancellant et incertain, elle
+        s’approcha de luy, et voyant qu’il avoit les yeux fermez: Veuille
+        Amour, dit-elle, que son cœur ne soit pas pour moy de la sorte;
+        permette le Ciel que les desirs de ce berger ne soient plus contraires
+        à mon bien, et qu’il fasse un peu de part à mon ame du
+        repos dont je voy que son corps jouyt maintenant. Disant cela elle prit
+        garde que le soleil se faisoit un petit jour à travers les
+        feuilles, pour luy <pb n="400"/> faire baiser un de ses rayons, dequoy
+        paroissant un peu jalouse, aussi-tost elle se jetta au devant, et
+        mettant un genouil en terre: Que tes baisers, dit-elle, beau Tircis,
+        seroient bien mieux employez, si tu me les voulois donner pour
+        recompense des maux que ta cruauté m’a desja ait endurer! Quoy
+        ! ma passion est-elle si criminelle, qu’elle t’oste l’envie de me
+        vouloir posseder? Dieux, continua-t’elle en souspirant, que cette loy
+        seroit barbare, qui ordonneroit que pour meriter ta haine, ce seroit
+        assez de t’aymer parfaittement! A ce mot elle se pencha pour le
+        baiser, mais la crainte qu’elle eut de l’eveiller fut cause qu’elle se
+        releva sans avoir desrobé ce contentement; toutefois
+        s’estonnant de son peu de hardiese: Mais, reprit-elle, pourquoy
+        n’ay-je pas autant de courage que d’amour? Helas, continua-t’elle, que
+        pourra ce berger, quand il ne dormira plus, s’il a dequoy se faire
+        craindre, lors mesme qu’il est entre les bras de la mort, ou pour le
+        moins du sommeil qui en est l’image?</p>
+        <p>A ces dernieres paroles elle s’arresta, et Tircis commença de
+        gemir, dequoy Laonice fut si surprise qu’elle s’en esloigna, de peur
+        qu’il ne l’apperceust; toutefois s’estant cachée derriere un
+        gros arbre, à douze ou quinze pas de luy, elle avança la
+        teste le plus doucement qu’elle put, et remarquant qu’il sommeilloit
+        encore: Peut-estre, dit-elle, ne dormoit-il pas, quand j’ay
+        parlé, et s’il a gemy, ça esté de compassion?
+        Mais continua-t’elle, s’il estoit vray, porquoy se seroit-il r’endormy,
+        et pourquoy n’auroit-il donné à ma passion de plus
+        puissants tesmoignages de la sienne? Non non, Laonice,
+        adjousta-t’elle, ne te flatte plus de ces agreables, mais vaines
+        imaginations, Tircis te hayt autant qu’il ayme Cleon, il abhorre ta
+        memoire autant qu’il est idolatre de la sienne, et s’il meurt d’amour
+        pour elle, tu dois croire qu’il ne vivra jamais pour toy. A ce mot elle
+        s’en voulut aller, mais ayant encore une fois jetté œil sur
+        Tircis, elle prit gard qu’il s’esveilloit, et desja s’estant à
+        moitié relevé, il estendoit les bras, et puis en baillant
+        se frottoit les yeux. Cela fut cause qu’elle demeura cachée sous
+        l’arbre, derriere lequel elle estoit, de peur de faire du bruit; et de
+        fortune le berger s’estant levé, et ayant veu que le soleil
+        estoit desja bien haut, s’en alla d’un autre costé, esolu de ne
+        faire chose du monde, qu’il n’eust retrouvé son antre. Laonice
+        le voyant partir, ne sentit pas un moindre violence que si on luy eust
+        arraché le cœur, et sans penser à ce qu’elle faisoit, ne
+        quittant jamais ce berger de veue, elle le suivit d’arbre <pb n="401"/> en
+        arbre, et l’accompagna jusqu’à ce qu’il eut rencontré ce
+        qu’il cherchoit; à quoy il ne mit pas trop long-temps, car il
+        trouva le petit ruisseau, qui avoit desja receu quelqu’une de ses
+        larmes; et bien-tost apres il recognut le chemin de son antre.
+        Aussi-tost qu’il l’eut rencontré, il y entra, et dés que
+        Laonice ne le vid plus, elle redoubla le pas, et sans crainte d’estre
+        apperceue, s’en alla se mettre le plus pres de l’ouverture qu’elle
+        pust, et là prestant l’oreille fort attentivement, pour tascher
+        d’apprendre quelque chose des desseins de Tyrcis, elle ouyt qu’il
+        disoit: Chere demeure, qui me dois mettre à couvert des injures
+        du ciel, comme cette solitude me guarentira pour jamais des
+        importunitez de Laonice! Pardonne-moy, si m’estant perdu dans le
+        chemin et dans la confusion de mes pensées, j’ay esté
+        absent de toy, durant la longueur d’une nuict.</p>
+        <p>Dieu sçait quelle devint Laonice à ces paroles! Elle
+        faillit à perdre tout sentiment, car voyant mourir eb ce moment
+        toute l’esperance qu’elle avoit desja conceue, peu s’en fallut qu’elle
+        ne mourust aussi. Toutefois oyant que Tyrcis disoit encore quelque
+        chose, il sembla qu’elle voulut vivre seulement pour l’escouter, cela
+        fut cause qu’elle ouyt qu’il poursuivoit ainsi: Mais, cher antre, si
+        tu veux achever de me rendre le plus heureux homme qui fut jamais, je
+        te supplie, ne me laisse pas vivre longuement, tuer un autre seroit une
+        barbarie, mais tuer Tircis, c’est une charité; que si pour ne
+        sçavoir pas les succes de ma vie, tu ignores les sujects que
+        j’ay de mourir, sçaches, mon agreable demeure, que j’aymay
+        Cleon, que sa mort nous separa, et que la mienne
+        est le seul myen qui nous peut reunir.</p>
+        <p>A ce mot il se teut, et parce qu’il fut long-temps sans rien dire
+        Laonice creut que les larmes luy empeschoient la parole,ou que,
+        peut-estre, il s’amusoit à baiser le rocher, dans lequel il
+        s’estoit enfermé. N’ayant donc pas besoin d’ouyr rien davantage,
+        pour apprendre qu’elle estoit aussi mal que jamais dans l’esprit de
+        Tircis, elle se retira la plus affligée du monde. Seulement elle
+        receut un peu de consolation, quand elle s’imagina que, plus qu’il
+        avoit fait dessein de n’habiter jamais d’autre lieu que cet antre, elle
+        auroit sans doute bien souvent le plaisir de le voir et de l’ouyr;
+        ainsi le laissant en sa demeure, elle retourna dans la sienne,
+        d’où elle n’osa sortir de tout le reste du jour. Tircis n’en fit
+        pas de mesme, car apres qu’il eut esté encore quelque temps
+        à souspirer dans sa petite grotte, il en sortit, mais n’osant
+        pas s’en esloigner, <pb n="402"/> de peur de se perdre, comme il avoit fait
+        le jour auparavant, il s’assit sous un arbre, et là, pour
+        s’entretenir tousjours dans les sujects de sa
+        melancolie, il chanta premierement ces vers.</p>
+    </div>
+    <div type="contentci">
+        <milestone unit="line"/>
+        <head type="chapitre">MADRIGAL</head>
+        <milestone unit="line"/>
+        <p>Source d’eternelles douleurs,</p>
+        <p>Funeste, mais chere memoire,</p>
+        <p>En depit des saisons, conserve toy la gloire</p>
+        <p>D’avoir entretenu la cause de mes pleurs:</p>
+        <p>Et toy,mort, haste ton secours,</p>
+        <p>Mais il semble que tu ne l’oses,</p>
+        <p>Helas! Cleon m’apprit en la fin de ses jours</p>
+        <p>Que tu n’en veux qu’aux belles choses.</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>Apres cela il sortit une à une de sa pochette toutes les
+        faveurs et toutes les lettres qu’autrefois il avoit eues de Cleon, et
+        les relisant l’une apres l’autre, sa memoire luy representa si bien
+        tous les accidents de son amour qu’en cet instant il s’imagina qu’elle
+        estoit encore en vie, mais cette agreable tromperie ne pouvant durer
+        qu’autant de temps qu’il en devoit employer à cette lecture, il
+        n’eut pas plustost finy que sa douleur recommença. Ainsi les
+        ayant toutes baisées et remises dans un petit sac de soye, qu’il
+        appeloit son thresor, il se leva, et jusqu’à ce que la nuict
+        l’eut convié de rotourner dans son antre, il ne cessa de se promener tout autour.</p>
+        <p>Laonice n’employa pas le jour de mesme sorte, car elle n’osa sortit du
+        sien, de peur que, si Tircis l’eust apperceue, cela ne l’eust
+        obligé à quitter pour jamais cette retraitte, qu’il
+        sembloit avoir choisie pour le repos de ses dernieres jours. Toutefois
+        ne pouvant obtenir de ses pensers un seul moment de relasche, elle ne
+        cessa de songer aux moyens qui pourroient arrester le cours de cette
+        haine irrecociliable qui vivoit pour elle dans l’ame de ce berger.
+        Entre les pensées, dont son esprit fut plus vivement
+        touché, l’Oracle qui luy avoit esté rendu tint presque
+        tousjours la premiere place; de sorte que ne pouvant se faire un jour
+        parmy l’obscurité qu’elle y rencontroit: Mais, dit-elle en
+        elle-mesme, si les dieux ont promis à ma passion un remede
+        favorable, n’est-il pas juste que je l’espere de leur bonté? Et
+        si je l’espere, pourquoy <pb n="403"/> ne m’est-il permis d’avoir quelque
+        cognoissance des moyens par lesquels je le puis obtenir? Une ombre,
+        m’ont-ils dit, doit servir à mon affiction. Mais quelle peut
+        estre cette ombre? Ce ne sera pas celle de Tircis, car si Tircis
+        n’estoit plus qu’une ombre, mon mal, au lieu de guerir, se rendroit
+        dutout extreme. J’ayme ssa vie, jusqu’à un poinct, que si
+        quelque fascheux accident venoit à la luy ravir, je conspirerois
+        contre la mienne. Ce ne sera pas celle de Cleon? car, ou les morts on
+        quelque memoire des choses de cette vie, ou ils n’en ont point.S’ils en
+        ont, il est impossible que l’ame de cette belle fille ne soit bien-aise
+        que Tircis continue à luy rendre des preuves de son amour et de
+        sa fidelité; ainsi ce seroit vainement que j’attendrois quelque
+        assistance d’elle, puis que son interest luy feroit plustost
+        entreprendre de me nuire, que de me soulager. S’ils n’en ont point,
+        quelle apparence d’attendre quelque secours d’un
+        lieu où l’oubly regne avec tant d’empire?</p>
+        <p>Non, non, Laonice, continuoit-elle, tes malheurs doivent estre
+        eternels, et tu peux croire que si les dieux les eussent voulu finir,
+        ils t’en eussent inspiré quelque invention plus facile. Mais,
+        adjoustoit-elle en se reprenant, n’est-ce pas un commencement de
+        bonheur, que Tircis ait esté condiut si prés de toy? Le
+        monde n’a-t’il pas d’autres forests, dont ce berger eust put rechercher
+        les solitudes, si quelque favorable Demon, qui prend le soing de ta
+        vie, n’eust treuvé plus à propos
+        de l’amener icy pour te guerir?</p>
+        <p>Sur cette pensée, elle ouvrit les tablettes où elle avoit
+        escrit l’Oracle qui la touchoit, et l’ayant relu par diverses fois:
+        Les dieux, reprit-elle, assurent que si Laonice est ferme en son
+        affection, le Ciel promet par elle un remede à sa passion.
+        Est-ce que ce remede depend de l’affection de Laonice, ou de Laonice
+        mesme, ou de l’ombre? ou si l’ombre et Laonice ne sont point une mesme
+        chose? A ce mot elle s’arresta, et s’estant amusée quelque
+        temps à resver assez profondément, comme faisant quelque
+        grand dessein: Hazadons, dit-elle tout à coup, le pis qu’il te
+        puisse arriver, c’est de te perdre, et il est croyable que les dieux ne
+        te l’auroient pas inspiré, s’ils n’avoient entrepris de le faire
+        reussir. Sur cette pensée elle passa tout le reste de la
+        journée, et dés que la nuict fut un peu avancée,
+        elle sorit de son antre, pour aller chercher celuy de Tircis.</p>
+        <p>Durant le chemin elle fut combattue de mille irresolutions, et la
+        crainte de ne venir pas à bout de ce qu’elle alloit
+        entreprendre, <pb n="404"/> luy faisoit presque treuver de
+        l’impossibilité dans les choses mesmes les plus faciles.
+        Quelquefois elle s’imaginoit, qu’acquerir l’amour de Tircis par une
+        tromperie, c’estoit un moyen pour ne la posseder pas longuement;
+        d’autrefois elle se persuadoit qu’il recognoistroit sa voix, ou que la
+        lune qui commencoit à paroistre, descouvriroit le secret qu’elle
+        eust desiré ne fier qu’aux tenebres. Mais apres cela, quand elle
+        se souvenoit d’avoir ouy dire qu’en amour les artifices, voire mesmes
+        les larcins estoient permis, et qu’elle pensoit qu’il seroit bien
+        difficile, qu’il pust remarquer sa voix, puis qu’à peine
+        seroit-il esveillé, et que la lune au lieu de luy nuire,
+        pourroit ayder à ses desseins, ayant autrefois souffert pour
+        Endimion, une partie des peines qu’elle ressentoit alors pour Tircis,
+        elle prenoit un peu de courage et continuoit dans sa premiere
+        resolution. La seule crainte qui la toucha plus sensiblement fut celle
+        de le rencontrer hors de son antre, ne pouvant pas s’imaginer qu’autre
+        lieu que celuy-la pust bien favoriser son intention.</p>
+        <p>Cela fut cause qu’en y allant, elle jetta tousjours curieusement les
+        yeux d’un costé et d’autre, pour voir s’il ne seroit point
+        perdu, comme il avoit desja fait une fois; mais n’en ayant appris
+        aucunes nouvelles, elle arriva enfin sur le milieu de la nuict, au
+        mesme lieu où elle avoit suivy Tircis un peu auparavant; et
+        d’abord s’estant mise à l’ouverture de l’autre, elle presta
+        l’oreille pour sçavoir s’il estoit endormy, dequoy elle ne fust
+        pas plustost assurée, que s’estant recommandée à
+        l’Amour, et au dieu du sommeil et des songes, elle adoucit sa voix le
+        plus qu’elle pust, et se mit à nommer trois fois Tircis.</p>
+        <p>A ce nom le berger s’esveilla à moitié, et jettant un
+        grand souspir, se tourna du costé de Laonice, qui,
+        commençant de bien esperer de son dessein: Sçaches,
+        Tircis, continua-t’elle avec le mesme ton de voix, que c’est de la part
+        des dieux, que je te viens commander de finir cette hayne que tu as
+        conceue si peu justement contre la beauté de Laonice. Son amour
+        doit estre desormais l’object de tes desirs sur peine d’attirer sur toy
+        le courroux de la divinité qui te l’ordonne, et afin que tu
+        cognoisses plus clairement, que tout cecy est conduit par la
+        volonté de ces supremes intelligences, sois assuré que tu
+        treuveras demain cette bergere assez proche d’icy, aussi
+        disposée à te pardonner ses rigueurs, que tu le dois
+        estre à t’en repentir. Ne manque donc pas à la chercher
+        avec soing, et ne crains plus d’offenser Cleon, puis que c’est
+        elle-mesmes qui t’en apporte le commandement. <pb n="405"/></p>
+        <p>A ce mot Laonice se retira, et Tyrcis, qui au nom de Cleon avoit
+        commencé d’ouvrir les yeux, eut seulement le temps de la voir
+        disparoistre, car en cet instant son antre se treuva si remply de
+        clairté, à cause que la lune donnoit à plain dans
+        l’ouverture, que ce berger n’en pouvant souffrir l’esclat, fut
+        contraint de se tourner de l’autre costé. Il avoit ouy assez
+        confusement le discours de Laonice, et pourtant il ne laissa pas d’en
+        retenir le sens, mais comme il n’estoit pas bien esveillé, il se
+        rendormit aussi-tost, sans avoir fait autre chose que nommer en
+        souspirant, deux fois le nom de Cleon, que Laonice entendit
+        distinctement, car elle ne fut pas plustost retirée, qu’elle
+        revint prester l’oreille à l’ouverture de l’antre, pour
+        apprendre ce que Tircis diroit. Ayant donc eu cette marque d’avoir este
+        ouye, elle se retira tout à fait dans sa demeure, et
+        reposa comme elle put jusqu’au jour.</p>
+        <p>Tircis d’autre costé se leva de fort bon matin, et comme il
+        n’avoit rien de si present en la pensée, que l’amour qu’il
+        conservoit pour les cendres de Cleon, il ne fut pas long-temps sans
+        resver sur ce qui luy estoit arrivé durant la nuict. Au
+        commencement il se figuroit que c’estoit un songe, mais tout à
+        coup se souvenant de ce qu’il avoit ouy, il ne doutoit plus que ce ne
+        fust une veritable vision. Ainsi ne songeant point à la
+        tromperie qui luy avoit esté faitte, et croyant infailliblement
+        que c’estoit l’ombre de Cleon qu’il avoit veue: Mais, chere ombre,
+        dit-il, ayant presque la larme à l’œil, est-il possible que tu
+        te sois enfin lassée de mes pleurs et de mes souspirs? Cette
+        passion inviolable que j’ay entretenue avecque tant de purete,
+        auroit-elle bien pu devenir importune, jusqu’au poinct de te desplaire
+        et de te fascher? Si dans la felicité dont tu jouys, et dont
+        cette grande splendeur qui t’accompagne mesme dans les horreurs de la
+        nuict, n’est une preuve irreprochable, si, dis-je, dans cet estat
+        bien-heureux, il t’ennuye de voir que je ne te puisse donner que de
+        foibles preuves de mon amour, considere je te supplie, chere Ombre,
+        qu’en cela les effects sont bien differents de leur cause, et qu’encore
+        que ces marques de mon affection perissent presque en naissant, mon
+        amour qui les produit, ne laissera pas de durer comme l’eternité.</p>
+        <p>A ce mot il se taisoit pour un peu, puis reprenant la parole: Mais
+        enfin, continuoit-il, Cleon qui se plaist à te faire
+        entreprendre les choses les plus difficiles, te commande d’aymer
+        Laonice, sçachant bien que tu n’y treuveras guiere moins de
+        peine qu’à tenter l’impossible. Si tu luy desobeys, bien que ce
+        soit le premier crime <pb n="406"/> que tu auras
+        commis contre ce que tu luy dois, il n’en sera pas pour cela moins
+        punissable, d’autant mieux qu’estant despouillée de ce qu’elle avoit de
+        mortel, tu ne la peux plus offenser que comme une divinité. Si tu luy obeys, qui
+        te dispensera des vœux, et des serments que tu avois faits si souvent, de n’avoir de
+        l’inclination que pour elle? Elle sans doute, adjoustoit-il
+        incontinent, et puis qu’elle eut bien le pouvoir de te forcer à les faire, elle en
+        doit avoir assez pour te contraindre à les rompre, apres un si absolu
+        commandement. Ah! chere Cleon, continuoit-il en se reprenant, qu’elle est insupportable, cette
+        derniere rigueur dont vous usez envers moy, et qu’il estoit bien plus juste, que
+        vous m’ordonnassiez de mourir, que de vivre pour Laonice!</p>
+        <p>A ce mot il sortit de son antre, non pas pour aller chercher cette
+        bergere, mais pour se divertir, et pour voir de quelle façon il se pourroit
+        disposer a faire ce qu’il croyoit que Cleon luy eust commandé. Mais comme il
+        estoit impossible que Laonice n’eust deslors presque la meilleure part de toutes ses
+        pensées, il n’y eut une seule des marques d’amour qu’elle luy avoit données,
+        qui ne se presentast alors à son souvenir. Et cela faisoit d’autant plus
+        d’effect en son ame, qu’il consideroit qu’elle les avoit continuées dans le plus
+        fort de sa hayne et de son mespris. Apres cela, comme elle estoit fort belle
+        fille, la memoire des traits de son visage sembloit luy inspirer la pitié,
+        et tout autant de fois qu’il pensoit aux cruautez, dont il avoit paye sa recherche, il
+        sembloit qu’il se laissast toucher de quelque espece de repenthv. La seule chose
+        qui le retenoit le plus dans sa premiere colere, c’estoit le souvenir de la
+        vengeance qu’elle avoit tirée de Silvandre et de Phillis, luy semblant que
+        cette meschanceté premeditée, et ourdie avecque tant d’art,
+        estoit un tesmoignage d’un traistre et d’un malicieux esprit. Mais comme s’il eust eu honte de la
+        condamner sans l’ouyr: Toutefois, disoit-il en luy-mesme, la vengeance
+        est douce en quelque esprit que ce soit; et comment auroit-il esté
+        possible qu’une fille s’en fust deffendue, si les plus grands personnages que les
+        Histoires nous ayent vantez, ont eu plus de peine à resister aux mouvements de
+        cette passion, qu’a conquerir des empires? Il n’estoit pas raisonnable que Laonice
+        fust moins imparfaitte que le reste des mortels, et peut-estre estoit-ce pour cela
+        qu’Hylas me disoit dernierement que s’il en eust eu le loisir, il m’eust fait
+        avouer que cette bergere n’estoit pas si coupable que je me la figurois; il
+        m’eust dit sans doute, que son ressentiment m’estoit advantageux, <pb n="407"/> et que je
+        luy en devois avoir de l’obligation, puis qu’elle avoit tesmoigné par
+        là, qu’en me perdant, elle avoit creu perdre la seule chose qui la pouvoit
+        contraindre a faire une trahison; il m’eust represents qu’elle avoit imité
+        ces desesperez, qui, ne sçachant comme r’avoir ce que la mort ou la fortune leur
+        a ravy, s’en prennent aux dieux, et brisent les statues qu’ils ont auparavant
+        consacrées à leur honneur.</p>
+        <p>Avec de telles ou semblables paroles, Tircis s’alloit entretenant, quelquefois condamnant
+        les artifices de Laonice, et quelquefois les excusant, et se condamnant
+        soy-mesme d’avoir esté le principal autheur de la meschanceté
+        qu’elle avoit faitte, mais soudain qu’il revenoit à penser à Cleon, cette memoire
+        l’emportoit, et l’empeschoit de songer de long-temps à autre chose. Dans ces
+        combats il passa presque toute la journée, et ne s’esloigna de son antre, que
+        pour aller boire au petit ruisseau qui le secouroit en cette necessité; mais
+        Laonice ayant veu finir le jour sans avoir eu des nouvelles de Tircis, commença de
+        craindre que son invention eust esté descouverte. Elle l’avoit tousjours attendu
+        en un endroit du bois, ou les arbres pour estre fort proches les uns des autres, font un
+        ombrage plus agreable qu’ailleurs, et son impatience avoit esté telle,
+        qu’à chasque bruit que les branche faisoient, quand le vent les faisoit
+        entre-baiser, elle ne pouvoi s’empescher de tourner la teste, s’imaginant que c’estoit
+        Tircis. Enfin ayant passé le jour de cette sorte, parmy les inquietude que
+        peut avoir une personne qui ayme parfaittement, elle resolut de contrefaire l’Ombre
+        une seconde fois, avec serment de le devenir elle-mesme, en cas que son
+        artifice n’eust pas un succès plus favorable qu’il l’avoit eu: Ce sera
+        alors, dit-elle en elle-mesme qu’attachée inseparablement aux pas de ce barbare, je
+        ne le lais seray jamais jouyr d’un seul moment de repos; du feu de mon amour
+        j’allumeray un flambeau, qui, plus dangereux mille fois que celui des Furies, le
+        bruslera sans relasche, et sans le consomme.</p>
+        <p>En ce dessein elle fut sur le poinct de partir pour arriver c’estoit Tircis, à la mesme
+        heure qu’elle y avoit esté la nuict auparavant, mais craignant que le berger
+        fust esveillé, soubs esperance de revoir Cleon une seconde fois, elle creut qu’il
+        estoit meilleur de n’y aller qu’un peu devant le jour. Ainsi elle passa la
+        nuict soubs ces arbres, et quand elle jugea qu’il estoit temps de parti elle s’en
+        alla pour executer ce qu’elle avoit proposé.</p>
+        <p>Dés qu’elle fut à l’ouverture de l’antre, elle presta l’orei <pb n="408"/> comme elle avoit
+        desja fait l’autre fois, et soudain qu’elle fut assurée que Tircis dormoit,
+        elle y entra avec le moins de bruit qu’elle put. La premiere chose qu’elle fit, ce
+        fut de le nommer, sçachant bien que naturellement chascun a plus de
+        disposition à ouyr son propre nom, que tout autre parole, et de fait, en cet instant le berger
+        donna quelque tesmoignage de n’estre pas entierement endormy; ce qui fut
+        cause que Laonice se hasta de luy dire: Tircis, ta desobeyssance a
+        offensé les dieux et Cleon, et la rigueur de Laonice sera la punition de ton crime. Que si
+        tu ne veux que son esprit devienne inexorable pour toy, fay que tu sois
+        aujourd’huy en estat de reparer la faute que tu fis hier, et souviens-toy encor un
+        coup que c’est Cleon qui te le commande, et que tu ne dois jamais esperer de
+        grace aupres d’elle, si tu ne m’obeys.</p>
+        <p>A ce mot elle sortit, et se mettant tout contre l’ouverture, elle ouyt que Tircis fit un grand
+        souspir, et puis haussant la voix: Helas, chere Cleon, dit-il, pourquoy fuys-tu
+        si promptement la presence de celuy qui fut autrefois la moitie de ta vie? Ou
+        pour­quoy m’imposes-tu maintenant une loy que jadis tu eusses eu
+        horreur de me prescrire? Bons dieux! est-il possible qu’il y ait parmy vous quelque
+        changement, et que vous ayez ce deffaut commun avecque les hommes?
+        Alors il se teut, et Laonice qui pensa qu’il n’avoit plus rien a dire, fut sur le
+        poinct de s’en retourner mais tout à coup elle ouyt que, reprenant la
+        parole: Et bien, dit-il, je la suivray cette loy que tu me prescris, et puis que les
+        dieux t’ont inspire quelque pitié pour les travaux de Laonice, il n’est pas
+        juste que je sois moins sensible que toy. Disant cela il recommença de
+        souspirer, et la bergere saisie d’une joye incroyable n’en voulut pas ouyr davantage;
+        mais s’esloignant environ de deux ou trois cents pas, elle resolut de luy
+        donner toute sorte de, commodité, de rendre une obeyssance veritable au
+        feint commandement qui luy avoit esté fait.</p>
+        <p>Cependant Tircis ne se rendormit pas, mais pensant aux qualitez du
+        corps et de l’esprit de Laonice, et n’ayant plus pour elle cette aversion qui luy
+        faisoit condamner toutes choses, il acheva de se resoudre, et de croire que les
+        années qu’il passeroit aupres d’elle, pourroient avoir quelque chose de plus
+        doux, que celles qu’il vouloit employer dans la solitude qu’il avoit choisie. En
+        ce dessein, il se leva aussi-tost que le jour parut, et ne se pouvant
+        imaginer en quel lieu il pourroit rencontrer cette bergere: Qu’est-il
+        besoing, dit-il tout à coup, de nous en mettre en peine? Les <pb n="409"/>
+        mesmes dieux qui nous ont commandé de l’aymer, nous donneront sans doute le moyen de la voir.</p>
+        <p>A ce mot il sortit, et sans sçavoir ou aller, il suivit le premier chemin ou ses pas le
+        voulurent conduire. Laonice qui estoit aux escoutes, ne fut pas long-temps sans
+        le voir paroistre. S’estant donc mise en son chemin, elle s’assist en terre, et
+        soudain qu’elle jugea qu’il la pourroit entendre, se mit à chanter ces vers:</p>
+    </div>
+    <div type="contentci">
+        <milestone unit="line"/>
+        <head type="chapitre">STANCES</head>
+        <milestone unit="line"/>
+        <p>Beaux deserts, chere solitude,</p>
+        <p>A qui je dois ma guerison,</p>
+        <p>Et qui remettez ma raison</p>
+        <p>Dans sa premiere quietude,</p>
+        <p>Quelque horreur que je treuve en ces lieux obscurcis,</p>
+        <p>Vous m’estes bien plus doux que les yeux de Tircis.</p>
+        <milestone unit="line"/>
+        <p>Bois, que vous m’estes agreables!</p>
+        <p>Mon cœur vous nomme son recours</p>
+        <p>Contre un cruel, pour qui mes jours</p>
+        <p>Ne sont pas assez miserables,</p>
+        <p>Et qui voudroit aller mesmes jusqu’aux Enfers</p>
+        <p>Adjouster d’autres maux à ceux que j’ay souffers.</p>
+        <milestone unit="line"/>
+        <p>Tyran, arme toy de colere!</p>
+        <p>Mon ame rid de tes desdains,</p>
+        <p>C’est à ce coup que je ne crains,</p>
+        <p>Quelque mal que tu puisses faire:</p>
+        <p>Ces arbres eslevez, tesmoings de ma langueur,</p>
+        <p>Me tiennent à couvert des coups de ta rigueur.</p>
+        <milestone unit="line"/>
+        <p>Beaux deserts, chere solitude,</p>
+        <p>Par vostre secours seulement,</p>
+        <p>Je m’esloigne si doucement</p>
+        <p>Des traits de son ingratitude;</p>
+        <p>Heureuse mille fois si vous pouviez, beaux lieux,</p>
+        <p>L’oster à ma pensée aussi bien qu’à mes yeux.</p>
+        <milestone unit="line"/>
+    </div>
+    <div type="contentl">
+        <p>A cette voix Tircis demeura comme pasmé, admirant la pro-<pb n="410"/>vidence des dieux
+        en la conduitte de cette affection, et se glissant d’arbre en arbre, il
+        arriva aupres d’elle justement comme elle achevoit de chanter. Aussi-tost il se jetta
+        à ses genoux, et la bergere qui feignit d’avoir une extreme peur, se voulut
+        lever pour s’enfuyr; mais Tircis l’arrestant par sa juppe: Belle Laonice, luy
+        dit-il, comme Cleon fut autrefois la cause du peu d’estime que je fis de vostre
+        beauté, elle l’est maintenant de l’amour que je vous viens offrir, heureux
+        doublement, si le souvenir de ma hayne passée n’a point fait mourir en vous la
+        volonté de me recevoir. Laonice alors feignant fort bien un estonnement: Cruel, luy
+        respondit-elle, n’es-tu pas encore lasse de m’affliger? Pourquoy me
+        viens-tu persecuter dans ces lieux ou mon humeur a treuve un remede a ta
+        barbarie? Si tu es ce Tircis, dont la cruauté m’a fait tant de fois mourir, qui
+        te pousse à me venir flatter des promesses d’un bien dont tu m’as osté tant de
+        fois l’esperance? Et si tu n’en es que l’ombre, dy moy qui t’a fait
+        abandonner l’amour de cette Cleon, dont tu as si long-temps idolatré les
+        cendres? – Je suis veritablement, repliqua le berger, ce Tircis, qui ne se pouvant
+        despouiller de la passion qu’il avoit conceue pour cette belle fille, eust mieux
+        aymé mourir que la changer; mais depuis que cette mesme Cleon a autrement
+        ordonné de ma vie, j’ay creu qu’autre que Laonice ne devoit avoir la gloire de me posseder.</p>
+        <p>Disant cela, il s’avanca pour luy prendre la main, et la bergere se reculant, comme ne l’osant
+        toucher: Attends, luy dit-elle, Tircis, je doute encore si ce que je vois n’est
+        point une illusion, permets que mes esprits se rassurent, ou tu me feras mourir
+        de frayeur. – Mauvaise! reprit Tircis, si nous avions aussi peu de peine
+        à croire les miracles, que les dieux à les faire, vous seriez bien-tost
+        hors de cet estonnement. – En effect, dit Laonice en l’interrompant, voir Tircis a
+        mes genoux, et l’ouyr parier d’amour à Laonice, ne sont pas deux
+        petites merveilles! – Et pourtant, dit Tircis, il n’est pas plus vray que je
+        vis, qu’il est vray que je vous ayme. – Je doute esgalement de l’un et de l’autre,
+        adjousta Laonice, et ce qui me met le plus en peine, c’est de sçavoir
+        quelle preuve j’en dois demander. – La plus infaillible, repliqua le berger, c’est le
+        repentir des rigueurs dont j’ay paye jadis la volonté que vous avez eue pour
+        moy, et le vœu inviolable que je fay de n’estre jamais qu’à vous.</p>
+        <p>A ce mot, il se hasta de luy prendre la main qu’il baisa, et Laonice en sousriant: A cette
+        heure, dit-elle, je cognois que vous avez un <pb n="411"/> corps, et que je ne
+        dois plus douter qu’il y ait en cecy quelque tromperie, si vous ne la cachez dans
+        vostre intention. – Mon intention, respondit le berger, est toute conforme
+        à mes paroles, et si la volonté que je vous offre merite que vous
+        arrestiez là vos desirs, je vous conjure de quitter pour l’amour de moy ces deserts,
+        qui sont plus propres à nourrir des ours, que des beautez comme la
+        vostre, et de prendre la peine de venir jusqu’à Mont-verdun, ou vous recevrez la
+        derniere preuve que je vous puis donner de ma sincere affection.</p>
+        <p>Laonice qui ne demandoit pas mieux, fit encore quelques petites difficultez, apres lesquelles
+        elle consentit enfin au desir de Tircis, et s’estants demandez en
+        chemin, par quelle rencontre ils avoient esté
+        conduits dans cette forest, Laonice luy montra l’Oracle qui luy avoit
+        esté rendu, et Tircis luy raconta comme il
+        avoit reussi, parlant avec tant d’innocence de
+        cette Ombre, des discours qu’elle luy avoit
+        tenus, et de cette grande clairté dont il la vid
+        environnée, que Laonice ne put s’empescher de rire, de quoy son
+        artifice, avoit eu un si favorable succez, ce
+        que le berger attribuant à la joye qu’elle
+        devoit avoir de le posseder, il luy fut impossible de se douter jamais de sa malice.</p>
+    </div>
+    <div type="contentc">
+        <p>Enfin, estants arrivez au Temple, Tircis supplia Laonice de consentir</p>
+        <p>qu’un druide les mariast ensemble, à quoy s’estant accordée,</p>
+        <p>ils furent en peu de temps espousez, et aussi-tost</p>
+        <p>apres descendirent jusques dans la Plaine,</p>
+        <p>pour donner la nouvelle de leur </p>
+        <p>mariage inopiné, auxbergers</p>
+        <p>et aux bergeres de leur</p>
+        <p>cognoissance.</p>
+    </div>
+
+</body><back>
+<div>
+<p/>
+</div>
+</back></text></TEI>

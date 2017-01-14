@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -45,7 +45,7 @@
         <head type="partie">MERE DU ROY,</head>
         <head type="partie">TRES CHRESTIEN</head>
         <head type="partie">LOUYS LE JUSTE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>MADAME,</p>
         <p>Cette Astrée, à qui les meilleurs esprits ont
         eslevé des autels, et qui se peut vanter d’avoir porté sa
@@ -82,7 +82,7 @@
         que tout le monde pourroit un jour recognoistre que le plus glorieux
         advantage que j’en espere, c’est de pouvoir protester solemnellement,</p>
 
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Madame,</p>
         <p>que je suis de Vostre Majesté,</p>
         <p>Tres-humble, tres-obeissant, et tres-fidelle serviteur et subjet,</p>

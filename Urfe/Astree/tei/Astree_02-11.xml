@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">L’UNZIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Douze ou quinze jours s’estoyent passez depuis qu’Alexis
         avoit laissé sa triste demeure, et desja la plus part des voisins avoit
         visité Adamas, quand on l’advertit que quelques bergers desiroient de parler
@@ -261,10 +261,10 @@
         rien sceu qu’à cette heure, et je vous jure que je ressens sa perte. Mais
         dites-moy, Lycidas, comment est-elle advenue? <pb n="435"/></p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE DE CELIDÉE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je pensois, madame, respondit Lycidas, que vous eussiez
         sceu sa pitoyable histoire, parce que c’a esté un accident si estrange
         que chacun le racontoit pour une grande merveille. Mais puis que cela n’est
@@ -297,27 +297,27 @@
         cette tristesse, et ayant pitié de son mal, s’approcha doucement de luy, qui ravy en son
         desplaisir proferoit à voix basse telles parolles, sans appercevoir son oncle. <pb n="436"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que je vive et qu’on la possede,</p>
         <p>N’est-ce point d’amour un deffaut,</p>
         <p>Puis que pour bien aymer il faut,</p>
         <p>Qu’on meure plustost que l’on cede?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais si je meurs, je ne pers pas</p>
         <p>Le souvenir qui me tourmente:</p>
         <p>Au creux de ma tombe relente,</p>
         <p>Ce regret suivra mon trespas.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quelle fortuen pitoyable</p>
         <p>Me contraint Amour de courir,</p>
         <p>Puis que pour n’estre miserable,</p>
         <p>Je ne puis vivre ny mourir?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Thamire l’escoutant en prit une compassion qui ne fut pas
         petite, et plus encores lors qu’apres ces paroles il luy vit tendre les yeux en
         haut, et joindre les mains dans son giron, couvrant son visage de
@@ -1059,10 +1059,10 @@
         <p>Lycidas qui n’y pensoit point, croyant seulement de
         faire chose qui fust agreable à la nymphe, reprint la parole ainsi.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE LA JALOUSIE DE LYCIDAS </head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous sçavez, madame, que l’ordinaire conversation
         qui estoit entre Phillis et Silvandre, à cause de la gageure qu’ils avoient faite
         de se faire aymer à Diane, fut le subject de ma jalousie. Mais ce ne
@@ -1534,10 +1534,10 @@
         pourtraits que vous voyez icy.</p>
         <p>Et lors, apres s’estre teu quelque temps, il reprit de cette sorte</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE PLACIDIE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Theodose premier de ce nom, empereur d’Orient, l’un
         des plus grands princes que nous ayons veu puis Auguste, eut trois
         enfans: l’un Arcadius, qui fut apres luy empereur en Orient,
@@ -2161,7 +2161,7 @@
         dit: Que quant à luy, il estoit d’advis que ceux qui s’en
         vouloient aller, s’en allassent, et qu’il <pb n="485"/></p>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>fust permis de demeurer à ceux qui vouloient demeurer; et que</p>
         <p>pour luy il luy promettoit que de bon cœur il luy tiendroit com-</p>
         <p>­pagnie tant qu’ Alexis y seroit. Adamas sousrit des paroles de</p>

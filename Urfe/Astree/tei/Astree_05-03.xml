@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE TROISIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A l’arrivée du secours de Gondebaut, Polemas fit sortir de
         Surieu ses machines, et toutes les trouppes qui luy restoient, de sorte
         qu’il estoit dans un contentement nompareil, quand il s’imaginoit que
@@ -159,11 +159,11 @@
         volonté. Cela fut cause qu’il ne s’y opposa pas davantage et qu’il
         envoya Philiandre avec un herault pour porter ce desfy à Polemas.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">DESFY DE LINDAMOR</head>
-        <h3>A POLEMAS</h3>
-        <milestone type="space"/>
+        <p>A POLEMAS</p>
+        <milestone unit="line"/>
         <p> Si je ne sçavois farfaittement que Polemas a du
         courage, je craindrois qu’il fist quelque difficulté de recevoir
         le combat qe je luy presente, et dont luy-mesme fera les conditions;
@@ -176,9 +176,9 @@
         sçache promptement vostre volonté, et puisque vostre
         perte est inevitable, souvenez-vous que vous ne sçauriez mourir
         plus glorieusement que soubs les armes de Lindamor.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Aussi-tost que Polemas l’eust achevé de lire: Il est vray,
         dit-il, que si sa valeur est egale à sa presomption, je n’auray
         pas à vaincre un foible ennemy, mais je me doubte bien qu’il
@@ -198,11 +198,11 @@
         Ce chevalier l’ouvrit au mesme instant, et l’ayant fait voir aux deux
         Princes, ils virent qu’il disoit ainsi.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">RESPONCE DE POLEMAS</head>
-        <h3>AU DESFY DE LINDAMOR</h3>
-        <milestone type="space"/>
+        <p>AU DESFY DE LINDAMOR</p>
+        <milestone unit="line"/>
         <p>Vous estes arrivé bien à propos pour conserver
         à ma reputation l’esclat qu’elle eust en quelque façon
         perdu, par le blasme qu’on m’eust donné de n’avoir vaincu que
@@ -221,9 +221,9 @@
         <p>Il sera permis au premier vainqueur de secourir ses deux amis.</p>
         <p>Les armées suivront le party du plus fort.</p>
         <p>Et ne sera permis aux victorieux d’exercer sur les corps de leurs ennemis vaincus aucun acte qui puisse rendre leur memoire moins glorieuse.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Telles furent les conditions sous lesquelles Polemas accepta le
         desfy de Lindamor, ausquelles Sigismond he treuva rien qui ne fust
         juste. Rosileon seulement protesta que celle qui obligeoit les
@@ -660,11 +660,11 @@
         s’entretenoient avecque les nymphes et les dames qui estoient dans la
         chambre, il luy tint ce discours.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>DE CHILDERIC, DE SILVIANE ET D’ANDRIMARTE</h3>
-        <milestone type="space"/>
+        <p>DE CHILDERIC, DE SILVIANE ET D’ANDRIMARTE</p>
+        <milestone unit="line"/>
 
         <p>Je ne sçay, Madame, si le chevalier que je vous envoyay apres la
         mort de Clidaman s’acquitta bien de la commission que je luy avois
@@ -847,11 +847,11 @@
         papiers, parmy lesquels il treuva celuy qu’il cherchoit, et l’ayant
         ouvert, il y leut ces mots.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE LA REYNE METHINE</head>
-        <h3>A BASSIN, DUC DE TURINGE</h3>
-        <milestone type="space"/>
+        <p>A BASSIN, DUC DE TURINGE</p>
+        <milestone unit="line"/>
         <p>Childeric se va jetter entre vos bras, pour y trouver un refuge
         assuré contre tant de malheurs qui le persecutent. Mais s’il y a
         autant, d’inesgalité en vos inclinations, que je remarque de
@@ -870,9 +870,9 @@
         vous appartenir, souffrez que leur interest soit en quelque
         façon le vostre, et que le peu qui leur reste d’esperance, soit
         desormais conservé soubs vostre protection.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>– Voyla, Madame, dit Lindamor, en continuant, ce que la Reyne escrivit
         à Bassin, dequoy son ame fut si touchée qu’il protesta,
         comme je vous ay desja dit, de le servir contre qui que ce <pb n="130"/>
@@ -1583,16 +1583,16 @@
         chambres, elle supplia ses hostes de disposer absolument de tout ce qui
         estoit en sa puissance, puisqu’elle confessoit n’avoir rien au monde
         qu’elle ne deut à leur courage et à leur affection. <pb n="148"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <head type="chapitre">LIVRE IV</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>[Circéne continue son histoire et celle de Palinice et de Florice.]</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">LIVRE IV</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>[Circéne, Palinice et Florice choisissent leur mari à colin-maillard.]</p>
     </div>
 

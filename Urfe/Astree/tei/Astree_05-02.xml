@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA DERNIERE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DEUXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Polemas, qui, durant la plus grande partie de la nuict, n’avoit
         cessé de resver sur le travail qu’il faisoit faire, et qui
         s’estoit flatté mille fois de l’esperance que par ce remede son
@@ -328,11 +328,11 @@
         Rosanire, et de s’opposer genereusement à la violence de ceux
         qui voudroient entreprendre contre Amasis.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE</head>
-        <h3>DE LIPANDAS, D’AMERINE, DE MELANDRE, ET DE LYDIAS</h3>
-        <milestone type="space"/>
+        <p>DE LIPANDAS, D’AMERINE, DE MELANDRE, ET DE LYDIAS</p>
+        <milestone unit="line"/>
 
         <p>Durant toutes ces choses, les blessures de Lipandas guerirent,
         mais non pas sa passion, et bien que ce chevalier n’eust pas beaucoup
@@ -1035,11 +1035,11 @@
         avec commandement à tous les chefs d’obeyr à Polemas, il
         leur donna congé et luy escrivit cette lettre.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE GONDEBAUT</head>
-        <h3>A POLEMAS</h3>
-        <milestone type="space"/>
+        <p>A POLEMAS</p>
+        <milestone unit="line"/>
         <p>J’envoye trente-deux mille hommes à
         Polemas, non pas que j’y sois poussé de l’ambition de voir
         croistre les bornes de mon empire, ouy bien du desir que j’ay de luy
@@ -1054,9 +1054,9 @@
         s’il vouloit prendre la peine de s’y employer. Combattez donc
         promptement, brave Polemas, ou plustost surmontez, car je sçay
         que desormais en vous combattre et vaincre ne sera qu’une mesme chose.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Durant que les affaires alloient ainsi, Sigismond passoit fort mal
         son temps: Gondebaut l’avoit fait enfermer dans une tour, afin de
         s’assurer mieux de sa personne, s’estant bien douté que tant
@@ -2066,40 +2066,40 @@
         antre. Et pour ce qu’il estoit esloigné de ce rocher de deux ou
         trois cents pas, elle s’amusa en y allant à faire cette chanson.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">CHANSON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tircis, cet ingrat que je sers,</p>
         <p>Par un arrest inevitable <pb n="108"/></p>
         <p>M’a reduitte dans ces deserts,</p>
         <p>Dont l’horreur m’est insupportable:</p>
         <p>0 Ciel! je vay mourir si mon bannissement</p>
         <p>Dure plus longuement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cruel, c’est icy que les ours</p>
         <p>Insensibles comme ton ame</p>
         <p>Veillent pour achever les jours</p>
         <p>D’une fille qui te reclame,</p>
         <p>Et qui s’en va mourir, si son bannissement</p>
         <p>Dure plus longuement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Icy je combats des serpents,</p>
         <p>Puis je regarde un vieil satyre</p>
         <p>Qui rid des pleurs que je respands,</p>
         <p>Et fait des sauts quand je souspire:</p>
         <p>0 Ciel! je vay mourir si mon bannissement</p>
         <p>Dure plus longuement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dieux, si la pitié de mes maux</p>
         <p>A quelque charme qui vous touche,</p>
         <p>Ostez-moy tous ces animaux,</p>
         <p>Tircis est bien assez farouche,</p>
         <p>Aussi bien je mourray si mon bannissement</p>
         <p>Dure plus longuement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>Laonice acheva sa charison presque aussitost que son chemin,</p>
         <p>et se mettant dans son antre, que les zephirs avoient</p>
         <p>appris à visiter depuis qu’elle y avoit souspire ses</p>

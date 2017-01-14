@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DIXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quant à Leonide, elle marcha avec plus de diligence
         depuis qu’elle eust laissé Chrisante au temple de la Bonne Déesse, parce
         qu’elle desiroit de raconter à son oncle ce qui avoit esté fait pour
@@ -83,47 +83,47 @@
         puique tu as un si grand soing de ceux qui sont à toy?</p>
         <p>A ces paroles, il adjousta ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Belles onde de Lignon que j’enfle de mes pleurs,</p>
         <p>Campagnes qui sçavez quelles sont mes douleurs,</p>
         <p>Tesmoins de mes ennuis, ô Forests solitaires,</p>
         <p>Echo de qui la voix respond à mes accens,</p>
         <p>Air remply de souspirs et de cris languissants,</p>
         <p>Ayez part à mon heur comme à tant de miseres.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>De tempestes tousjours le mont de Marcilly,</p>
         <p>Quoy qu’il soit eslevé, n’a le dos assailly,</p>
         <p>Tousjours impetueux Lignon ne se courrouce,</p>
         <p>L’espoir de nos moissons ne nous deçoit tousjours,</p>
         <p>Par divers changements s’entresuivent noz jours,</p>
         <p>Et d’un bransle divers, le temps mesme se pousse.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ma bergere dormoit, mais autour de ses yeux,</p>
         <p>Mille petits amours voletoient soucieux,</p>
         <p>A trouppes les desirs sur sa lévre jumelle</p>
         <p>Accouroient murmurant, comme fantosmes vains,</p>
         <p>Et ces desirs naissoient des amoureux Sylvains,</p>
         <p>Qui ne virent jamais une nymphe si belle. <pb n="395"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Heureux, ah! trop heureux tous mes ennuys passez!</p>
         <p>Vous estes à ce coup trop bien recompensez,</p>
         <p>Puis que je l’ay peu voir avant que je finisse;</p>
         <p>Mais s’il ne te plaist pas de changer son desdain,</p>
         <p>Je te supplie, Amour, fay moy mourir soudain,</p>
         <p>De peur qu’en languissant mon heur ne s’amoindrisse.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>En sa course Lignon reflote moins de fois,</p>
         <p>Nos champs jaunissent moins, Isoure a moins de bois,</p>
         <p>Et moins de voix Echo, bien qu’elle soit son ame,</p>
         <p>Moins d’eslans a cet air d’un grand vent agité,</p>
         <p>Que mon cœur n’a d’amour, ma nymphe de beauté,</p>
         <p>Que mon amour de foy, que sa beauté de flame.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant que ce berger s’entretenoit de cette sorte,
         Adamas et Leonide y arriverent; et parce que le visage de Celadon, beaucoup
         changé de ce qu’il souloit estre, donnoit tesmoignage du contentement qu’il
@@ -277,24 +277,24 @@
         dés le jour qu’il résolut d’en sortir, pour memoire eternelle du sejour
         qu’il y avoit fait: ils estoient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dans les tristes recoings de ceste roche obscure,</p>
         <p>Habiterent long-temps l’amour et le desdain,</p>
         <p>Sans passer plus avant, si tu crains leur blessure,</p>
         <p>Passant, fuy-t’en soudain.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Car comme le charbon, sa flame estant esteinte,</p>
         <p>Retient long temps le chaut,</p>
         <p>Aussi craindre il te faut</p>
         <p>Que ces grands dieux absents de leur demeure sainte</p>
         <p>Ayent laissé dedans</p>
         <p>Des feux encor ardans.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ceste affaire fut conduite par Adamas, avec tant de
         prudence, que Paris mesme n’en sceut rien, ayant resolu de le tromper, afin que les autres
         y fussent mieux deceus. Il receut donc pour sa sœur ceste fainte Alexis
@@ -443,10 +443,10 @@
         qu’en haussant la teste de propos delibéré, et tenant son
         chappeau, de peur qu’il ne tumbe, je fis ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Precipices, rochers, montagnes sourcilleuses,</p>
         <p>Abysmes entre-ouverts, vous, pointes orgueilleuses,</p>
         <p>Qui vous armez d’horreur et d’espouventement,</p>
@@ -459,9 +459,9 @@
         <p>Contre tous mes malheurs mon amour infinie.</p>
         <p>Accroisse s’il se peut le Ciel sa tyrannie,</p>
         <p>Si je n’esmeus l’amour, la mort je fleschiray.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et parce qu’auparavant ayant passé les destroits
         des Sebusiens, je voulus éviter la fascheuse montagne des Caturiges, me mettant
         sur le Rosne, je me resolus de suivre ce grand lac qui flotte contre les
@@ -472,30 +472,30 @@
         dans le bateau, sans estre esmeu de cette crainte, je ne pensois qu’en ma
         bergère, et voicy des vers que j’en fis à l’heure mesme.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ondes qui souslevez vos voûtes vagabondes</p>
         <p>Contre le joible sein de mon fresle vaisseau,</p>
         <p>Sçachez que dans le sein je porte un tel flambeau</p>
         <p>Qu’il peut rendre une mer des abismes sans ondes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Plusieurs fois de mes yeux les deux sources fecondes</p>
         <p>Aur oient desja fait naistre un ocean nouveau,</p>
         <p>Si l’ardeur de ce feu ne consommoit leur eau:</p>
         <p>Vagues, refuyez donc en vos grottes profondes.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>De vos replis bossus plus fort vous nous hurtez,</p>
         <p>Sans craindre de l’amour les flambeaux redoutez,</p>
         <p>N’estes-vous point d’Enfer quelque source maudite?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>0 dieux! s’il est ainsi du destin estably,</p>
         <p>Soit plustost qu’un Lethé, pour le moins un Cocyte,</p>
         <p>Fleuve plustost-de mort, que fleuve de l’oubly.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Au sortir de ce grand lac, je traversay les grands bois des
         Caturiges, et apres avoir passé Isere, riviere qui vient des
         Centrons <pb n="405"/>, je traversay l’etroitte valée des Carroceles et
@@ -505,31 +505,31 @@
         recita. Et parce qu’ils me pleurent, je les
         appris par cœur: ils estoient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Des Montagnes et Rochers à un Amant.</p>
         <p>Ces vieux rochers tous nuds, glissants en precipice,</p>
         <p>Ces cheutes de torrent, froissez de mille sauts,</p>
         <p>Ces sommets plus neigeux, et ces monts les plus hauts,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ne sont que les pourtraits de mon cruel supplice.</p>
         <p>Si ces rochers sont vieux, it faut que je vieillisse,</p>
         <p>Lié par la constance au milieu de mes maux,</p>
         <p>S’ils sont nuds et sans fruit, sans fruit sont mes travaux,</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Sans qu’en eux nul espoir je retienne ou nourrisse.</p>
         <p>Et ces torrens rompus, sont-ce pas mes desseins?</p>
         <p>Ces neiges, vos froideurs? ces grands monts, vos desdains?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bref, ces deserts en tout à mon estre respondent.</p>
         <p>Sinon que vos rigueurs plus malheureux me font:</p>
         <p>Car d’en-haut bien souvent quelques neiges se fondent,</p>
         <p>Mais las! de vos froideurs pas une ne se fond.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Leonide qui estoit bien aise de distraire Alexis de ses
         fascheuses pensées: Racontez-moy, luy dit-elle, ce que vous vistes de rare
         en vostre voyage. – Cela seroit trop long, respondit-elle, car l’Italie
@@ -538,10 +538,10 @@
         Segusiens. Mais je vous veux raconter l’une des plus belles advantures qui m’y advindrent,
         m’asseurant que nous en aurons assez de loisir. <pb n="406"/></p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE D’URSACE ET D’OLIMBRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Sçachez donc, madame, qu’Alcippe ayant faict
         dessein de m’eslongner d’Astrée, il m’ordonna de laisser les habits des ber­gers,
         afin que plus librement je peusse frequenter parmy les bonnes compagnies. Car en
@@ -567,31 +567,31 @@
         estendu de son long contre terre, qui, sans m’apercevoir, à l’heure que
         j’arrivay, parloit de ceste sorte.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>S’il doit mourir ou vivre.</h3>
-        <milestone type="space"/>
+        <p>S’il doit mourir ou vivre.</p>
+        <milestone unit="line"/>
         <p>Mon esprit combattu diversement chancelle,</p>
         <p>Dois-je vivre ou.mourir parmy tant de malheurs?</p>
         <p>Si je vis, hé! comment souffrir tant de douleurs?</p>
         <p>Si je meurs, hé! comment estre à jamais sans elle?<pb n="407"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>En mourant je n’auray que l’espine cruelle,</p>
         <p>Dont Amour si souvent m’a tant promis de fleurs;</p>
         <p>En vivant je seray tousjours noyé des pleurs,</p>
         <p>Que mon cuisant regret sans cesse renouvelle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour tromper tant de maux, mon cœur, que ferons-nous?</p>
         <p>Vivons. La vie en fin est agreable à tous. Mourons.</p>
         <p>Douce est la mort dont l’ame est soulagée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>En quel cruel estat m’ont reduit mes ennuis,</p>
         <p>Puis que, ny vif ny mort, la misere où je suis,</p>
         <p>Tant mon desastre est grand, ne peut estre allegée!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Miserable Ursace, disoit-il, apres s’estre teu quelque
         temps, jusques à quand te trompera ce vain espoir qui te flatte? Combien te
         fera-t’il passer encores de jours en ceste cruelle misere? Et combien te
@@ -855,10 +855,10 @@
         qu’elle avoit un meilleur visage encores que quand elle la laissa,
         elles s’assirent eslongnées de chacun, et lors, Silvie luy parla de ceste sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE DE LINDAMOR</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Encores, ma sœur, qu’il ne me faille point de subjet pour
         me convier de vous venir voir, sinon le seul desir que j’en ay, si vous diray-je
         qu’à ce coup ce qui m’a conduict icy, n’est pas cette seule volonté,
@@ -902,11 +902,11 @@
         le paquet ouvert, et donnant à Leonide la lettre qui s’adressoit
         à elle, elle vit qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE LINDAMOR</head>
-        <h3>A LEONIDE</h3>
-        <milestone type="space"/>
+        <p>A LEONIDE</p>
+        <milestone unit="line"/>
         <p>Vous croyez que ma presence me sera utile, et je pense
         qu’aussi sera-t’elle, mais par un moyen bien different de celuy que vous
         attendez. Elle me profitera sans doute en deux sortes: l’une, en me
@@ -920,9 +920,9 @@
         luy escrits, attendant que la fin de ma vie, devancée de la mort de ce
         <pb n="416"/> meschant, luy rende tesmoignage que je ne pouvois survivre l’amitié
         qu’elle m’avoit promise, ny mourir aussi sans en tirer vengeance.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Voicy, me dit-elle, continua Silvie, ce que j’ay tousjours
         le plus redouté: l’imprudence de Leonide, ou plustost sa malice, est si
         grande qu’elle a declaré à Lindamor l’amitié que je porte
@@ -968,11 +968,11 @@
         vous pourrez lire, dict Silvie, la presentant à Leonide, qui la
         prenant trouva qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE LINDAMOR</head>
-        <h3>A GALATHÉE</h3>
-        <milestone type="space"/>
+        <p>A GALATHÉE</p>
+        <milestone unit="line"/>
         <p>Puisque ce malheureux esloignement, outre l’honneur de
         vostre presence, me ravit celuy de vos bonnes graces, je proteste que je ne veux plus
         vivre que pour vous rendre preuve que je merite mieux ce que vous
@@ -982,9 +982,9 @@
         je serois en vie. Il advouera bien tost ce que je dis, ou l’espée qu’il
         a desjà ressentie, luy ostera à ce coup la vie, que je ne luy laissay
         que trop malheureusement pour ce miserable et infortuné Lindamor.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quand Leonide eut leu ceste lettre: Je m’asseure,
         dict-elle, ma sœur, que Galathée a bien recognu que son tant aymé Celadon
         n’estoit point en danger de perdre la vie par mon moyen, et que c’est plustost ce
@@ -1155,11 +1155,11 @@
         Galathée, s’il est necessaire. Il n’y avoit que ce que je vay vous dire.</p>
         <p>Et lors se reculant, elle dit tout haut.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE LEONIDE</head>
-        <h3>A LINDAMOR</h3>
-        <milestone type="space"/>
+        <p>A LINDAMOR</p>
+        <milestone unit="line"/>
         <p>Si autrefois vous avez deu esperer en moy, je vous dis
         mainte­nant que vous devez remettre toute vostre esperance en vous-mesme, non pas que
         j’aye diminué de bonne volonté envers vous, mais parce que les
@@ -1168,9 +1168,9 @@
         d’apparence de salut si vous ne revenez promptement. Je ne puis vous en
         dire d’avantage que ce ne soit de bouche, n’estant pas à propos
         qu’autre que vous entende ce à quoy tout seul vous pouvez remedier.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>– Vous luy donniez, dit Silvie, l’alarme bien chaude, et
         ne m’estonne plus qu’il ait changé de couleur, car ceste nouvelle estoit bien
         assez fascheuse pour luy causer de semblables effects. – Que pouvois-je, dit
@@ -1366,7 +1366,7 @@
         revenir, et que vous l’asseuriez que je l’aymeray, pourveu qu’elle
         vive, et avec moy, et avec vous, comme elle doit.</p>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>D’autre costé Leonide, aussi tost que sa compagne fut par-</p>
         <p>­tie, retourna vers Adamas et luy raconta une partie des</p>
         <p>nouvelles qu’elle luy avoit dites, schant avec finesse</p>

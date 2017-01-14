@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE SIXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ce chevalier qui avoit esté trouvé aupres du
         Temple d’Astrée, ayant pris le mesme chemin que Paris avoit faict, se trouva bien tost sur le
         pont de la Bouteresse, et peu apres sur le haut de la plaine qui
@@ -87,85 +87,85 @@
         sçavons bien servir.</p>
         <p>A ce mot ils ouyrent que le chevalier qui estoit auprès d’eux chantoit ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>En se plaignant de sa dame, il les blasme toutes.</h3>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <p>En se plaignant de sa dame, il les blasme toutes.</p>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle a changé mon feu, la volage qu’elle est,</p>
         <p>Pour une moindre flamme,</p>
         <p>Pour faire voir à tous qu’elle est femme en effect,</p>
         <p>Et que c’est qu’une femme.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais devois-je pretendre en cet esprit léger</p>
         <p>Amour moins passagere?</p>
         <p>Car, puis quelle estoit femme, il faloit bien juger</p>
         <p>Qu’elle seroit legere.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’onde est moins agitée, et moins leger le vent,</p>
         <p>Moins volage la flamme; <pb n="285"/></p>
         <p>Moins prompt est le penser que Von va concevant,</p>
         <p>Que le cœur d’une femme.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ah! je ne me plains pas de me voir offencer</p>
         <p>Ny qu’elle se retire,</p>
         <p>Mais, qu’estant une femme, il faloit bien penser</p>
         <p>Qu’encore elle estoit pire.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dieux! quel fut le péché que l’homme avait commis,</p>
         <p>Quand on fit la Pandore?</p>
         <p>Pour certain il fut grand, puis que ses ennemis</p>
         <p>Vous faictes qu’il adore.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Nostre fier ennemy, ce sexe avec raison.</p>
         <p>O dieux! se peut bien dire,</p>
         <p>Si, nous faisant languir, et mourir en prison,</p>
         <p>II ne fait que s’en rire.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>II se mocque de voir que l’homme qui se dit</p>
         <p>Avoir tant de courage,</p>
         <p>Languissant en prison, n’a le cœur ny l’esprit</p>
         <p>De sortir du servage.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il se mocque de voir que l’homme qui ça bas</p>
         <p>Par raison est le maistre,</p>
         <p>Aymé mieux vainement l’adorer que non pas</p>
         <p>Estre ce qu’il doit estre. <pb n="286"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IX</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cruelle engeance, hélas! le Ciel pour nostre ennuy</p>
         <p>T’a, de beauté pourveue,</p>
         <p>Puisque tu ne t’en- sers qu’au malheur de celuy</p>
         <p>Qui peu sage t’a veue.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Le chevalier, oyant blasmer de cette sorte contre raison
         toutes les femmes pour la faute que quelqu’une pouvoit avoir commise, fut
         grandement offencé contre celuy qui parloit si indiscretement.
@@ -182,54 +182,54 @@
         devoit dire, haussant la voix le plus qu’il peut, et prononçant le plus
         distinctement qu’il luy estoit possible, il se mit à chanter tels vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Que sçachant le changement de sa dame,</h3>
-        <h3>il devoit ou mourir, ou guerir de despit.</h3>
-        <milestone type="space"/>
+        <p>Que sçachant le changement de sa dame,</p>
+        <p>il devoit ou mourir, ou guerir de despit.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Toy qui d’une beauté regrettes l’inconstance,</p>
         <p>Et qui de son erreur vas les autres blasmant,</p>
         <p>Sois avec moins d’amour ou moins de sentiment,</p>
         <p>Et te sers de l’oubly, ou de la patience.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Oublie ou ses beautez, ou mesprise l’outrage,</p>
         <p>Si ton coeur y consent, il est desja guery; <pb n="287"/></p>
         <p>Et s’il en fait refus, tu dois estre marry</p>
         <p>De ton mal beaucoup moins que du peu de courage.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tu ne fus onc blessé que d’une esgratigneure,</p>
         <p>Car dés lors qu’on te dit son cruel changement,</p>
         <p>Si vrayement tu l’aymois, devois-tu pas, amant,</p>
         <p>Ou guerir du despit, ou mourir de l’injure?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>De l’amour offencé ne chercher la vengeance,</p>
         <p>C’est estre par ses loix complice du forfaict.</p>
         <p>Et qui s’estonnera, si cet amour t’a faict</p>
         <p>Partager à la peine aussi bien qu’à l’offense?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Cesse donc une fois, cesse donc de te plaindre</p>
         <p>Soit pour jamais ton feu dans le despit estaint;</p>
         <p>Si tu plains toutesfois, plains-toy de t’estre plaint,</p>
         <p>Et d’évanter ton feu quand il le faut esteindre.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces vers furent chantez si haut et si clairement que celuy
         qui en avoit esté cause, les ayant bien entendus, ne peut croire qu’il
         n’eussent esté dits contre luy. Et parce que c’estoit l’un des plus
@@ -786,11 +786,11 @@
         curiosité de ces belles dames.</p>
         <p>Et lors, se relevant un peu sur le lict, il reprit de ceste sorte:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE de l’Histoire</head>
-        <h3>de Damon et de Madonte.</h3>
-        <milestone type="space"/>
+        <p>de Damon et de Madonte.</p>
+        <milestone unit="line"/>
 
         <p>Je penserois avoir une grande occasion de me douloir de la
         fortune qui m’a si cruellement et si continuellement poursuivy depuis le jour de ma
@@ -1325,62 +1325,62 @@
         j’avois laissé Madonte. Je me souviens qu’en ce temps-là je
         m’entretenois souvent avec ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Sur les contentemens perdus.</h3>
-        <milestone type="space"/>
+        <p>Sur les contentemens perdus.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Employer toutes ses pensées</p>
         <p>A ne songer ny nuict ny jour <pb n="317"/></p>
         <p>Qu’aux choses qui se sont passées</p>
         <p>Les premiers ans de nostre amour,</p>
         <p>C’est le plaisir que mon tourment</p>
         <p>Reçoit pour seul allegement.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais que te sert, ô ma mémoire!</p>
         <p>De r’appeller incessamment</p>
         <p>Le ressouvenir de la gloire</p>
         <p>De mon passé contentement?</p>
         <p>Estre descheu d’un si grand’heur,</p>
         <p>Accroit à mon mal sa grandeur.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je me souviens que dans vostre ame</p>
         <p>Autrefois vous n’aviez que moy,</p>
         <p>Que nous bruslions de mesme fiame</p>
         <p>Et ne juriez que par ma foy,</p>
         <p>Et que vostre plus grand plaisir</p>
         <p>N’avoit pour but que mon désir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je me souviens qu’en mon absence</p>
         <p>(Trop et trop heureux souvenir! )</p>
         <p>Vous n’aviez point de patience,</p>
         <p>Sinon me voyant revenir,</p>
         <p>Et que cent et cent fois le jour,</p>
         <p>Vous souspiriez pour mon retour.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Une félicité passée,</p>
         <p>Et qui ne peut plus revenir,</p>
         <p>Est le tourment de la pensée</p>
         <p>Qui la veut encor’ retenir,</p>
         <p>Parce, que le bien espreuvé</p>
         <p>Fasche plus en estant privé. <pb n="318"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Dés qu’il estoit jour, je sortois de ma petite
         cellule, et à petits pas, j’allois gaignant le haut de ce rocher escarpé, où
         me couchant sur la mousse, je repassois par la memoire toutes les choses qui jusques en
@@ -1519,126 +1519,126 @@
         <p>En ces contrarietez, je fis des vers, desquels je me suis bien souvent
         consolé, lors que de semblables pensées me sont revenues devant les yeux. Ils sont tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Irresolution d’Amour.</h3>
-        <milestone type="space"/>
+        <p>Irresolution d’Amour.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Rompons-les, il est temps, toutes ces dures chaisnes</p>
         <p>Qui nous serrent les mains, et sortons de prison,</p>
         <p>Et que le sentiment de nos injustes peines</p>
         <p>Face ce que devrait avoir fait la raison. <pb n="322"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Pour souffrir ses rigueurs, il faut estre insensible,</p>
         <p>Ou trouver des amants sans cœur et sans esprit;</p>
         <p>Car un nomme d’esprit n’entreprend Vimpossible,</p>
         <p>Et l’homme courageux ne souffre ces mespris.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>C’est errer, si l’on peut avoir ce qu’on désire,</p>
         <p>Que de s’en retirer pour crainte du trespas.</p>
         <p>Si pour la contenter la mort pouvait suffire,</p>
         <p>Nous nous y resoudrions et ne la fuirions pas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais vieillir en servant, et languir dans l’outrage,</p>
         <p>Sans espoir d’obtenir qu’un mespris desdaigneux,</p>
         <p>C’est monstrer qu’en effect nostre peu de courage,</p>
         <p>Le pouvant supporter, ne merite pas mieux.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Laissons donc cet esprit qu’en aymant l’on offense,</p>
         <p>Et de sa tyrannie en fin nous separons;</p>
         <p>Que si l’on nous reprend du vice d’inconstance,</p>
         <p>Au loix de nostre honneur sagement recourons.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que le ressouvenir de ses rigueurs passées,</p>
         <p>Ses beautez et l’amour arrache, de mon sein;</p>
         <p>Mais, Dieu! qu’il est aisé d’avoir telles pensées!</p>
         <p>Mais qu’il est mal-aisé d’en finir le dessein!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Rompray-je donc mes nœuds et ma prison encore</p>
         <p>Pour ne poursuivre plus ce dessein ruineux? <pb n="323"/></p>
         <p>Mais puis-je n’estre point à celle que j’adore,</p>
         <p>Et n’est-ce impieté que d’en rompre les nœuds?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tant de beautez qu’Amour pour soy-mesme souhaitte,</p>
         <p>Tant de bon-heurs futurs, tant d’aymables appas;</p>
         <p>Bref, la chose du monde au monde plus parfaicte,</p>
         <p>Estant devant mes yeux, ne l’aymeray-je pas?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IX</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ou bien devant mes yeux souffriray-je au contraire</p>
         <p>Qu’un autre l’idolatre et qu’il s’en dise amant?</p>
         <p>Et que, faute de cœur, je ne l’ose pas faire,</p>
         <p>Ou que faute d’amour, je flechisse au tourment?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>X</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que deviendront, ô dieux! tant de cheres délices,</p>
         <p>Et tant de doux plaisirs que nous nous desseignons?</p>
         <p>L’on nous condamnerait ainsi que ses complices,</p>
         <p>Si par faute de cœur nous ne nous esloignions.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>II n’ira pas ainsi. J’ayme mieux qu’on raconte</p>
         <p>Que je meurs sans flechir aux coups de sa rigueur,</p>
         <p>Que si, me voyant vivre, on disait à ma honte:</p>
         <p>II vit, mais il fust mort, s’il en eust eu le cœur!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Qu’à son gré de mon bien la fortune dispose,</p>
         <p>Que mon malheur s’accroisse ou qu’il dure sans fin:</p>
         <p>Si je ne puis flechir le destin qui s’oppose,</p>
         <p>Non plus me verra-t’on flechir à ce destin.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
 
         <h4>XIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je l’adoreray donc, ceste beauté cruelle,</p>
         <p>Et prendray pour raison l’opiniastreté; <pb n="324"/></p>
         <p>II vaut mieux ne voir point, que ne voir ceste belle,</p>
         <p>Et la voyant, n’aymer une telle beauté.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
 
         <h4>XIV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Il semble que l’honneur ce dessein me deffende,</p>
         <p>Et que pour vivre en homme, il faut vivre autrement.</p>
         <p>Si l’honneur le deffend, Amour me le commande:</p>
         <p>Vive en homme qui veut, je veux vivre en amant.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Les pescheurs desquels je vous ay parlé, madame,
         durant ce temps me venoient voir fort souvent, tant pour sçavoir comme je’me
         portois, que pour recognoissance de l’argent que je leur avois donné pour
@@ -1961,31 +1961,31 @@
         resoudrois aysément à m’en revenir en Aquitaine, afin de
         luy en oster l’espéerance, je chantois bien souvent ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’il aymera tousjours.</h3>
-        <milestone type="space"/>
+        <p>Qu’il aymera tousjours.</p>
+        <milestone unit="line"/>
         <p>Mais en fin c’en est fait, Raison, que cherches-tu?</p>
         <p>Chacun doit, je le sçay, suivre ses destinées,</p>
         <p>Et non, comme Titans, aux choses ordonnées</p>
         <p>Vouloir changer du Ciel le pouvoir invaincu. <pb n="333"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bien souvent contre moy j’ay ce poinct debatu,</p>
         <p>Mais comme du haut ciel les spheres entrainées</p>
         <p>D’un effort violent toutes fois obstinées,</p>
         <p>Chacune fait son cours par sa propre vertu.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Aussi je me resouz, quoy que Fortune ordonne,</p>
         <p>Me soit-elle mauvaise, ou me soit-elle bonne,</p>
         <p>De suivre cest amour en despit du destin.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que son cours violent apres elle m’emporte,</p>
         <p>On ne verra jamais qu’elle soit assez forte</p>
         <p>Pour divertir mon cœur de son propre chemin.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>En fin ne pouvant treuver repos, quelque divertissement
         que je recherchasse, je pensay que le prudence humaine ne me servant plus de
         rien, il falloit que je recourusse aux conseils divins. Et ainsi oyant

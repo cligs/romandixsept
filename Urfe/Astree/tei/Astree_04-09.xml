@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE NEUFVIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le jour se passa de cette sorte avec divers discours entre ces
         nymphes, ces chevaliers, ces bergers et belles bergeres, mais avec tant de
         plaisir qu’ils ne se prirent garde que la nuict les surprit,
@@ -155,10 +155,10 @@
         lict, il se mit dans le leur, où Alcandre, quelque <pb n="490"/>
         temps après, reprit ainsi la parole cependant que Belisard s’endormit.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE D’ALCANDRE, D’AMILCAR, CIRCÉNE, PALINICE, ET FLORICE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Quelques-uns soustiennent que l’amour ne vient pas de sympathie,
         ny de destin, mais de dessein, et de volonté, et que la naissance de cette affection
@@ -547,14 +547,14 @@
         quelque affaire en mon logis, je m’y en allay le plus viste que je pus,
         et en mesme diligence j’escrivis au dedans de ses gands ces trois vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>Je jure tout ce que je puis</p>
         <p>Que si, tout à vous, je ne suis,</p>
         <p>Je ne suis mien, ny de nul autre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Circéne reprit ses gands sans y prendre garde pour lors,
         mais le soir qu’elle fut pour se mettre au lict, sa fille de chambre
         qui s’en apperceut: Ma maistresse, luy dit-elle, qui vous a
@@ -795,61 +795,61 @@
         coustume, l’accompagner en son logis. Et entrant dans mon jardin,
         apres m’estre quelque temps entretenu sur ceste pensée, je souspiray tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">DIALOGUE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Puis qu’il estoit ordonné</p>
         <p>Que mon c œur seroit donné</p>
         <p>Par destin-à ceste belle,</p>
         <p>Pourquoy falloit-il, helas!</p>
         <p>D’une, ordonnance cruelle,</p>
         <p>Que mienne elle ne fust pas?<pb n="506"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Parce que nul sous les cieux</p>
         <p>N’est digne de ses beaux yeux,</p>
         <p>Rien n’egalle son merite,</p>
         <p>Contente-toy d’adorer</p>
         <p>Ceste immortelle Carite,</p>
         <p>Sans en rien plus esperer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais le Ciel voulant en fin</p>
         <p>Que j’eusse pour mon destin</p>
         <p>Une affection si vaine:</p>
         <p>Dieux! pourquoy, de mon berceau,</p>
         <p>Pour abreger tant de peine,</p>
         <p>Ne fistes-vous mon tombeau?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Car les dieux ne vouloient pas</p>
         <p>Monstrer aux hommes ça-bas</p>
         <p>Sa beauté sans estre aymée:</p>
         <p>Et nul, que toy, ne pouvoit</p>
         <p>D’une ame toute enflammée</p>
         <p>L’aymer autant qu’on devoit.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Donc à jamais j’aymeray,</p>
         <p>– A jamais j’adoreray</p>
         <p>Ses beaux yeux sans esperance,</p>
         <p>Trop heureux d’en consumer:</p>
         <p>N’est-ce assez de recompense</p>
         <p>De mourir pour les aymer?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quand je retournay au logis, Florice me raconta tous les discours
         qu’elle avoit eus avec Circéne et apres adjousta: Voulez-vous,
         mon frere, que je vous die ce que j’en pense, asseurez-vous qu’elle
@@ -963,60 +963,60 @@
         possible. Et sur le sujet de la contrainte dont il me falloit user, je
         me souviens que je fis ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Qu’il n’ose dire son mal.</h3>
-        <milestone type="space"/>
+        <p>Qu’il n’ose dire son mal.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dure et severe loy qui couvres du silence</p>
         <p>La peine que je sens,</p>
         <p>Permets qu’au moins ma voix rompe ton ordonnance</p>
         <p>En mes derniers accents. <pb n="510"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je voy que le laurier, lors que le feu le touche,</p>
         <p>Se plaint dans la chaleur,</p>
         <p>Et que n’est-il permis aussi bien à ma bouche</p>
         <p>De dire ma douleur?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Dans le taureau d’airain la mesme tyrannie</p>
         <p>Se pleust bien autrefois</p>
         <p>D’ouyr plaindre et gemir, mais à moy l’on desnie</p>
         <p>L’usage de la voix.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Souvent je me resous d’une longue harangue</p>
         <p>D’attendrir mon vainqueur:</p>
         <p>Mais quoy? ces mesmes yeux me retiennent la langue</p>
         <p>Qui me prirent le cœur.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Soudain que je la vois, le respect ordinaire</p>
         <p>S’oppose devant moy,</p>
         <p>Et me dit que l’amant doit brusler et se taire,</p>
         <p>Pour preuve de sa foy.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Taisons-nous donc, mon cœur, et rendons tesmoignage,</p>
         <p>Quand nous devrions mourir.</p>
         <p>Que nous avons assez d’amour et de courage</p>
         <p>Pour aymer et souffrir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Vous sçavez, Hylas, que la passion a cela de propre
         d’entrainer avec violence les puissances de l’ame qu’elle possede.
         Figurez-ous qu’il m’en advint autant, car, quelque dessein que j’eusse
@@ -1644,17 +1644,17 @@
         qu’avec raison vous puissiez desadvouer.</p>
         <p>Et lors, prenant un autre papier, il escrivit ce billet.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">BILLET DE CIRCÉNE</head>
-        <h3>A ALCANDRE</h3>
-        <milestone type="space"/>
+        <p>A ALCANDRE</p>
+        <milestone unit="line"/>
         <p>L’assurance que vos actions m’ont donnée de vostre
         amitié m’oblige, pour n’en estre point mescogoissante de vous
         aymer, et de faire estat de vostre merite, comme d’une personne que je veux honorer toute ma vie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant qu’il l’escrivoit, elle l’alloit lisant, et sousrioit en
         elle-mesme. Or bien! dit alors Belisard, tenez-moy la parole que vous
         m’avez donnée; faites à cette heure ce que vous m’avez
@@ -1695,27 +1695,27 @@
         à l’heure mesme que Belisard revint, il
         trouva que je finissois ces vers. <pb n="528"/></p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Quoy qu’elle le mesprise, il la veut aymer.</h3>
-        <milestone type="space"/>
+        <p>Quoy qu’elle le mesprise, il la veut aymer.</p>
+        <milestone unit="line"/>
         <p> Pourquoy la dois-je aimer, cette belle inhumaine,</p>
         <p>Puisque je cognoy bien qu’en fin je luy desplais,</p>
         <p>Et qu’un mespris cruel de tout ce que je fais,</p>
         <p>Sera le seul loyer d’une si grande peine?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Retirons nous, mon cœur, d’une amitié si vaine,</p>
         <p>Sans souffrir que l’espoir nous flatte desormais.</p>
         <p>Que sçaurois-je esperer que sa haine à jamais,</p>
         <p>Si mon affection est cause de sa haine?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p> O Dieu! qu’il est facile à l’amant de parler!</p>
         <p>Mais de tout de beautez se pouvoir demesler,</p>
         <p>Celuy n’aima jamais qui peut estre si sage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Au mesme temps que Belisard entra, j’achevois d’escrire ces vers,
         et parce qu’ordinairement je les luy communiquois, devant que luy
         demander s’il avoit veu Circéne, je les luy fis lire, afin d’en
@@ -1895,31 +1895,31 @@
         arrivoit, il fallut se resoudre à ce fascheux depart. Je me
         souviens que Belisard porta à Circéne ces vers de ma part.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Il est prest à partir.</h3>
-        <milestone type="space"/>
+        <p>Il est prest à partir.</p>
+        <milestone unit="line"/>
         <p>Que ma vie en fuyant devance ce depart.</p>
         <p>Aussi bien, m’en allant, puis-je avoir quelque envie</p>
         <p>De prolonger encor les tourmens de ma vie?</p>
         <p>La mort, loing de ses yeux, ne viendra que trop tard.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si je ne vis, helas! que de leur doux regard,</p>
         <p>Quand l’absence m’aura ceste beauté ravie,</p>
         <p>Quel desir mal-heureux encore m’y convie?</p>
         <p>Veux-je, mourant icy, vivre en quelqu’autre part?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’amant à qui le Ciel de l’esloigner ordonne,</p>
         <p>Doit mourir de regret devant qu’il abandonne,</p>
         <p>Ou vivre seulement pour remourir tousjours.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que rien donc desormais mon ame ne console!</p>
         <p>C’est en vain abuser du bien de la parole</p>
         <p>Que vouloir alleger ce mal par le discours.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mais voyez si la fortune ne vouloit pas bien esprouver ma
         resolution! Lors que mon voyage fut en tel estat qu’il m’estoit
         impossible de le retarder, sans donner une trop grande cognoissance de
@@ -1942,11 +1942,11 @@
         que je recevois de cet esloignement, et m’en faire sçavoir des
         nouvelles. La lettre estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ALCANDRE</head>
-        <h3>A CIRCÉNE</h3>
-        <milestone type="space"/>
+        <p>A CIRCÉNE</p>
+        <milestone unit="line"/>
 
         <p>O dieux! quelle sera la fin de ce voyage, puisque le
         commencement en est si-mal-heureux? Partir, et sans presque pouvoir
@@ -1954,105 +1954,105 @@
         malheurs, contre lesquels de mon costé il n’y peut point avoir
         de resistance? Vous plaist-il toutesfois que je vive? Plaignez ma
         peine, et prenez quelque part en mon extreme desplaisir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quant aux vers que je luy donnay à part, ils estoient tels.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>Sur le desplaisir d’un depart.</h3>
-        <milestone type="space"/>
+        <p>Sur le desplaisir d’un depart.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Destin! vous le voulez, il faut que je vous cede,</p>
         <p>Rien ne peut revoquer l’arrest de mon depart,</p>
         <p>O combien promptement fuit le bien qu’on possede!</p>
         <p>Et quand il s’en revient, ô dieux! qu’il revient tard!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le bon-heur des amans, d’une aisle trop legere,</p>
         <p>S’enfuit d’eux aussi-tost qu’il a commencement,</p>
         <p>Semblable à la clairté du foudre messagere,</p>
         <p>Dont la vie et la mort se font dans un moment. <pb n="535"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que ne suis-je un Acis accrazé d’une pierre!</p>
         <p>Pour voir tousjours mes yeux dans une source d’eau,</p>
         <p>Ou pour tige si beau, que ne suis-je un lyerre,</p>
         <p>Pour ne m’en separer mesme dans le tombeau!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que sera-ce de vous, ô mes tristes paupieres!</p>
         <p>Quand vous ne verrez plus Circéne en ces beaux lieux?</p>
         <p>Vous pouvez bien, helas! vous changer en rivieres:</p>
         <p>Loing d’elle, qu’ay-je affaire aussi bien de mes yeux?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Autresfois prés de vous, ô ma belle inhumaine!</p>
         <p>Je n’avois, bien-heureux, des yeux que pour vous voir.</p>
         <p>Maintenant je n’en ay que pour pleurer ma peine:</p>
         <p>Encore pour cela n’en puis-je assez voir.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que cet esloignement nous coustera de larmes</p>
         <p>Qui ne se tariront que par nostre retour!</p>
         <p>Amour doncc, à jamais, par l’effort de tes charmes,</p>
         <p>Tu mesleras ensemble et les maux et l’amour.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Donc à jamais cruel, d’une injuste ordonnance</p>
         <p>Les fruicts de ton jardin s’arroseront de pleurs?</p>
         <p>Et de mille chardons nous recevrons l’offence</p>
         <p>Devant que de cueillir la moindre de tes fleurs?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VIII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que nos sages Gaulois sçavoient bien ta coustume,</p>
         <p>Lors que pour dire aymer, ils prononçoient amer! <pb n="536"/></p>
         <p>Amers sont bien tes fruicts, et pleines d’amertume</p>
         <p>Sont toutes les douceurs qu’on a pour bien aymer.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IX</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Helas! qui ne le sçait, s’en vienne voir Alcandre:</p>
         <p>Il verra que son cœur est tout couvert de fiel,</p>
         <p>Et que quand du hasard quelque heur il peut attendre</p>
         <p>Un depart fait changer en absinthe son miel.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>X</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si faut-il s’en aller, quoy que je sçache faire,</p>
         <p>Je puis plaindre mon mal, mais non m’en exempter,</p>
         <p>Le Destin veut monstrer par cet effet contraire,</p>
         <p>Qu’amour vainqueur des dieux ne l’a pu surmonter.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>XI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Adieu donc, ô Circéne, il faut que je flechisse</p>
         <p>A la necessité qui m’esloigne de vous,</p>
         <p>Mais si vous partagez avec moy ce supplice,</p>
         <p>Quel tourment puis-je avoir qui ne me semble doux?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>A la premiere occasion que se presenta, Belisard s’acquitta de
         sorte de la charge que je luy avois donnée, qu’il trompa les
         yeux, non seulement de Palinice et de Clorian, mais encore d’une
@@ -2254,80 +2254,80 @@
         insupportable que d’estre privé de la veue de la personne aymée.</p>
         <p>Lucinor fit ces vers sur le sujet de son esloignement.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Soudain qu’elle s’en va, que ce lieu me displait;</p>
         <p>Je n’y remarque rien qui ne me semble laid</p>
         <p>Plus que je ne puis dire.</p>
         <p>Ces surperbes palais, le sejour de nos dieux,</p>
         <p>Ces jardins d’orangers que la nature admire,</p>
         <p>Desplaisent à mes yeux. <pb n="542"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Lors confus de les voir, et plein d’estonnement:</p>
         <p>D’où viens, leur dis-je, helas! un si grand changement?</p>
         <p>Et qui nous l’a ravie,</p>
         <p>Cette chere beauté que je regrette icy?</p>
         <p>Qui l’a ravie, helas! puis qu’elle estoit ma vie,</p>
         <p>Sans me ravir aussi?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Jardins delicieux, ô superbes palais,</p>
         <p>Orangers parfumez, ombrages tousjours frais,</p>
         <p>Sejour plein de delices,</p>
         <p>Non, vous n’estes plus tels que vous estiez jadis!</p>
         <p>Vous estes maintenant un enfer de supplices</p>
         <p>Au lieu d’un paradis.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ces marbres arrogants et ces lambris dorez,</p>
         <p>Desquels, ô grands palais! vous estes honnorez,</p>
         <p>Tesmoignent vostre perte:</p>
         <p>Leur esclat est terny, comme portant le dueil</p>
         <p>De vous voir maintenant une maison deserte</p>
         <p>En perdant ce bel œil.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ces parterres fleuris et ces grands orangers,</p>
         <p>L’honneur de ces jardins, et de ces beaux vergers</p>
         <p>De tristesse languissent;</p>
         <p>Et semble, un tel soleil s’eloignant de ces lieux,</p>
         <p>Qu’il faille qu’à l’instant leurs beautez se fletrissent,</p>
         <p>Qu’ils perdent ces beaux yeux.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que faut-il donc, helas! que nous fassions icy?</p>
         <p>Imitons, ô mon cœur! imitons le soucy.</p>
         <p><pb n="543"/> Le soucy qui se tourne, Amoureux du soleil, comme tournent ses pas:</p>
         <p>Cette plante fait honte à l’amant qui sejourne</p>
         <p>Où son amour n’est pas.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>>Ainsi dit Lucindor, absent de ces beaux yeux,</p>
         <p>Lors qu’apres leur depart il regardoit les lieux</p>
         <p>Qui furent leur demeure.</p>
         <p>Mais en fin ces regrets sont, dit-il, superflus;</p>
         <p>Si sa veue est ma vie, il faut bien que je meure</p>
         <p>Quand je ne la vois plus.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cerinte qui aimoit avec beaucoup plus de respect Florice, ressentit
         à la verité cet esloignement, mais il n’osoit pas mesme
         s’en plaindre si ouvertement, quoy que, peut-estre, le ressentiment
@@ -2335,31 +2335,31 @@
         qu’elle n’estoit pas fort esloignée de Lyon, où
         toutesfois il n’osoit l’aller voir, il fit tels vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Contre le respect.</h3>
-        <milestone type="space"/>
+        <p>Contre le respect.</p>
+        <milestone unit="line"/>
         <p>Ennemy des mortels le plus ingenieux,</p>
         <p>Respect, tyran d’Amour et de l’amant fidele,</p>
         <p>Pourquoy me bannis-tu, sans raison, de ma belle,</p>
         <p>Me contraignant de vivre en ces sauvages lieux?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle est proche d’icy, celle que j’ayme mieux</p>
         <p>Que je ne puis aymer tout le reste sans elle,</p>
         <p>Et toutesfois, helas! cette loy trop cruelle</p>
         <p>Qu’impose le respect m’esloigne de ses yeux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Donc pour ne faire voir qu’il est vray que je l’ayme,</p>
         <p>Il faut vivre loin d’elle, ou plustost de moy-mesme:</p>
         <p>O destins contre moy sans raison conjurez!<pb n="544"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Injustes loix d’honneur et du siecle où nous sommes,</p>
         <p>Pourquoy faut-il aymer, et vivre separez,</p>
         <p>Pour aux hommes cacher ce que font tous les hommes?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ces quatre chevaliers alloient de cette sorte poursuivant leur
         dessein, cependant que j’estois dans Agaune, où les jours
         m’estoient si longs et si ennuyeux, qu’il me sembloit y avoir un siecle
@@ -2482,11 +2482,11 @@
         decachetée, afin que la surveillante ne s’appeuceust de son
         artifice. Elle leut qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ALCANDRE</head>
-        <h3>A CIRCÉNE</h3>
-        <milestone type="space"/>
+        <p>A CIRCÉNE</p>
+        <milestone unit="line"/>
         <p>De tous le plus cruels tourments qu’un mortel peut souffrir, il
         n’y en a point de plus sensible que ceux d’amour; mais entre tous ceux
         d’amour, l’absence est le pus insupportable. Et parmy toutes les
@@ -2497,9 +2497,9 @@
         je puis estre reservé. Si le miserable estat d’un cœur
         affligé comme le mien vous peut toucher, que j’en aye quelque
         cognoissance, amis que la passion, et non pas la compassion, obtienne cette grace de vous.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Et bien! madame, reprit alors Belisard tout haut, n’est-il pas
         vray que ma recepte est bonne? – Je ne sçay, respondit-elle en
         sousriant, si elle est bonne, mais elle est bien plaisante. – Madame,
@@ -2516,11 +2516,11 @@
         les yeux importuns de cette fille. A ce mot elle leut la lettre que
         j’escrivois à Belisard qui estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’ALCANDRE</head>
-        <h3>A BELISARD</h3>
-        <milestone type="space"/>
+        <p>A BELISARD</p>
+        <milestone unit="line"/>
         <p>Que je t’envie, ô cher amy, le bon-heur que tu possedes,
         juge-le, <pb n="548"/> que tout le contentement que j’ay icy, c’est de
         penser aux felicitez où tu es, et tousjours ces pensées
@@ -2532,9 +2532,9 @@
         doivent venir. Sois desormais plus soigneux de ce maistre qui t’ayme,
         je dirois de tout son cœur, s’il en avoit un icy, mais tu sçais
         bien où il l’a laissé.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Il y a bien icy, dit alors tout haut Circéne, plus d’affaires que
         vous ne disiez pas, et le pis que j’y vois, j’ay grand peur que vostre
         recepte ne vaille guere, car, à ce que j’en puis juger, elle ne
@@ -2678,11 +2678,11 @@
         point donner de soupçon, s’en courut à la fenestre pour
         ouyr Sileine qui chantoit ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <h3>Plainte amoureuse.</h3>
-        <milestone type="space"/>
+        <p>Plainte amoureuse.</p>
+        <milestone unit="line"/>
         <p>De vous, de moy, d’amour j’ay raison de me plaindre:</p>
         <p>De vous qui me bruslez,</p>
         <p>Et toutesfois gelez;<pb n="552"/></p>
@@ -2693,9 +2693,9 @@
         <p>Car quoy qu’il me promette,</p>
         <p>Il ne veut , le mocqueur</p>
         <p>De vos yeux une fois voler dans vostre cœur.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Palinice s’estoit bien mise à la fenestre, toutesfois elle
         se tenoit un peu reculée dans la chambre, de peur que ceux de la
         rue la vissent. Et cela fut cause que Sileine ayant esté adverti
@@ -2837,18 +2837,18 @@
         apres avoir baisé, rebaisé et adoré ces beaux
         cheveux, je leus la lettre, qui estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE CIRCÉNE</head>
-        <h3>A ALCANDRE</h3>
-        <milestone type="space"/>
+        <p>A ALCANDRE</p>
+        <milestone unit="line"/>
         <p>La peine où vous estes de ma santé me plaist et
         m’oblige. Dieu vous donne en eschange le bien et le contentement que
         vous meritez et que vous desirez! Ce souhait vient de moy qui vous
         ayme par dessus tous ceux qui ont de l’affection pour Circéne.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quand je me remets en memoire les contentemens que je receus en ce
         temps-là, je ne puis qu’accuser grandement de deffaut
         d’affection ceux qui disent qu’il y a plus de peine en amour que <pb n="556"/>
@@ -2866,31 +2866,31 @@
         ne voulus retarder mon retour pour ce mauvais temps, je fis ces vers
         par le chemin.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Rien ne peut le retarder.</h3>
-        <milestone type="space"/>
+        <p>Rien ne peut le retarder.</p>
+        <milestone unit="line"/>
         <p>Rochers qui supportez le ciel et ses flambeaux,</p>
         <p>Ainsi que des Atlas, dessus vos testes nues,</p>
         <p>Qui voyez dessous vous troupe à troupe les nues</p>
         <p>Comme voile s’estendre à l’entour des coutaux;</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Torrents impetueux qui tumbez à grands sauts</p>
         <p>Des sommets eslevez de ces pointes chenues,</p>
         <p>Effroyables vallons, vous glaces incognues,</p>
         <p>En vos recoins gelez aux soleils les plus chauds;</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vent qui depuis trois jours renforçant tes haleines,</p>
         <p>Sembles estre complice en mes cruelles peines,</p>
         <p>Vous travaillez en vain pour retarder mes pas.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Le sujet est si beau qui cause mon voyage,</p>
         <p>Que si parmy l’enfer s’adressoit mon passage,</p>
         <p>L’enfer ny ses horreurs ne m’arresteroient pas.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mais, Hylas, vous sçaurois-je dire quel excés de
         contentement je receus lors que je vis de loing les murailles de lyon,
         et quand, peu’apres, je pus remarquer l’endroit où estoit le
@@ -2899,19 +2899,19 @@
         cognus bien alors qu’il est vray qu’amour surpaye en un coup mille
         peines et mille desplaisirs, et ce fut sur cette pensée que je fis ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>A cet heureux retour</p>
         <p>Prés de celle que j’ayme,</p>
         <p>Tel bien me donne Amour</p>
         <p>Que je dis en moy-mesme,</p>
         <p>Puis qu’en fin mon retour tant d’heur me fait sentir,</p>
         <p>Ne suis-je pas heureux qu’il m’ait fallu partir?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Soudain que je vis mon aymable Belisard, je demeuray si
         transporté de joye pour les bons offices qu’en mon absence il
         m’avoit rendus, que je ne sçavois quelles caresses luy faire.
@@ -3045,31 +3045,31 @@
         Et lors que le sommeil le contraignit de se coucher, je ne pus
         m’empescher de faire encore ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Pour un retour.</h3>
-        <milestone type="space"/>
+        <p>Pour un retour.</p>
+        <milestone unit="line"/>
         <p>Icy jadis je me laissay moy-mesme;</p>
         <p>Icy les dieux ont escouté mes cris,</p>
         <p>A mes clameurs ils se sont attendris,</p>
         <p>Me rappellant prés de celle que j’ayme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Esperons tout en leur bonté supreme,</p>
         <p>Puis qu’ils n’ont eu ma priere à mespris,</p>
         <p>Et que par moy tout amant soit appris</p>
         <p>Que d’un grand mal peut naistre un bien extreme.<pb n="561"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais est-il vray? suis-je bien de retour,</p>
         <p>Ou n’est-ce point quelque songe d’amour,</p>
         <p>Qui d’un bien faux contente mon envie?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ah! si je dors, dormons toujours ainsi.</p>
         <p>Et si je veille, Amour, toute ma vie,</p>
         <p>Sans clorre l’œil, fay moy dormir, aussi.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Incontinent que Florice fut advertie de mon retour, il sembla
         qu’elle voulust faire dire vray à Circéne, car incontinent
         elle me vint voir, mais d’autant qu’elle estoit contrainte de ne gueres
@@ -3085,31 +3085,31 @@
         sur ce sujet il donna tels vers à Belisard pour les faire voir
         à ma sœur.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Pour un retour.</h3>
-        <milestone type="space"/>
+        <p>Pour un retour.</p>
+        <milestone unit="line"/>
         <p>Elle est partie, Amour, aussi tost que venue,</p>
         <p>La voir, ne la voir plus n’est qu’un mesme moment:</p>
         <p>Ainsi passe l’esclair au travers de la nue,</p>
         <p>Qui s’esteint aussi-tost qu’il a commencement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Est-ce ainsi, mes espoirs, que le Ciel vous dement?</p>
         <p>Est-ce ainsi que trompeur nostre heur il diminue?</p>
         <p>A peine ay-je de luy ma requeste obtenue,</p>
         <p>Qu’il m’en ravit l’effect presque aussi promptement.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ou ne revenez plus, ou qu’un second voyage</p>
         <p>Ne nous prive si tost de vostre beau visage:</p>
         <p>La nuict est plus obscure apres un si beau jour. <pb n="562"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais non, non, revenez, Amour vous y convie,</p>
         <p>Et quand d’un jour tout seul seroit vostre sejour,</p>
         <p>J’aymerois mieux ce jour que tous ceux de ma vie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Mais, Hylas, vous souvenez-vous point des gands de
         Circéne, dans lesquels il y avoit quelque temps que j’avois
         escrit des vers? Je ne sçay comme cela advint, tant y a qu’ils
@@ -3189,17 +3189,17 @@
         nous <pb n="564"/> allasmes au temple de Venus tous neuf
         ensemble, et nous eusmes cette response.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">ORACLE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Les six demeureront sans partir de ce lieu,</p>
         <p>Que le devoir ou l’honneur ne l’ordonne;</p>
         <p>Et pour les autres trois, l’oracle de ce dieu</p>
         <p>Ne respondra qu’à leur seule personne.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Le vieux qui nous expliqua ces paroles nous dit que l’Oracle nous
         commandoit de demeurer dans la ville, jusqu’à ce que par honneur
         ou par devoir nous fussions contraints d’en partir, et que si les dames
@@ -3212,7 +3212,7 @@
         Godomar son frere, afin de l’assister en l’entreprise qu’il a faite
         pour la conservation de Dorinde. Nous avons jugé que nostre devoir</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>et nostre honneur nous convioient de luy obeyr, et c’est pour</p>
         <p>quoy nous sommes venus où de fortune nous avons</p>
         <p>trouvé ces trois belles dames, mais nous ne sç-</p>

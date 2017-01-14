@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA QUATRIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE HUICTIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Parce qu’Adamas, craignant quelque surprise de Polemas, avoit
         ordonné aux portes que de tous les estrangers qui y venoient les
         noms fussent escrits, et le lieu où ils alloient léger,
@@ -171,11 +171,11 @@
         que nous ne sçavons pas.</p>
         <p>A ce mot rompant le cachet; la Nymphe leut telles paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE GONDEBAUT</head>
-        <h3>A POLEMAS</h3>
-        <milestone type="space"/>
+        <p>A POLEMAS</p>
+        <milestone unit="line"/>
         <p>Nostre cher amy, si dorante, l’un des chefs de nostre garde, a
         besoin de nostre ayde, faites luy paroistre Vamitié que vous
         portez à son maistre. Il va pour une affaire qu’il vous
@@ -183,9 +183,9 @@
         Polemas veut que nous le croyons nostre amy, qu’il ne permette, pour
         quelque considération que ce soit, que ce porteur revienne, sans
         que nous ayons la satisfaction que nous prétendons de son voyage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je voy bien, reprit Adamas, que cette lettre, quoy qu’elle tesmoigne
         assez la bonne intelligence qui est entr’eux, toutesfois a esté
         escrite pour estre veue de chacun. Mais, madame, cette autre qui a
@@ -207,19 +207,19 @@
         ce qui seroit de ma volonté.</p>
         <p>Et à ce mot, elle ouvrit le petit billet où ils leurent telles paroles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">BILLET DE GONDEBAUT</head>
-        <h3>A POLEMAS</h3>
-        <milestone type="space"/>
+        <p>A POLEMAS</p>
+        <milestone unit="line"/>
         <p>C’est à ce coup qu’il faut que Polemas soit du tout
         Comte des Segusiens. Je viens de sçavoir que Clidaman est mort,
         Lindamor grandement blessé, et presque toutes ses troupes
         deffaites. A ce coup nous verrons si vostre courage esgale vostre
         ambition, et ce sera en cette occasion que Gondebaut vous tesmoignera qu’il est vostre amy.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>O dieux! s’escria la Nymphe, il n’en faut plus douter! Voilà
         la trahison toute, descouverte, quelle force humaine sera celle qui
         nous en pourra garantir? Le Druide alors, ne jugeant pas que le peu de
@@ -359,10 +359,10 @@
         vous, et qu’il vous plaist de l’oiiyr
         avec plusieurs oreilles. Et puis il continua ainsi.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">SUITTE DE L’HISTOIRE DE DQRINDE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Si les grands princes estoient exempts des passions ausquelles les
         autres hommes sont subjets, on pourroit les estimer.des dieux en terre,
@@ -632,12 +632,12 @@
         s’en seroit revenue en son logis. Avite cependant ayant ouvert la
         lettre, que le prince luy avoit remise, ils leurent qu’elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE DE DORINDE</head>
-        <h3>A LA PRINCESSE CLOTILDE</h3>
-        <milestone type="space"/>
+        <p>A LA PRINCESSE CLOTILDE</p>
+        <milestone unit="line"/>
         <p>Ne pardonnerez vous pas, madame, à ceste
         infortunée, à qui son malheur fait commettre la faute de
         vous laisser sans vostre congé? Je m en irois la plus perdue de
@@ -660,9 +660,9 @@
         sçavoir en un lieu où je crains que les péchez
         d’autruy Venveloppent, quoy qu’innocente, dans la fureur des chastimens
         qui leur sont préparez.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette lettre, dit incontinent Avite, est très-bonne pour la
         descharge de la princesse, si de fortune Dorinde s’en est allée,
         et je suis d’avis qu’on la garde jusques à ce qu’on
@@ -1993,7 +1993,7 @@
         trouvé commodité de parler à Damon et à Alcidon, lors que le
         Prince alloit voir l’ouvrage du peintre qui travailloit en une chambre</p>
     </div>
-    <div class="contentc">
+    <div type="contentc">
         <p>assez prés de là, ils approuverent de sorte cette proposi-</p>
         <p>tion qu’eux-mesmes en ouvrirent le discours à Godomar,</p>
         <p>lors qu’il revint dans la chambre de Damon; et luy,</p>

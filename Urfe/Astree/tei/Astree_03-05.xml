@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA TROISIESME PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE CINQUIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ainsi se termina la dispute de Daphnide et d’Alcidon par
         la prudence du sage Adamas. Encores qu’il jugeast bien que selon l’Oracle ils devoient
         sortir entierement de l’opinion que la jalousie leur avoit fait
@@ -239,62 +239,62 @@
         agreable de l’ouyr chanter, sans en attendre le commandement, prit la
         harpe des mains d’Hylas, et chanta tels vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’encores que son amour soit extreme,</h3>
-        <h3>il croit de n’aymer point assez.</h3>
-        <milestone type="space"/>
+        <p>Qu’encores que son amour soit extreme,</p>
+        <p>il croit de n’aymer point assez.</p>
+        <milestone unit="line"/>
         <p>Quand de tous les mortels les cœurs seroient unis</p>
         <p>Pour aymer un sujet qui fust le plus aymable,</p>
         <p>Leur passion encor ne seroit point capable</p>
         <p>D’esgaler mon amour ny mes feux infinis.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>N’adorer rien que vous,et nous estre bannis</p>
         <p>De tout autre penser qui puisse estre agreable,</p>
         <p>Languir et souhaiter ce mal est incurable,</p>
         <p>Ou d’une prompte mort estre soudain punis, <pb n="227"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>N’estimer de mon feu sinon la violence,</p>
         <p>Brusler de cent desirs, mais tous sans esperance,</p>
         <p>De mon extreme amour sont les moindres excez.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et toutesfois, ô dieux! quand je vous vois, madame,</p>
         <p>Je vois tant de sujet et d’amour et de flame</p>
         <p>Que je m’accuse encor de n’aymer point assez.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Silvandre laissant toute la compagnie fort satisfaite de
         ce qu’il avoit chanté, baisant la harpe, la presenta à Corilas qui, la
         recevant de bon cœur et tournant les yeux du costé de Stelle, apres avoir
         accordé sa voix avec l’instrument, chanta d’une voix fort agreable, de ceste sorte:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Que son amour esteinte ne se peut plus r’allumer.</h3>
-        <milestone type="space"/>
+        <p>Que son amour esteinte ne se peut plus r’allumer.</p>
+        <milestone unit="line"/>
         <p>Tant de sermens jurez d’amour et de constance,</p>
         <p>Que perfide on vous ouyt profaner si souvent,</p>
         <p>Ne sont pour nous tromper que des propos de vent</p>
         <p>Qui se perdent en l’air si tost qu’ils ont naissance.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous sçavez qu’un brasier prend plus de violence,</p>
         <p>Que sans cesse l’on va de soufles esmouvant,</p>
         <p>Et qu’un feu qui couvert languist auparavant.</p>
         <p>Par le vent agité reprend sa violence.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vous le sçavez, trompeuse, et pensez en nos cœurs</p>
         <p>De r’allumer les feux esteints par vos rigueurs</p>
         <p>De ces propos de vent dont vous faictes coustume.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais ne le pensez plus: en vain sont vos efforts,</p>
         <p>Le vent peut r’allumer des brasiers demy morts,</p>
         <p>Mais ceux qui sont esteints jamais il ne r’allume.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Stelle oyant les reproches que Corilas luy faisoit, le
         voyant finir tendoit desja la main pour recevoir la harpe, et luy rendre ce qu’il
         luy avoit presté, mais le berger qui s’en douta bien, ne la luy
@@ -311,68 +311,68 @@
         nostre humeur, mais la vostre est si mauvaise que vous estes le seul de vostre secte.</p>
         <p>Et lors, prenant la harpe, sans attendre la responce de Corilas, il chanta tels vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">STANCES</head>
-        <h3>De l’inconstance.</h3>
-        <milestone type="space"/>
+        <p>De l’inconstance.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Avant qu’une amitié desplaise à sa compagne,</p>
         <p>II faut cercher ailleurs de nouvelles amours:</p>
         <p>Que s’il ne vous advient de mieux trouver tousjours,</p>
         <p>Celuy n’est pas marchand qui ne perd et ne gagne.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Et si ce que l’on cherche à l’abord ne se monstre,</p>
         <p>II ne faui pour cela s’en aller despitant;</p>
         <p>Le fondeur ne rompt pas le moulle au mesme instant</p>
         <p>Que son essay premier a mauvaise rencontre.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais quand nous aurons faict quelque fascheuse prise,</p>
         <p>Changeons-la de bonne heure, et nous en deffaisons;</p>
         <p>Voyez-vous ces marchands qui vivent par raison,</p>
         <p>Comme ils offrent devant la pire marchandise!</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ce qui nous rend prudens, n’est-ce l’experience?</p>
         <p>L’experience n’est que d’avoir espreuvé</p>
         <p>Cent diverses humeurs, et s’estre conservé.</p>
         <p>Ce qui nous rend prudens, c’est doncques l’inconstance.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Que j’estime l’amour que tout plaisir emporte</p>
         <p>Sur le premier object qui luy tente les yeux;</p>
         <p>La riviere qui court et passe en divers lieux</p>
         <p>Contente beaucoup plus que non pas une eau morte.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ceux qui d’estre constans se donnent la louange,</p>
         <p>S’ils aiment longuement, sont eux-mesme inconstans;</p>
         <p>En laideur la beauté se change par le temps,</p>
         <p>Et qui l’aime changée, il faut aussi qu’il change.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Car sçavez-vous que c’est, qu’une beauté passée?</p>
         <p>C’est un foyer qui chaud a d’auirefois esté,</p>
         <p>Un grand hyver qui suit apres un grand esté,</p>
         <p>Bref une eau qui bouillante est à la fin glacée.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Phillis qui ne pouvoit souffrir que Hylas s’en allast sans
         responce: II me semble, dit-elle, Silvandre, que vous et moy
         avons grande raison de respondre à cet inconstant berger, puis
@@ -401,118 +401,118 @@
         <p>Et à ce mot, joignant la voix au son de la harpe, il
         commença de ceste sorte, Silvandre luy respondant couplet par couplet au son de sa musette.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">DIALOGUE</head>
-        <h3>Hylas et Silvandre.</h3>
-        <milestone type="space"/>
+        <p>Hylas et Silvandre.</p>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Mon amour est un feu, son ardeur luy demeure</p>
         <p>Autant qu’il trouve object propre à l’entretenir;</p>
         <p>L’object, c’est mon plaisir qui ne voudra qu’il meure,</p>
         <p>Que mon plaisir jamais il ne laisse finir.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Mon amour est un feu, son ardeur luy demeure</p>
         <p>Autant qu’il trouve object propre à l’entretenir.</p>
         <p>L’object, c’est la vertu. Que la vertu ne meure,</p>
         <p>Et jamais mon amour on ne verra finir. <pb n="231"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Quand j’ayme, en mon amour je suis du tout extreme,</p>
         <p>Et voilà cet amour ne dure longuement.</p>
         <p>Mais la raison le veut, tout excez vehement</p>
         <p>Ne peut durer long-temps, sans se changer soy-mesme.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Quand j’ayme, en mon amour je suis du tout extreme,</p>
         <p>Et voilà cet amour dure eternellement;</p>
         <p>Car la perfecfion ne craint le changement;</p>
         <p>Plus l’amant est parfaict, plus ardamment il aime.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Fy de ces amitiez si longuement gardées.</p>
         <p>Est-il rien de plus doux qu’une jeune beauté?</p>
         <p>Mais qu’a l’amant vieilly dedans sa loyauté,</p>
         <p>Que des rances amours, que des beautez ridées?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Fy de ces amitiez mortes plustost que nées.</p>
         <p>Est-il rien de plus doux qu’une constante amour?</p>
         <p>Si l’amour est un bien, qui n’en jouyt qu’un jour,</p>
         <p>Le doit bien regretter par des siecles d’années.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Mais voyez ces amans que l’on nomme fideles,</p>
         <p>Ne sont-ce point plustost des esprits hebetez?</p>
         <p>Esprits sans point d’esprits qui ne sont arrestez</p>
         <p>Que pour n’oser voler, ou pour n’avoir des aisles. <pb n="232"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Mais voyez ces amans que l’on nomme infideles,</p>
         <p>Esprits qui faits de plume au vent sont emportez!</p>
         <p>Pourquoy les diroit-on, volant de tous costez,</p>
         <p>Estre plustost amans que non pas yrondelles.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Quelle beauté voit-on en ces roses fanées,</p>
         <p>En ces œillets flestris par la longueur du temps?</p>
         <p>Quels plaisirs donneront? quels tristes passe-temps?</p>
         <p>N’estans plus de saison, ces beautez surannées?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Et comment les douceurs seront-elles goustées</p>
         <p>De ces fruicts qui trop verts n’ont goust ny sentiment?</p>
         <p>Et quels plaisirs aussi donneront à l’amant,</p>
         <p>Ces trop vertes beautez qui semblent avortées?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VI</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Le temps consomme tout, rend la beauté moins belle.</p>
         <p>Et n’est-ce estre imprudent d’amoindrir ses plaisirs?</p>
         <p>II faut doncques changer à tous coups nos desirs,</p>
         <p>Pour jouyr à tous coups d’une beauté nouvelle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Le temps rend à la fin toute chose mieux faite.</p>
         <p>Qu’est-ce qui n’a, naissant, quelque imperfection?</p>
         <p>II faut donc demeurer en mesme affection,</p>
         <p>Si nous voulons avoir une amitié parfaicte. <pb n="233"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>VII</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>HYLAS</h4>
         <p>Quoy que ce soit, en moy ne fais point ta retraicte,</p>
         <p>O sotte loyauté qui nous va decevant!</p>
         <p>Si j’aime, mon amour ressemblera le vent</p>
         <p>Qui vit tant qu’il se meut, et meurt quand il s’arreste.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>SILVANDRE</h4>
         <p>Au contraire, en mon cœur viens selon ta coustume,</p>
         <p>O foy, l’heur et l’honneur d’un veritable amant!</p>
         <p>J’estime en fin l’amour comme le diamant,</p>
         <p>D’autant plus qu’il ne craint les marteaux, ny l’enclume.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant que ces bergers chantoient de ceste sorte et que
         le reste de la compagnie estoit attentive à les escouter, Paris qui ne
         vouloit perdre ceste commodité, s’approchant encores davantage de Diane:
@@ -1590,12 +1590,12 @@
         et t’ayant recogneu, je te méprisay’, de sorte qu’avec
         raison l’on te peut donner pour ta devise ce mot:</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <p>DE LOING, QU’EST-CE? DE PRES, RIEN.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>– Mais, dit ‘elle après, en sousriant, s’il est vray que je sois
         inconstante pour t’avoir aymé quelque temps, et ne t’aimer plus
         maintenant, pourquoy ne me dis-tu beaucoup plus constante puis que
@@ -2307,8 +2307,8 @@
         sousriant, que nous remettions ceste affaire à une autre fois
         afin que j’aye un peu plus de temps pour mieux instruire mon juge.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>A ce mot ils furent interrompus par Adamas, qui convia</p>
         <p>Daphnide et les reste de la compagnie d’aller au promenoir,</p>
         <p>puis que la chaleur du jour estant abbatue l’on auroit plus</p>

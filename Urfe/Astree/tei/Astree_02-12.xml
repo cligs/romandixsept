@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DOUZIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Puisqu’il vous plaist, sage Adamas, et vous, grande
         nymphe, d’ouyr la fortune de la belle Eudoxe, vous me permettrez, s’il vous plaist, de
         vous dire comment je l’ay apprise, et par qui je l’ay entendue, afin
@@ -223,10 +223,10 @@
         contrée estoient destinez pour les r’appeller de la mort. Le
         plus vieux, prenant la parole, me respondit ainsi.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE D’EUDOXE, VALENTINIAN ET URSACE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Vostre desir est trop juste, courtois Silvandre, (il avoit
         appris que je m’appellois ainsi), pour ne luy satisfaire. Car il est tres
         raisonnable que vous scachiez à qui vous avez sauvé la
@@ -463,32 +463,32 @@
         davantage. Je me contentay donc de ceste ouverture pour ce premier
         coup. Et depuis je fis tels vers sur ceste piqueure.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>D’une mousche</h3>
-        <h3>sur les levres de sa Dame endormie.</h3>
-        <milestone type="space"/>
+        <p>D’une mousche</p>
+        <p>sur les levres de sa Dame endormie.</p>
+        <milestone unit="line"/>
         <p>Cependant que madame à l’ombre se repose,</p>
         <p>Et trompe du soleil la trop aspre chaleur,</p>
         <p>Un petit animal volant de fleur en fleur</p>
         <p>Les douceurs va cherchant dont le miel se compose. <pb n="499"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>De fortune sa levre, estant à moitié close,</p>
         <p>La fleur representoit la plus vive en couleur,</p>
         <p>Lors que cest animal, la voyant par malheur,</p>
         <p>Y vole, et la sucçant pensa succer la rose.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ah! trop sage au faillir! trop heureux à l’oser!</p>
         <p>Puis qu’à ta hardiesse on n’a sceu refuser</p>
         <p>Ce qu’on nye aux desirs dont mon ame s’allume.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais ceste mousche, Amour, ravit tout nostre bien,</p>
         <p>Que nous reste-t’il plus, puis qu’elle a rendu sien</p>
         <p>Le miel dont s’adoucit toute nostre amertume!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je serois ennuyeux, ô courtois Silvandre, si je vous
         racontois par le menu le commencement et le progrez de mon affection. Je vous diray
         donques seulement ce qui sera plus necessaire que vous sçachiez.
@@ -657,31 +657,31 @@
         des vers sur ce sujet que je chantay devant elle, à la premiere
         occasion qui se presenta. Ils estoient tels:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Sur le départ d’un rival</h3>
-        <milestone type="space"/>
+        <p>Sur le départ d’un rival</p>
+        <milestone unit="line"/>
         <p>Jamais contre les rocs tant de flots amassez,</p>
         <p>Escumant de courroux, n’on blanchi les rivages; <pb n="504"/></p>
         <p>Jamais les bancs couverts n’ont veu tant de naufrages</p>
         <p>Que cest esloignement m’a d’ennuys effacez.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bien-heureux souvenirs de mes soupçons passez,</p>
         <p>Maintenant de mon heur asseurez tesmoignages,</p>
         <p>Qu’il est doux au nocher apres de grands orages</p>
         <p>De voir dedans un port ses navires cassez!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Blessé de froide peur dedans la fantaisie,</p>
         <p>J’ay tremblé mille fois atteint de jalousie,</p>
         <p>Mais en fin son despart m’a du tout rendu sain.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Heureux esloignement, puisse-tu tousjours estre!</p>
         <p>Ou bien s’il s‘en revient, Amour, fay luy paroistre</p>
         <p>Qu’à son dam il partit, et qu’il retourne en vain.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Je ne vous diray point en ce lieu quel fut le voyage de
         Valentinian, car vous le pouvez avoir entendu par plusieurs. Tant y a qu’apres
         avoir mis tel ordre aux affaires d’Occident, qu’il jugea estre à
@@ -988,31 +988,31 @@
         Et ne pouvant demeurer plus long-temps aupres d’elle, je partis, et
         m’en vins trouver Aetius, et fis tels vers sur ce suject.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Sur un a-dieu.</h3>
-        <milestone type="space"/>
+        <p>Sur un a-dieu.</p>
+        <milestone unit="line"/>
         <p>J’estois pour mon malheur prest à partir des lieux</p>
         <p>Où dans le sein d’autruy je me laissay moy-mesme, <pb n="513"/></p>
         <p>Lors que plein de regret en mes derniers a-dieux</p>
         <p>J’allois contre l’Amour proferant ce blaspheme:</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Doncques, cruel Amour, si tu faits qu’elle m’aime,</p>
         <p>Et que je l’ayme aussi cent fois plus que mes yeux,</p>
         <p>C’est seulement à fin qu’un regret plus extreme</p>
         <p>Nous blesse l’un et l’autre, et nous offence mieux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais quand je pris congé: Souvien-toy, me dit-elle,</p>
         <p>De revenir bien tost, et de m’estre fidelle.</p>
         <p>0 tourment bien-heureux guery si doucement!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Content en mon malheur, je fus contraint de dire:</p>
         <p>Je cognois qu’on peut estre heureux mesme au tourment</p>
         <p>Et que le bien d’amour surpasse son martyre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cependant Valentinian qui estoit infiniment amoureux de la
         sage Isidore, continuoit sa recherche, mais avec toute sorte de discretion,
         et pensant que le refus qu’elle faisoit de luy, ne luy procedoit que de
@@ -1532,11 +1532,11 @@
         fait. Je me ressouviendray toute ma vie de la lettre que je receus d’elle
         apres ceste grande bataille. Elle estoit telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’EUDOXE</head>
-        <h3>A URSACE</h3>
-        <milestone type="space"/>
+        <p>A URSACE</p>
+        <milestone unit="line"/>
         <p>II n’appartient
         qu’à mon chevalier d’estonner ses ennemis de son bras,
         et ses amis de son courage. Avoir relevé deux fois l’Aigle Romaine
@@ -1550,9 +1550,9 @@
         venez rendre conte quand Ætius laissera I’armée, afin que, comme vous
         avez participé à ses peines et à ses dangers, vous ayez part aussi à
         I’honneur et à la bonne chere que I’ltalie luy fera, et que je vous prepare.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Durant le temps que j’estois demeuré en
         l’armée, j’avois fait amitié
         fort particuliere avec un jeune chevalier Romain nommé Olimbre:
@@ -2083,11 +2083,11 @@
         et que nous estions presque en doute qu’il n’y eust du consentement de
         cette princesse, je receus une de ses lettres qui fut telle.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">LETTRE D’EUDOXE</head>
-        <h3>A URSACE</h3>
-        <milestone type="space"/>
+        <p>A URSACE</p>
+        <milestone unit="line"/>
         <p>Si Eudoxe n’est
         miserable, il n’y en eut jamais au monde. Je
         suis entre les mains d’un tyran, qui me force à des injustes nopces.
@@ -2100,9 +2100,9 @@
         tant injustement des vostres, et que particulierement j’en auray de vous
         accuser de faute d’affection, si vous ne me tenez mieux parole pue
         je ne la vous tiens, puis que le desastre le veut ainsi.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Que n’eussé-je point entrepris, si la force eust
         esgalé ma volonté, ou seulement si mes blesseures me l’eussent permis! Mais, helas!
         j’estois en estat que malaisément eussd-je peu faire mal
@@ -2586,19 +2586,19 @@
         peussent en mieux, juger, et que la requeste devoit estre telle.</p>
         <p><pb n="554"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">REQUESTE</head>
-        <h3>Qui se presente au conseil des six cens, demandant le poison.</h3>
-        <milestone type="space"/>
+        <p>Qui se presente au conseil des six cens, demandant le poison.</p>
+        <milestone unit="line"/>
         <p>Le souverain Conseil des six cens est requis
         d’accorder au suppliant le favorable soulagement des miseres humaines, en vertu des sages
         et genereuses loix des.ïMassiliens, ordonnez juges en terre entre la
         fortune et les hommes. Et pour Cest effet luy soit donné jour four
         desduire ses raisons pardevant eux. Ainsi se conserve et s’augmente leur grandeur.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ils m’en demanderent coppie, afin de n’y point fallir, et
         la leur ayant promise, je continuay: Apres, leur dis-je, on vous
         assignera le jour, et devant eux vous deduirez les occasions qui vous
@@ -2627,10 +2627,10 @@
         qu’ils avoient de vouloir mourir, Ursace parla briesvement de
         ceste sorte. <pb n="555"/></p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">DEMANDE D’URSACE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je veux mourir, seigneurs Massiliens, par ce que la vie
         m’est des-agreable, inutile et honteuse. Des-agreable, d’autant
         qu’aymé et amant d’une tres-belle et tres-vertueuse dame, elle m’a esté
@@ -2645,18 +2645,18 @@
         que vous ne refusez point aux miserables, et croyez que vous ne
         I’accorderez jamais à personne plus afligée, ny qui le
         desire davantage.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ursace parla de ceste sorte, qui fit tourner les yeux de
         chacun sur luy, admirant sa constance et la fermeté de sa parole, car
         jamais il ne changea de voix ny de couleur. Et peu apres Olimbre
         se descouvrant, la teste, dit ainsi.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">DEMANDE D’OLIMBRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je veux mourir, seigneurs Massiliens, pour les mesmes raisons
         que mon amy vous a desduites, parce que, comme luy, j’ay perdu
         celle que j’aymois, et de plus, parce que je vois qu’il veut mourir.
@@ -2672,9 +2672,9 @@
         que le Ciel vous a establis pour le soulagement des affligez, ne m’en
         refusez point le remede, afin de ne contrevenir à vos loix et
         ordonnances, que par tant de siecles vous avez jugées si justes et si sainctes. <pb n="556"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Chacun certes admira la resolution de cet amy, et
         n’y eut celuy qui ne desirast d’estre le tiers, pour participer au
         bon-heur d’une telle amitié. Le conseil cependant, apres avoir
@@ -2695,11 +2695,11 @@
         recueillies par le principal, et s’estant remis en sa place, il profera
         d’une voix grave et assez haute, telles parolles.</p>
     </div>
-    <div class="contentli">
-        <milestone type="space"/>
+    <div type="contentli">
+        <milestone unit="line"/>
         <head type="chapitre">JUGEMENT</head>
-        <h3>Du conseil des six cens.</h3>
-        <milestone type="space"/>
+        <p>Du conseil des six cens.</p>
+        <milestone unit="line"/>
         <p>Sur les requestes à nous presentées par
         ces deux suppliants pour obtenir le soulagement des miseres humaines. Le Conseil ordonne,
         avant qu’accorder la premiere, que le suppliant aura permission
@@ -2710,9 +2710,9 @@
         I’amant ne doit pas vivre pour soy, mais pour la personne aymée,
         et par consequent ne peut ny ne doit disposer de sa vie, sans la
         permission de celuy à qui elle est.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>O Dieu! s’escria Ursace, ayant ouy ceste ordonnance,
         combien ay-je encores à passer de tristes jours, et de fascheuses nuicts!
         Et faisant une grande reverence à ces seigneurs, il sortit du <pb n="557"/> Conseil, si
@@ -2811,10 +2811,10 @@
         privé de quelque heur qui peust arriver aux hommes, mesme apres
         leur mort. Sur son tombeau, à la requeste de ses sages et honnestes filles, je fis ces vers.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">EPITAPHE D’UN HOMME HEUREUX</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Enfantchery de tous, nourry de pere et mere,</p>
         <p>Jeune sans point de peine, etsans mauvaises mœurs,</p>
         <p>Puis homme, j’ay vescu, sans fortune contraire,</p>
@@ -2822,9 +2822,9 @@
         <p>C’est que la mort à tous est chose necessaire.</p>
         <p>Passant, ne trouble point maintenant, mon repos,</p>
         <p>Et toy, terre, à jamais sois legere à mes os.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Quelques jours apres, Olimbre renvoya en Italie tous ses
         domestiques et ceux d’Ursace, et mesmes les deux filles du bon mire
         ausquelles il fit de grands biens. Et prenant d’autres serviteurs,
@@ -3033,7 +3033,7 @@
         qu’elles ne fussent ouyes. De ceste sorte ceste belle troupe se retiroit au
         petit pas, et apres chacun se separa en sa cabane, apres avoir <pb n="565"/></p>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>fait resolution d’aller le troisieme jour visiter Adamas et la belle</p>
         <p>Alexis: terme qu’Astrée trouvoit fort long et ennuieux</p>
         <p>pour l’extreme desir qu’elle avoit de voir le visage</p>
@@ -3044,10 +3044,10 @@
         <p>en leur puissance, s’il ne leur</p>
         <p>eust permis de le sçavoir</p>
         <p>recognoistre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <head type="partie">FIN</head>
         <head type="partie">DE LA SECONDE PARTIE</head>
         <head type="partie">D’A S T R É E.</head>

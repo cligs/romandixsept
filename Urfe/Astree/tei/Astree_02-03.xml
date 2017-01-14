@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE TROISIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Lors que Silvandre s’endormit, la nuict estoit desja tant
         advancée, qu’il ne s’esveilla que le soleil ne fust fort haut.
         Et au contraire, le berger, qui la nuict avoit discouru avec le druide,
@@ -607,14 +607,14 @@
         voyons ce qu’il y a dedans; peut-estre y apprendrons-nous
         d’avantage. Et lors, la desployant, elles virent qu’elle estoit telle.</p>
     </div>
-    <div class="contentc">
-        <milestone type="space"/>
+    <div type="contentc">
+        <milestone unit="line"/>
         <p>A la plus aymée et plus belle bergere de l’univers,</p>
         <p>le plus infortuné et plus fidelle de ses serviteurs</p>
         <p>envoye le salut que la fortune luy denie.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentli">
+    <div type="contentli">
         <p>Mon extreme affection ne
         consentira jamais que je donne le nom de peine
         et de supplice à ce que vostre commandement m’a faict ressentir
@@ -629,9 +629,9 @@
         les champs Elysées pour le moins, et les ames bien-heureuses qui
         y sont, recognoissent que je suis le plus fidelle, comme le plus
         infortuné de vos serviteurs.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Ah! ma sœur, interrompit Astrée, que c’est bien
         Celadon, qui a escrit ces paroles! je le recognois à la
         façon d’escrire et de parler; mais y a-t’il long
@@ -663,17 +663,17 @@
         toutes ses pensées vers elle. Et pour mieux faire entendre cette
         conception, il y adjousta ces vers:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>L’esguille du quadran cherche la tramontane,</p>
         <p>Touchée avec l’aimant:</p>
         <p>Mon cœur aussi, touché des beautez de Diane,</p>
         <p>La cherche incessammment.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Lors qu’elle l’aborda, il parachevoit d’y graver les
         chiffres, et la voyant venir, s’en alla tout joyeux vers elle, en luy disant: Quel
         bon-heur est celuy qui vous ameine vers moy, ma belle maistresse? – Il
@@ -1090,17 +1090,17 @@
         d’autant que la chanson estoit presque finie, ils
         n’ouirent que ce dernier couplet:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quoy? vous ay-je offencée,</p>
         <p>D’effect, ou de pensé?</p>
         <p>D’effect, il ne peut estre,</p>
         <p>Si mon penser l’a fait, il est un traistre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Cette bergere avoit la voix si douce, que toute la troupe
         survenue fut
         bien marrie qu’elle eust si tost achevé. Mais Hylas, qui avoit
@@ -1117,51 +1117,51 @@
         <p>Et lors, prenant une harpe que ces bergeres avoient, il chanta sur cest instrument de ceste sorte:</p>
     </div>
 
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">CHANSON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <h4>I</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Quand Hylas apperceut les yeux</p>
         <p>De Phillis sa belle maistresse:</p>
         <p>Voit-on encore telle déesse Ailleurs,</p>
         <p>dit-il, que dans les cieux?</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>II</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Phillis d’un esclat rougissant</p>
         <p>Oyant ces mots devint plus belle:</p>
         <p>En vain cette beauté nouvelle</p>
         <p>Rend, dit-il, vostre œil plus puissant.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>III</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle d’un gracieux sousris</p>
         <p>Recevant cette flatterie:</p>
         <p>Cessez, luy dit-il, je vous prie,</p>
         <p>C’est faict, enfin Hylas est pris.</p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>IV</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>– Mais s’il plaint, dit-elle à l’instant,</p>
         <p>Sa liberté, qu’il la repreine.</p>
         <p>– Vous estes, dit-il, moins humaine</p>
         <p>En pardonnant qu’en surmontant. <pb n="110"/></p>
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <h4>V</h4>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Lien trop aymable et trop cher</p>
         <p>Dont le captif craint qu’on le lasche:</p>
         <p>Heureux amant, puis quil te fache</p>
         <p>Quand tu vois qu’on te veut lascher!</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Il sembloit que ces estrangers attendissent avec
         impatience la fin de Geste chanson pour demander qui estoit Phillis et Hylas. – Si vous avez
         quelquesfois ouy parler de cette plaine de Forests, respondit Paris, et
@@ -1180,10 +1180,10 @@
         conditions, nous les avons autresfois apprises à nos despens. Et
         apres s’estre teue quelque temps, elle reprit de cette sorte:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HISTOIRE DE PALINICE ET DE CIRCENE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Je ne trouveray jamais estrange, gentil berger, tant que
         j’auray memoire de Hylas, d’ouyr dire que la plus part des choses consiste en
         l’opinion, puis que n’y ayant rien de si contraire que le vice et la
@@ -1299,31 +1299,31 @@
         peu prendre garde au bruit que fit Hylas en ouvrant la porte et en entrant.</p>
         <p>Et de fortune il parloit alors si haut que Hylas peut ouyr ces paroles.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>IL PARLE AU VENT</h3>
-        <milestone type="space"/>
+        <p>IL PARLE AU VENT</p>
+        <milestone unit="line"/>
         <p>Doux Zephir que je. vois errer folatrement</p>
         <p>Entre les crins aigus de ces plantes hautaines.</p>
         <p>Et qui pillant des fleurs les plus douces haleines.</p>
         <p>Avec ce beau larcin vas tout l’air parfumant.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si jamais la pitié te donna mouvement,</p>
         <p>Oublie en ma faveur icy tes douces peines,</p>
         <p>Et t’en va dans le sein de ces heureuses plaines.</p>
         <p>Où mon malheur retient tout mon contentement. <pb n="114"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Va, mais porte avec toy les amoureuses plaintes</p>
         <p>Que parmy ces foresis fay tristement empraintes,</p>
         <p>Seul et dernier plaisir entre mes desplaisirs.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Là tu pourras trouver sur des levres jumelles</p>
         <p>Des odeurs et des fleurs plus douces et plus belles:</p>
         <p>Mais rapporte-les moy pour nourrir mes desirs.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>– Je vous y prends, Clorian (dit Hylas, luy jettant les
         bras au col, et le baisant à la joue) je confesse que vous estes le plus secret
         amoureux qui fut jamais, mais si ne pouvez vous plus vous cacher
@@ -1402,17 +1402,17 @@
         faite? Escoutez ce qu’en dit ce grand oracle, qui de nostre temps a
         parlé delà les Alpes.</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">MADRIGAL</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Elle fuit, et fuyant elle veut qu’on attaigne:</p>
         <p>Refuse, et refusant veut qu’on l’ait par effort:</p>
         <p>Combat, et combattant veut qu’on soit le plus fort:</p>
         <p>Car ainsi son honneur ordonne qu’elle feigne.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Celuy qui n’a pas le courage de vivre de cette sorte,
         conseillez-luy seulement qu’il prenne un autre mestier que celuy d’amour, car il n’y
         fera jamais son profit. Je veux donc conclure, que non seulement vous

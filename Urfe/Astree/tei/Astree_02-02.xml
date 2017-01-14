@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/cligs/reference/master/tei/standard/cligs.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -19,7 +19,7 @@
                 </respStmt>
             </titleStmt>
             <publicationStmt>
-                <availability status="publicdomain">
+                <availability status="free">
                 </availability>
                 <date>2016</date>
             </publicationStmt>
@@ -42,7 +42,7 @@
 <div>
         <head type="partie">LA SECONDE PARTIE D’ASTRÉE</head>
         <head type="chapitre">LE DEUXIESME LIVRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Ainsi paracheva Thamire de raconter ce que la nymphe
         Leonide avoit desiré sçavoir, et s’estant teu pour quelque temps: Or,
         madame, continua-t’il, nous nous sommes de fortune rencontrez au
@@ -115,10 +115,10 @@
         <p> Le berger alors se relevant, apres avoir fait une grande
         reverence, prit la parole de ceste sorte.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">HARANGUE DU BERGER CALIDON</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Amour, grand dieu qui par ta puissance m’as ravy toute
         celle que la raison souloit avoir sur ma volonté, escoute la suplication
@@ -487,10 +487,10 @@
         cause que le berger se remettant en sa place, Celidée par le
         commandement de la nymphe, rougissant d’une honneste honte, print ainsi la prole:</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">RESPONSE DE LA BERGERE CELIDÉE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Je suis si peu accoustumée, grande nymphe, à
         parler du subjet qui se presente, et mesme en si bonne compagnie, que vous ne
@@ -862,10 +862,10 @@
         fut cause que Leonide commanda à Thamire de dire ses raisons,
         à quoy satisfaisant, il commença de parler ainsi.</p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">RESPONCE DU BERGER THAMIRE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>A ce que je vois, grande nymphe, il m’est advenu comme
         à celuy qui forge et trempe avec une grande peine le fer qu’un autre luy met
@@ -1124,10 +1124,10 @@
         chacun se fut remis en sa place, elle prononça son jugement de
         telle sorte. <pb n="72"/></p>
 
-        <milestone type="space"/>
-        <milestone type="space"/>
+        <milestone unit="line"/>
+        <milestone unit="line"/>
         <head type="chapitre">JUGEMENT DE LA NYMPHE LEONIDE</head>
-        <milestone type="space"/>
+        <milestone unit="line"/>
 
         <p>Trois choses se presentent à nos yeux sur le
         differend de Celidée, Thamire et Calidon: la premiere, l’amour; la
@@ -1231,31 +1231,31 @@
         les cieux. L’ayant donc adorée, et sa bergere en elle, il se
         releva, et tenant les yeux haussez vers elle, il luy parla de ceste sorte:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>RAPPORT DE DIANE A LA LUNE</h3>
-        <milestone type="space"/>
+        <p>RAPPORT DE DIANE A LA LUNE</p>
+        <milestone unit="line"/>
         <p>Bel astre flamboyant, qui dans un ciel serain</p>
         <p>Esclairez de la nuict le visage effroyable,</p>
         <p>Ne vous offencez point, si je vous dis semblable</p>
         <p>A la belle qui tient mon cœur dedans sa main.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Comme vous chastement elle s’arme le sein</p>
         <p>De tant de cruautez qu’elle est redoutable,</p>
         <p>Et quiconque la voit, Acteon miserable,</p>
         <p>Devoré de desirs, va l’appellant en vain <pb n="75"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Tous les feux de la nuict vous cedent en lumiere,</p>
         <p>Et des belles Diane est tousjours la premiere.</p>
         <p>Rien ne trompe vos coups, rien n’esvite ses yeux.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Bref, vous vous ressemblez; non, elle est plus cruelle,</p>
         <p>Car un Endimion vous fit laisser les cieux,</p>
         <p>Mais nul Endimion ne se trouve pour elle.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>O dieux, s’escria-t’il alors, et que sera-ce donc de toy,
         Silvandre, puis qu’il n’y a point d’Endimion pour elle? Seroit-il
         possible que la nature qui s’est pleue en cest ouvrage, si jamais de tous ceux
@@ -1273,32 +1273,32 @@
         <p>Ceste pensée l’arresta si court, qu’en cessant de
         marcher, apres l’avoir long temps roulée dans son esprit, il profera telles paroles:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <head type="chapitre">SONNET</head>
-        <h3>Qu’il n’y a consideration</h3>
-        <h3>qui l’empesche d’aymer sa maistresse.</h3>
-        <milestone type="space"/>
+        <p>Qu’il n’y a consideration</p>
+        <p>qui l’empesche d’aymer sa maistresse.</p>
+        <milestone unit="line"/>
         <p>Mon penser, hé pourquoy me viens-tu figurer</p>
         <p>Qu’il ne faut que je l’aime, et qu’elle est pour un autre?</p>
         <p>Si c’est pour un mortel, ne peut-elle estre nostre?</p>
         <p>Et si c’est pour un dieu, ne la puis-je adorer?</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Si c’est pour un mortel, qui sçauroit mesurer,</p>
         <p>Entre tous les mortels, son amour à ma flame?</p>
         <p>Et si c’est pour un dieu, se peut-il voir une ame,</p>
         <p>Qui d’un zele plus sainct la puisse reverer? <pb n="76"/></p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>Mais que nous vaut cela, si ceste ame cruelle</p>
         <p>Ne daigne regarder ceux qui meurent pour elle?</p>
         <p>L’amour ou la raison la forceront un jour.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
         <p>En fin elle aymera, puis que nul ne l’esvite:</p>
         <p>Que si c’est par raison, gagnons-la par merite,</p>
         <p>Et si c’est par amour, gagnons-la par amour.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>La lune alors, comme si c’eust esté pour le
         convier à demeurer davantage en ce lieu, sembla s’allumer d’une nouvelle
         clarté. Et parce qu’avant que de partir, il avoit mis son
@@ -1327,12 +1327,12 @@
         qu’elle pense estre feintes! Que s’il levoit quelquesfois les
         yeux en haut, considerant la Lune, il s’escrioit:</p>
     </div>
-    <div class="contentci">
-        <milestone type="space"/>
+    <div type="contentci">
+        <milestone unit="line"/>
         <p>La lune au ciel, et ma Diane en terre.</p>
-        <milestone type="space"/>
+        <milestone unit="line"/>
     </div>
-    <div class="contentl">
+    <div type="contentl">
         <p>Le lieu solitaire, le silence, et l’agreable lumiere de
         ceste nuict, eussent esté cause que le berger eust longuement
         continué, et son <pb n="77"/> promenoir, et le doux entretien de
