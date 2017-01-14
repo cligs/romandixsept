@@ -32,45 +32,40 @@
       <sourceDesc>
         <bibl type="digital-source">
           Honoré d’Urfé, L’Astrée (1607 sq), édition numérisée, ed. Reinhard Krüger et al., Version 1.0.0. Stuttgart: Universität Stuttgart, 2006-2010.
-          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"></ref>
+          <ref target="http://www.uni-stuttgart.de/romlit/forschung/astree/"/>
           .
         </bibl>
         <bibl type="print-source">Honoré d’Urfé, L’Astrée, édition en cinq volumes d’Hugues Vaganay. 1925.</bibl>
       </sourceDesc>
     </fileDesc>
     <revisionDesc>
+      <change when="2017-01-14" who="#cf">Improved structure with div and lg.</change>
       <change when="2016-11-21" who="#cf">Initial TEI version.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
       <div>
-        <p></p>
+        <p/>
       </div>
     </front>
     <body>
-      <div>
-        <head type="partie">AU ROY</head>
-        <note>[Dédicace publiée pour la première fois dans la deuxième partie de l’Astrée en 1610.]</note>
-        <milestone unit="line"></milestone>
-        <p>SIRE,</p>
-        <p>Ces Bergers oyans raconter tant de merveilles de <lb></lb>vostre grandeur n’eussent jamais eu la hardiesse de se presenter devant <lb></lb>Vostre Majesté, si je ne les eusse asseurez que ces grands Roys, <lb></lb>dont l’antiquité se vante le plus, ont esté Pasteurs, qui <lb></lb>ont porté la houlette et le Sceptre d’une mesme main. Ceste <lb></lb>consideration, et la connoissance que depuis ils ont euë, que les <lb></lb>plus grandes gloires de ces bons Roys ont esté celles de la paix<lb></lb>et de la justice, avec lesquelles ils ont heureusement conservé <lb></lb>leurs peuples, leur a fait esperer que comme vous les imitiez et les <lb></lb>surpassiez en ce soing paternel, vous ne mespriseriez non plus ces <lb></lb>houlettes, et ces troupeaux qu’ils vous viennent presenter comme <lb></lb>à leur Roy, et Pasteur souverain.
-        </p>
-        <p>
-          Et moy (SIRE) voyant que nos Peres, pour nommer leur <lb></lb>Roy avec plus d’honneur et de respect, ont emprunté des Perses <lb></lb>le mot de SIRE, qui signifie Dieu, pour faire entendre aux autres <lb></lb>nations combien naturellement le François ayme, honore, et <lb></lb>revere son Prince: j’ay pensé que ne leur cedant point en <lb></lb>céte naturelle devotion, puis que les Anciens offroient à <lb></lb>leurs Dieux en action de graces, les choses que les mesmes Dieux <lb></lb>avoient inventées ou produittes pour la conservation de l’estre <lb></lb>ou du bien-estre des hommes, j’estois obligé pour les imiter, <lb></lb>d’offrir ASTRÉE à ce grand Roy, la valeur et la prudence <lb></lb>duquel l’a rappellé du Ciel en terre pour le bon-heur des hommes.
-        </p>
-        <p> <lb></lb>Recevez la donc (SIRE) non pas comme une simple <lb></lb>Bergere, mais comme une œuvre de vos mains: car veritablement on vous <lb></lb>en peut dire l’Autheur, puis que c’est à V.M. à qui toute <lb></lb>l’Europe doit son repos, et sa tranquillité. Puissiez vous <lb></lb>à longues années jouir du bien que vous donnés <lb></lb>à chacun. Vostre regne soit à jamais aussi heureux, que <lb></lb>vous l’avez rendu admirable: Et Dieu vous remplisse d’autant de <lb></lb>contentemens et de gloire, que par vostre bonté vous obligez <lb></lb>tous les peuples qui sont à vous, de vous benir, aimer et <lb></lb>servir. Ce sont (SIRE) les souhaits que je fais pour V.M. attendant que <lb></lb>par l’honneur de vos commandemens je vous puisse rendre quelque <lb></lb>meilleur service, au prix de mon sang et de ma vie, ainsi que la nature <lb></lb>et la volonté m’y obligent, et le tiltre qu’en toute <lb></lb>humilité je prends,
-        </p>
-        <milestone unit="line"></milestone>
-        <p>SIRE,</p>
-        <p>De tres-humble, tres affectionné, et tres-fidelle sujet et serviteur de V.M.</p>
-        <milestone unit="line"></milestone>
-        <p>HONORÉ D’URFÉ.</p>
+      <div type="partie" n="0">
+        <div type="dedicace">
+          <head>AU ROY</head>
+          <note>[Dédicace publiée pour la première fois dans la deuxième partie de l’Astrée en 1610.]</note>
+          <opener><salute>SIRE,</salute></opener>
+          <p>Ces Bergers oyans raconter tant de merveilles de <lb/>vostre grandeur n’eussent jamais eu la hardiesse de se presenter devant <lb/>Vostre Majesté, si je ne les eusse asseurez que ces grands Roys, <lb/>dont l’antiquité se vante le plus, ont esté Pasteurs, qui <lb/>ont porté la houlette et le Sceptre d’une mesme main. Ceste <lb/>consideration, et la connoissance que depuis ils ont euë, que les <lb/>plus grandes gloires de ces bons Roys ont esté celles de la paix<lb/>et de la justice, avec lesquelles ils ont heureusement conservé <lb/>leurs peuples, leur a fait esperer que comme vous les imitiez et les <lb/>surpassiez en ce soing paternel, vous ne mespriseriez non plus ces <lb/>houlettes, et ces troupeaux qu’ils vous viennent presenter comme <lb/>à leur Roy, et Pasteur souverain.</p>
+          <p>Et moy (SIRE) voyant que nos Peres, pour nommer leur <lb/>Roy avec plus d’honneur et de respect, ont emprunté des Perses <lb/>le mot de SIRE, qui signifie Dieu, pour faire entendre aux autres <lb/>nations combien naturellement le François ayme, honore, et <lb/>revere son Prince: j’ay pensé que ne leur cedant point en <lb/>céte naturelle devotion, puis que les Anciens offroient à <lb/>leurs Dieux en action de graces, les choses que les mesmes Dieux <lb/>avoient inventées ou produittes pour la conservation de l’estre <lb/>ou du bien-estre des hommes, j’estois obligé pour les imiter, <lb/>d’offrir ASTRÉE à ce grand Roy, la valeur et la prudence <lb/>duquel l’a rappellé du Ciel en terre pour le bon-heur des hommes.</p>
+          <p>Recevez la donc (SIRE) non pas comme une simple <lb/>Bergere, mais comme une œuvre de vos mains: car veritablement on vous <lb/>en peut dire l’Autheur, puis que c’est à V.M. à qui toute <lb/>l’Europe doit son repos, et sa tranquillité. Puissiez vous <lb/>à longues années jouir du bien que vous donnés <lb/>à chacun. Vostre regne soit à jamais aussi heureux, que <lb/>vous l’avez rendu admirable: Et Dieu vous remplisse d’autant de <lb/>contentemens et de gloire, que par vostre bonté vous obligez <lb/>tous les peuples qui sont à vous, de vous benir, aimer et <lb/>servir. Ce sont (SIRE) les souhaits que je fais pour V.M. attendant que <lb/>par l’honneur de vos commandemens je vous puisse rendre quelque <lb/>meilleur service, au prix de mon sang et de ma vie, ainsi que la nature <lb/>et la volonté m’y obligent, et le tiltre qu’en toute <lb/>humilité je prends,<lb/>SIRE,<lb/></p>
+          <p>De tres-humble, tres affectionné, et tres-fidelle sujet et serviteur de V.M.</p>
+          <closer><signed>HONORÉ D’URFÉ.</signed></closer>
+        </div>
       </div>
     </body>
     <back>
       <div>
-        <p></p>
+        <p/>
       </div>
     </back>
   </text>
